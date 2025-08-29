@@ -1,0 +1,132 @@
+The Eraser Language
+is a language used by the
+Erasers
+, a species which despise the
+Pencils
+, it is an abjad style language, with the exception of /œ/ having its own symbol.
+It uses an SVO system
+Contents
+1
+Symbols
+2
+Words
+2.1
+Cases
+2.2
+Articles
+2.3
+Prounouns
+2.4
+Nouns
+2.5
+Adjectives
+2.6
+Numbers
+2.7
+Interjections
+2.8
+Important words
+Symbols
+[
+]
+Romanisation of Script
+/œ/
+/t/
+/θ/
+/d͡ʒ/
+/r/
+/ɻ/
+/c/
+/q/
+/χ/
+/t͡ʃ/
+/ʟ/
+/ʂ/
+E
+T
+Θ
+J
+RR
+R
+Y
+Q
+X
+C
+L
+S
+Vowel Inference Sheet
+First consonant
+Second consonant
+Plosive/Affricate
+Rhotic
+Fricative
+None/Other
+Plosive/Affricate
+/a/
+/ɯ/
+/i/
+/a/
+Rhotic
+/a/
+/ɯ/
+/ɯ/
+/ɯ/
+Fricative
+/a/
+/i/
+/a/
+/i/
+None/Other
+/ɯ/
+/a/
+/i/
+/ɯ/
+Words
+[
+]
+TX - /taχ/ - Yes/Is
+ET - /œt/ - No/Isn't
+Cases
+[
+]
+-∅ /∅/ - Nominative
+-S /ʂ/ - Accusative
+Articles
+[
+]
+JQ /d͡ʒaq/ - The/That/This/It
+RRTT /rɯθ/ - A/One
+Prounouns
+[
+]
+YS /caʂ/ - I/Me
+CE /t͡ʃœ/ - You
+Nouns
+[
+]
+CLRT /t͡ʃɯʟɯɻɯt/ - person
+LΘC /ʟiθit͡ʃ/ - mouth/speak
+Adjectives
+[
+]
+TL /tɯʟ/ - Good
+QT /qat/ - Bad
+Numbers
+[
+]
+DΘ /daθ/ - One
+LT /ʟiθ/ - Two
+RT /ɻɯt/ - Three
+.Θ /aθ/ - Four
+RRTR /rɯtaɻ/ - Five
+RT. /ɻɯtɯ/ - many/much
+RRTT /rɯtat/ - more
+Interjections
+[
+]
+YΘQ /caθiq/ - "Yafek" / Swear word, means fuck you in english.
+Important words
+[
+]
+LQT /ʟaqat/ - Pencil
+ΘXS /θaχaʂ/ - Eraser

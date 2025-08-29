@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36616,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/08/Sky.png/revision/latest?cb=20210126194405,"{""\n\n"": 1}",1
+36616,1,Field,156,161,internal,https://alldimensions.fandom.com/wiki/The_Field,"{""Field"": 1}",1
+36616,1,Betasms,230,237,internal,https://alldimensions.fandom.com/wiki/Betasm,"{""Betasms"": 1}",1
+36616,1,The Fields,265,275,internal,https://alldimensions.fandom.com/wiki/The_Field,"{""The Fields"": 1}",1
+36616,1,Orbis,277,282,internal,https://alldimensions.fandom.com/wiki/Orbi,"{""Orbis"": 1}",1
+36616,2,the Fields,42,52,internal,https://alldimensions.fandom.com/wiki/The_Field,"{""the Fields"": 1}",1
+36616,3,beings,141,147,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""beings"": 1}",1
+36616,4,voids,10,15,internal,https://alldimensions.fandom.com/wiki/Void,"{""voids"": 1}",1
+36616,4,matter,82,88,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1
+36616,4,Orbis,186,191,internal,https://alldimensions.fandom.com/wiki/Orbi,"{""Orbis"": 1}",1
+36616,5,stars,61,66,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+36616,6,species,11,18,internal,https://alldimensions.fandom.com/wiki/Category:Species,"{""species"": 1}",1

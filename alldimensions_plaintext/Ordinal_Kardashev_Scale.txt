@@ -1,0 +1,83 @@
+The Ordinal Kardashev Scale is a ordinal version of the
+Transversal Kardashev Scale
+. And it works better. It is used to measure how powerful a civilization or
+Cosmic Entity
+is.
+Define a
+Verse
+that has no other verses in it as a Order-0 Verse, such as the
+Universe
+.
+Define a Verse that has Order-0 Verses in it as a Order-1 Verse, such as the
+Multiverse
+.
+Define a Verse that has Order-
+α
+{\displaystyle \alpha}
+Verses in it as a Order-(
+α
++
+1
+{\displaystyle \alpha+1}
+) Verse.
+If a Verse as multiple orders of verses inside it, say it has the most common one.
+Numbers on the scale and what they mean
+[
+]
+1 controls an Order-0 verse.
+α
+{\displaystyle \alpha}
+controls
+α
+{\displaystyle \alpha}
+Order-0 verses.
+ω
+{\displaystyle \omega}
+controls an Order-1 verse.
+α
+ω
+{\displaystyle \alpha \omega}
+controls
+α
+{\displaystyle \alpha}
+Order-1 verses.
+ω
+α
+{\displaystyle \omega^{\alpha}}
+controls an Order-
+α
+{\displaystyle \alpha}
+verse.
+β
+ω
+α
+{\displaystyle \beta \omega^{\alpha}}
+controls
+β
+{\displaystyle \beta}
+Order-
+α
+{\displaystyle \alpha}
+verses.
+You can also add them, like:
+A Civilization or entity with OKS
+2
+ω
+2
++
+4
+ω
++
+7
+{\displaystyle 2 \omega^2 + 4 \omega + 7}
+controls:
+2 Order-2 Verses
+4 other Order-1 Verses not contained in either of the Order-2 Verses
+And 7 Order-0 Verses not contained in any of the above.
+The highest Civilization/Entity in
+Maxywaxy's Hierarchy
+is
+ω
+20
+{\displaystyle \omega^{20}}
+.

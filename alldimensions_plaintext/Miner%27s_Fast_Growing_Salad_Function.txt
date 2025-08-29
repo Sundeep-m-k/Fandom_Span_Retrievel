@@ -1,0 +1,58 @@
+The MFGSF (Miner's Fast Growing Salad Function) is a function  that uses FGH.
+Note: I made this number just keysmashing FGH numbers. That's why it is salad. Leftunknown, as an "expert" in FGH, feel free to make any corrections.
+Formula:
+M
+S
+F
+n
+=
+f
+ϑ
+2
+n
+2
+n
+2
+n
+2
+(
+Ω
+↑
+⋯
+↑
+⏟
+n
+n
+ω
+n
+)
+Ω
+n
+2
+n
+(
+n
+)
+{\displaystyle MSF_{n}=f_{\vartheta^{2n^{2n^{2n^2}}}(\Omega\underbrace{\uparrow\cdots\uparrow}_{n^n}\omega^n)^{\Omega^{n^{2n}}}}(n)}
+The final number, the MFGSN ([...] Salad Number), is
+M
+S
+F
+2147483648
+2147483648
+{\displaystyle MSF^{2147483648}_{2147483648}}
+The upper limit of MFGSN should be about
+f
+ϑ
+(
+Ω
+ω
+)
++
+1
+(
+2
+63
+)
+{\displaystyle f_{\vartheta(\Omega_{\omega})+1}(2^{63})}
+, if this is the case, the MSN function would be comparable to SCG(n)

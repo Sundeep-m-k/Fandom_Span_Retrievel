@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47461,2,universe,32,40,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+47461,2,planet,88,94,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
+47461,2,Earth,95,100,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+47461,2,humanity,105,113,internal,https://alldimensions.fandom.com/wiki/Human,"{""humanity"": 1}",1
+47461,2,cult,146,150,internal,https://alldimensions.fandom.com/wiki/Category:Cult,"{""cult"": 1}",1
+47461,2,"
+
+",284,286,external,https://static.wikia.nocookie.net/alldimensions/images/3/39/Scaryshitlol.png/revision/latest?cb=20250813154209,"{""\n\n"": 1}",1
+47461,2,Multiverse,390,400,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+47461,2,god,580,583,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""god"": 1}",1
+47461,3,beings,291,297,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""beings"": 1}",1
+47461,3,Multiverses,305,316,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverses"": 1}",1

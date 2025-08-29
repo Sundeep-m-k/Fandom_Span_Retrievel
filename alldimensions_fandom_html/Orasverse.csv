@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49933,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/28/Orasverses.png/revision/latest?cb=20250529011415,"{""\n\n"": 1}",1
+49933,1,EUSI,74,78,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+49933,1,Finality Index,83,97,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+49933,1,FOEI,102,106,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+49933,1,Omniverse,285,294,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+49933,1,Mandelbrotverse,307,322,internal,https://alldimensions.fandom.com/wiki/Mandelbrotverse,"{""Mandelbrotverse"": 1}",1
+49933,3,verse,8,13,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+49933,3,Mandelbrotverse,46,61,internal,https://alldimensions.fandom.com/wiki/Mandelbrotverse,"{""Mandelbrotverse"": 1}",1
+49933,7,LUA,298,301,internal,https://alldimensions.fandom.com/wiki/Local_Universal_Alliance,"{""LUA"": 1}",1
+49933,7,Terabithia,305,315,internal,https://alldimensions.fandom.com/wiki/Terabithia,"{""Terabithia"": 1}",1
+49933,7,Petoria,317,324,internal,https://alldimensions.fandom.com/wiki/Petoria,"{""Petoria"": 1}",1

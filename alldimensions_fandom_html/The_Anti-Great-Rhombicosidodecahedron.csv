@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+33542,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cd/Epic_shape_lol.jpg/revision/latest?cb=20200714205553,"{""\n\n"": 1}",1
+33542,1,The Warehouse,171,184,internal,https://alldimensions.fandom.com/wiki/The_Warehouse,"{""The Warehouse"": 1}",1
+33542,1,Mandelbrotverse,186,201,internal,https://alldimensions.fandom.com/wiki/Mandelbrotverse,"{""Mandelbrotverse"": 1}",1
+33542,1,The Box,238,245,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+33542,1,Cetaverse,293,302,internal,https://alldimensions.fandom.com/wiki/Cetaverse,"{""Cetaverse"": 1}",1
+33542,2,Final Box,85,94,internal,https://alldimensions.fandom.com/wiki/The_Final_Box,"{""Final Box"": 1}",1
+33542,2,BOXinfinity,108,119,internal,https://alldimensions.fandom.com/wiki/BOXinfinity,"{""BOXinfinity"": 1}",1

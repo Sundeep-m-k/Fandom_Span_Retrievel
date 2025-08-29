@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40064,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4e/Bloody_Eye.png/revision/latest?cb=20211209184408,"{""\n\n"": 1}",1
+40064,1,Other Worlds,41,53,internal,https://alldimensions.fandom.com/wiki/The_Other_World,"{""Other Worlds"": 1}",1
+40064,1,Painful worlds,103,117,internal,https://alldimensions.fandom.com/wiki/Painful_world,"{""Painful worlds"": 1}",1
+40064,1,Destructive maw,164,179,internal,https://alldimensions.fandom.com/wiki/Destructive_maw,"{""Destructive maw"": 1}",1
+40064,1,The Other Worlds,191,207,internal,https://alldimensions.fandom.com/wiki/The_Other_World,"{""The Other Worlds"": 1}",1
+40064,3,Other Worlds,56,68,internal,https://alldimensions.fandom.com/wiki/The_Other_World,"{""Other Worlds"": 1}",1

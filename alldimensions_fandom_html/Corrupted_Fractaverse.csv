@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+44032,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/22/The_corrupted_one._.png/revision/latest?cb=20230511221850,"{""\n\n"": 1}",1
+44032,2,Stellarverse,58,70,internal,https://alldimensions.fandom.com/wiki/Stellarverse,"{""Stellarverse"": 1}",1
+44032,3,Stellarverse,74,86,internal,https://alldimensions.fandom.com/wiki/Stellarverse,"{""Stellarverse"": 1}",1
+44032,5,earth,170,175,internal,https://alldimensions.fandom.com/wiki/Earth,"{""earth"": 1}",1
+44032,7,Stellarverse,7,19,internal,https://alldimensions.fandom.com/wiki/Stellarverse,"{""Stellarverse"": 1}",1
+44032,9,Stellarverse,24,36,internal,https://alldimensions.fandom.com/wiki/Stellarverse,"{""Stellarverse"": 1}",1

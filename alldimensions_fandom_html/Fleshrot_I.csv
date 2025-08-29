@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49562,3,planet,80,86,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
+49562,3,Universes,257,266,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+49562,4,Idontknow350,135,147,internal,https://alldimensions.fandom.com/wiki/User:Idontknow350,"{""Idontknow350"": 1}",1
+49562,6,Blueprint Particles,132,151,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint Particles"": 1}",1
+49562,164,Episode 3: Confrontation,0,24,internal,https://alldimensions.fandom.com/wiki/Journey_to_the_pork/Confrontation,"{""Episode 3: Confrontation"": 1}",1

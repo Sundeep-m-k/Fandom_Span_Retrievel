@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49006,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/99/Nultiverse.svg/revision/latest?cb=20241130040219,"{""\n\n"": 1}",1
+49006,1,Multiverse,70,80,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+49006,1,Omniverse,82,91,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+49006,1,Nultiverse,103,113,internal,https://alldimensions.fandom.com/wiki/Nultiverse,"{""Nultiverse"": 1}",1
+49006,1,Nultiverse,103,113,internal,https://alldimensions.fandom.com/wiki/Nultiverse,"{""Nultiverse"": 1}",1
+49006,1,Uqraek fiber,335,347,internal,https://alldimensions.fandom.com/wiki/Uqraek_fiber,"{""Uqraek fiber"": 1}",1
+49006,1,Universes,436,445,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+49006,2,Multiverse,53,63,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1

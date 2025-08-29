@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+28326,1,"
+
+",54,56,external,https://static.wikia.nocookie.net/alldimensions/images/0/09/For_wiki.gif/revision/latest?cb=20200514233740,"{""\n\n"": 1}",1
+28326,1,The True Arenas,117,132,internal,https://alldimensions.fandom.com/wiki/The_True_Arena,"{""The True Arenas"": 1}",1
+28326,1,The Bonds,144,153,internal,https://alldimensions.fandom.com/wiki/The_Bond,"{""The Bonds"": 1}",1
+28326,1,Bonds,148,153,internal,https://alldimensions.fandom.com/wiki/The_Bond,"{""Bonds"": 1}",1
+28326,2,Bonds,298,303,internal,https://alldimensions.fandom.com/wiki/The_Bond,"{""Bonds"": 1}",1
+28326,3,creatures,145,154,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""creatures"": 1}",1
+28326,4,cube,53,57,internal,https://alldimensions.fandom.com/wiki/Cube,"{""cube"": 1}",1
+28326,4,octagons,84,92,internal,https://alldimensions.fandom.com/wiki/Polygon#Convex_Polygons,"{""octagons"": 1}",1
+28326,4,triangles,124,133,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangles"": 1}",1

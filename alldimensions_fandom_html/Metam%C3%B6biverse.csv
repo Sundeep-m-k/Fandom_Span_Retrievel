@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35709,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/97/Metam%C3%B6biverse.png/revision/latest?cb=20201107201641,"{""\n\n"": 1}",1
+35709,1,Metahyperchain,53,67,internal,https://alldimensions.fandom.com/wiki/The_Metahyperchain,"{""Metahyperchain"": 1}",1
+35709,1,Torubarrier,79,90,internal,https://alldimensions.fandom.com/wiki/Torubarrier,"{""Torubarrier"": 1}",1
+35709,1,Metamöbiverse,2,15,internal,https://alldimensions.fandom.com/wiki/Metam%C3%B6biverse,"{""Metamöbiverse"": 1}",1
+35709,2,Möbiverses,61,71,internal,https://alldimensions.fandom.com/wiki/M%C3%B6biverse,"{""Möbiverses"": 1}",1
+35709,4,torubarriers,55,67,internal,https://alldimensions.fandom.com/wiki/Torubarrier,"{""torubarriers"": 1}",1

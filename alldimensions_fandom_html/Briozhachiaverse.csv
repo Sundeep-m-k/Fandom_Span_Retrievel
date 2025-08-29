@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+21931,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/bb/9876543fffffff.jpeg/revision/latest?cb=20200309013642,"{""\n\n"": 1}",1
+21931,1,Mayarollies,43,54,internal,https://alldimensions.fandom.com/wiki/Mayarollies,"{""Mayarollies"": 1}",1
+21931,1,Trioctoprverse,225,239,internal,https://alldimensions.fandom.com/wiki/Trioctoprverse,"{""Trioctoprverse"": 1}",1
+21931,1,Mayarollies,43,54,internal,https://alldimensions.fandom.com/wiki/Mayarollies,"{""Mayarollies"": 1}",1
+21931,2,Mayarollies,54,65,internal,https://alldimensions.fandom.com/wiki/Mayarollies,"{""Mayarollies"": 1}",1
+21931,7,The Existences,190,204,internal,https://alldimensions.fandom.com/wiki/The_Existence,"{""The Existences"": 1}",1

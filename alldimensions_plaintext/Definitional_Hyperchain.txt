@@ -1,0 +1,39 @@
+Definitional Hyperchain
+Info About Chain
+Is Infinite?
+Yes
+Desc
+[
+]
+The definitional hyperchain (A Hyperchain is a chain that contains chains), is a Hyperchain that contains chains that contain verses that are definitional (uses logic to be powerful)
+The hyperchain
+[
+]
+# (n)
+name
+table
+1
+Zelim chain
+#
+name
+description
+1
+Zeliverse
+contains everything that doesn’t exist within the definitional hyperchain
+.
+.
+.
+n
+(n)zelim chain
+# (m)
+name
+description
+1
+(n)zeliverse
+contains the entirety of the (n-1)zelim chain
+.
+.
+.
+n
+(n)zeli(m)verse
+contains every verse that surpasses (n)zeli(m-1)verse, including (n)zeli(m-1)verse

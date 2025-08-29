@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35543,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0b/Harry.png/revision/latest?cb=20201016164821,"{""\n\n"": 1}",1
+35543,14,Robert,56,62,internal,https://alldimensions.fandom.com/wiki/Robert,"{""Robert"": 1}",1
+35543,16,Bob,36,39,internal,https://alldimensions.fandom.com/wiki/Bob,"{""Bob"": 1}",1
+35543,20,Sentient Substance,68,86,internal,https://alldimensions.fandom.com/wiki/Sentient_Substance,"{""Sentient Substance"": 1}",1

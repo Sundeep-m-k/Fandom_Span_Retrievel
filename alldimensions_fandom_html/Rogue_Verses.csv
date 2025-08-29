@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42110,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9c/Rougeverse.jpeg/revision/latest?cb=20220704172910,"{""\n\n"": 1}",1
+42110,1,Omniverses,266,276,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverses"": 1}",1
+42110,1,galaxies,702,710,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxies"": 1}",1
+42110,2,protoverse,150,160,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""protoverse"": 1}",1
+42110,3,Omniverse,118,127,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+42110,3,Cantor's Absolute Infinity,149,175,internal,https://alldimensions.fandom.com/wiki/Cantor%27s_Absolute_Infinity,"{""Cantor's Absolute Infinity"": 1}",1
+42110,6,Nothing,194,201,internal,https://alldimensions.fandom.com/wiki/Nothing,"{""Nothing"": 1}",1

@@ -1,0 +1,32 @@
+Blueprint gene of an
+up quark
+Blueprint genes are sets of
+blueprint particles
+that are present within all
+elementary particles
+and dictate their properties. All of the blueprint particles are in a binary state ("on" or "off"). These genes are written in the most efficient binary language logically possible, although nobody yet has been able to decipher this language. The more mass a particle has, the larger its blueprint gene. However, the blueprint gene is not the only place where there are blueprint particles in other particles. They're found within
+Preprimordium Particles
+.
+Mutation
+[
+]
+Blueprint genes are very hard to change, but it is possible to change a blueprint gene by a process called quantum mutation.
+Mutated particles
+will have different properties than their normal counterpart. Here is a list of mutations the particle can get:
+More mass (M+)
+Less mass (M-)
+Positive charge (C2+)
+Negative charge (C2-)
+Stronger charge (C+)
+Weaker charge (C-)
+Charge removal (CZ)
+Positive spin (S2+)
+Negative spin (S2-)
+More spin (S+)
+Less spin (S-)
+Spin removal (SZ)
+Higher lifetime (L+)
+Lower lifetime (L-)
+Complete stability (LΩ)
+More hadron compatibility (H+)
+Less hadron compatibility (H-)

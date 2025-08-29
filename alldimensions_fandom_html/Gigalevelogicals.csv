@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50907,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6e/202GLLV.jpg/revision/latest?cb=20250826181521,"{""\n\n"": 1}",1
+50907,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/12/HVL.jpg/revision/latest?cb=20250826183514,"{""\n\n"": 1}",1
+50907,1,Stageverses,409,420,internal,https://alldimensions.fandom.com/wiki/Stageverse,"{""Stageverses"": 1}",1
+50907,2,verse,31,36,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+50907,3,[1],148,151,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-1,"{""[1]"": 1}",1

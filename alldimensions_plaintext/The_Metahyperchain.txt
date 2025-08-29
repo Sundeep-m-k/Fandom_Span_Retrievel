@@ -1,0 +1,173 @@
+The Metahyperchain
+Natural Position
+Contained by
+Trefoilverse
+Contains
+Metamöbiverse
+, as well as the rest of the hyperchain.
+Scale
+Dimensionality
+ℵ
+1
+Diameter
+ℵ
+1
+Kardashev Scale
+~ℵ
+1
+The Metahyperchain is a hyperchain, that is, it contains infinite chains. It's size is
+comparable
+to
+The Super Space
+in Miner's chain.
+It starts off with the
+Metamöbiverse
+, and because the chain has an infinite number of infinite chains, it doesn't end.
+Contents
+1
+Members of the hyperchain
+1.1
+First Layer
+1.2
+Second Layer
+1.3
+Third Layer
+1.4
+Fourth Layer
+1.5
+Fifth Layer and onward
+2
+Layers of infinity
+Members of the hyperchain
+[
+]
+Here are the members of the chain, in order:
+First Layer
+[
+]
+Metamöbiverse
+Metakleinverse
+Metaonerusverse
+[
+1
+]
+Metahencentroverse
+Metatworusverse
+Metatrirusverse
+...
+Metatorukuverse
+Metatoruchain
+Metaonerukuverse
+Metatworukuverse
+Metatrirukuverse
+...
+Second Layer
+[
+]
+Metametatoriverse
+Metatorubarrier
+Metametamöbiverse
+Metametakleinverse
+Metametaonerusverse
+...
+Metametatorukuverse
+Metametatoruchain
+Metametaonerusverse
+Third Layer
+[
+]
+Metametametatoriverse
+Metametatorubarrier
+Metametametamöbiverse
+...
+Metametametatorukuverse
+Metametametatoruchain
+...
+Fourth Layer
+[
+]
+Metametametametatoriverse
+...
+Metametametametatorukuverse
+...
+Fifth Layer and onward
+[
+]
+Metametametametametatoriverse
+...
+Metametametametametametatoriverse
+...
+...
+Layers of infinity
+[
+]
+In the list of members, you can see that the members are grouped into 'layers'. This isn't a mistake, because second layer and onward, the next metametameta...metametatoriverse is MUCH larger than the last, eventually approaching cardinality
+ℵ
+1
+{\displaystyle \aleph_1}
+, or ordinality
+Ω
+{\displaystyle \Omega}
+.
+Here are some of the sizes for the starts of layers:
+Metamöbiverse:
+ϵ
+1
+{\displaystyle \epsilon_1}
+(this is the one outlier).
+Metametatoriverse:
+ϕ
+(
+1
+,
+0
+,
+0
+)
+{\displaystyle \phi(1,0,0)}
+Metametametatoriverse:
+L
+V
+O
+{\displaystyle LVO}
+or
+ψ
+(
+Ω
+Ω
+Ω
+)
+{\displaystyle \psi(\Omega^{\Omega^{\Omega}})}
+Metametametametatoriverse:
+B
+H
+O
+{\displaystyle BHO}
+or
+ψ
+(
+ϵ
+Ω
++
+1
+)
+{\displaystyle \psi(\epsilon_{\Omega+1})}
+or
+ψ
+(
+Ω
+2
+)
+{\displaystyle \psi(\Omega_2)}
+Metametametametametatoriverse:
+ψ
+(
+I
+)
+{\displaystyle \psi(I)}
+...
+etc.
+↑
+this name for 2 reasons: 1. if it had the name Metatoriverse, it would have the same name as the
+Metatoriverse
+,  and 2. the Metaonerusverse does not have a star, and can be classified as part of the Metatorus Chain.

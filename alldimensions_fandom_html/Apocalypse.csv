@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+37683,1,Universe,50,58,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+37683,1,Multiverse,60,70,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+37683,1,Omniverse,72,81,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1

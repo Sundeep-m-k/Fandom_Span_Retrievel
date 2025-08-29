@@ -1,0 +1,33 @@
+Dualverses are special verses that contain the verse that contains them, and vice versa. Dualverses are extremely rare, with less than 10,000 Dualverses being seen in the entire
+First Realm
+. Dualverses that are linked with each other are known as Dualverse Chains.
+Dualverse Chains can have more than just 2 Dualverses; the number of Dualverses inside a Dualverse Chain can be any real number.
+Contents
+1
+How This Can Happen
+2
+Special Dualverse Chains
+2.1
+Infinitely Looped Dualverse Chains
+2.2
+Partial Dualverse Chains
+How This Can Happen
+[
+]
+A Dualverse and the verse that contains and is contained by it must all be selfverses, verses that contain themselves. The Dualverse, must first contain that verse, with that verse then having itself contain that nested
+A depiction of a Dualverse chain, with the black and white parts each corresponding a nested iteration of the 2 Dualverses
+iteration of the Dualverse. Repeat this infinitely and a true Dualverse can appear.
+Special Dualverse Chains
+[
+]
+Some Dualverse chains have interesting properties, such as having infinite Dualverses inside of them or having partial Dualverses.
+Infinitely Looped Dualverse Chains
+[
+]
+Infinitely Looped Dualverses are a type of Dualverse Chain with an infinite number of Dualverses inside, with each Dualverse containing and being contained by every other Dualverse in the chain. It is impossible to completely guarantee what Dualverse you are going into after you escape the first iteration of the first Dualverse due to the infinite number of them.
+Partial Dualverse Chains
+[
+]
+Partial Dualverse Chains are Dualverse Chains that somehow have a partial Dualverses. Partial Dualverses can be considered
+Arbitraryverses
+due to their undefined attributes and properties, along with the sheer impossibility of such a verse's existence.

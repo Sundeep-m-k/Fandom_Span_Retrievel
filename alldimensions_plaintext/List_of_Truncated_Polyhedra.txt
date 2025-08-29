@@ -1,0 +1,29 @@
+Wider Scope:
+List of Polyhedra by Type
+Truncated polyhedra are
+regular polyhedra
+in which the
+vertices
+have been cut and replaced with additional
+faces
+.
+As the cut becomes deeper, the areas of the new faces become greater and further into the shape and the areas of the remaining faces become smaller. If the "cut" is "deep" enough, the new faces can come out of the other side of the shape, creating quasitruncated shapes.
+Convex
+[
+]
+Truncated Cube
+Convex truncated polyhedra are easy to understand, since they are just the platonic solids with the vertices cut off.
+Truncated Tetrahedron
+Truncated Cube
+Truncated Octahedron
+Truncated Dodecahedron
+Truncated Icosahedron
+Concave
+[
+]
+Concave truncated polyhedra are truncated polyhedra that intersect themselves.
+Truncated Great Dodecahedron
+Truncated Great Icosahedron
+Quasitruncated Hexahedron
+Quasitruncated Small Stellated Dodecahedron
+Quasitruncated Great Stellated Dodecahedron

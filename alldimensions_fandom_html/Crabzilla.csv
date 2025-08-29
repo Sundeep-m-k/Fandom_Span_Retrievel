@@ -1,0 +1,22 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49338,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b3/CrabZillaImageV1.png/revision/latest?cb=20250416140648,"{""\n\n"": 1}",1
+49338,1,planet,49,55,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
+49338,2,cosmic entity,25,38,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""cosmic entity"": 1}",1
+49338,2,planets,78,85,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+49338,2,solar systems,90,103,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""solar systems"": 1}",1
+49338,2,civilizations,135,148,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilizations"": 1}",1
+49338,2,god,175,178,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""god"": 1}",1
+49338,3,Universes,118,127,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+49338,4,universes,223,232,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+49338,5,toxicium,40,48,internal,https://alldimensions.fandom.com/wiki/Toxicium,"{""toxicium"": 1}",1
+49338,5,corruptite,354,364,internal,https://alldimensions.fandom.com/wiki/Corruptite,"{""corruptite"": 1}",1
+49338,6,quantum foam,26,38,internal,https://alldimensions.fandom.com/wiki/String,"{""quantum foam"": 1}",1
+49338,7,atoms,21,26,internal,https://alldimensions.fandom.com/wiki/Atom,"{""atoms"": 1}",1
+49338,7,cube,75,79,internal,https://alldimensions.fandom.com/wiki/Cube,"{""cube"": 1}",1
+49338,7,electrons,102,111,internal,https://alldimensions.fandom.com/wiki/Electron,"{""electrons"": 1}",1
+49338,7,black dwarfs,135,147,internal,https://alldimensions.fandom.com/wiki/Black_Dwarf,"{""black dwarfs"": 1}",1
+49338,10,Earth,345,350,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+49338,11,planets,53,60,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+49338,11,stars,65,70,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1

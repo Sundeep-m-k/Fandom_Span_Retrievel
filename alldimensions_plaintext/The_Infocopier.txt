@@ -1,0 +1,43 @@
+The Infocopier
+Scale
+Size
+Can grow to whatever size Alphasm tells it to, default size is 1/1,000,000 of The Core of Everything if Alphasm tells it to “switch to default size”. Alphasm also can change the default size at will.
+Dimensionality
+All dimensions
+Kardashev Scale
+N/A
+Properties
+Temperature
+100 farenheight
+Life Percentage
+0
+Shape
+Usually a Fractal, but can be whatever Alphasm wants
+Position
+Contained by:
+The Core of Everything
+The Infocopier is a special part of
+The Core of Everything
+used to copy all information of any verse at any point in time. The Infocopier has been used to "time-freeze" verses and has given many civilizations valuable information.
+Structure
+[
+]
+The Infocopier has a fractal structure, with each layer processing a specific property of the verse that it is copying the information from. A singularity at the center of this fractal stores the actual information.
+The Singularity
+[
+]
+The Singularity, being a Singularity, has all the properties of a Singularity. If you go inside it without the effects of a singularity stopping you (spacetime is gone near it because it has the same properties as a black hole because black holes are singularities), you will be teleported to a random location outside of The Core of Everything but inside Alphasm’s mind. It won’t teleport you anywhere dangerous.
+Process
+[
+]
+The Infocopier, in order to copy a verse's information at a given point in time, has to go through a process.
+Here are the steps:
+The Infocopier will find a verse to copy.
+The Infocopier will lock the verse at a specific time coordinate.
+The Infocopier will then copy all of its attributes in each layer of its fractal structure.
+The Infocopier will then store all of these properties at its center, in which it then can display all of this information in digital or physical format.
+These steps take less than
+0
+Ω
+{\displaystyle \frac {0} {\Omega}}
+seconds to execute.

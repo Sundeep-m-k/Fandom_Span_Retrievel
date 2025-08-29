@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+33986,1,Puffians,73,81,internal,https://alldimensions.fandom.com/wiki/Zoid#Puffian_.28Zee-ee-an_-_Light-body-smart.29,"{""Puffians"": 1}",1
+33986,1,Puff-Glyph,130,140,internal,https://alldimensions.fandom.com/wiki/Puff-Glyph,"{""Puff-Glyph"": 1}",1
+33986,1,Puffians,73,81,internal,https://alldimensions.fandom.com/wiki/Zoid#Puffian_.28Zee-ee-an_-_Light-body-smart.29,"{""Puffians"": 1}",1
+33986,45,Primordium Delta,11,27,internal,https://alldimensions.fandom.com/wiki/Primordium_Delta,"{""Primordium Delta"": 1}",1
+33986,46,Primordium Alpha,11,27,internal,https://alldimensions.fandom.com/wiki/Primordium_Alpha,"{""Primordium Alpha"": 1}",1
+33986,47,Primordium Sigma,11,27,internal,https://alldimensions.fandom.com/wiki/Primordium_Sigma,"{""Primordium Sigma"": 1}",1
+33986,48,Primordium Omega,12,28,internal,https://alldimensions.fandom.com/wiki/Primordium_Omega,"{""Primordium Omega"": 1}",1

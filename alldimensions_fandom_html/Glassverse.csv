@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+8979,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fb/Glassverse.png/revision/latest?cb=20180928113806,"{""\n\n"": 1}",1
+8979,1,Glasscosmoses,50,63,internal,https://alldimensions.fandom.com/wiki/Glasscosmos,"{""Glasscosmoses"": 1}",1
+8979,1,Xenoverses,75,85,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverses"": 1}",1
+8979,1,verse,7,12,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+8979,1,Xenoverses,75,85,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverses"": 1}",1
+8979,3,voids,239,244,internal,https://alldimensions.fandom.com/wiki/Void,"{""voids"": 1}",1

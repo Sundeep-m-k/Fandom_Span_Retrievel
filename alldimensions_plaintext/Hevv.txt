@@ -1,0 +1,52 @@
+Hevv
+Blue Hevv.
+Natural Position
+Contained by
+The dentists
+Contains
+Hekcs
+Scale
+Dimensionality
+∅
+Diameter
+∅, below a
+dentist
+Kardashev Scale
+∅
+Hevvs
+are another small objects like the previous ones, and they're contained by
+the dentists
+.
+They change colors a lot and the different colors mean different things.
+Contents
+1
+Colors
+1.1
+Red
+1.2
+Green
+1.3
+Orange
+1.4
+Blue
+Colors
+[
+]
+Red
+[
+]
+When a Hevv is red, it means they're moving very fast and are very unstable, to the point it can make them fall apart on the worst case scenarios.
+Green
+[
+]
+When they're green, they're undergoing a size change which can enlarge or shrink them randomly. They CANNOT become larger than a dentist / smaller than a
+Hekc
+, though.
+Orange
+[
+]
+A Hevv turns orange when they're underwater, and when this happens they can swell up to half the size of a dentist, meaning they can become even smaller than what the green state allows them to.
+Blue
+[
+]
+When they're blue, their temperature lowers to a great extent and they turn into an ice-like material. Increasing the temperature can get rid of this state.

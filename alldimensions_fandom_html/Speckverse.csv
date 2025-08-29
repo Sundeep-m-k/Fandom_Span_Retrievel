@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41759,2,verse,9,14,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+41759,2,universe,172,180,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+41759,2,Multiverse,481,491,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+41759,2,Galaxy,503,509,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxy"": 1}",1
+41759,2,Molecule,511,519,internal,https://alldimensions.fandom.com/wiki/Molecule,"{""Molecule"": 1}",1
+41759,4,Multiverse,110,120,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1

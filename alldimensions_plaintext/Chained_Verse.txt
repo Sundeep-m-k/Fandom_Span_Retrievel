@@ -1,0 +1,152 @@
+DISCLAIMER: This article can get very confusing sometimes, so you might not understand the concept fully. Please take this into account.
+Contents
+1
+General Info
+2
+Causes of Chained Verses
+3
+Transmission
+4
+CV Levels
+4.1
+Level 1
+4.2
+Level 2
+4.3
+Level 3
+4.4
+Level 4
+4.5
+Level 5
+4.6
+Level 6
+4.7
+Level 7
+4.8
+Level 8
+4.9
+Level 9
+4.10
+Level 10
+5
+Examples
+6
+Properties of energy
+General Info
+[
+]
+A Chained Verse, commonly abbreviated to a CV, is a special type of verse that is "chained" to one or multiple verses.
+Chained Verse
+Scale
+Size
+Varies
+Dimensionality
+Varies
+Kardashev Scale
+Varies
+Properties
+Temperature
+Varies
+Class
+Varies
+Life Percentage
+Varies
+Shape
+Varies
+Position
+Contained by:
+Varies
+Contains:
+Varies
+The property of a CV is listed below.
+Whatever happens to an object in one CV will happen to an identical/similar copy of that object in another CV or verse that the first CV is chained to.
+Since the words "identical" and "similar" are quite broad and ambiguous, 7 different levels are assigned to all Chained Verses to differentiate between them.
+Causes of Chained Verses
+[
+]
+CVs are usually formed by near identical verses hitting each other and suddenly switching
+existence states
+. However, variations in this can occur.
+Transmission
+[
+]
+CVs can have their "chaining" property with a special form of data transmission. Energy is sent from one Chained Verse to another one every time a CV has its property activated. Depending on what level a CV is, this transmission will occur more or less.
+CV Levels
+[
+]
+9 different levels are assigned to CVs to differentiate them. Levels are dependent on the basic property of a CV (listed above). Depending on how broad the definition is, a different level will be assigned. The broader the definition, the higher the level.
+Level 1
+[
+]
+Level 1 CVs, in order to have transmission to occur, must have a certain object with
+exact
+copies of it in other CVs performing some action, in which then every single copy of that object in the CV group will perform the action.
+Level 2
+[
+]
+Level 2 CVs have a broader definition of "similar" and "identical". Now, transmission can occur even if one object has slight variations, although only in two different ways: material and color.
+Level 3
+[
+]
+Level 3 CVs are where the definition of those 2 words get even more broad, now not even taking into account the size of the object. However, all similar copies of the object still must be the same shape.
+Level 4
+[
+]
+Level 4 CVs have an even broader definition of "similar" and "identical", to the point where those words do not even fit into the context of each object. Color, material, size, and even shape can all be different, but transmission can still occur. However, the age of each object involved in transmission still must be exactly the same (the exact age "requirement" is rounded up to approximately 1 thousandth of a yoctosecond).
+Level 5
+[
+]
+Inside of Level 5 CVs, transmission is widespread and is extremely common. Now, many objects that don't even remotely look like each other can cause transmissions to occur. Still, transmission between objects (let's call it matter now) cannot occur if any of the objects involved are in a different state of matter.
+Level 6
+[
+]
+Level 6 CVs have insane levels of transmission. Pretty much every single object in the entire CV network can manipulate each other, and transmission is even more common. The only limit to the transmission is if objects involved have different
+existence states
+, which will also be discarded in Level 7 CVs.
+Level 7
+[
+]
+Level 7 CVs are one of the highest official levels, as the transmission can happen to objects with same
+Property Blueprint Particles
+. All objects, whether which physical property is different, can now be transmissioned due to the previous statement. The only pairs that can't be transmissioned are objects without Blueprint Particles. It is proven that it comes after Level 6 due to existence ranks can be broken down by
+Subrealities
+.
+Level 8
+[
+]
+Level 8 CVs are the penultimate level of all CVs. Objects with any structure of Blueprint Particles can be transmissioned, but not with different
+Function Structures
+, Blueprint Masters, and other variations.
+Level 9
+[
+]
+Level 9 CVs are the highest official level of CV, and transmission can literally happen to ANY object, whether its color, size, shape, state of matter, material, age, and even Existence Rank. Transmission is limitless, since all objects that have an existence state can be involved in transmission with every other object.
+Level 10
+[
+]
+Level 10 CVs have never been seen before, and it is unknown whether such high level of CVs can even be conceivable, but this idea has been put up.
+Examples
+[
+]
+There are many different chained verses throughout the
+First Realm
+. Some include:
+Policiahsewverse
+Properties of energy
+[
+]
+When energy hits the thin area between Chained Verses, the amount of energy increases, especially if the energy is directed towards another chained verse in a group. This also applies to light, which means that a small amount of light could easily turn into a glow that with direction and color, can be used to figure out where a chained verse is. Here are the colors and the approximate distances they represent (in powers of e):
+Dark purple: 0.4 ly away
+Purple: 1 ly away
+Blurple: 2.8 ly away
+Blue: 7.4 ly away
+Sea blue: 20.1 ly away
+Cyan: 54.6 ly away
+Sea green: 148.4 ly away
+Green: 403.4 ly away
+Lime: 1096.6 ly away
+Yellow: 2981 ly away
+Orange: 8103.1 ly away *
+Red: 22026.5 ly away
+Maroon: 59874.1 ly away
+Usually, if a CV is chained to 1,000 or more verses, the beams will not be visible.

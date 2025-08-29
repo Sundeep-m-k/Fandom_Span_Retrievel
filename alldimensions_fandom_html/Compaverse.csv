@@ -1,0 +1,24 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42025,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c9/Hmm_that%27s_pretty_cool.jpg/revision/latest?cb=20220616193712,"{""\n\n"": 1}",1
+42025,1,EUSI,61,65,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42025,1,Finality Index,70,84,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+42025,1,FOEI,91,95,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+42025,1,Zettaverses,216,227,internal,https://alldimensions.fandom.com/wiki/Zettaverse,"{""Zettaverses"": 1}",1
+42025,1,Yottaverses,229,240,internal,https://alldimensions.fandom.com/wiki/Yottaverse,"{""Yottaverses"": 1}",1
+42025,1,Stellarverses,242,255,internal,https://alldimensions.fandom.com/wiki/Stellarverse,"{""Stellarverses"": 1}",1
+42025,1,Berverses,257,266,internal,https://alldimensions.fandom.com/wiki/Berverse,"{""Berverses"": 1}",1
+42025,1,Universes,279,288,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+42025,1,Megaverses,293,303,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverses"": 1}",1
+42025,3,planets,27,34,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+42025,3,Pluto,86,91,internal,https://alldimensions.fandom.com/wiki/User_blog:A86475342/Pluto,"{""Pluto"": 1}",1
+42025,3,Jupiter,121,128,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
+42025,5,unique particles,26,42,internal,https://alldimensions.fandom.com/wiki/ATSL_elementary_particles,"{""unique particles"": 1}",1
+42025,5,Blueprint particles,48,67,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint particles"": 1}",1
+42025,5,stars,230,235,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+42025,5,UY SCUTI,287,295,internal,https://alldimensions.fandom.com/wiki/UY_Scuti,"{""UY SCUTI"": 1}",1
+42025,5,galaxies,301,309,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxies"": 1}",1
+42025,5,rogue planets,629,642,internal,https://alldimensions.fandom.com/wiki/Rogue_Planet,"{""rogue planets"": 1}",1
+42025,5,blackholes,681,691,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""blackholes"": 1}",1
+42025,6,solar system,83,95,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""solar system"": 1}",1

@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45516,2,stellar objects,18,33,internal,https://alldimensions.fandom.com/wiki/Star,"{""stellar objects"": 1}",1
+45516,2,gas giants,65,75,internal,https://alldimensions.fandom.com/wiki/Planet,"{""gas giants"": 1}",1
+45516,2,stars,93,98,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+45516,3,M,47,48,internal,https://alldimensions.fandom.com/wiki/Class_M_star,"{""M"": 1}",1
+45516,3,L,50,51,internal,https://alldimensions.fandom.com/wiki/Class_L_Star,"{""L"": 1}",1
+45516,3,T,0,1,internal,https://alldimensions.fandom.com/wiki/Class_T_star,"{""T"": 1}",1
+45516,3,Y,59,60,internal,https://alldimensions.fandom.com/wiki/Class_Y_Star,"{""Y"": 1}",1

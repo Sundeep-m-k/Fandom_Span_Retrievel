@@ -1,0 +1,142 @@
+Contents
+1
+Enneazetton
+1.1
+Subfacets
+2
+Octeract
+2.1
+Hypervolumes
+2.2
+Subfacets
+3
+8-orthoplex
+4
+Octaphere
+Enneazetton
+[
+]
+An
+enneazetton
+is an 8-dimensional
+simplex
+. It is also called the
+pyrozetton
+under the elemental naming scheme.
+Subfacets
+[
+]
+9
+points
+(0D)
+36
+line segments
+(1D)
+84
+triangles
+(2D)
+126
+tetrahedra
+(3D)
+126
+pentachora
+(4D)
+84
+hexatera
+(5D)
+36
+heptapeta
+(6D)
+9
+octaexa
+(7D)
+Octeract
+[
+]
+Octeract
+is the 8-hypercube.
+Hypervolumes
+[
+]
+vertex count
+=
+256
+{\displaystyle 256}
+edge length
+=
+1024
+l
+{\displaystyle 1024 l}
+surface area
+=
+1792
+l
+2
+{\displaystyle 1792{ l }^{ 2 }}
+surcell volume
+=
+1792
+l
+3
+{\displaystyle 1792{ l }^{ 3 }}
+surteron bulk
+=
+1120
+l
+4
+{\displaystyle 1120{ l }^{ 4 }}
+surpeton pentavolume =
+448
+l
+5
+{\displaystyle 448{ l }^{ 5 }}
+surecton hexavolume =
+112
+l
+6
+{\displaystyle 112{ l }^{ 6 }}
+surzetton heptavolume =
+16
+l
+7
+{\displaystyle 16{ l }^{ 7 }}
+suryotton octavolume =
+l
+8
+{\displaystyle { l }^{ 8 }}
+Subfacets
+[
+]
+256 points (0D)
+1024 line segments (1D)
+1792 squares (2D)
+1792 cubes (3D)
+1120 tesseracts (4D)
+448 penteracts (5D)
+112 hexeracts (6D)
+16 hepteracts (7D)
+8-orthoplex
+[
+]
+An 8-orthoplex
+(Octarss)
+is an 8 dimensional shape.
+8-orthoplex
+Geometry
+Dimensionality
+8D
+Schläfli Symbol
+{10}
+Subfacets
+Vertices
+12
+Edges
+15
+Faces
+16
+Octaphere
+[
+]
+The octaphere is a 8-dimensional
+hypersphere
+.

@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45411,1,Universe,25,33,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+45411,1,Megaverse,69,78,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverse"": 1}",1
+45411,2,Humanity,39,47,internal,https://alldimensions.fandom.com/wiki/Human,"{""Humanity"": 1}",1
+45411,2,Verse,99,104,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verse"": 1}",1
+45411,3,god,25,28,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""god"": 1}",1

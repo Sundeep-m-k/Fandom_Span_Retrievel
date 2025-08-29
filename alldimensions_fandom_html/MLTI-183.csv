@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40577,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ab/MLTI-183.png/revision/latest?cb=20220114005548,"{""\n\n"": 1}",1
+40577,1,MGA-992,280,287,internal,https://alldimensions.fandom.com/wiki/MGA-992,"{""MGA-992"": 1}",1
+40577,1,Universes,299,308,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+40577,1,Multiverses,327,338,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverses"": 1}",1
+40577,2,multiverse,37,47,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+40577,2,universes,94,103,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+40577,2,List,105,109,internal,https://alldimensions.fandom.com/wiki/MLTI-183_universes_list,"{""List"": 1}",1

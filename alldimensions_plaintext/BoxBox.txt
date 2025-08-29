@@ -1,0 +1,51 @@
+BoxBox
+Scale
+Size
+big
+EUSI
+B
+FOEI
+B
+Kardashev Scale
+B - 1/2B
+Properties
+Temperature
+-67 C•
+Class
+14
+Life Percentage
+15%
+Shape
+Box
+Position
+Contained by:
+The Orbiting
+Contains:
+Bocks chain
+about
+[
+]
+the boxbox is a system of boxes larger than the
+Bocks chain
+.
+he is ruled by a cosmic entity by the name of gurt
+Gurt
+how it works
+[
+]
+the boxbox chain is simple.
+B is the number of boxes in the boxbox chain
+each boxbox is B times the size of the last box and +1 the dimensionality of the last box
+and B is a very big number that cant even be written
+each boxbox contains the previous boxbox in the chain
+boxboxes have a simple naming system:
+the smallest boxbox has a ID of 1, so it is named Boxbox-1
+for every containing boxbox, it is 1 + the previous boxbox name
+Boxbox3 contains boxbox2 which contains boxbox1.
+that was an example.
+notable boxboxes
+[
+]
+Boxbox-11428 is a boxbox that constantly changes color. it is the only boxbox that does something like this
+Boxbox-782613817217823612873687129638728786626838721999000011113 is a boxbox that has contents that spin around causing Boxbox-782613817217823612873687129638728786626838721999000011113 to spin.
+Boxbox-441 was deleted by the developers and replaced with Boxbox-441-2.

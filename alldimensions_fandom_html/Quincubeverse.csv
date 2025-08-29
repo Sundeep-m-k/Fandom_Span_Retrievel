@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50668,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/81/5C.jpg/revision/latest?cb=20250813073003,"{""\n\n"": 1}",1
+50668,1,Hexacubeverse,288,301,internal,https://alldimensions.fandom.com/wiki/Hexacubeverse,"{""Hexacubeverse"": 1}",1
+50668,1,Orbitcubes,303,313,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#Orbitcubes,"{""Orbitcubes"": 1}",1
+50668,1,Quadcubeverse,325,338,internal,https://alldimensions.fandom.com/wiki/Quadcubeverse,"{""Quadcubeverse"": 1}",1
+50668,1,Tricubeverse,340,352,internal,https://alldimensions.fandom.com/wiki/Tricubeverse,"{""Tricubeverse"": 1}",1
+50668,1,Quadcubeverse,325,338,internal,https://alldimensions.fandom.com/wiki/Quadcubeverse,"{""Quadcubeverse"": 1}",1
+50668,1,Tricubeverse,340,352,internal,https://alldimensions.fandom.com/wiki/Tricubeverse,"{""Tricubeverse"": 1}",1
+50668,4,Hexacubeverse,35,48,internal,https://alldimensions.fandom.com/wiki/Hexacubeverse,"{""Hexacubeverse"": 1}",1

@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+27026,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fc/Z.png/revision/latest?cb=20200625141954,"{""\n\n"": 1}",1
+27026,1,α,41,42,internal,https://alldimensions.fandom.com/wiki/%CE%91,"{""α"": 1}",1
+27026,1,xoꓭ ǝʜT,54,61,internal,https://alldimensions.fandom.com/wiki/Xo%EA%93%AD_%C7%9D%CA%9CT,"{""xoꓭ ǝʜT"": 1}",1
+27026,1,xoꓭ ǝʜT,54,61,internal,https://alldimensions.fandom.com/wiki/Xo%EA%93%AD_%C7%9D%CA%9CT,"{""xoꓭ ǝʜT"": 1}",1
+27026,1,α,41,42,internal,https://alldimensions.fandom.com/wiki/%CE%91,"{""α"": 1}",1
+27026,2,α,161,162,internal,https://alldimensions.fandom.com/wiki/%CE%91,"{""α"": 1}",1
+27026,2,β,247,248,internal,https://alldimensions.fandom.com/wiki/%CE%92,"{""β"": 1}",1
+27026,3,α,118,119,internal,https://alldimensions.fandom.com/wiki/%CE%91,"{""α"": 1}",1

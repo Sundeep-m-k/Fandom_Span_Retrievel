@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42339,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f5/Impossibility2.png/revision/latest?cb=20220831183325,"{""\n\n"": 1}",1
+42339,1,The Ultimate Containers,53,76,internal,https://alldimensions.fandom.com/wiki/The_Ultimate_Container,"{""The Ultimate Containers"": 1}",1
+42339,1,nothing,81,88,internal,https://alldimensions.fandom.com/wiki/Nothing,"{""nothing"": 1}",1
+42339,1,The Containers of Containers of Containers...,146,191,internal,https://alldimensions.fandom.com/wiki/The_Container_of_Containers_of_Containers...,"{""The Containers of Containers of Containers..."": 1}",1
+42339,1,nothing,81,88,internal,https://alldimensions.fandom.com/wiki/Nothing,"{""nothing"": 1}",1
+42339,1,Container of Containers of Containers...,363,403,internal,https://alldimensions.fandom.com/wiki/The_Container_of_Containers_of_Containers...,"{""Container of Containers of Containers..."": 1}",1

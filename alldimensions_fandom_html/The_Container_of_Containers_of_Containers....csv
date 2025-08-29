@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41875,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fb/4182ef81-ca1c-4419-b3dc-ac3110b54ed6.png/revision/latest?cb=20220609133537,"{""\n\n"": 1}",1
+41875,1,Impossibillity,123,137,internal,https://alldimensions.fandom.com/wiki/Impossibillity,"{""Impossibillity"": 1}",1
+41875,1,the Ultimate Containers,142,165,internal,https://alldimensions.fandom.com/wiki/The_Ultimate_Container,"{""the Ultimate Containers"": 1}",1
+41875,1,the Giga Containers,185,204,internal,https://alldimensions.fandom.com/wiki/The_Giga_Container,"{""the Giga Containers"": 1}",1
+41875,2,Giga Containers,291,306,internal,https://alldimensions.fandom.com/wiki/The_Giga_Container,"{""Giga Containers"": 1}",1

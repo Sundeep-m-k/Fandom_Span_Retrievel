@@ -1,0 +1,52 @@
+Calculations
+[
+]
+strength:
+V
+∗
+H
+{\displaystyle V*H}
+where V is the volume (in m
+3
+.) of what the entity can best destroy and H is the average hardness of what the entity can best destroy
+speed:
+D
+T
+{\displaystyle {\frac {D}{T}}}
+in ft.
+durability: strength but instead of what the entity can best destroy it’s the entity itself.
+defeat: the total PL of what entity can be beaten by this entity at the highest difficulty.
+Total PL: sum up every stat.
+transcending
+[
+]
+if a stat is transcended by the entity, a new constant named
+[
+(first 2 letters of the stat name)
+:
+(the entity’s name shortened into 3 letters)
+]
+(or just [T]) will be created to fit that level.
+an example for
+The Crearion
+would be [PL:CRN].
+Values
+[
+]
+Image
+Name
+PL
+Spd
+Str
+Def
+Dur
+•
+[T]*(51+[T]+[T]
+49
+)
+[T]
+[T]*50
+[T]
+2
+[T]
+50

@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42696,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/2f/Hubble_ultra_deep_field.jpg/revision/latest?cb=20221121084408,"{""\n\n"": 1}",1
+42696,1,EUSI,279,283,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42696,1,Finality Index,296,310,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+42696,1,FOEI,321,325,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+42696,1,virvis,648,654,internal,https://alldimensions.fandom.com/wiki/Virvis,"{""virvis"": 1}",1
+42696,1,greater / true godity spaces,656,684,internal,https://alldimensions.fandom.com/wiki/Godity_space_(true),"{""greater / true godity spaces"": 1}",1
+42696,1,Voids,731,736,internal,https://alldimensions.fandom.com/wiki/The_Void,"{""Voids"": 1}",1
+42696,1,heavens,738,745,internal,https://alldimensions.fandom.com/wiki/Heaven,"{""heavens"": 1}",1
+42696,1,hells,750,755,internal,https://alldimensions.fandom.com/wiki/Hell...,"{""hells"": 1}",1
+42696,1,false godity spaces,757,776,internal,https://alldimensions.fandom.com/wiki/Godity_space_(false),"{""false godity spaces"": 1}",1
+42696,11,godity spaces,38,51,internal,https://alldimensions.fandom.com/wiki/Godity_space_(false),"{""godity spaces"": 1}",1
+42696,11,greater godity spaces,107,128,internal,https://alldimensions.fandom.com/wiki/Godity_space_(true),"{""greater godity spaces"": 1}",1
+42696,12,EABA,44,48,internal,https://alldimensions.fandom.com/wiki/Category:End-All-Be-All,"{""EABA"": 1}",1

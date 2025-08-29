@@ -1,0 +1,40 @@
+Type <1
+[
+]
+Type 0: Absolutely Nothing
+Type 0.1: The Cambrian Explosion Civilization
+Type 0.2: 66M years ago (Dinosaur Civilization)
+Type 0.3: 300K years ago
+Type 0.4: 3200 BC (in iran)
+Type 0.5: 1 BC (in the roman empire)
+Type 0.6: 1000 AD
+Type 0.7: 1400 AD
+Type 0.8: 1880
+Type 0.9: 1940
+Type <4
+[
+]
+Type 1: Current civilization (2025)
+Type 2: Control of the solar system
+Type 2⅓: Control of the oort cloud
+Type 2⅔: Control of our spiral arm
+Type 3: Control of our galaxy
+Type 3.25: Control of our galaxy cluster
+Type 3.5: Control of our galaxy supercluster
+Type 3.75: Control of our galaxy filament
+Type 4 and >4
+[
+]
+Type 4: Control of our observable universe
+Type 4.5: Control of our entire universe
+Type 5: Control of our multiverse
+Type 6: Control of our metaverse
+Type 7: Control of our xenoverse
+Type 8: Control of our hyperverse
+Type 9: Control of our ultraverse
+Type 10: Control of our archverse
+Type 11: Control of our omniverse
+Type 12: Control of our barrel
+Type 13: Control of our box
+Type 14: Control of our infinity
+Type 15: Control of our transfinity

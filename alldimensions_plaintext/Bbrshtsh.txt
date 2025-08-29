@@ -1,0 +1,281 @@
+Bbrshtsh is a language created by the Bbrshk it is a language and has many languagelike qualities, such as writing, sounds, letters, etc. The grammar and pronunciation also resemble that of a language. It is certainly one of the language of all time.
+Contents
+1
+Pronunciation
+1.1
+Changes in Pronunciation
+1.2
+Spelling
+1.2.1
+Romanized alphabet
+2
+Grammar
+2.1
+Sentence Structure
+2.2
+Articles
+2.3
+Adjectives
+2.3.1
+Participles
+2.4
+Aspects
+3
+Dictionary
+3.1
+Numbers
+3.2
+Important Words
+3.3
+Pronouns
+3.4
+Simple Words
+3.5
+Nouns
+3.6
+Verbs
+3.7
+Adjectives
+3.8
+Loanwords
+4
+Other
+Pronunciation
+[
+]
+Consonants:
+Bilabial
+Labiodental
+Linguolabial
+Dental
+Alveolar
+Post-alveolar
+Retroflex
+Palatal
+Velar
+Uvular
+Nasal
+/m/
+/n̼/
+/n/
+Plosive
+/p/ /b/
+/t̼/ /d̼/
+/t/ /d/
+/k/
+/q/
+Sibilant affricate
+/t͡ʃ/ /d͡ʒ/
+Non-sibilant affricate
+/p͡ɸ/ /b͡ꞵ/
+Sibilant fricative
+/s/ /z/
+/ʃ/ /ʒ/
+Non-sibilant fricative
+/ɸ/  /β/
+/f/ /v/
+/θ̼/ /ð̼/
+/θ/ /ð/
+/x/
+Trill
+/ʙ/
+/r/
+/r̝/
+/ɽr/
+/ʀ̥/
+Approximate
+/β̞/
+Vowels
+Front
+Central
+Back
+Close
+/i/
+Near-close
+Close-mid
+Mid
+Open-mid
+/ə/
+Near-open
+Open
+/ɑ/
+Changes in Pronunciation
+[
+]
+The consonant clusters /pf/ and /bv/ are instead pronounced as /p͡ɸ/ and /b͡ꞵ/, respectively.
+The consonant /q/ is instead pronounced as /ʀ̥/ after a plosive or a trill.
+The consonant cluster /xq/ is instead pronounced as /ʀ̥/.
+The consonants /t̼/ and /d̼/ are pronounced as /θ̼/ and /ð̼/ respectively after bilabial consonants.
+/k/ is instead pronounced as /x/ after /q/.
+/β̞/ may be dropped.
+Spelling
+[
+]
+The language has its own alphabet (yet to be created), but it also has a romanized alphabet.
+Romanized alphabet
+[
+]
+M = /m/
+B = /b/
+P = /p/
+W = /β̞/
+FH = /ɸ/
+VH = /β/
+BB = /ʙ/
+f = /f/
+v = /v/
+NH = /n̼/
+TH = /t̼/
+DH = /d̼/
+CH = /θ̼/
+GH = /ð̼/
+C = /θ/
+G = /ð/
+T = /t/
+D = /d/
+S = /s/
+Z = /z/
+SH = /ʃ/
+ZH = /ʒ/
+TSH = /t͡ʃ/
+N = /n/
+DZH = /d͡ʒ/
+R = alveolar, postalveolar, or retroflex trill (the language does not distinguish between these sounds)
+RR = a trill with your tongue moving from the hard palate to the alveolar ridge, or from the alveolar ridge to the hard palate, depending on the letter before it.
+K = /k/
+X = /x/
+Q = /q/ or /ʀ̥/
+' = a short pause, this symbol is used only in loanwords
+Instead of a space, it is common to instead use a hyphen between words. In the romanized alphabet, there is always a hyphen between related words (like a noun and its adjectives)
+Grammar
+[
+]
+It uses nominative-accusative alignment.
+Sentence Structure
+[
+]
+At the beginning of any sentence, there is always a bilabial that marks the subject and the possessor of the subject. After the object of any sentence, there is a long vowel. In any situation where the clusters /β̞v/ or /ʙv/ would appear, the /v/ is dropped, in both pronunciation and spelling.
+Articles
+[
+]
+The language does not use articles, however it does use the word "k" to mark any word as plural. Example sentence: Pshq-k vr sri. (Your friends go to the place). Any number can also be used instead of "k" in this situation. In some rare situations, the k is already part of the word.
+Adjectives
+[
+]
+Adjectives can be used at any location near a verb, but can only be used after the subject and before the object. between a word and the adjective(s) describing it, there is a short vowel sound.
+Participles
+[
+]
+Participles are created by adding the word "sh" (already) before the verb. If the first sound of the verb is already sh, then it will become tsh and still have the sh before it.
+Aspects
+[
+]
+The language has two aspects, imperfective and perfective. The perfective aspect is marked by the word "sh", while the imperfective is not marked.
+Dictionary
+[
+]
+Numbers
+[
+]
+The language uses a base 8 system.
+One = Fn
+Two = Chnh
+Three = Cn
+Four = Sn
+Five = Shn
+Six = Kn
+Seven = Qn
+Eight = Fn-frv or just Frv
+9 = Fn-frv-fn
+10 = Fn-frv-chnh
+16 = Chnh-frv
+64 = Fn-Chrv
+73 = Fn-Chrv-fn-frv-fn
+512 = Fn-Crv
+4096 = Fn-Srv
+...
+2097152 = Fn-frg
+Important Words
+[
+]
+Bbrshtsh (the language)
+Bbrshk (name of civilization as a whole)
+Bbsksh (entirety of existence)
+Bbsc (The Omnifrick)
+Bbntq (Leftunknown Thing)
+Pronouns
+[
+]
+M = I/my (subject)
+Mrshk = We/our (subject)
+P = You/Your (subject)
+B = You/Your (Subject, plural)
+Fh = It/its (subject)
+Vh = They/their (Subject)
+Nh = Me/my (object)
+Nh-rshk = Us/our (Object)
+Ch = You/your (object)
+Gh = You/your (plural, object)
+Th = It/its (object)
+Dh = Them/their (object)
+Simple Words
+[
+]
+K = multiple
+Kzh = any
+Q = and
+N = in
+Zh = Future
+Vst  = Some
+T = to
+S = Here
+F = or
+Sh = already
+V = now (modifies a verb to say this is when the action starts)
+X = in
+Shx = from
+Z  = No, never
+Nsksh = besides
+Kst = Yes
+Nouns
+[
+]
+Rsh = Person
+Rshk = People
+Vst-rsh = someone
+Vsc = Vsauian space
+Vrshtsh = Language
+Sksh = Space
+Ntq =  Something evil
+Pshq = friend
+Sr = Place
+Vst-sr = somewhere
+Skshtsh = thing
+Vst-skshtsh = something
+Dgz = Time
+Vkzh = everything
+Verbs
+[
+]
+Xnt = go (to)
+D = be
+Fkshtshts = Kill
+Xrntsh = Like
+Adjectives
+[
+]
+Shr = very
+Shrr = extremely
+Vrrxq = used to express discontent (considered vulgar, especially when used as an adjective)
+Loanwords
+[
+]
+Kv'kf = male (from
+The Pencil Language
+Ko'kef)
+K'qf = female (from TPL Ke'kef)
+V'kv = Pencil (from TPL Wakab)
+Other
+[
+]
+Kshskfsti = used at the end of a sentence  to emphasize it.

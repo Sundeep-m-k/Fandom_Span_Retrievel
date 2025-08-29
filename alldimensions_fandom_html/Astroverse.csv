@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49783,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/8e/Transinfinity.png.png/revision/latest?cb=20241209142023,"{""\n\n"": 1}",1
+49783,1,Panoverse,50,59,internal,https://alldimensions.fandom.com/wiki/Panoverse,"{""Panoverse"": 1}",1
+49783,1,Mistroverses,71,83,internal,https://alldimensions.fandom.com/wiki/Mistroverse,"{""Mistroverses"": 1}",1
+49783,1,Omniversal,205,215,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniversal"": 1}",1
+49783,1,verse,7,12,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+49783,1,Mistroverses,71,83,internal,https://alldimensions.fandom.com/wiki/Mistroverse,"{""Mistroverses"": 1}",1
+49783,2,Stars,106,111,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+49783,2,Planets,113,120,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1

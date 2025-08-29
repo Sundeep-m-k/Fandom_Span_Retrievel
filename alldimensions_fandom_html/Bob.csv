@@ -1,0 +1,45 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34128,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1b/Bob_true_form.png/revision/latest?cb=20201011043110,"{""\n\n"": 1}",1
+34128,3,Omniverse,37,46,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+34128,3,Blueprint Particles,97,116,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint Particles"": 1}",1
+34128,14,TheBoxReturns,0,13,internal,https://alldimensions.fandom.com/wiki/User:TheBoxReturns,"{""TheBoxReturns"": 1}",1
+34128,15,Chalkosis,0,9,internal,https://alldimensions.fandom.com/wiki/User:Chalkosis,"{""Chalkosis"": 1}",1
+34128,16,DiggyPT,0,7,internal,https://alldimensions.fandom.com/wiki/User:DiggyPT,"{""DiggyPT"": 1}",1
+34128,17,ICantEdit,0,9,internal,https://alldimensions.fandom.com/wiki/User:ICantEdit,"{""ICantEdit"": 1}",1
+34128,18,Randomuser66,0,12,internal,https://alldimensions.fandom.com/wiki/User:Randomuser66,"{""Randomuser66"": 1}",1
+34128,20,ICantEdit,0,9,internal,https://alldimensions.fandom.com/wiki/User:ICantEdit,"{""ICantEdit"": 1}",1
+34128,21,Unknown92921,0,12,internal,https://alldimensions.fandom.com/wiki/User:Unknown92921,"{""Unknown92921"": 1}",1
+34128,23,Randomuser66,0,12,internal,https://alldimensions.fandom.com/wiki/User:Randomuser66,"{""Randomuser66"": 1}",1
+34128,24,Randomuser66,0,12,internal,https://alldimensions.fandom.com/wiki/User:Randomuser66,"{""Randomuser66"": 1}",1
+34128,25,Randomuser66,0,12,internal,https://alldimensions.fandom.com/wiki/User:Randomuser66,"{""Randomuser66"": 1}",1
+34128,27,Absolutely tiny nonexistent particles,19,56,internal,https://alldimensions.fandom.com/wiki/Absolutely_tiny_nonexistent_particle,"{""Absolutely tiny nonexistent particles"": 1}",1
+34128,30,Downtown Fricksville,52,72,internal,https://alldimensions.fandom.com/wiki/Downtown_Fricksville,"{""Downtown Fricksville"": 1}",1
+34128,31,The Seeker,44,54,internal,https://alldimensions.fandom.com/wiki/The_Seeker,"{""The Seeker"": 1}",1
+34128,33,Nacker,74,80,internal,https://alldimensions.fandom.com/wiki/Nacker,"{""Nacker"": 1}",1
+34128,37,Omegabox thing,53,67,internal,https://alldimensions.fandom.com/wiki/Omegabox_thing,"{""Omegabox thing"": 1}",1
+34128,38,Fuzzo the fuzzy bee,0,19,internal,https://alldimensions.fandom.com/wiki/User:Fuzzo_the_fuzzy_bee,"{""Fuzzo the fuzzy bee"": 1}",1
+34128,39,Khang2009,0,9,internal,https://alldimensions.fandom.com/wiki/User:Khang2009,"{""Khang2009"": 1}",1
+34128,39,MORE,21,25,internal,https://alldimensions.fandom.com/wiki/MORE,"{""MORE"": 1}",1
+34128,40,CoolNumbers,0,11,internal,https://alldimensions.fandom.com/wiki/User:CoolNumbers,"{""CoolNumbers"": 1}",1
+34128,41,BuddyBearAlex,0,13,internal,https://alldimensions.fandom.com/wiki/User:BuddyBearAlex,"{""BuddyBearAlex"": 1}",1
+34128,43,the prism,55,64,internal,https://alldimensions.fandom.com/wiki/The_vault,"{""the prism"": 1}",1
+34128,44,BuddyBearAlex,0,13,internal,https://alldimensions.fandom.com/wiki/User:BuddyBearAlex,"{""BuddyBearAlex"": 1}",1
+34128,44,Primordium Epsilon,98,116,internal,https://alldimensions.fandom.com/wiki/Primordium_Epsilon,"{""Primordium Epsilon"": 1}",1
+34128,45,BuddyBearAlex,0,13,internal,https://alldimensions.fandom.com/wiki/User:BuddyBearAlex,"{""BuddyBearAlex"": 1}",1
+34128,45,The Core of Everything,35,57,internal,https://alldimensions.fandom.com/wiki/The_Core_of_Everything,"{""The Core of Everything"": 1}",1
+34128,55,The vault,38,47,internal,https://alldimensions.fandom.com/wiki/The_vault,"{""The vault"": 1}",1
+34128,57,A particle,30,40,internal,https://alldimensions.fandom.com/wiki/Primordium_Alpha,"{""A particle"": 1}",1
+34128,57,Α particles,94,105,internal,https://alldimensions.fandom.com/wiki/Primordium_Alpha,"{""Α particles"": 1}",1
+34128,58,Primordium Delta,16,32,internal,https://alldimensions.fandom.com/wiki/Primordium_Delta,"{""Primordium Delta"": 1}",1
+34128,59,Primordium Epsilon,16,34,internal,https://alldimensions.fandom.com/wiki/Primordium_Epsilon,"{""Primordium Epsilon"": 1}",1
+34128,60,Primordium Omega,16,32,internal,https://alldimensions.fandom.com/wiki/Primordium_Omega,"{""Primordium Omega"": 1}",1
+34128,61,Primordium Theta,16,32,internal,https://alldimensions.fandom.com/wiki/Primordium_Theta,"{""Primordium Theta"": 1}",1
+34128,62,Primordium Sigma,67,83,internal,https://alldimensions.fandom.com/wiki/Primordium_Sigma,"{""Primordium Sigma"": 1}",1
+34128,63,Primordium Phi,16,30,internal,https://alldimensions.fandom.com/wiki/Primordium_Phi,"{""Primordium Phi"": 1}",1
+34128,68,The Pentagonal Hexacontahedron,450,480,internal,https://alldimensions.fandom.com/wiki/The_Pentagonal_Hexacontahedron,"{""The Pentagonal Hexacontahedron"": 1}",1
+34128,82,TOG,83,86,internal,https://alldimensions.fandom.com/wiki/Transcendent_Omni-God,"{""TOG"": 1}",1
+34128,87,TOG,48,51,internal,https://alldimensions.fandom.com/wiki/Transcendent_Omni-God,"{""TOG"": 1}",1
+34128,124,CompactStar,0,11,internal,https://alldimensions.fandom.com/wiki/User:CompacStar,"{""CompactStar"": 1}",1
+34128,124,Boxes,72,77,internal,https://alldimensions.fandom.com/wiki/Box,"{""Boxes"": 1}",1

@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42683,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4d/Anti_Logic.jpeg/revision/latest?cb=20221125160130,"{""\n\n"": 1}",1
+42683,1,Levenins,104,112,internal,https://alldimensions.fandom.com/wiki/Levenin,"{""Levenins"": 1}",1
+42683,1,Primitions,124,134,internal,https://alldimensions.fandom.com/wiki/Primition,"{""Primitions"": 1}",1
+42683,2,other being,213,224,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""other being"": 1}",1
+42683,2,nothing,294,301,internal,https://alldimensions.fandom.com/wiki/Nothingest,"{""nothing"": 1}",1
+42683,2,nothing,294,301,internal,https://alldimensions.fandom.com/wiki/Nothing......,"{""nothing"": 1}",1
+42683,2,[1],517,520,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-1,"{""[1]"": 1}",1

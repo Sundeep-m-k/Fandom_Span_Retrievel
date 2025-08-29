@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+11233,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/03/Barrelverse.png/revision/latest?cb=20181205173325,"{""\n\n"": 1}",1
+11233,1,Prime Barrel,51,63,internal,https://alldimensions.fandom.com/wiki/Prime_Barrel,"{""Prime Barrel"": 1}",1
+11233,1,The Barrelocha,75,89,internal,https://alldimensions.fandom.com/wiki/The_Barrelocha,"{""The Barrelocha"": 1}",1
+11233,1,The Box,228,235,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1

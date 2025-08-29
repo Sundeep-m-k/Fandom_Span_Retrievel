@@ -1,0 +1,82 @@
+Qwertyverse
+Natural Position
+Contains
+Miniqwertycubes
+Scale
+Dimensionality
+'"`UNIQ--postMath-00000001-QINU`"'
+Diameter
+'"`UNIQ--postMath-00000002-QINU`"'
+The
+Qwertycube
+is a cube that holds
+5
+↑
+↑
+57
+{\displaystyle 5\uparrow \uparrow 57}
+Miniqwertycubes.
+We define a function
+f
+(
+x
+)
+=
+f
+(
+x
+−
+1
+)
+f
+(
+x
+−
+1
+)
+{\displaystyle f(x) = f(x-1)^{f(x-1)}}
+where
+f
+(
+0
+)
+=
+2
+{\displaystyle f(0) = 2}
+, just like in the
+Qwertyverse
+. Using this simple function,
+Qwerycube
+'s size is precisely
+f
+(
+f
+(
+f
+(
+⋯
+f
+(
+f
+(
+93
+,
+000
+,
+000
+,
+000
+)
+⏞
+93
+,
+000
+,
+000
+,
+000
+{\displaystyle \overbrace {f(f(f(\cdots f(f(93,000,000,000)} ^{93,000,000,000}}
+.
+Qwerycubes
+hold many Miniqwertycubes, because Miniqwertycubes contain resources that are used for building very large structures
+.

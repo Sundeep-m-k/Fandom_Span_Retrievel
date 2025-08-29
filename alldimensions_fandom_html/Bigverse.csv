@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+12375,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/70/Bigverse.png/revision/latest?cb=20250121030830,"{""\n\n"": 1}",1
+12375,1,Massiveverses,48,61,internal,https://alldimensions.fandom.com/wiki/Massiveverse,"{""Massiveverses"": 1}",1
+12375,1,Clusterverses,73,86,internal,https://alldimensions.fandom.com/wiki/Clusterverse,"{""Clusterverses"": 1}",1
+12375,1,Clusterverse,73,85,internal,https://alldimensions.fandom.com/wiki/Clusterverse,"{""Clusterverse"": 1}",1
+12375,1,planets,481,488,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+12375,2,Clusterverses,94,107,internal,https://alldimensions.fandom.com/wiki/Clusterverse,"{""Clusterverses"": 1}",1

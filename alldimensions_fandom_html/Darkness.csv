@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47999,2,Chaos,18,23,internal,https://alldimensions.fandom.com/wiki/Chaos,"{""Chaos"": 1}",1
+47999,3,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/ef/Dark_God.png/revision/latest?cb=20241210071819,"{""\n\n"": 1}",1
+47999,4,LIGHT,100,105,internal,https://alldimensions.fandom.com/wiki/Lightness,"{""LIGHT"": 1}",1
+47999,5,Alphasm,0,7,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""Alphasm"": 1}",1
+47999,6,Chaos,0,5,internal,https://alldimensions.fandom.com/wiki/Chaos,"{""Chaos"": 1}",1
+47999,7,Light,0,5,internal,https://alldimensions.fandom.com/wiki/Lightness,"{""Light"": 1}",1

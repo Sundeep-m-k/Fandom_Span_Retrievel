@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+38103,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fc/Omni-Rocks.png/revision/latest?cb=20240507184948,"{""\n\n"": 1}",1
+38103,1,The Omni-Cave,32,45,internal,https://alldimensions.fandom.com/wiki/The_Omni-Cave,"{""The Omni-Cave"": 1}",1
+38103,2,The Waves of Heat,35,52,internal,https://alldimensions.fandom.com/wiki/The_Waves_of_Heat,"{""The Waves of Heat"": 1}",1
+38103,2,The Omni-Cave,64,77,internal,https://alldimensions.fandom.com/wiki/The_Omni-Cave,"{""The Omni-Cave"": 1}",1
+38103,2,Omni-God,150,158,internal,https://alldimensions.fandom.com/wiki/Omni-God,"{""Omni-God"": 1}",1

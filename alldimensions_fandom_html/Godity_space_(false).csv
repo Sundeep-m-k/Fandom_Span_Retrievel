@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43341,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/97/The_Complex.jpg/revision/latest?cb=20190805174019,"{""\n\n"": 1}",1
+43341,1,universe,108,116,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+43341,1,Void,164,168,internal,https://alldimensions.fandom.com/wiki/The_Void,"{""Void"": 1}",1
+43341,1,Basic spaces,305,317,internal,https://alldimensions.fandom.com/wiki/Basic_space,"{""Basic spaces"": 1}",1
+43341,1,Metawebs,330,338,internal,https://alldimensions.fandom.com/wiki/Metaweb,"{""Metawebs"": 1}",1
+43341,3,beyond godities,49,64,internal,https://alldimensions.fandom.com/wiki/Beyond_godity,"{""beyond godities"": 1}",1
+43341,3,the official hierarchy,283,305,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""the official hierarchy"": 1}",1
+43341,3,class 3,308,315,internal,https://alldimensions.fandom.com/wiki/Category:3rd-class,"{""class 3"": 1}",1
+43341,3,terminators,316,327,internal,https://alldimensions.fandom.com/wiki/Category:Class_Terminator,"{""terminators"": 1}",1
+43341,3,Peraomniversal Complexes,333,357,internal,https://alldimensions.fandom.com/wiki/Peraomniversal_Complex,"{""Peraomniversal Complexes"": 1}",1

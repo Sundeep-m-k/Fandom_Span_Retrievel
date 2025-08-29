@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41723,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/aa/Primordial_Warehouse.png/revision/latest?cb=20220419151134,"{""\n\n"": 1}",1
+41723,1,PFactory,48,56,internal,https://alldimensions.fandom.com/wiki/Primordial_Factory,"{""PFactory"": 1}",1
+41723,1,EUSI,59,63,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+41723,1,Finality Index,69,83,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+41723,1,FOEI,89,93,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+41723,1,factory,118,125,internal,https://alldimensions.fandom.com/wiki/Primordial_Factory,"{""factory"": 1}",1
+41723,1,Primordial Cities,379,396,internal,https://alldimensions.fandom.com/wiki/Primordial_City,"{""Primordial Cities"": 1}",1
+41723,1,Primordial Baskets,409,427,internal,https://alldimensions.fandom.com/wiki/Primordial_Basket,"{""Primordial Baskets"": 1}",1
+41723,1,Primordial Factories,429,449,internal,https://alldimensions.fandom.com/wiki/Primordial_Factory,"{""Primordial Factories"": 1}",1
+41723,3,Primordial Baskets,86,104,internal,https://alldimensions.fandom.com/wiki/Primordial_Basket,"{""Primordial Baskets"": 1}",1
+41723,3,Primordial Factories,123,143,internal,https://alldimensions.fandom.com/wiki/User:Jiggyleaves930/Primordial_Factory,"{""Primordial Factories"": 1}",1
+41723,3,Primordial Cities,413,430,internal,https://alldimensions.fandom.com/wiki/Primordial_City,"{""Primordial Cities"": 1}",1
+41723,3,Toxicium,646,654,internal,https://alldimensions.fandom.com/wiki/Toxicium,"{""Toxicium"": 1}",1

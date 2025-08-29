@@ -1,0 +1,75 @@
+Boxial Core
+Natural Position
+Contained by
+Most layers of their local
+Boxes
+(although the one an escaping object will end up in varies), and
+Boxial Voids
+Contains
+One layer of their local
+Box
+per core, and the same instance of
+Hyper-Space
+regardless of core
+Scale
+Dimensionality
+𝜔+𝜔2
+Diameter
+Varies from 𝜔 to 𝜔
+𝜔
+LY
+Kardashev Scale
+𝜔
+Contents
+1
+Introduction
+2
+Containment fluids
+2.1
+Distribution of containment fluids
+3
+Formation of Boxes
+Introduction
+[
+]
+Boxial Cores
+are the central region of a
+Box
+, that also bind all of their Boxial layers together. This core maps positions to specific layers of the Boxes based on fluids on the exterior using containment fluids.
+Containment fluids
+[
+]
+The containment fluids can link two objects' containment together, and when different types are combined, an object can be contained by multiple objects at the same time. Additionally, the containers are randomly accessed based on which patch of fluid a particle escaped from. This is used to randomly link together the layers of the Boxes, and also to link
+Hyper-Space
+'s containment to a random Boxial Core.
+Containment fluids also only interact with
+existence and nonexistence
+, due to the fluids being a mix of those ranks alongside portions with no existence rank as a buffer. This allows objects of an existence state that is neither 0 nor 1 to not be bound by self-containment.
+Distribution of containment fluids
+[
+]
+Containment fluids are typically in large patches in the Boxial Core's exterior, specifically large powers of the transfinite ordinal
+ω
+{\displaystyle \omega}
+. However, if an object exits through an intersection of two patches, it will get split up into many pieces.
+Formation of Boxes
+[
+]
+Before any Box develops layers, there's a scattered sea of mostly empty cuboid-shaped
+Verses
+(known as Subboxes) in its local
+Boxial Void
+, on the place it will be generated.
+A simplistic image for the containment
+The layers do not contain each other, until a collision happenes from an infinite amount of energy duplication in external sources.
+This collision's force is so strong, that abstract concepts end up smashed into concrete objects. In the case of most if not all Boxes, the concept of containment ends up into small rocks, which later under immense pressure turn into containment fluids. These fluids are scattered throughout the majority of Subboxes in its local Boxial Void, allowing for two things:
+Layers of the Boxes containing other layers.
+Layers of the Boxes to be contained by multiple layers at a time.
+These two concepts became the foundation of the modern state of most Boxes and Boxial Cores; each core is contained by a transfinite amount of Boxial layers, and each layer contains another layer.
+This ends up not being the end of the process however, as the Boxes will eventually develop 2-
+Finality
+and their
+Omniverses
+later on, as seen in the Omniverse page. The fluids in the Boxial Core near to the Boxes stabilize over time, while also absorbing
+0-existence and 1-existence
+from their generated Boxes. This prevents objects that were not those ranks from getting trapped within the Boxes, which would lead to the latters naturally purifying their 0-existence and 1-fm existence attributes.

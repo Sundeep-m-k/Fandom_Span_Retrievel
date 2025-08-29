@@ -1,0 +1,3 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45229,2,Universes,42,51,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+45229,2,Boxes,59,64,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Boxes"": 1}",1

@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+44657,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6c/Dark_harbringeer.jpg/revision/latest?cb=20230919164038,"{""\n\n"": 1}",1
+44657,1,planet,56,62,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
+44657,1,void,119,123,internal,https://alldimensions.fandom.com/wiki/Void,"{""void"": 1}",1
+44657,1,OYC,135,138,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+44657,2,nigh-omni-god,24,37,internal,https://alldimensions.fandom.com/wiki/Category:Nigh-Omni-God,"{""nigh-omni-god"": 1}",1
+44657,3,entity,26,32,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entity"": 1}",1
+44657,3,TOGs,52,56,internal,https://alldimensions.fandom.com/wiki/Transcendent_Omni-God,"{""TOGs"": 1}",1
+44657,5,entities,18,26,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entities"": 1}",1

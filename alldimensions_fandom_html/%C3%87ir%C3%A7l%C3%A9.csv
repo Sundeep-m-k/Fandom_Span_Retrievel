@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+37065,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/ff/%C3%87ir%C3%A7l%C3%A9.jpg/revision/latest?cb=20210228172444,"{""\n\n"": 1}",1
+37065,1,EUSI,39,43,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+37065,1,Finality Index,48,62,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+37065,1,FOEI,69,73,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1

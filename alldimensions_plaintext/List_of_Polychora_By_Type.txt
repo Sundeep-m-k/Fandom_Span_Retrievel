@@ -1,0 +1,90 @@
+Wider Scope:
+List of Polytopes by Type
+Polychora
+are
+four-dimensional
+polytopes
+. They have
+vertices
+,
+edges
+,
+faces
+,
+cells
+and a single teron.
+Contents
+1
+Types
+1.1
+By Construction
+1.2
+By Verf
+2
+List of Rotatopic Polychora
+Types
+[
+]
+By Construction
+[
+]
+List of Rotatopic Polychora
+List of Duoprism Polychora
+List of Antiduoprism Polychora
+List of Regular Polychora
+By Verf
+[
+]
+List of Polychora with Tetrahedral Verfs (Verf:
+Tetrahedron
+)
+List of Polychora with Triangular Prismic Verfs (Verf:
+Triangular Prism
+)
+List of Polychora with Square Pyramidal Verfs (Verf: Square Pyramid)
+List of Polychora with Cubic Verfs (Verf:
+Cube
+)
+List of Polychora with Octahedral Verfs (Verf:
+Octahedron
+)
+List of Polychora with Icosahedral Verfs (Verf:
+Icosahedron
+)
+List of Rotatopic Polychora
+[
+]
+Rotatopic polychora
+are polychora formed from the product of multiple hyperspheres. There are exactly five rotatopic polyhedra, listed below along with their constituent hyperspheres (using
+Bowers' rotatope notation
+):
+Tesseract
+|
+|
+|
+|
+{\displaystyle ||||}
+Cubinder
+(
+)
+|
+|
+{\displaystyle ()||}
+Duocylinder
+(
+)
+(
+)
+{\displaystyle ()()}
+Spherinder
+(
+|
+)
+|
+{\displaystyle (|)|}
+Glome
+(
+|
+|
+)
+{\displaystyle (||)}

@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20639,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0a/Askorian.jpg/revision/latest?cb=20200201202404,"{""\n\n"": 1}",1
+20639,1,Erkesik,190,197,internal,https://alldimensions.fandom.com/wiki/Erkesik,"{""Erkesik"": 1}",1
+20639,1,Box,361,364,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+20639,1,Universes,409,418,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+20639,4,Turtlies,158,166,internal,https://alldimensions.fandom.com/wiki/Turtlie,"{""Turtlies"": 1}",1
+20639,4,Planets,184,191,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+20639,4,Galaxy Filaments,215,231,internal,https://alldimensions.fandom.com/wiki/Galaxy_Filament,"{""Galaxy Filaments"": 1}",1

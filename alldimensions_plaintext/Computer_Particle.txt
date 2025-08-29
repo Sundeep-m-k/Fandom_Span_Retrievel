@@ -1,0 +1,92 @@
+A computer particle is a particle that can be used in a computer-like way, and resemble how computers do things. They can also completely ignore the
+No Cloning Theorem
+, being able to perfectly replicate matter. They can also manipulate matter, as mentioned in the sentence before, and are the new
+What Particles
+, excluding their math abilities, however you can arrange them to have the abilities of What Particles, though it's a complex way. They are used by advanced civilizations to do stuff such as make matter factories or turn their junk matter into better matter.
+Contents
+1
+Wire
+2
+Bit
+3
+Logic
+3.1
+And
+3.2
+Or
+3.3
+Xor
+3.4
+Not
+4
+Matter
+5
+Other
+5.1
+Sort
+5.2
+Clone
+5.3
+Merge
+Wire
+[
+]
+Computer Particle Wire basically creates a path for the particles to flow through. They carry Bit Computer Particles and can be attached to other Computer Particles.
+Bit
+[
+]
+Bit Computer Particles are basically the electric flow of these particles. They obviously come in 2 forms, 0 and 1.
+Logic
+[
+]
+Logic Computer Particles are like logic gates. They output different Bit particles depending on the INPUT of Bit particles.
+And
+[
+]
+And Logic particles are Logic Particles that has 2 inputs. If you're looking at a side with 2 holes, you're looking at inputs. If you're looking at the opposite side of that, with only 1 hole, you're looking at the output. It outputs a 1 bit particle only if both the inputs are 1 bit particles, and if any of the inputs are a 0 bit particle, it spits out a 0 bit particle.
+00 = 0
+10 = 0
+01 = 0
+11 = 1
+Or
+[
+]
+Or Logic particles are Logic Particles that have 2 inputs and has 1 output much like the And Logic particle, except it spits out a 1 bit particle if there is 1 bit particle input, and if both inputs are 0 bit particles, it spits out a 0 bit particle.
+00 = 0
+10 = 1
+01 = 1
+11 = 1
+Xor
+[
+]
+Xor Logic Particles (Exclusive-Or Logic Particles) are like the Or Logic Particles, but spits out a 0 bit particle if both inputs are 1.
+00 = 0
+10 = 1
+01 = 1
+11 = 0
+Not
+[
+]
+Not Logic Particles are unlike the others. There are only 1 input and 1 output. The two of them are colored to prevent confusion (Red = Input, Blue = Output). If you put in a bit particle, it flips the form of that bit particle. There are no other variants of the other Logic Particles with Not because they can simply be constructed by attaching the Logic Particle's output to the input of a Not Logic Particle via Computer Particle Wire.
+0 = 1
+1 = 0
+Matter
+[
+]
+Matter Computer Particles are the type that manipulate the matter. It's structure is like the (And/Or/Xor) Logic Particles except the right input is where you put a bit computer particle and another particle. If you don't insert a bit particle, it by default outputs a 0 bit particle when you put a particle in the left input that is the same as the non-bit particle you put in the right input. When you do that, if you put a particle in the left input the same as the non-bit particle put in the right input, it will output that bit particle, and vice versa (putting a bit particle in the left input the same as the bit particle in the right input will output the non-bit particle). Inputs are also colored like the Not Logic Particle (Red = Left, Blue = Right)
+Other
+[
+]
+Sort
+[
+]
+Sorts out bit particles by form. You have 1 input and 2 outputs. Also colored the same as Matter Computer Particles. 0 bit particles will come out of red and 1 bit particles will come out of blue.
+Clone
+[
+]
+Outputs two bit particles of the same form as the input. Useful for matter manipulation.
+Merge
+[
+]
+"Merges" two Computer Particle wires. You have two inputs. If a bit particle goes in either input, that bit particle comes out of the output.
+This image shows a badly drawn graph of how to make an automatic matter machine using Computer Particles, with orange being the wire.

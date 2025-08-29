@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40234,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e3/The_Cup.png/revision/latest?cb=20211222220450,"{""\n\n"": 1}",1
+40234,1,The Globes,47,57,internal,https://alldimensions.fandom.com/wiki/The_Globe,"{""The Globes"": 1}",1
+40234,1,The Ice Creams,69,83,internal,https://alldimensions.fandom.com/wiki/The_Ice_Cream,"{""The Ice Creams"": 1}",1
+40234,1,Ice Creams,73,83,internal,https://alldimensions.fandom.com/wiki/The_Ice_Cream,"{""Ice Creams"": 1}",1
+40234,2,Ice Creams,46,56,internal,https://alldimensions.fandom.com/wiki/The_Ice_Cream,"{""Ice Creams"": 1}",1

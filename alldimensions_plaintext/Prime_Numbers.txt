@@ -1,0 +1,12 @@
+A Prime Number is a positive Integer where its only factors are 1 and itself. Here are the first 25 prime numbers:
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, ........
+Facts:
+2 is the only even prime number
+There are [
+set|countably infinite
+] prime numbers
+Proof for Countably-Infinite Cardinality of Prime Numbers
+[
+]
+The traditional proof that there are countably infinite prime numbers is Euclid's proof by contradiction. The simplified version goes as follows:
+Assume that there are not infinitely many primes. Multiply all of the primes together and add one. This new number can not be divided by a prime number, so either it or one of its factors is a new prime. Therefore, there must not be finitely many primes.

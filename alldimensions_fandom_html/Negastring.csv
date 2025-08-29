@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42625,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a0/String.png/revision/latest?cb=20161214214424,"{""\n\n"": 1}",1
+42625,1,R. skull,72,80,internal,https://alldimensions.fandom.com/wiki/R_Skull,"{""R. skull"": 1}",1
+42625,1,Bocks,82,87,internal,https://alldimensions.fandom.com/wiki/The_Bocks,"{""Bocks"": 1}",1
+42625,1,Voidonions,99,109,internal,https://alldimensions.fandom.com/wiki/Voidonion,"{""Voidonions"": 1}",1
+42625,1,versuni,246,253,internal,https://alldimensions.fandom.com/wiki/The_Pre-Hierarchy,"{""versuni"": 1}",1
+42625,1,chain,254,259,internal,https://alldimensions.fandom.com/wiki/Category:Verseuni_Chain,"{""chain"": 1}",1
+42625,2,strings,40,47,internal,https://alldimensions.fandom.com/wiki/String,"{""strings"": 1}",1
+42625,4,strings,12,19,internal,https://alldimensions.fandom.com/wiki/String,"{""strings"": 1}",1
+42625,4,strings,12,19,internal,https://alldimensions.fandom.com/wiki/String,"{""strings"": 1}",1
+42625,6,strings,75,82,internal,https://alldimensions.fandom.com/wiki/String,"{""strings"": 1}",1
+42625,6,neutral matter,123,137,internal,https://alldimensions.fandom.com/wiki/Neutral_Matter,"{""neutral matter"": 1}",1

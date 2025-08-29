@@ -1,0 +1,61 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+3566,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f5/Teraverse2.png/revision/latest?cb=20230123022814,"{""\n\n"": 1}",1
+3566,1,EUSI,70,74,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+3566,1,Finality Index,79,93,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+3566,1,FOEI,100,104,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+3566,1,Geraverses,148,158,internal,https://alldimensions.fandom.com/wiki/Geraverse,"{""Geraverses"": 1}",1
+3566,1,Shirroverses,162,174,internal,https://alldimensions.fandom.com/wiki/Shirroverse,"{""Shirroverses"": 1}",1
+3566,1,Petaverses,336,346,internal,https://alldimensions.fandom.com/wiki/Petaverse,"{""Petaverses"": 1}",1
+3566,1,Hoolaverses,351,362,internal,https://alldimensions.fandom.com/wiki/Hoolaverse,"{""Hoolaverses"": 1}",1
+3566,1,Gigaverses,375,385,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverses"": 1}",1
+3566,1,Glitchonicite,387,400,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+3566,1,Geraverses,148,158,internal,https://alldimensions.fandom.com/wiki/Geraverse,"{""Geraverses"": 1}",1
+3566,1,Shirroverses,162,174,internal,https://alldimensions.fandom.com/wiki/Shirroverse,"{""Shirroverses"": 1}",1
+3566,1,Xenoverses,483,493,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverses"": 1}",1
+3566,1,Hyperverse,520,530,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""Hyperverse"": 1}",1
+3566,3,Gigaverses,40,50,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverses"": 1}",1
+3566,3,Lawium,236,242,internal,https://alldimensions.fandom.com/wiki/Lawium,"{""Lawium"": 1}",1
+3566,4,Glitchonicite,0,13,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+3566,4,Glitchonicite,0,13,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+3566,4,Archverses,177,187,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverses"": 1}",1
+3566,4,grey hole,200,209,internal,https://alldimensions.fandom.com/wiki/Gray_hole,"{""grey hole"": 1}",1
+3566,4,Ultraverse,239,249,internal,https://alldimensions.fandom.com/wiki/Ultraverse,"{""Ultraverse"": 1}",1
+3566,4,Archverse,177,186,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverse"": 1}",1
+3566,4,Omniverse,378,387,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+3566,5,Petaverse,48,57,internal,https://alldimensions.fandom.com/wiki/Petaverse,"{""Petaverse"": 1}",1
+3566,5,Gigaverses,106,116,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverses"": 1}",1
+3566,5,Megaverses,175,185,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverses"": 1}",1
+3566,5,Gigaverses,106,116,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverses"": 1}",1
+3566,5,Gigaverse,106,115,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverse"": 1}",1
+3566,5,Megaverses,175,185,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverses"": 1}",1
+3566,6,omniverse,182,191,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverse"": 1}",1
+3566,6,Ultraverse,348,358,internal,https://alldimensions.fandom.com/wiki/Ultraverse,"{""Ultraverse"": 1}",1
+3566,6,Omniverse,4,13,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+3566,7,Geraverses,168,178,internal,https://alldimensions.fandom.com/wiki/Geraverse,"{""Geraverses"": 1}",1
+3566,7,Shirroverses,182,194,internal,https://alldimensions.fandom.com/wiki/Shirroverse,"{""Shirroverses"": 1}",1
+3566,7,Xenoverse,215,224,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverse"": 1}",1
+3566,7,Hyperverse,228,238,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""Hyperverse"": 1}",1
+3566,8,Archverse,9,18,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverse"": 1}",1
+3566,11,Le Jorino Area,0,14,internal,https://alldimensions.fandom.com/wiki/Le_Jorino_Area,"{""Le Jorino Area"": 1}",1
+3566,11,Archverse,17,26,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverse"": 1}",1
+3566,11,Ultraverse,29,39,internal,https://alldimensions.fandom.com/wiki/Ultraverse,"{""Ultraverse"": 1}",1
+3566,34,YellowMarkers1,0,14,internal,https://alldimensions.fandom.com/wiki/User:YellowMarkers1,"{""YellowMarkers1"": 1}",1
+3566,36,Oofandfoo,0,9,internal,https://alldimensions.fandom.com/wiki/User:Oofandfoo,"{""Oofandfoo"": 1}",1
+3566,39,Randomuser66,0,12,internal,https://alldimensions.fandom.com/wiki/User:Randomuser66,"{""Randomuser66"": 1}",1
+3566,55,ⶍ The Pre-Hierarchy ⶍ,0,21,internal,https://alldimensions.fandom.com/wiki/The_Pre-Hierarchy,"{""ⶍ The Pre-Hierarchy ⶍ"": 1}",1
+3566,55,⧉ The Official Hierarchy ⧉,24,50,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""⧉ The Official Hierarchy ⧉"": 1}",1
+3566,55,⍍ The Extended Hierarchy ⍍,53,79,internal,https://alldimensions.fandom.com/wiki/The_Extended_Hierarchy,"{""⍍ The Extended Hierarchy ⍍"": 1}",1
+3566,55,⍬ The Post-Hierarchy ⍬,82,104,internal,https://alldimensions.fandom.com/wiki/The_Post-Hierarchy,"{""⍬ The Post-Hierarchy ⍬"": 1}",1
+3566,55,✤ The Extended Post-Hierarchy ✤,107,138,internal,https://alldimensions.fandom.com/wiki/The_Extended_Post-Hierarchy,"{""✤ The Extended Post-Hierarchy ✤"": 1}",1
+3566,56,Physical Realms,0,15,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Physical Realms"": 1}",1
+3566,56,Realmic Stripes,17,32,internal,https://alldimensions.fandom.com/wiki/Realmic_Strip,"{""Realmic Stripes"": 1}",1
+3566,56,Archrealities,36,49,internal,https://alldimensions.fandom.com/wiki/Archreality,"{""Archrealities"": 1}",1
+3566,56,Protoparticles,51,65,internal,https://alldimensions.fandom.com/wiki/Protoparticle,"{""Protoparticles"": 1}",1
+3566,56,Inanes,67,73,internal,https://alldimensions.fandom.com/wiki/Inane,"{""Inanes"": 1}",1
+3566,57,The Novachain,0,13,internal,https://alldimensions.fandom.com/wiki/Novachain,"{""The Novachain"": 1}",1
+3566,58,Nothing,0,7,internal,https://alldimensions.fandom.com/wiki/Nothing,"{""Nothing"": 1}",1
+3566,58,The Hierarchy Hierarchy,10,33,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""The Hierarchy Hierarchy"": 1}",1
+3566,58,Reality,36,43,internal,https://alldimensions.fandom.com/wiki/Reality,"{""Reality"": 1}",1
+3566,58,The Structure of Everything,46,73,internal,https://alldimensions.fandom.com/wiki/The_Structure_Of_Everything,"{""The Structure of Everything"": 1}",1

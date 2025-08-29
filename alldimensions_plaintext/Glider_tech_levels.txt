@@ -1,0 +1,127 @@
+The
+glider tech levels
+are the levels of advancement that glider-using multiversal civilisations tend to travel through. Not all civilisations pass through every level, and not always in the same order, not to mention civilisations that don't even use gliders at all, but on average they represent a typical trajectory.
+Contents
+1
+Nudge Tech Levels
+2
+Early Glider Tech Levels
+2.1
+Heavy Nudge
+2.2
+Resonant
+3
+Branching Tech Levels
+3.1
+Defect Branching
+3.2
+State-change Branching
+3.3
+External split Branching
+4
+Looping Tech Levels
+4.1
+Multiple branch looping
+4.2
+Steady-state-change looping
+4.3
+Timecube looping
+5
+Late Glider Tech Levels
+5.1
+Floating glider assembly
+5.2
+Paired glider assembly
+Nudge Tech Levels
+[
+]
+Before gliders are developed, civilisations tend to use nudge-style drives for interuniversal travel. These are covered in more detail in the
+nudge tech levels
+article.
+Early Glider Tech Levels
+[
+]
+Heavy Nudge
+[
+]
+Heavy nudge
+technology isn’t a “true”
+glider
+, but remains an expensive way for early
+glider-era civilisations
+to begin sending complex payloads all at once to different universes. A heavy nudge is exactly what it sounds like – a
+nudge drive
+using a truly enormous amount of energy, collimated using advanced
+infomatter
+techniques, to send the equivalent of a glider without actually being a stable structure.
+Resonant
+[
+]
+Resonant
+technology is the creation of
+gliders
+using naturally occurring nearby
+universes
+, by using copious amounts of
+infomatter
+to slowly construct a glider suspended between the two. This is much more expensive energetically per than creating a glider in a recently split universe, but has lower setup costs because no cosmic splitting has to occur.
+Branching Tech Levels
+[
+]
+Search-style drives are more complicated, requiring truly high-dimensional construction techniques. Essentially, search-drives construct a high-dimensional "glider" embedded on their surface of the multiverse, which travels in a straight geodesic until it hits a universe and deposits its informational payload. Because the interuniversal void is outside of time, this allows for, in theory, arbitarily distant universes to be contacted instantly.
+In practise, the construction of the glider is a difficult task, since it requires projection from a low-dimensional spacetime into a high-dimensional one. The simplest ones exploit the natural splitting of a universe; when seeded properly with infomatter (on the scale of billions of light years), and then forced into a state change (say, a false vacuum collapse), the universe splits in two along a high-dimensional surface and the close proximity of alternate versions of the infomatter array at the moment of splitting allows them to interact well enough to assemble the glider. This technique is known as branching.
+Defect Branching
+[
+]
+Defect branching
+technology uses
+cosmic defects
+to create two recently split
+universes
+- for example, creating a
+glider
+by expanding a
+domain wall
+along the third, fourth and fifth dimensions. This creates a small gap in which gliders can be generated, but their payloads are very limited compared to more advanced branching technologies.
+State-change Branching
+[
+]
+State-change branching
+what one thinks of when they imagine a
+branch-era civilisation
+. A state-change branching civilisation induces a
+cosmic state change
+in the vacuum of their
+universe
+, which causes the separation between the universes' splits to be great enough to create a universe-sized
+glider
+in between.
+External split Branching
+[
+]
+External split branching
+works by the same fundamental principles as state-change branching, but with the split induced by firing a nudge or
+glider
+projectile from a neighbouring universe. This allows for greater expressiveness in the design of gliders, because they no longer have to also be able to induce a split from inside the universe where they're built.
+Looping Tech Levels
+[
+]
+The number of state-changes available to a universe before it stops being capable of hosting infomatter, however, is limited; only a finite number can be performed before the universe becomes mangled. This can be avoided by setting up a "rake" on the surface of the multiverse which continally returns to the same state, releasing a glider each time; this is difficult, and requires a great many universes to be expended by branching, as well as a constant stream of universes as fuel, but when performed can continue producing gliders indefinitely. Being outside of time, the only limit is how fast universes can be fed into it. The production of a repeating rake is known as looping.
+Multiple branch looping
+[
+]
+Steady-state-change looping
+[
+]
+Timecube looping
+[
+]
+Late Glider Tech Levels
+[
+]
+Floating glider assembly
+[
+]
+Paired glider assembly
+[
+]

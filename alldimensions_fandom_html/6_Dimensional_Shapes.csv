@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35444,2,simplex,32,39,internal,https://alldimensions.fandom.com/wiki/Simplex,"{""simplex"": 1}",1
+35444,5,cross polytope,47,61,internal,https://alldimensions.fandom.com/wiki/Cross_polytope,"{""cross polytope"": 1}",1
+35444,5,schläfli symbol,104,119,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""schläfli symbol"": 1}",1

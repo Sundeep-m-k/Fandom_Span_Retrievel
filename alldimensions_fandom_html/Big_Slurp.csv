@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42944,1,Universe,19,27,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+42944,3,our,46,49,internal,https://alldimensions.fandom.com/wiki/Our_Universe,"{""our"": 1}",1
+42944,3,matter,205,211,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1

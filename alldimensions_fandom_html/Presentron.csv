@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42772,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/19/Presentron.png/revision/latest?cb=20221206201339,"{""\n\n"": 1}",1
+42772,1,Orgsper and Bloughun,50,70,internal,https://alldimensions.fandom.com/wiki/Orgsper_and_Bloughun,"{""Orgsper and Bloughun"": 1}",1
+42772,1,Rajackaskwadaverse,72,90,internal,https://alldimensions.fandom.com/wiki/Rajackaskwadaverse,"{""Rajackaskwadaverse"": 1}",1
+42772,2,Rajackaskwadaverse,251,269,internal,https://alldimensions.fandom.com/wiki/Rajackaskwadaverse,"{""Rajackaskwadaverse"": 1}",1
+42772,2,Orgsper and Bloughun,295,315,internal,https://alldimensions.fandom.com/wiki/Orgsper_and_Bloughun,"{""Orgsper and Bloughun"": 1}",1

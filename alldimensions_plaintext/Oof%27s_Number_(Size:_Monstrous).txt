@@ -1,0 +1,87 @@
+Oof's function starts with an insane function, the
+Tweer-tree function in ב.
+Works the same way as
+Tweer's first number
+, but instead of 2 = 2, 2 in here = TWT(TWT(2)). It is represented by the character й.
+a
+0
+(
+2
+)
+=
+T
+W
+T
+(
+T
+W
+T
+(
+4
+)
+)
+{\displaystyle  a_0(2) = TWT(TWT(4))}
+. Already bigger than
+Tweer's Number (Size: Epic)
+by a huge margin.
+b
+0
+(
+2
+)
+=
+a
+2
+(
+2
+)
+=
+a
+1
+(
+4
+)
+=
+a
+0
+(
+b
+i
+g
+)
+{\displaystyle b_0(2)= a_2(2) = a_1(4) = a_0 (big)}
+The index to these functions is known as OWI (Oof's Wacky Index)
+O
+W
+I
+(
+4
+)
+=
+d
+0
+(
+4
+)
+=
+c
+4
+(
+4
+4
+)
+=
+b
+i
+g
+g
+e
+r
+e
+r
+e
+r
+{\displaystyle OWI(4) = d_0(4) = c_4(4^4) = biggererer}
+Using this function, we can create a monstrous number, OWI(
+*200
+)

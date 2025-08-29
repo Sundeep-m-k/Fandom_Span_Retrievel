@@ -1,0 +1,18 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+15857,1,multiversal,36,47,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiversal"": 1}",1
+15857,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/78/Sproyong.png/revision/latest?cb=20200312164147,"{""\n\n"": 1}",1
+15857,3,universes,9,18,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+15857,4,verse,84,89,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+15857,4,planets,193,200,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+15857,6,galaxies,114,122,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxies"": 1}",1
+15857,6,cluster,179,186,internal,https://alldimensions.fandom.com/wiki/Galaxy_Cluster,"{""cluster"": 1}",1
+15857,8,beings,371,377,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""beings"": 1}",1
+15857,9,Terabithia,86,96,internal,https://alldimensions.fandom.com/wiki/Terabithia,"{""Terabithia"": 1}",1
+15857,9,multiverse cluster,232,250,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""multiverse cluster"": 1}",1
+15857,10,Boxes,100,105,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Boxes"": 1}",1
+15857,10,Bxoes,337,342,internal,https://alldimensions.fandom.com/wiki/The_Bxo,"{""Bxoes"": 1}",1
+15857,10,Cetaverses,432,442,internal,https://alldimensions.fandom.com/wiki/Cetaverse,"{""Cetaverses"": 1}",1
+15857,11,asteroid,32,40,internal,https://alldimensions.fandom.com/wiki/Asteroid,"{""asteroid"": 1}",1
+15857,13,Inferno,39,46,internal,https://alldimensions.fandom.com/wiki/The_Inferno,"{""Inferno"": 1}",1

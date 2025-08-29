@@ -1,0 +1,53 @@
+Sinyon
+Properties
+Mass
+430±1 GeV/c
+2
+Charge
+0
+Spin
+52
+Section Header
+Commonly found in
+The Gridcube
+Sinyons are subatomic particles which are only able to be harvested in a
+gridcube
+, which makes them very valuable. These particles are able to be harnessed by civilisations and omni-beings for
+Ħ
+-speed travel.
+Contents
+1
+Production Methods
+1.1
+Sinyon Harvesting
+1.2
+Sinyon Storage
+2
+Activity Property
+Production Methods
+[
+]
+Sinyons are only found naturally in
+gridcubes
+. The sinyons do not get renewed naturally, but there are infinite quantities for them so normal harvesting is not a problem.
+Sinyon Harvesting
+[
+]
+Sinyons are usually harvested by special machines called sinyon harvesters, which inject
+thuon
+-pion paste into a neutralized portion of a gridcube, annihilating the paste and loosening the connections between the sinyons, allowing them to leave the surface of the gridcube portion.
+Sinyon Storage
+[
+]
+Sinyons are very volatile, and the best and easiest way to store large amounts of sinyons is by suspending them in sinyon fluid, which is a homogenous "soup" full of
+strings
+,
+neutral particles
+and bosons. The reason this works so well to stabilize sinyons is not fully known, although it is probably because sinyon fluid is similar to gridcubal voids in composition. To extract the sinyons from a sinyon fluid, you just have to put the sinyon fluid canister into a quantum centrifuge.
+Activity Property
+[
+]
+Sinyons have an "activity" property that can be on or off. This property is usually off, but is turned on in certain circumstances. If the sinyon is active, then it starts to go in random directions at Ħ lightyears per second. After the sinyon starts being active, it stops being active around 2 nanoseconds later.
+Things that can make a sinyon active:
+Rapid collisions with other particles
+Linking / breaking up with other particles in fast succession

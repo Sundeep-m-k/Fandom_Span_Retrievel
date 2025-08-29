@@ -1,0 +1,55 @@
+Universje
+Size
+Age × Speed of light
+Containment
+Contained by
+Oikoversje
+sometimes contained in an infinite space
+Contains
+Quantatomtje
+Emergent properties
+Small scale
+Life
+Medium scale
+Gravity
+A
+universje
+(uni (one) + verse (container) + je (small))
+is an area in a
+xenoversje
+with a diameter based on its age and speed of light. It is also called an "observable universe" because information outside of its border in the past hasn't reached the center of it yet. Universjes could also be described as an area in space in which any two points it contains have had an effect on eachother.
+There are an infinite number of properties a universje can have, and each property may have a finite or infinite amount of variations. Because there is no way to store all of the properties, any universje's property will be that of our own unless otherwise specified.
+This is an alternate version of a universe for
+dadutch's hierarchy
+, I can't use the
+universe
+page because it wouldn't make sense in this hierarchy.
+Contents
+1
+Properties
+1.1
+Composition
+1.2
+Physics
+2
+Simulations
+Properties
+[
+]
+Composition
+[
+]
+A universje can be made out of many different types of stuff. The kind of stuff a universje can contain is based on its current quantum state and it's called its "Vacuum State Composition Type" (or C-type for short). Not enough is known about C-types other than our own and thus other C-types are not able to be explained here yet.
+For a universje to contain life, it must be exclusively made out of either matter or antimatter. Since matter and antimatter annihilate eachother upon creation and a significant amount of randomness is required to completely fill a universje with exclusively either matter or antimatter, such a universje is incredibly rare.
+At a larger scale, a universje becomes homogeneous but does not show signs of any other emergent properties because it is too small. Although a universje does grow along with time, when it reaches a large enough size it has either naturally died from heat death or underwent false vacuum decay resulting in a C-type that isn't complex enough for such emergent properties.
+Physics
+[
+]
+The physics of a universje is entirely dependant on the
+oikoversje(s)
+it's contained within.
+Simulations
+[
+]
+Since a universje is finite, it can be simulated with a computer. A computer is only able to simulate it in real-time if it is contained within a universje with a speed of light greater than the one it's simulating. This is because the computer has to be larger than the universje, along with the universje it's contained within, which is only possible if more information is available at any one point in space by having a greater speed of light.
+A simulated universje does not need to be simulated in real-time in order for everything inside the universje to experience things in real-time, nor does it end when the simulation end.

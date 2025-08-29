@@ -1,0 +1,120 @@
+A
+penteract
+is the 5-dimensional
+hypercube
+.
+Hypervolumes
+[
+]
+vertex count
+=
+32
+{\displaystyle 32}
+edge length
+=
+80
+l
+{\displaystyle 80l}
+surface area
+=
+80
+l
+2
+{\displaystyle 80{ l }^{ 2 }}
+surcell volume
+=
+40
+l
+3
+{\displaystyle 40{ l }^{ 3 }}
+surteron bulk
+=
+10
+l
+4
+{\displaystyle 10{ l }^{ 4 }}
+surpeton pentavolume
+=
+l
+5
+{\displaystyle { l }^{ 5 }}
+Subfacets
+[
+]
+32
+points
+(0D)
+80
+line segments
+(1D)
+80
+squares
+(2D)
+40
+cubes
+(3D)
+10
+tesseracts
+(4D)
+See Also
+[
+]
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

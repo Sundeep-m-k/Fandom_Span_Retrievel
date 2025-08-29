@@ -1,0 +1,17 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2089,1,3-dimensional,14,27,internal,https://alldimensions.fandom.com/wiki/Space,"{""3-dimensional"": 1}",1
+2089,1,hypercube,28,37,internal,https://alldimensions.fandom.com/wiki/Hypercube,"{""hypercube"": 1}",1
+2089,1,space,104,109,internal,https://alldimensions.fandom.com/wiki/Space,"{""space"": 1}",1
+2089,2,Schläfli symbol,11,26,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""Schläfli symbol"": 1}",1
+2089,2,squares,56,63,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1
+2089,2,vertex,93,99,internal,https://alldimensions.fandom.com/wiki/Vertex,"{""vertex"": 1}",1
+2089,2,Schläfli symbols,135,151,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""Schläfli symbols"": 1}",1
+2089,2,line segments,235,248,internal,https://alldimensions.fandom.com/wiki/Ditelon,"{""line segments"": 1}",1
+2089,2,square,56,62,internal,https://alldimensions.fandom.com/wiki/Square,"{""square"": 1}",1
+2089,2,line segment,235,247,internal,https://alldimensions.fandom.com/wiki/Ditelon,"{""line segment"": 1}",1
+2089,2,square,56,62,internal,https://alldimensions.fandom.com/wiki/Square,"{""square"": 1}",1
+2089,2,prism,391,396,internal,https://alldimensions.fandom.com/wiki/List_of_Prism_Polyhedra,"{""prism"": 1}",1
+2089,3,squares,29,36,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1
+2089,4,rectangle,133,142,internal,https://alldimensions.fandom.com/wiki/Rectangle,"{""rectangle"": 1}",1
+2089,4,triangle,236,244,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangle"": 1}",1
+2089,4,hexagons,272,280,internal,https://alldimensions.fandom.com/wiki/Hexagon,"{""hexagons"": 1}",1

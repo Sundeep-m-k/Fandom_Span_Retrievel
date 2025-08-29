@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35743,2,Reality,0,7,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Reality"": 1}",1
+35743,2,verses,176,182,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+35743,3,Archverses,456,466,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverses"": 1}",1
+35743,4,Omniverse,4,13,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+35743,4,Universes,303,312,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1

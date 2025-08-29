@@ -1,0 +1,1279 @@
+wapayef awef! awnvp
+Waf yeb norp'na Wakabewafow, do'zyf Awef ewafow
+Wakabewafow zop ywob'hakn
+(
+Deskord
+)!
+Keh'ek sey waf Wakabewafowuzfek abek
+,
+wa'pay'hud fe'abfek abek
+!
+The Pencil Alphabet
+DO NOT ADD TO THIS PAGE WITHOUT MY PERMISSION; YOU ARE ONLY ALLOWED TO ADD TO THE INFORMAL WORDS SECTION.
+The Pencil Language (
+yeb wakab kef-waf
+or more commonly
+wakabewafow
+) is an extremely ancient language which is widely used. It was created by the
+awef'na
+and uses a 16 character alphabet.
+Apostrophes/dashes can be used to join prefixes/suffixes to regular words. This happens often.
+The letter for "k" can also be pronounced as a "g".
+The letter for "e" can also be pronounced as an "i".
+The letter for "h" can also be pronounced as a "l".
+Name: Damien Nagle ("
+<span class='pencil'>Danaen Naale</span>")
+Note: To use the font for the language on the wiki, type in
+"
+<span class='pencil'>[text]</span>" to produce Pencil Language text.
+Contents
+1
+Grammar
+1.1
+Adjectives, Adverbs, and Descriptive Nouns
+1.2
+Definite and Indefinite Article
+1.3
+Agreement
+1.4
+Case Marking
+1.4.1
+Nominative and Accusative Case
+1.4.2
+Locative And Genitive Case
+1.4.3
+Habitual Case
+1.4.4
+Dative Case
+1.5
+Aspects
+1.6
+Moods
+1.7
+Tenses
+1.8
+Other
+1.8.1
+Causality
+2
+Dictionary
+2.1
+Numbers
+2.2
+Alphabet Order/Names
+2.2.1
+Order
+2.2.2
+Names
+2.3
+Simple words/Misc. Words
+2.3.1
+Adverbs/postpositions (generally take locative case)
+2.4
+Nouns
+2.4.1
+Pronouns
+2.4.2
+Gender-related
+2.5
+Verbs
+2.6
+Adjectives
+2.7
+Interjections
+2.8
+Language-related
+2.9
+Nations
+2.9.1
+Short versions
+2.10
+Cosmology-related
+2.11
+Geometry-related
+2.11.1
+Directions (adverbs)
+2.11.2
+Operations:
+2.12
+Technology
+2.13
+Chemistry-related
+2.14
+Units of measurement
+2.14.1
+Sufffixes
+2.14.2
+Units
+2.15
+Family tree
+2.16
+Phrases/idioms/Rules of the language
+2.17
+Times
+2.18
+SACRED WORDS
+2.19
+Longest Word
+2.20
+Suffixes
+3
+Informal Pronunciation/Spelling
+3.1
+Directions
+4
+Full pronunciation list
+4.1
+Single letters
+4.2
+Multiple letters
+Grammar
+[
+]
+The Pencil Language's sentence structure is SVO.
+The Pencil Language uses the nominative-accusative alignment.
+Adjectives, Adverbs, and Descriptive Nouns
+[
+]
+Adjectives and adverbs all go before the thing they're describing, and adverbs behave like adjectives.
+For descriptive nouns, a copula, "fen", is prefixed onto the descriptive noun, and the copula acts as the verb. For descriptive nouns that are described with an adjective, the copula "fen" will go onto both the adjective and the descriptive noun.
+Definite and Indefinite Article
+[
+]
+The definite article is an infix, "yeb", which can pretty much be inserted anywhere in the word as long as it follows the phonotactics. If the phonotactics do not allow "yeb" to be inserted within the word, "yeb" will become a prefix, and if the phonotactics don't allow that either, "yeb" will be broken off of the word entirely and go before the word. The indefinite article is unmarked; for example, "kef" can both mean "creature" and "a creature".
+Agreement
+[
+]
+Adjectives and nouns will agree on person (if the noun has person marking). This agreement is extremely simple, with the noun's person marking also going on the adjective and also maybe being modified to obey the phonotactics.
+Case Marking
+[
+]
+Here are the cases their case markers:
+-(')ow = passive voice
+-(w)op = locative/genitive case
+-(')ol = instrumental case
+-(w)of = dative case
+-(n)osga = roughly translates to "into"
+-(w)ek = nominative case
+-(a)fef = accusative case
+-(b)ef = used to mark indirect objects and/or nouns not very relavant to the sentence/phrase
+-(w)uw = intransitive verb marker
+Nominative and Accusative Case
+[
+]
+The nominative and accusative case are very important as they form the basis for The Pencil Language's person marking. The nominative case goes on the subject while the accusative case goes on the object. If the phrase/sentence does not have a subject and/or an object, the person marking disappears. If nouns are inflected for something other than person marking or are joined to a larger word, the person marking disappears (with the exception of inflecting for number).
+Locative And Genitive Case
+[
+]
+The locative case and genitive case are marked with the same suffix, -op. However, the location of the possessor/"locator" relative to the patient determines if the -op is the locative case or the genititve case. If the possessor/locator comes before the patient, it is genitive case, and if the possessor/locator comes after the patient, it is locative case.
+For example, "probop kefeefek" = "a verse's civilization", "kefeefek probop" = a civilization within a verse". As you can see, swapping between the two cases changes the roles of the patient and the possessor/locator in the phrase/sentence.
+Habitual Case
+[
+]
+Habitual case is expressed through a "joiner", which is 'e'. The joiner can be prefixed onto a verb to show that the verb usually happens and a noun can be prefixed onto the joiner to specify which thing is doing the action. During this process, the person marking on the noun will disappear.
+For example, "kanuw" = intransitive form of see, "ekanuw" = to usually see, and "prowekanuw" = thing that usually sees/thing that sees/seer. The 'e' joiner in conjunction with a verb and a noun can be used to show that the noun is the agent of the phrase/sentence (the passive voice indicator, "-ow", can be used to negate this and turn the noun into the patient).
+In order to show the object of the phrase, the object is simply added after the word and the intransitive verb suffix is removed. For example, "prowekanuw" = "thing that sees"; "prowekan kef" = "thing that sees a creature". The person marking is removed even though a subject and an object are within the sentence. You can also specify how the action is performed via adding another word after the object and the instrumental case is added to the end of it.
+Dative Case
+[
+]
+Aspects
+[
+]
+The Pencil Language has 3 aspects: imperfective, perfective, and another imperfective for instantaneous verbs in which the action keeps happening.
+Wul- = perfective aspect
+Apwul- = imperfective aspect
+Wulapwul- = imperfective aspect for instantaneous verbs that keep happening
+In order to negate aspects, you add a new negator, "an-", to it.
+Moods
+[
+]
+Tenses
+[
+]
+Other
+[
+]
+Causality
+[
+]
+In order to show that one thing causes another thing, you use the joiner "o" (refer to the "Habitual Case" section for info on joiners). Just like the 'e' joiner, the noun is prefixed onto the joiner and the verb that the noun causes is suffixed onto the joiner. For example, "
+Dictionary
+[
+]
+Numbers
+[
+]
+Note: This language uses a base 16 system.
+All numbers can be pluralized and can be treated as nouns. If one were to say "many tens of people", it would be "yiwkek grobna kefna".
+Holk = number, Apholk = negative number
+Holkin = add, Holkfrak = subtract, Holkanb = multiply, Holk'lown = divide, Holk'anb'ek = exponentiate, Holk'lown'ef = logarithm, Holk'anb'keek = factorial, Holk'kin'keek = summate, Holk'hud = equal
+[number] kop [number] — a number divided by a number
+Sha = 0, Ba = 1 (also means lonely or alone), Na = 2, Ban = 3, Bad = 4, Bas = 5, Baf = 6, Baw = 7, Gak = 8, Geb = 9, Grob = 10(A), Ges = 11(B), Gapk = 12(C), Gusnf = 13(D), Golp = 14(E), Dapf/golp'ba = 15(F), Wekn/dapf'ba/golp'na = 16, dapf'na/golp'ban(wekn'ba [archaic]) = 17, dapf'ban/golp'bad = 18, etc.
+...
+Na'wekn = 32, Ban'wekn = 48, Bad'wekn = 64
+...
+Grosh = 256, Bo'grosh = 512, Wekn'grosh =  4096, Grosh'grosh = 65,536
+...
+Gawak = 16,777,216, Na'gawak =  33,554,432, Wekn'gawak =  268,435,456, Bo'wekn'gawak =  536,870,912, Grosh'gawak =  4,294,967,296, Gawak'gawak =  281,474,976,710,656
+...
+Gafek = infinity/infinite, An'gafek = finite
+Alphabet Order/Names
+[
+]
+Alphabet = Edadok
+Order
+[
+]
+E, A, O, U, K, B, P, D, N, F, S, SH, H, W, R, Y
+Names
+[
+]
+Ed, Ad, Od, Ud, Ko, Bo, Po, De, Ne, Fye, Sye, Shye, Hi, Wu, Ra, Yi
+Simple words/Misc. Words
+[
+]
+Lop = used as a neutral response to something
+Weshef = hello/hi, Shafn = goodbye/bye
+Yeb = the, Yob = this/these (can stand as a single word), Yoy = that (can stand as a single word), -n = can, Pay = do/be, Ferp = be, Do'ferp = became
+Abagop = other, else (can be appended using the -e- joiner plus -uluw to any noun, even pronouns)
+Siy = and/with/too/also/as well
+apon = too (indicating excessity), ewaponow(uw)
+Op = yes/positive, Ap = no/not/negative, Ep = neutral/maybe
+Op'ek = of course, Ap'ek = of course not
+Lod = Who, Fefn = When, Bed = What, Shud = Where, Shefn = Why/reason/excuse/duty/purpose, Yof = How
+Shosh = here, Shash = there
+wecef coc = welcome (literally "hello here")
+ep pon = please (literally "if you want to")
+-l = adverb former (can be appended to almost any adjective)
+opon = in order to, to, with the goal of, with the intention of (doing something)
+el = therefore, thus, (in archaic usage: because, for)
+-ba = to start something, to commence (serves as a suffix)
+nefek = almost, just barely (not), approximately (not indicating a lower or upper bound)
+sa = like, as (used for comparison of two objects)
+pa(y)-[adj.]-ak/af = nominalizer for adjectives
+ra = immediately, right, instantaneously
+gap — not yet, so far not, species that action has not occurred yet
+-c — jussive mood
+yowobowēr yof — how are you doing? (lit. "how is the cosmos favoring you")
+Adverbs/postpositions (generally take locative case)
+[
+]
+kop — [to be] in, on, at (location, loc. case)
+afn — [to be] outside of, out of (location, loc. case)
+nok — from, out of, out from (motion, no case)
+cof — towards, to, into (motion, no case)
+sēk — around (no case)
+efek — than/compare/compared to
+ep — if
+desiy — when/while
+cap — but, although, except
+epayk — as though, as if
+hac — because
+fek = emphasis particle with various meanings "at all", "completely", "entirely", "really", "ever", "all the way to"
+bōsop, bosōp, bōsōp — always
+bosap, bōsap — never
+pah — or
+bagop — only, really
+desiy [n.]owaprepowuwak — without
+hud — the same
+hudef — similar
+hudap — different
+efep — less
+ekep =—more
+[adj.]-efeposga — less than
+[adj.]-ekeposga — more than
+sipk — more (i.e., "one more"
+sipk ba
+, or "many/much more"
+sipk yiwkek
+; comes before the adjective)
+skopk — certainly, definitely, without doubt
+skopkef — probably, likely, possibly
+apulosga — towards, approaching
+osgawop — through, across (movement through)
+alac — over (movement over, above something)
+sidef — still (to the present moment)
+dayob, yob syob payda — afterwards (does not take an argument)
+doyob, yob syob payd — before a certain event (does not take an argument)
+epayd — until, before (takes an argument)
+epayda — after, following an event (takes an argument)
+yobōs — then, at this, that time
+yiwkef [s]cyobna — a few times, some times, sometimes
+al — pertaining to, about (used with the word fepofn)
+-odaralk — for a certain period of time (the time that elapses after an action is completed)
+Nouns
+[
+]
+Pronouns
+[
+]
+ad = 1sg, Ab = 2sg, Ko'ab = 3sg.M, Ke'ab = 3sg.F, Fe'ab = 3sg.N, Ad'na = 1pl, Feab'na/ab'na (archaic) = 3pl, abk - an "unspecific" pronoun, similar to "someone" but more concrete
+Gender-related
+[
+]
+Ko'kef = male, Ke'kef = female, Fe'kef = any another gender
+other nouns
+Kef = creature/organism/person, Wrik = animal (a nonintelligent one, a nonsentient one, non-Awefian basic life, excluding microbes), Kinf = plant, tree
+lar — any two-legged animal, avian, bird
+sil — any four-legged animal, reptile
+woc = object
+yef = life (the totality of all life), payef = live, cef = death/die/dead, paycef = die
+prow = thing
+yowba = top
+yowb = bottom
+cefkef = corpse, dead body
+asob = level
+yawk = nothing/none
+yiwk = portion/section/some
+yowk = whole/every/all/everything
+cudēf = location
+yowk kefna — everyone, everybody
+Yenk = any
+nul — head, face
+kef [noun] kef [verb] — to [verb] together
+Sug = solid, cug = liquid/water, ceg = gas, cag = plasma
+yefop cug = blood (literally "life liquid")
+Yoln = heat/hot, Apyoln = cold, Yolnef = warm
+Biceg = name, Paybiceg = to name/named/known as
+ēf = place/area/region, Sugēf = land, cugēf = sea/ocean
+prowdodc = shadow
+dorona = side
+Gol'prow = mind/brain/idea
+Gol'prow'skep = imagination
+ēpkha = strength/power
+hiwf/cow = chaos, Howf/Swen = order (as in the opposite of chaos)
+Kefēfef = group, community, species (archaic), kin-group
+sad = surface, ground, earth
+yolnpab = thermal energy, bokpab = mechanical energy, penfefpab = chemical energy, kwōwpab = gravitational energy
+fewgk — electricity
+lul — plain, flat region
+cēf — region with many plants, "forest"
+kēk, fēw — order, sequence, list
+payw — mirror
+rosn — question
+nob — hill, mountain
+prof — entrance, opening
+kadk — window
+gilwaf — answer
+fēk — embodiment, representation
+wop — chance
+kronak — smell (n.), taste (n.), flavor
+nop — future
+od — past
+raf — limit
+waybwaf — sacred text, sacred words
+del — the way things are, the situation at hand, the state of things at hand
+fahn — problem
+han — background, context, details
+eprukow — a theme, a topic, a point of discussion
+skowp — science
+sak — ice
+adak — gift, present
+yeckef — friend
+sepk — pain, suffering, anguish
+us — microbe, microbial life, bacteria
+kleb — amount
+frek — size
+kōd — grass
+dōl — stick, twig
+nawkak — storage (i.e., on a device)
+deg — symbol
+bokowk — revolution around a celestial object, an Awefian year (2 human years with negligible difference), an LPT (5 Awefian years)
+hopk — any flat writing surface, a tablet, etc.
+yefēf — house/home
+cer — a bundle, collection, bunch of, set of, etc.
+pawrak — help (n.)
+kwafak — art, drawing, writing, an instance of writing, record (n.)
+gwaf — sound, voice
+karp — fish
+eba, key, swec, en(o) — balance, equilibrium
+frēwab — any thin sheet, paper
+lepk — dot
+kus — a part, a portion, a piece, a slice, a fraction of, etc.
+cakngakwaf — an alternate name for The Pencil Language
+ara — concept, abstraction
+len — type, style, form
+yowob — the cosmos, the cosmos of the True Path
+sal — fruit of a plant
+dedk — glass
+kin — wood, hard part of a tree
+frebk — leaf
+gēl — process, plan
+gēyiwk — step
+hal — cloud
+bagēyiwk — direct
+yiwkekēyiwk — indirect
+ewangilowuw — a secret
+krepofek — center
+ris — hair, fur
+cagk — the east, the eastern region, the region from where the sun rises
+acagk — the west, the western region, the region to where the sun sets
+cefnak — reason, justification
+dofk — belief, value, idea, conviction
+krefak — damage, harm
+yesuhop waf — a heatcore signal
+dofknawop skadask — belief system, religious system
+lih — society, social group (sometimes equated with kefēfek, but that connotates a more close-knit group, rather than a lih, which is generally more spread out and bound not by a common central government but rather by a set of ideals)
+yop — information
+yopeyubuluw — news
+lenepagakopuluw — position (of work)
+skak — field
+pracef — weapon
+pracaskeh — a type of long-ranged plasma weapon
+yedcag — wall, barricade, fence, The Wall
+prokyubol — expedition, journey, exploration
+lugilk — school, learning establishment
+lugyokna — mathematics
+lugewafna — linguistics
+lugekwekrekna — history
+lugibek — astronomy
+lugikefēfek — politics
+ehēyguw — an alien, a non-Awefian
+ewasaguw — a native one, an Awefian
+lugilaf — to study, to research
+payak — an action, a deed, an act
+way — a sacred ritual, ritual, rite
+lugilafk — study (n.), research (n.)
+yepk — prolonged survival
+slal — meaning, point, value, use, benefit, importance
+wrikinf — nature, the natural world
+dca — planet, large space rock, world
+cadca — small rock, stone
+kyepkog — collection of things/galaxy
+lusahk — showing, indication
+dap — strategy, tactic
+payhudak — combination, conglomeration
+arcal — circumstances, environment, conditions
+yahap — empire
+okan — appearance
+lasn — container
+caf — skeleton, support structure, body (in general)
+cafef — shell (lit. small skeleton)
+kyaf — emotion, feeling
+kepfek — mouth
+yakef — ruler
+kog — edge, border
+kosikek — side of a shape
+frefk — a small bit, a small amount, a small thing, small particle, dust particle
+kapf — water
+kok — hole, ditch, trench
+epanōpkuw — any device for long-distance communication
+fyef — food
+yah = skin
+sahapk = army
+ewafow = story, tale, language
+ewf — a short tale, a short story, an anecdote
+sahap = soldier
+yif — internal organs
+prokask = ranged weapon
+sayk — instinct, primal urge, desire
+kwahk = decision
+lal — any kind of position of power, a person or entity with this position
+sud — a ray, a beam of light, radiation
+dadc = target
+asaf = precision
+sapk = danger
+yonēf — furnace
+kal = method, way, means
+pra = network
+kayubak = discovery
+kak = surrounding
+-ak = archaic suffix used to refer to planets
+Prowpawk = the name for an Anchorverse situated near The Enormous
+kek = -verse border
+ceh = intersection
+klōb = amount of time
+kaln = eye
+fesln = ear
+ul — any soft, malleable substance, clay
+rul — cube
+kanak = vision, eye
+kesnfak – hearing, ear
+bōsopkef = generation
+ifwek = right (as in human rights)
+capk = unit of measurement
+lal = a case, an instance, an event
+capkōpf = shortened term for an LPT
+prad = capital city
+pagk = a job, work
+lancak = requirement, demand
+skawkruh = beacon, light source, landmark
+brof = shame, remorse
+yalan = any generic shape of something
+brasaw = direction, path, road, street, roadway
+kefwepal = enemy
+yashapkebewak = atrocity
+feln — tendril, root
+asohopkna = values, morals
+uwnahak = 2pl inclusive
+dalnk = any building
+kay — circle, ring
+kayk — sphere, ball
+boropk = appendage, limb, arm, leg
+nab — tail
+edewuluwekogopuw — socks, mittens, anything worn at the "edge" of an appendage
+dewk — door
+deln — a spacesuit
+ēfkadawof = store
+ce — book, text (archaic)
+cew, pl. cena — book, text
+gilak = knowledge
+spash = referring to the rotation of a planet (colloquial meaning: "day")
+ēpfaspukespashuluw = day (formal)
+golk = thought
+ewoyikēpkuw = advantage
+ēpah = obstacle
+sus — foundation, base, supporting pillar
+skap = a nation, particularly a powerful one, which does not invade others
+browka = very ancient structure
+skadask = system
+ayal = level, degree, stage
+prapk = property
+dar = image, drawing, photo
+sah = shipyard, dock
+lak = voidship, in earlier usage, any spacecraft in general
+prōln = vacuum tunnel
+il — meat, flesh
+asaw = the orientation of an Awefian's front in relation to their tentacles
+hsawk = an Awefian's blind spot located near their mouth and their tentacles
+shaw = arbitrator
+hsawf = to interact with (object in accusative case)
+ashah = disk
+dofn — battle
+dofnek — war, large confrontation
+pakan — to appear, to look [adverb]
+adawdedprow — paint
+prepk — vehicle
+cu(w) — middle
+suc — engine
+nulk — wind
+yesuh — heatcore
+bokogak — orbit (n.)
+yuwp — technology
+hsal — condition (of), property
+bōsiwk — period of time
+ewogefuw — example, describer
+kwefref — a short period of time, a little while
+kwekrek — a long period of time, a (long) while, fig. history (not the discipline)
+hsiy — a key to the universe
+kwuw — oxidation
+yopk — will, motivation, drive
+kawkak — doubt, suspicion
+daln — a gap, a space (typography)
+gonak — an understanding, a conception of, an idea of
+kwōw — spacetime, space and time as a whole
+yecpwaf — song, lyrics
+yes — the First Key
+hur — the Second Key
+cas — a stack, pile, heap, stockpile
+edewul(uw) — clothes, covering
+Verbs
+[
+]
+fen — to be, copula (only intransitive verb to take the -uluw reflexive ending)
+dob — fight
+kepcef, o(pay)cef — kill
+kecef — save
+cif, cyf (archaic) — create, make
+krif, kryf (archaic) — destroy
+paynar — to rise
+laf — fire
+payner — to fall, to descend
+bok — move, fig. to be unstable
+abok = to not move (figuratively: to be stable)
+Sor = go (a short distance), to elapse, to last, Sar = come (from a short distance), these words can also function as adverbs meaning "short distance" and "long distance" respectively
+ral = to go (a long distance), skan = to come (from a long distance), to originate from
+Foh = eat/consume/drink
+pon boropkol = to encourage
+Frah = grow, increase, Freh = shrink, decrease (both intransitive)
+frahk — to become ripe
+Naw = take/bring/to inflict on, Adaw = give/send (not people) (the beneficient is always marked with the accusative case, the thing given only sometimes, and never if using the -o- construction), donate
+askadaw = to sell
+naskyadaw = to exchange (something [accusative] with something [dative)
+skadaw = money
+Nawk = keep/to keep/to store
+Kan = see/watch/look at/look/watch over/have oversight over, Fesnf = hear, Kron = feel/touch/taste
+kanaf = sight, fesnaf = hearing
+pok — purpose, goal, duty
+Hoon = change/edit/modify, Shrun = revert/undo
+Rep (rapx) = have/has/of
+paysēk — to hug, to embrace, to surround
+rin — to wander, to roam
+waf sapk al — to warn, to tell of danger
+goprol = to imagine, to believe (falsely)
+lacn = to send (people), to order, to demand, to require
+payk = to be like, to be similar to
+payoln — to heat, to warm up, to cook
+payapyoln — to cool down, to freeze
+adaw yopk = to motivate, to inspire
+yalh — to catch, to hunt, to chase after
+apayk = to be different than, to be dissimilar to
+yig — stop someone, prevent something, forbid something
+fwek — allow, to accept, to thank, to intercept
+wuy — to act, to behave, wuyf = behavior
+pabōs — to end, to complete, to finish, to stop (some verb, with -ak nominalizer)
+fes — to hear about
+payrosn — to ask a question [to someone]
+palak — to drive, control a vehicle, spacecraft
+yask — to wait, to delay
+nus — to lose, to forfeit, to lose possession of
+yik = restriction
+radal = to treat someone (a certain way)
+rih = to end up at, to lead (ntr.) to
+nuk = to bend, to curve (tr.)
+his — to rob, to steal from (a person)
+pilk — to betray, to go against
+paysek = to inflict pain
+Ek'prob = contain/have/take into account/to detain/to imprison, Ef'prob = contained by
+kefewekprobow(uw) — prisoner, detainee
+Boprof = enter (a physical thing), Aboprof= exit/leave/escape, Ays = return (intransitive), pays = return, hand back (transitive) (the thing being returned is either in the accusative case or no case, the person to whom the thing is being returned to is always in the accusative)
+Gil = know/known, Ap'keh = unknown/do not know, Gon = understand
+lus — to descend from (acc.), to originate from
+gol — think, focus, to opine, to consider, to believe
+gok — reflect on, to consider the possibiilty of, an action, a decision
+oyb — to bless, to sanctify, to help in fortune
+culh — to look for, to search for, to try to find
+rop — happen
+ropk — to cut, to slice
+rad — to pick up, to grab from the ground
+fenba = to show up, to appear (somewhere), to get somewhere (behind, in front of, near, etc.), to go somewhere suddenly
+Pay'gol'shef = scare
+Pagosh = scare (short)
+Pakeh = upgrade/improve/develop, Pakehef = downgrade/worsen
+Pon = want/want to/intend to (wapon "may [...]" [lit. "want!" imp.], placed at beginning of clause)
+poyef — need
+krifef — to damage, harm, wound
+kefyefef = to fix, repair
+gōl — to use, utilize
+nul — to blow (ntr.)
+payd = to go before, to precede
+payda = to go after, to follow, etc. (siy payda)
+Pay'hud = join, to combine, to merge
+cus = remove, to get rid of, to delete, to ban
+paywaf = to follow, to obey, to abide by
+Pay'pay = reflect
+Fepofn = ask
+kal — to maintain, to upkeep
+wēr — like/to praise/to enjoy/to savor
+wafn — dislike/to criticize
+wērek = love
+uni(w) — peace, calmness, tranquility
+adeh brasaw — to get lost, to lose one's way, to wander
+wafnef = hate
+ralk — to pass, to elapse (of time)
+wal — to jump, to hop
+pawēr(ek) — help, to like, to love
+fenan = possible
+parek = care about, to care
+cur — to unfold, to play out
+Bokog = orbit
+luwg = fall
+fal = (of a person) to take, to bring, to lead, to guide, to direct
+Krol = separate, Leral = unite/bring together/collect/gather
+Payrop = cause, Hash'pay'rop = affect
+salk — to command, to order
+rap — to prove, to show, to demonstrate
+payepk — to survive long, to withstand, to hold back
+Lerk = mine/extract/take out, to refuse (archaic)
+Sholg = attack/invade, Piyeg = defend
+Yapk = conquer, to replace
+sorkan = to visit
+payded — to shine, to emit light
+awgil = to confound, to confuse, to make confusing, to make incomprehensible
+Osgayac = fail/lose/try to (unsuccessfully), Osgaskeb = succeed/win, Payosgayac = defeat
+Wog = define, Wogef = describe, to represents
+Kesnf = levitate/fly
+cuk = to worry, to displease, to bother, to disturb
+Kayub = find/discover
+Borop = collide/touch/meet/transitive form of "move"
+boropf — to touch gently
+Pag = work/labor
+Panef = force, power (as in governmental power), leverage, influence, etc.
+Pepk = control/have power over
+Lafn = expel/drive out, Kefelafn = deport
+Lacif = emit
+ciln = to fill up
+apk — to reveal, to show truly
+palk = to empty, to remo
+yas — to glide, to float, to hover
+daln = to stand, to be (somewhere)
+Lan = compose (smth.) (e.g. "this element is composed of ...")
+Skebaf = to lie [to smb. acc], to fail [a purpose], to forfeit [a purpose]
+Ilkefkryfef = to torture
+Dopf = believe, to consider
+Reskak (rapxskah) = radiate off (heat, radiation)
+skeh = warp
+pēf = to place, to put (into, onto, behind, etc.), to park (a vehicle, spacecraft)
+skefes = (synonym with hoon)
+lugil = learn/achieve
+pekreh = protect
+ochek = to isolate
+yaln = acknowledge
+bok(ek) kapfop — to swim, to move in water
+yanek = confront, resist, contradict, reject, deny
+bokoskog = travel around places, to explore
+paf = to wither away
+adesk = to pay money
+pog = place down (a small object)
+dask = extend/stretch
+rak — to hit, to beat
+papka = be related to
+pedek = recall/remember
+adeh = forget
+day = to call for, to advocate for, to wish for, to promote
+saf = spin/rotate(ntr.)/to read
+spuf = be dormant/not move for a long period of time/to be immobile
+dcek = continue to do
+dcekuluw — to continue (ntr.), to go onwards
+ulc — to teach (smn. acc smth.)
+slak = wear
+acuf = be awake
+paycuf — to wake, to awaken (someone)
+sul = to wish, to hope, to secretly want, to dream about having or doing
+adaw yef = to birth
+chēp = to sleep, to rest, to relax, to do nothing, to idle
+sepkaf = to feel pain
+rask = be connected properly, to face against (uncommon meaning)
+chuw = to graduate, to grow out of
+nis = to punish
+pafek = participate in
+cul — to beseech, to request
+kes = record
+has = launch
+skapk = to not face consequences, to illegally escape
+bayak = retaliate, to get revenge on, computer, general word referring to digital technology
+powk = dump on
+swek = to rotate/spin/turn (tr.)
+wawk = to spread
+kraw = to break, to smash, to penetrate
+hsar — to break down, to break, to stop functioning, to snap, to be damaged to a state of irrepair
+kwah = to decide, to choose, to declare, to announce solemnly
+hak = to test
+rak = to receive, to get, to obtain
+gah = to force someone to do something
+puk = to push
+apuk = to pull
+apkek = to forcefully rip off, to tear away, to rip out of
+sak = manipulate
+yak = to include
+hsōwp = pay attention to
+pashapk = to hide (ntr.)
+afay = to disconnect (from)
+afay epanōpkuwafef = roughly equivalent to "to hang up"
+lusah = to show, to indicate, to direct, to point
+yon = to burn
+paynil — to clean
+panach = to prosper
+p(a)fach = to obligate
+ashipsha = to retain, to uphold
+kanskoln = to read
+pruwk = to talk about, to discuss, to tell about, to inform about
+puska = to push out, to be busy
+puwk = to (cause to) explode
+pkesh = to prepare (a thing)
+alk = to inform
+asbef = to stay
+swapka = to avoid, to dodge
+skosh = to attempt (unsuccessfully)
+prud = to mess around, to play
+pnawk = to pretend
+kawk = to doubt, to hold skepticism
+wuw = to close/deactivate (something)
+awuw = to open/activate (something)
+dew = to cover, to place over
+ras = to hold, to carry
+pahska = to transform (something) into
+hacal = to fear
+yiln = to try (successfully)
+swōr = demonstrate, show (that)
+swōf = imply, suggest
+wabdaw = respond, reply
+pil = to end (intr.)
+Adjectives
+[
+]
+Yesh/Kseb (traditional version)= good/great, Kor/Yash (traditional version) = bad/evil
+Fref = small, Krek = big
+fref'ef = very small, krek'ek = very big
+Shub = old, Yub = new
+Skop = real/actual/true/right/correct, Skep = fake/virtual/false/counterfeit/not true/incorrect
+Ded = bright/light, Dodsh = dark/darkness
+Opub = early, Rug = late
+Oded = red, Shakn = orange, Krapk = yellow, Nond = green, Swepk = blue, Yagfn = purple, Akfa = white, Pes = black, Pes'akfa = gray, Shakn'pes = brown, Shakn'akfa = peach (color), Nepeek = gradient, Oded'shakn'nepeek = red-orange gradient, Ded'prow = color
+yiwkef — few, a little (adv., n.)
+yiwkek — many/much (adv., n.)
+gilek — smart/knowledgable/advanced, gilef — dumb/stupid/basic
+gafekbōs — eternal/eternity
+golcef — terror
+golcefgaf — terrifying, scary, frightening
+ralh — brave, worthy, honorable, heroic
+aralh — dishonorable, cowardly
+hes — direct, ahes = indirect
+ēpk — strong/powerful
+ēp — strong, powerful (archaic)
+eyofuw — this way, in this way (an adverb), like this, as such
+ebōsopuw — forever, permanent
+lul — dangerous, risky
+alul — safe, not dangerous
+Ap'eepk = weak/vulnerable
+wafay = free (i.e. not enslaved)
+awafay = not free, enslaved
+Prob'frob'shyf = natural, given at birth
+Kef'shyf = artificial
+Wayb = sacred/divine
+([]-op) yopkol — oneself, for emphasis
+(o/e)poyefowuw = needed, important
+Frēw = thin/narrow, Frōw = thick/wide
+epaydawuw = the next, following
+yecp = beautiful, pretty, nice-looking, comfortable, utilizing one's full potential and possibilities, ideal
+korp = ugly, bad-looking
+Fedeh = easy, Gakaf = medium/average, Hebek = hard/difficult/challenging
+Wopk = lucky, Wopf = unlucky
+slak = having sense ("sensical")
+Dolk = weird, interesting, strange, ill, insane, crazy
+don = funny, interesting
+Aweln = perfect, Befn = imperfect
+kuc - low quality, inferior, bad
+akuc = high-quality, superior
+bokef — slow
+bokek — fast
+fas — complex, confusing
+hig — simple
+epil — last, final, ultimate
+nus — sharp, not dull, honed
+pef — deep, rich (materially)
+apef — shallow, poor (materially)
+abōsp — temporary, not permanent
+bosōp — permanent, forever existing
+asag — native
+hēyg — alien
+kanowuw — obvious, clear, visible
+golprapēpk — demoralized
+angilowuw — secret
+apkefol — automatic, industrial
+nil — clean
+anil — unclean
+cog — to go around, orbit (archaic)
+doh — long ago
+rosnl — questionable, not normal, strange
+arosnl — normal, not strange, usual
+pedcawowuw — isolated
+ha — effortlessly
+hopkosikek, hop — level, flat, even
+asa = accurate
+skad = illegal
+badcaf = machine/computer/calculator (specifically one which is used to perform basic calculations)
+hsap = prepare for
+dcak = special
+kwacn = consistent
+agaf = silent, agafef = quiet, wafek = loud
+spak = standard(ized)
+nalk = hard (in terms of toughness), not soft, cold, cruel
+faln = soft, not cruel, nice (describing a person)
+sawk = valued
+payk = equivalent to Russian такой
+erasu(w) = careful
+aspa = again
+ayopk — against one's will, accidentally, unwillingly
+dacdcan = enough
+epiluw — finally, in the end
+suk — not working properly, error-prone, glitchy (referring mainly to digital contraptions)
+wap = straight, not bent, angular, angled
+awap = curved
+dac = selfish
+ayar = desperate
+dcaskap = ugly
+few = common, widespread
+swef = rare, uncommon, variegated, expansive
+fron = empty
+gus = full
+ban = half of
+prackep = rigid, tense
+kac = valuable, worthy, important, precious, etc.
+aknak = away from, since (a time)
+hapk = heavy, hapf = light
+had — rough, bumpy, not smooth
+ahad — smooth
+irosn = curious
+kopk — inner
+apk — outer
+wus — short, not tall (in length and height)
+wusf — tall, not short, long (in length and height)
+baskop — at one time, instantaneous, at one instance, at a time
+Interjections
+[
+]
+Yoyl = happy/joyful/more general word for positivity/interjection used to convey happiness
+Frash = sad/more general word for negativity/interjection used to convey sadness
+Yafn = mad/angry/interjection used to convey anger
+Yafek = used as a curseword (it's best not to say this to someone who can understand The Pencil Language)
+Grub = interjection used to convey disappointment/boredom
+Yakf = annoyed/annoying
+Language-related
+[
+]
+Waf = talk/speak/say/tell, Kwaf = write/draw
+Hakn = conversation
+(Prow)ewafow = language, Ekwafow/Kyebwaf = script (as in something that is written)
+Wafiwkef = letter/character/symbol, Wafiwk = word/letter (as in письмо), Wafiwkek = sentence, Pay'wafiwk = verb, Prow'wafiwk = noun, Fen'wafiwk = adjective,
+Gol'waf = pronounce
+Boos'ba waf'yiwk = prefix, Boos'gafek waf'yiwk = suffix
+Kef prow'waf'yiwk = pronoun
+Deef'waf = alphabet, Dreg'waf = logographic script, Dopl'waf = featural script
+Shofewafow = translate, Shofewafow fesnf = transliterate
+Nations
+[
+]
+Kef'eef = government, Pay'kef'eef = govern/rule/rule over
+Howfprow = law(s)/rule
+Hiwf'kef'eef = anarchy
+Ba'kef'eef = dictatorship/totalitarian government
+Kef'eef'ek = country/nation/civilization
+Bosek = flag, Basek = coat of arms/regional symbol
+Short versions
+[
+]
+Hopruk = law, Heprok = anarchy
+Kefef = government
+Bakeef = dictatorship, Bopeef = democracy
+Kefek = country/nation
+Kepok = state/province
+Kafak'ek = big city/metropolis (like New York), Kafak = city/town, Knak = village
+Kafak'eekef = municipality/county
+Eekef = territory
+Kopeefk = enclave (word derives from kop'kef'eef'ek, meaning inside country)
+Ekekopek = enclave exclave (an exclave totally surrounded by another country, word derives from eigl'ed'kopeefk, meaning other enclave)
+Afekeek  = exclave (word derives from afn'kef'eef'ek, meaning out of country)
+Cosmology-related
+[
+]
+Kywod = cosmology
+Boos'ba'wab = Primordium Particle, Kor'boos'ba'wab =
+Primordium Omega
+, Yowk'boos'ba'wab =
+Primordium Delta
+, Yesh'boos'ba'wab =
+Primordium Alpha
+, Pay'pay'boos'ba'wab =
+Primordium Sigma
+Holk'fref'sha =
+Heck
+, Bo'holk'fref'sha =
+Hecc
+, Be'holk'fref'sha =
+Hekk
+, etc.
+Nwok =
+Protoverse
+Brep'ef =
+Uqraek Fiber
+Brep =
+Cosmic String
+Feed =
+quark
+Fewg = subatomic particle, Op'fewg =
+proton
+, Ep'fewg =
+neutron
+, Ap'fewg =
+electron
+Penf'ef =
+atom
+Penf =
+molecule
+Abka = meteor, Esbka = meteorite
+Asrob =
+moon/satellite
+You can also join meteor to planet ranks with 'asrob. for example: Asrob'esyob = moon of a dwarf planet (example: Dysnomia (Eris), and Charon (Pluto)), Asrob'asrob = moon of a moon.
+Ysob =
+planet
+, Esyob = dwarf planet
+Shagak =
+star
+as = solar system, star system
+Kyshok = black hole, Akfa'kyshok = white hole
+Kyad =
+galaxy
+Eshykad =
+supercluster
+Prob =
+-verse
+, realm, large region of space, sometimes a galaxy
+Ba'prob =
+Universe
+, Bo'prob =
+Multiverse
+, Be'prob =
+Megaverse
+... Bfee'prob =
+Archverse
+Gafek'prob =
+Omniverse
+Be'skep'prob =
+Metaverse
+, Bad'skep'prob =
+Xenoverse
+, Bas'skep'prob =
+Hyperverse
+Frob = void, Shrob = dimension, Asyob = realm
+Bek = space, Boos = time (in general), syob = an instance (equivalent to Russian раз)
+Prob'frob = Cosmos
+Shak = exist/existence, Sha'shak = nonexist (be in an
+Existence Rank
+of 0), Bo'shak = be in an
+Existence Rank
+of 2), ..., Ap'ba'shak = be in an
+Existence Rank
+of -1, etc. Yawk'shak = not have an existence rank/do not exist/not exist
+Shak'asob =
+Existence Rank
+Gafek'gafek'prob =
+The Box
+Norp = god, the God-Organism, Wakef = demigod
+Wush = sky
+Yesh'asyob = heaven, Kor'asyob = hell
+Wib = mass
+Bek'boos = spacetime
+bek'boos'wib = gravity
+Wab = matter/particle, Pab = energy
+Prow'prow'ek = hierarchy
+Geometry-related
+[
+]
+Kos = shape, Shrob'lepk = point, Ba'shrob kos = line, Bo'shrob ba'kos = circle, Bo'shrob bo'kos = half-circle, Bo'shrob be'kos = triangle, etc.
+Be'shrob ba'kos = sphere/ball, Be'shrob bo'kos = half circle, Be'shrob bad'kos = tetrahedron, Be'shrob baf'kos = cube, etc.
+Nōp = distance, Nōpk = long/far/distant, Nōpf = short/near/close/next to/together with/in front of/around/amidst/between (as in opposite to far) [comes after the noun in question without case marking]
+kol — between (postposition)
+cop [noun] nōpk — away from (location)
+Ba'noop = length/duration, Bo'noop = width, Be'noop = height, Bad'noop = trength, etc.
+Keo = convex
+Skeo = concave
+Nkop = full
+Kopn = hollow
+Directions (adverbs)
+[
+]
+banōpba = forwards/front, banōp = backwards/back
+bonōpba = left, bonōp = right
+benōpba = down/below/a place down below (n.), benōp = up/high/above/a place up above (n.)
+Operations:
+[
+]
+Bohnk = translate (in geometry)
+Posnf = rotate
+Wohnk = reflect (in geometry, not the same as pay'pay)
+Pay'yub'frek = resize, enlarge
+Rafay = truncate
+Dekon = dual
+Yope = rectify
+Technology
+[
+]
+Bok'ap'fewg = electricity
+Bofewg = electricity (shortened)
+ywob — technology, spacecraft, spaceship, artificial machine
+apkefol — automatic
+Dsek'ywob = robot
+Dsek'ywob'kwaf = bot commands
+Ywob'kwaf'hakn = text chatting (example: Discord text channels)
+Ywob'waf'hakn = voice chatting (example: Discord voice channels)
+Bok'ywob = automobile
+Kesnf'ywob = spaceship/spacecraft
+Chemistry-related
+[
+]
+Penof = atom, Penf = molecule
+Hanook = element
+Hanook'ba =
+hydrogen
+, Hanook'bo =
+helium
+, Hanook'be =
+lithium
+...
+Yonapk = radioactivity
+Bonook = half-life (derives from Boos'hanook)
+Keron = metal (generic word)
+Karokn = alcaline metal
+Korokn = alkaline earth metal
+Kerokn = transition metal
+Sokerokn = metalloid
+Apkerokn = nonmetal
+Shegakn = nobel gas
+Yanakn = lantanides
+Yonakn = actinides
+Units of measurement
+[
+]
+Sufffixes
+[
+]
+Just like the metric system, there are prefixes like kilo or milli. There are also these prefixes in Wakabewafow, but they are suffixes instead.
+'swekp = 1/16^12
+'nokl = 1/16^9
+'bed = 1/16^6
+'ruy = 1/16^3
+'kod = 16^3
+'dah = 16^6
+'shad = 10^9
+'akep = 10^12
+Units
+[
+]
+Sok = unit of measurement
+Wersek = length unit, equivalent to ~3.855 meters. Sometimes abbreviated to ws.
+Wersek'kod = ~15.79 kilometers, or 16
+3
+wersek'na, Wersek'dah = ~64 676 kilometers, or 16
+6
+wersek'na, Wersek'shad = ~264 913 582 kilometers...
+Wersek'ruy = ~0.941 millimeters, or 16
+-3
+wersek'na, Wersek'bed = ~229 nanometers, Wersek'nokl = ~56 picometers.
+Dawab = time unit, equivalent to ~5.19 seconds.
+Awed = area unit, equivalent to 1 wersek². Sometimes abbreviated to ws² or ef.
+Baowibok = weight unit, equivalent to about 3726 newtons. Sometimes abbreviated to bk.
+Wibok = mass unit, equivalent to about 71.82 kilograms. There is also the Kiok, used for weighting lighter prows, equivalent to 1/16th of a Wibok (about 4.49 kg). They are sometimes abbreviated wb and kk, respectively.
+Family tree
+[
+]
+Nedop = parent, Ko'nedop = father, Ke'nedop = mother
+Funoln = brother (no gender), Ko'funop = brother, Ke'funop = sister
+Yabolp = child, Ko'yabop = son, Ke'yabop = daughter
+Nedoln'nedop = grandparent, Ke'nedoln'ke'nedop = grandma (mother's branch)
+Ke'nedop'ko'funop = aunt (father's branch)
+Yabolp'funoln'nedop = cousin
+Phrases/idioms/Rules of the language
+[
+]
+"yeb frahash fen shosh" = we are going to lose
+"yeb wakab fen shosh" = we are going to win
+"sor
+Yeb Afka Asyob
+" = very far away/too far
+"sor
+Yeb Pes Asyob
+" = extremely far away/way too far
+"from the white realm to the black realm" = everything
+"da'sor
+Yeb Afka Asyob
+" = going to an relatively unknown place
+"da'sor
+Yeb Pes Asyob
+" = going to a place nobody has gone to that has no info on it
+"fe'ab'n ap'kan ad'na" = away from danger
+"pay'shef kop yeb eshok" = used as a Pencil Language insult
+Times
+[
+]
+bōs- — ordinal prefix that is attached to the first number in a sequence
+Boos'ba = first, Boos'bo = second, Boos'be = third, ... Dof = before, Daf = after, Def /yob syob kop = now
+yob syob kop = at this moment, to this moment, so far, right now
+kēk = end/ending (as in the noun), bakēk = start/beginning
+Boos'ef = soon
+Boos'ep = later
+SACRED WORDS
+[
+]
+Wakab = pencil
+Frahash = eraser
+Wakaka = not funny
+Kakawa = didn't laugh
+Aakakaw = very funny
+Awakak = laughed
+Longest Word
+[
+]
+There is no longest word, because the longest word can be theoretically infinite.
+Suffixes
+[
+]
+-sh = used to derive singulars from mass nouns
+-ak = archaic suffix for a planet or body of similar size, however not used to refer to anchor-planets or waypoints as those were considered distinct
+Informal Pronunciation/Spelling
+[
+]
+For people who want to add words to this language, first put it here and I'll decide whether to add it to the main section.
+Note: There are a lot of words, so these words are unofficial until "approved", but make sure to not use letters that don't exist in pencil.
+def'ba = one day
+def'bo = two days
+Eigl'ed = other
+Nob'bak = into
+Eb'bonl = outer, Fc'cpom = inner
+Gbon'ish = technology
+Gibonsh = fat
+Gibonshan = not fat
+hobwaner = cool hot dogs bro
+Ip = unknown
+Ap'ip = known
+Shoy = and
+Gobi = Semi (Prefix)
+Hobin = Godly
+Op'Hidede = countable
+Ap'Hidede = uncountable
+Gbon'Wrik  =  Robot
+Helk = because (informal version)
+Wekee = Wiki
+Prob'frob'wekee = Cosmology Wiki
+Shrob'wekee = All dimensions Wiki
+Prob'wekee = Verse And Dimensions Wiki
+Gil'ef'wekee = Beyond Universe Wiki
+Footooli'aar'wekee = FreedomLand Wiki
+Bash'Be'noop'ba = below, Bash'Be'noop'bo = above.
+Pa'k = entertainment
+Pakd = game
+Lerk'shyf'pakd = Minecraft
+Gil'ef'pakd = Fortnite
+Bok'ek'kos'pakd = Geometry Dash
+Dolk'pakd = Roblox
+Bad'kos'pakd = Tetris
+Kokeffohko'noosh'ek = Homosexual/Gay
+ys = ok (OK means Ol Korrect, meaning All Correct. YS is an abbreviation of Yowk Skop)
+Directions
+[
+]
+Directions aren't used by most TPL speakers, but used by 3D/4D TPL speakers.
+Nar = up, Nor = left (1D up too), Ner = down, Nur = right (1D down too)
+Rad = 3D up, Arad = 3D down
+Setek = 4D up, Asetek = 4D down
+Dokew = 5D up, Adokew = 5D down
+Baf'fewek = 6D up, Baf'afewek = 6D down, etc
+Hadop = length, Narop = width, Radop = height, Setekop = trength
+Full pronunciation list
+[
+]
+Single letters
+[
+]
+a = /ɑ/ or /a/
+b = /b/
+d = /d/
+e = /ɛ/
+f = /ɸ/
+g = /ɡ/
+h = /h/ (/ħ/ when at the end of a word)
+i = /i/
+k = /k/
+l = /l/
+n = /n/
+o = /ɒ/
+p = /p/
+r = /ɹ/
+s = /s/
+u = /u/
+w = /w/
+y = /j/
+Multiple letters
+[
+]
+aw = /ɑl/
+ow = /oʊ/
+iw = /il/
+uw = /ul/
+ay = /ɑː/ or /aː/
+ey = /ɛː/
+iy = /iː/
+oy = /ɒː/
+uy = /uː/
+ss = /z/
+ny = /ɲ/

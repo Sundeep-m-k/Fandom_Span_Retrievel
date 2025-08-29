@@ -1,0 +1,199 @@
+Miner's Arrow Number
+is so big that it is (7000↑↑↑↑↑↑↑↑↑↑78)*0% of the size of the
+Omniverse
+and bigger than the
+"OH NO" number
+!
+Sadly, it doesn't end in 120 steps.
+This is the formula:
+M
+a
+0
+=
+2
+{\displaystyle Ma_0 = 2}
+M
+a
+1
+=
+M
+a
+0
+↑
+↑
+M
+a
+0
+{\displaystyle Ma_1 = Ma_0 \uparrow \uparrow Ma_0}
+M
+a
+2
+=
+M
+a
+1
+↑
+.
+.
+.
+↑
+⏞
+M
+a
+1
+↑
+M
+a
+1
+{\displaystyle Ma_2 = Ma_1 \overbrace{\uparrow ... \uparrow}^{ Ma_1 \uparrow} Ma_1}
+M
+a
+3
+=
+M
+a
+2
+↑
+.
+.
+.
+↑
+⏞
+M
+a
+2
+↑
+M
+a
+2
+{\displaystyle Ma_3 = Ma_2 \overbrace{\uparrow ... \uparrow}^{ Ma_2 \uparrow} Ma_2}
+⋮
+M
+a
+118
+=
+M
+a
+117
+↑
+.
+.
+.
+↑
+⏞
+M
+a
+117
+↑
+M
+a
+117
+{\displaystyle Ma_{118} = Ma_{117} \overbrace{\uparrow ... \uparrow}^{ Ma_{117} \uparrow}Ma_{117}}
+M
+a
+119
+=
+M
+a
+118
+↑
+.
+.
+.
+↑
+⏞
+M
+a
+118
+↑
+M
+a
+118
+{\displaystyle Ma_{119} = Ma_{118} \overbrace{\uparrow ... \uparrow}^{ Ma_{118} \uparrow} Ma_{118}}
+M
+a
+120
+=
+M
+a
+119
+↑
+.
+.
+.
+↑
+⏞
+M
+a
+119
+↑
+M
+a
+119
+{\displaystyle Ma_{120} = Ma_{119} \overbrace{\uparrow ... \uparrow}^{ Ma_{119} \uparrow} Ma_{119}}
+M
+a
+121
+=
+M
+a
+120
+↑
+.
+.
+.
+↑
+⏞
+M
+a
+120
+↑
+M
+a
+120
+{\displaystyle Ma_{121} = Ma_{120} \overbrace{\uparrow ... \uparrow}^{ Ma_{120} \uparrow} Ma_{120}}
+M
+a
+n
+=
+M
+a
+n
+−
+1
+↑
+.
+.
+.
+↑
+⏞
+M
+a
+n
+−
+1
+↑
+M
+a
+n
+−
+1
+{\displaystyle Ma_n = Ma_{n-1} \overbrace{\uparrow ... \uparrow}^{ Ma_{n-1} \uparrow}Ma_{n-1}}
+Conclusion: It is extremely big, and
+I
+know and have proof it is bigger than Graham's number. And it's value is
+M
+a
+121
+{\displaystyle Ma_{121}}
+.
+Proof Ma
+121
+is bigger than Graham's Number
+[
+]
+In the second step of Ma
+s
+, it is 4↑↑↑↑4, which is bigger than g
+1
+(first step of Graham's Number), but as the number of steps is bigger than G, and the up arrow numbers change (G's numbers never change, as it is three). That means it is bigger than G. Is it bigger than TREE(3)? I actually don't know. (No its not because TREE(3) is a legiattic array)

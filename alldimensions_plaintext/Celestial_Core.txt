@@ -1,0 +1,19 @@
+Celestial Core
+Info
+Size
+~100 * the size of an average galaxy
+What type of object is it
+Star-like object
+Dimensionality
+3D
+Position
+Contained by
+Universe
+and
+Aln32d46verse
+A Celestial Core is an object created when a Universe collapses into an object of an incredibly large size, and a Universe forms around it.
+Properties
+[
+]
+The Celestial Core has a unique gravitational pull that pulls everything near it, instead of into it. This causes a Universe to form around it, a Universe which, unlike other Universes, slows expansion instead of quickening it.
+If you manage to beat the intense heat and pressure of the Core, it can be mined for materials.

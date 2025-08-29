@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+38713,1,The Factor,49,59,internal,https://alldimensions.fandom.com/wiki/The_Factor,"{""The Factor"": 1}",1
+38713,7,OYC,35,38,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+38713,7,Utilibots,380,389,internal,https://alldimensions.fandom.com/wiki/Category:Utilibot,"{""Utilibots"": 1}",1

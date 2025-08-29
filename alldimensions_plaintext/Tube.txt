@@ -1,0 +1,30 @@
+A
+tube
+is a two-dimensional surface constructed by creating a prism with a hollow
+circle
+as the base. It can also be considered as a two-dimensional version of the
+torus
+constructed by stretching a
+line segment
+in a ring.
+Another way to construct it topologically is to take a sphere and then remove two disjoint open discs.
+A tube can also be embedded in a two dimensional plane. This less symmetric embedding is called an
+annulus
+.
+Structure and Sections
+[
+]
+Hypervolumes
+[
+]
+edge length
+=
+surface area
+=
+Subafects
+[
+]
+2
+circles
+(1D)
+1 tube (2D)

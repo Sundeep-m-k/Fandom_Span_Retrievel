@@ -1,0 +1,12 @@
+These are estimates of the FRUIITS time zones:
+APPPLES (11:41 - 00:54 UTC) is probably in AST (4 hours behind UTC) or PMST (5 hours behind UTC). Unless they're editing after midnight.
+PEARRS (14:28 - 23:59 UTC) is harder but we do know that they live somewhere in the Americas, which doesn't help much.
+WATTTERMELON (13:13 - 19:26 UTC) could live anywhere for all I know.
+GRAPPES (20:28 - 22:21 UTC) is the hardest as they edited in the span of 2 hours on 2 different days.
+We can compare these time zones to the time zones of several users on this wiki (judged from contribution times)
+Yellowmarkers is in the -5 timezone.
+Leftunknown in the +1 timezone.
+Oofandfoo could be MST, CST, EST, or AST.
+Tweer is either in PST or MST.
+Miners is in the -3 timezone.
+From this we can rule out Leftunknown for all FRUIITS except for WATTTERMELON and GRAPPES. The evidence also rules out Tweer for APPPLES. This narrows the identity of APPPLES down to just Oof, Yellow, Miners, and any unchecked users.

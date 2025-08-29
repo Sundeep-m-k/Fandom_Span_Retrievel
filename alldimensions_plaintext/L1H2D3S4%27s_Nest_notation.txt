@@ -1,0 +1,10 @@
+Introduction
+[
+]
+L1H2D3S4's nest notation is a way to understand how something is nested.
+How to use
+[
+]
+For example, if there were two cubes inside of one cube, the one big cube contains 2 cubes, making a notation of [2] for the one big cube
+A image of a square with a nest notation of [2(2,1)].
+This square has a nest notation of [2(2,1)] because it holds 2 squares, and thise squares hold 2 squares and 1 square.

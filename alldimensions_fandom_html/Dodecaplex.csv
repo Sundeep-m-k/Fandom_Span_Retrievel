@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48258,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/53/Dodecaplex.jpg/revision/latest?cb=20241222022806,"{""\n\n"": 1}",1
+48258,1,Xenoverse,93,102,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverse"": 1}",1
+48258,1,Hyperverse,104,114,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""Hyperverse"": 1}",1
+48258,1,Imaginary Dodecahedron,126,148,internal,https://alldimensions.fandom.com/wiki/Imaginary_Dodecahedron,"{""Imaginary Dodecahedron"": 1}",1
+48258,3,polytope,39,47,internal,https://alldimensions.fandom.com/wiki/Polytope,"{""polytope"": 1}",1
+48258,3,Dodecahedron,75,87,internal,https://alldimensions.fandom.com/wiki/Imaginary_Dodecahedron,"{""Dodecahedron"": 1}",1
+48258,4,Dodecahedrons,46,59,internal,https://alldimensions.fandom.com/wiki/Imaginary_Dodecahedron,"{""Dodecahedrons"": 1}",1
+48258,4,Dodecahedrons,46,59,internal,https://alldimensions.fandom.com/wiki/Imaginary_Dodecahedron,"{""Dodecahedrons"": 1}",1
+48258,5,Metaverse,201,210,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1
+48258,5,Metaverse,201,210,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1
+48258,6,Dodecahedrons,82,95,internal,https://alldimensions.fandom.com/wiki/Imaginary_Dodecahedron,"{""Dodecahedrons"": 1}",1

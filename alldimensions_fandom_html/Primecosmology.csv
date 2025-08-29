@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49729,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/2a/Barrel.jpg/revision/latest?cb=20180709014020,"{""\n\n"": 1}",1
+49729,3,Hypercosmology,53,67,internal,https://alldimensions.fandom.com/wiki/Extended_Cosmology,"{""Hypercosmology"": 1}",1
+49729,3,Barrels,81,88,internal,https://alldimensions.fandom.com/wiki/Barrel,"{""Barrels"": 1}",1
+49729,4,The Barrel,15,25,internal,https://alldimensions.fandom.com/wiki/Barrel,"{""The Barrel"": 1}",1
+49729,5,Outside,74,81,internal,https://alldimensions.fandom.com/wiki/The_Outside,"{""Outside"": 1}",1
+49729,5,structures,226,236,internal,https://alldimensions.fandom.com/wiki/Category:Structure,"{""structures"": 1}",1
+49729,7,Barrelplexes,30,42,internal,https://alldimensions.fandom.com/wiki/Barrelplex,"{""Barrelplexes"": 1}",1

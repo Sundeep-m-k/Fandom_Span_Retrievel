@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45707,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1b/Hans.png/revision/latest?cb=20240318172922,"{""\n\n"": 1}",1
+45707,1,OYC,55,58,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+45707,1,DPRS,133,137,internal,https://alldimensions.fandom.com/wiki/DiggyPT%27s_Power_Ranking_System,"{""DPRS"": 1}",1
+45707,3,cosmic entity,41,54,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""cosmic entity"": 1}",1
+45707,5,verse,9,14,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+45707,5,Omniverse,314,323,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+45707,8,BOYC,32,36,internal,https://alldimensions.fandom.com/wiki/OYC,"{""BOYC"": 1}",1
+45707,10,moon,93,97,internal,https://alldimensions.fandom.com/wiki/Moon,"{""moon"": 1}",1
+45707,10,Nirlis,105,111,external,https://voroth-planet-database.fandom.com/wiki/Nirlis,"{""Nirlis"": 1}",1

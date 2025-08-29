@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50905,1,Level 2601,618,628,external,https://backrooms-freewriting.fandom.com/wiki/Level_2601_%22The_Infinite_Aglou%22,"{""Level 2601"": 1}",1
+50905,2,Primordium Delta,285,301,internal,https://alldimensions.fandom.com/wiki/Primordium_Delta,"{""Primordium Delta"": 1}",1
+50905,2,Skebob,394,400,internal,https://alldimensions.fandom.com/wiki/Skebob,"{""Skebob"": 1}",1
+50905,5,Kaliabdo,23,31,internal,https://alldimensions.fandom.com/wiki/Kaliabdo,"{""Kaliabdo"": 1}",1

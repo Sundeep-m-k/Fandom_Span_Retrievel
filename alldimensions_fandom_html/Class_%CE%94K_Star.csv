@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45518,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/46/FIJI-192.png/revision/latest?cb=20240221192449,"{""\n\n"": 1}",1
+45518,1,stars,424,429,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+45518,1,class Z stars,513,526,internal,https://alldimensions.fandom.com/wiki/Z-type_star,"{""class Z stars"": 1}",1
+45518,1,ΔM stars,549,557,internal,https://alldimensions.fandom.com/wiki/Class_%CE%94M_Star,"{""ΔM stars"": 1}",1

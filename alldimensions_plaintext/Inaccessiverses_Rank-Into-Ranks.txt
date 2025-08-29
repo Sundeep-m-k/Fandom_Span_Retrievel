@@ -1,0 +1,59 @@
+Contents
+1
+W0, W1, and W2.
+1.1
+Definition Of W0.
+1.2
+Definition of W1
+1.3
+Definition of W2
+W0, W1, and W2.
+[
+]
+W0, W1, and W2 are "transfinite ordinals" defined by Joseph Holland and Arnold Beckonson in the order of increasing ordinality. These ordinals are considered to be large. The existence of a ordinal W1 implies the existence of such a ordinal W0, therefore, W1 must be greater than W0. This existence axiom holds true with W2.
+I'll also call W0, W1, and W2 as the
+rank-into-rank ordinals,
+because of their numbers at the end that asserts as a sort of rank onto it, and that a larger rank is larger in size. Not to be confused with the "rank-into-rank" (See
+https://en.wikipedia.org/wiki/Transfinite_number
+[1]
+)
+Definition Of W0.
+[
+]
+The first ordinal, W0, is a very large ordinal as previously stated.
+Define a set X, containing a boundless (not w) amount of arguments, in which every argument X[n] is a subset. These subsets contain the list of every ordinal, such that all ordinals within X[n] is uncomputable towards all X[i] where i<n.
+The ordinal I is the limit of set X.
+A trivial result says that omega(1)CK is equivalent to the last argument in X[1], and w is equivalent to the last argument in X[0].
+Definition of W1
+[
+]
+The second ordinal, W1, is also extremely large. W1 is an extension of W0.
+Consider a hierarchy H_n(x,...,x), with any amount of arguments definable. Define I as H_0(1), and the second I as H_0(2). The second W0 is reached with the original definition of W0, modified to be much larger.
+"Define a set X, containing a boundless (not w) amount of arguments, in which every argument X[n] is a subset. These subsets contain the list of every ordinal, such that all ordinals within X[n] is uncomputable towards all X[i] where i<n. X[0] is equivalent to W0."
+H_0(3) is defined similarly.
+Now define H_0(1,0) as the limit of H_0(x), or X = H_0(X). The rest of the definition of H_0 is similar to Veblen function. See:
+https://en.wikipedia.org/wiki/Veblen_function
+for more details.
+A limit H_1(0) is defined as the limit of H_0. H_1(1) is reached with the sentences:  With the use of the previous function H_0, enumerate all steps from it to get from H_0 to H_1(0). Instead of H_0 in the previous sentence, H_1(0) is used, and instead of H_1(0), H_1(1) is used. After following the steps, the result is equivalent to H_1(1).
+This works similarly for the rest.
+In general, all of H_n is defined as the modification of H_1:
+"A limit H_n(0) is defined as the limit of H_n-1. H_n(x) is reached with the sentences:  With the use of the previous function H_n-1, enumerate all steps from it to get from H_n-1 to H_n(0). Instead of H_n-1 in the previous sentence, H_n(x-1) is used, and instead of H_n(0), H_n(x) is used. After following the steps, the result is equivalent to H_n(x)."
+Now let's define H_(1,0)(0), H_(1,0)(0) is defined as the limit for H_x, that is x=H_x. Continue and define H_(1,1)(0), by enumerating all steps from H_0(0) to H_x. Continue with H_(1,2)(0), and define X=H_(2,0)(0) as X=H_(1,X)(0), continue with the same pattern as the Veblen function.
+H_(1,0,0,0,0,0,0,0,...X...,0,0,0)(M)=H_(1)(0)(X)
+H_(1)(1)(X) is achieved by enumerating all steps from H_0 to H_(1)(0)(X). Continue with the same pattern as the Veblen function.
+H_(1)(0)(0)(X)=H_(1,0,0,0,0,0,0,0,...X...,0,0,0)(0)(X).
+Continuing with H(1)(0)(0)(0)(X), and beyond, we get W1. W1 is defined as H(1)(0)...W1...(0)(0)(W1,W1)
+Although it seems that W1 is around the value of W0 from a certain relative perspective, W1 is obviously much, much greater than W0.
+Definition of W2
+[
+]
+W2 has a relatively simple definition. It is defined as the first ordinal such that it is equivalent to the limit ordinal in H+"There Exists Recursive Subsets".
+H+"There Exists Recursive Subsets" is equivalent to H with the extra properties:
+Subsets and Sub-Subsets, or even Sub-Sub-Sub-...with n Subs...-Subsets:
+(((1,0),(1,0)),((1,0),(1,0))) or ((1,0),(1,0)).
+Sub-semisets and Sub-Sub-semisets, or even Sub-Sub-Sub-...with n Subs...-Sub-semisets
+((1)(0)(0)(0)(0))
+The existence of nesting as indices.
+H_((2)_(n))=H_((2),...H_((2),(n-1)),...,H_(2))
+H_((2)_(2)_(n))=H_((2)_(1)_(H_((2),...H_((2),(2),(n-1)),...,H_(2)))
+W2 >> W1 >> W0.

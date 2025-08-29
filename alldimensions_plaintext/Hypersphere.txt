@@ -1,0 +1,88 @@
+A hypersphere
+Hypersphere
+[
+]
+A
+hypersphere
+is a generalisation of the
+circle
+and
+sphere
+to higher dimensions. An X-dimensional hypersphere consists of the locus of all points equidistant from another point in X-dimensional space.
+Hypercube
+[
+]
+A hypercube is the same object as a hypersphere, except it is a generalisation of the square and cube to higher dimensions.
+vertex count
+=
+2
+n
+{\displaystyle {2}^{n}}
+edge length
+=
+2
+n
+−
+1
+n
+l
+{\displaystyle {2}^{n-1}nl}
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

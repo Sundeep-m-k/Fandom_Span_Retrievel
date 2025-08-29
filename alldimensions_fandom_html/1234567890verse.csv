@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+15905,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b8/1234567890verse.png/revision/latest?cb=20191226172650,"{""\n\n"": 1}",1
+15905,1,Quebec Autoroute 30verse,55,79,internal,https://alldimensions.fandom.com/wiki/Quebec_Autoroute_30verse,"{""Quebec Autoroute 30verse"": 1}",1

@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+25060,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/ff/Forcefield-765x510.jpg/revision/latest?cb=20190923202604,"{""\n\n"": 1}",1
+25060,1,Multiverse,291,301,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+25060,1,The Calculator,350,364,internal,https://alldimensions.fandom.com/wiki/The_Calculator,"{""The Calculator"": 1}",1
+25060,1,Stars,378,383,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+25060,5,Multiverse,204,214,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+25060,17,Sentient Substance,284,302,internal,https://alldimensions.fandom.com/wiki/Sentient_Substance,"{""Sentient Substance"": 1}",1
+25060,17,Glitchonicite,329,342,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+25060,23,OYC,105,108,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+25060,23,Multiverse,227,237,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1

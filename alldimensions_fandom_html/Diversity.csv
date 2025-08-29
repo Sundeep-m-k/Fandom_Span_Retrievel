@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36629,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9b/Diversity.png/revision/latest?cb=20210127230625,"{""\n\n"": 1}",1
+36629,1,Nosph,110,115,internal,https://alldimensions.fandom.com/wiki/Nosph,"{""Nosph"": 1}",1
+36629,2,Realms,72,78,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Realms"": 1}",1
+36629,2,Realms,72,78,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Realms"": 1}",1
+36629,2,nosph,324,329,internal,https://alldimensions.fandom.com/wiki/Nosph,"{""nosph"": 1}",1
+36629,2,Realm,72,77,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Realm"": 1}",1

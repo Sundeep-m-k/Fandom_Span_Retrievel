@@ -1,0 +1,47 @@
+Metaarchverse
+The smallest layer of Metaarchverse - The Hendakiloverse.
+Scale
+Size
+Varied
+Properties
+Class
+1
+Shape
+Variable
+Position
+Contained by:
+Really anywhere in the
+Omniverse
+Contains:
+Archspheres
+and other Metaarchverses
+"You thought that was the final Archverse?" - God
+Archverse Ordinal
+[
+]
+First, to be simple, I will refer to an Archverse (as in, THE Archverse that contains the Feeshverse) as an Archsphere. Any other will be referred to as an Archverse.
+A Metaarchverse is a series that is a further continuation on Archverses. Each type of Archverse can be assigned an Archverse Ordinal, which is an ordinal representing its layer. For example, in
+Extended Divergent Archverses
+, each Archverse's AO is simply its Archverse number. But for Archspheres, its ordinal is ω. The Archsphere is the final layer, and since every Archsphere is unique, we assign ω but the median layers is approximately 10
+33
+. A
+Hendaverse
+is the first official Metaarchverse, and it is called "Metaarchverse" because it also contains a large amount of Archversal Layers between it and an Archsphere. So, it is designated ω × 2. A
+Dokaverse
+is ω × 3, a
+Tradakaverse
+is ω × 4, a
+Tedakaverse
+is ω × 5, etc. And these Metaarchverses can really be any finite size, with any finite amount of layers. The only limit is ω
+1
+, which is completely inaccesible. But, for example, we might get a verse that is \(\varphi(3, 2, 9)\) or (\varphi(4, \zeta_0, 0)\). Or maybe not.
+Where are they found?
+[
+]
+To refer to an Archverse within a verse, we simply attach the prefixes of the Archverse numbers and add -verse. Eg. the 3rd verse inside a
+Hendaverse
+is the Hendagigaverse, equivalent to ω + 3. The size of a Metaarchverse behaves like an ordinal collapsing function (sort of). These verses are found scattered around the
+Omniverse
+, interspersed in the
+Omni-Web
+, Omni-Bubbles, its Omni-Stars... And each one is wildly different, so of course we will never be able to document them all. The largest one we found was represented by a FOUR DIGIT Veblen Function and was absolutely gargantuan. It has been nicknames "The Meta" and is located quite far from us, its insane that we even found it.

@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45245,1,EUSI,30,34,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+45245,1,Finality Index,44,58,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+45245,1,FOEI,65,69,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+45245,1,The Box,293,300,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+45245,1,The Line,340,348,internal,https://alldimensions.fandom.com/wiki/The_Line,"{""The Line"": 1}",1
+45245,1,The Point,350,359,internal,https://alldimensions.fandom.com/wiki/The_Point,"{""The Point"": 1}",1
+45245,1,Xenoverse,361,370,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverse"": 1}",1
+45245,4,The Box,41,48,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+45245,6,The Box,92,99,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+45245,14,The Line,41,49,internal,https://alldimensions.fandom.com/wiki/The_Line,"{""The Line"": 1}",1
+45245,15,The Point,48,57,internal,https://alldimensions.fandom.com/wiki/The_Point,"{""The Point"": 1}",1

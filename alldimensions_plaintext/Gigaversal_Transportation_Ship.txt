@@ -1,0 +1,23 @@
+Gigaversal Transportation Ship
+Speed
+10,203
+gigaverses
+/second
+Size
+same as a
+Universal Transportation Ship
+While upgrading Universal Transportation Ship 8223, an error happened, and liquid Carbon Quadoxide was poured into the fuel chamber instead of Hydro Quadoxide, and when the ship went to maximum speed, it went at 10,203
+gigaverses
+/second instead of 27.05 trillion ly/second.
+To celebrate, the ship was renumbered to Gigaversal Transportation Ship 0001, and repainted with black dots, to match the pattern of the
+gigaverses
+it sped by so fast. Of course, it could only reach ~
+1
+10
+10
+10
+%
+{\displaystyle {\frac {1}{10^{10^{10}}}}\%}
+of its local
+Teraverse
+before needing to go home to refuel, though.

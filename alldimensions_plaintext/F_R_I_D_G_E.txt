@@ -1,0 +1,43 @@
+F R I D G E
+Scale
+Size
+147,502x
+The Lettuce Leaf
+Kardashev Scale
+fridge
+Location
+Contained by
+The What
+Contains
+Thousands of cap-scaled foods, including a few
+Lettuce Leaves
+The
+F R I D G E
+is the container of many types of food. However, it actually doesn't self contain itself. F R I D G E is the pure representation of below freezing temperatures, as it is the coldest place of all cap-scaled places. It is in caps and spaced out because all foods inside it are actually very spread out.
+Temperature
+[
+]
+The F R I D G E's temperature is pretty much standard fridge level coldness (4 degrees celcius) but on a cap-scale. Cap-scale temperature works like this;
+Cap0 = Absolute Zero.
+Cap1 = Planck Temperature (in our local universe).
+Cap2 = Cap1^2
+Overall, CapN is just Cap(n-1)^2 (except for 1 and 0).
+The F R I D G E's temperature is lower than Cap0, and is actually so low, that it's imaginary (square roots of negative numbers are imaginary). Cap(-1) is the square root of -273.15, or around 16.5 imaginary units. The square root of that is complicated, but it is either ~2.8 imaginary units or i+2.8 imaginary units. After that it gets even more complicated, so we won't go into detail. Basically, the F R I D G E's temperature is infinity times colder than Cap(-
+Absolute Infinity
+)+layers upon layers of negative imagination.
+Breaking Out of It
+[
+]
+The F R I D G E is made out of solid Fridgium, which has been designed by an entity known as
+H U M A N
+to not be able to be destroyed/harmed in any way (except for
+H U M A N S
+and entities with full access to
+The Core of Everything
+such as
+Gerald
+and
+Dunkey Kong
+). The F R I D G E can be opened and escaped pretty easily. All you need is enough force to jam it open. It needs to be roughly equivalent to a
+H U M A N ' S
+20% pull power, or around 5 cap-scaled newtons (or 5 N E W T O Ns).

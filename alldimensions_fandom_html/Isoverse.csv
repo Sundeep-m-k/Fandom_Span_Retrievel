@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+21842,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ac/Isoverse.png/revision/latest?cb=20200926070632,"{""\n\n"": 1}",1
+21842,1,Our Multiverse,48,62,internal,https://alldimensions.fandom.com/wiki/Our_Multiverse,"{""Our Multiverse"": 1}",1
+21842,2,Universe,18,26,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+21842,2,Multiverse,49,59,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+21842,4,Jeans instability,131,148,external,https://en.wikipedia.org/wiki/Jeans_instability,"{""Jeans instability"": 1}",1
+21842,6,Jupiter,91,98,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
+21842,6,Roche limit,251,262,external,https://en.wikipedia.org/wiki/Roche_limit,"{""Roche limit"": 1}",1

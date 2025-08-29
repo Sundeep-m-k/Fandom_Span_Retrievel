@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42936,1,"
+
+",332,334,external,https://static.wikia.nocookie.net/alldimensions/images/d/d1/String_Ball.jpg/revision/latest?cb=20221229100240,"{""\n\n"": 1}",1
+42936,1,Quark Civilization,520,538,internal,https://alldimensions.fandom.com/wiki/Quark_Civilization,"{""Quark Civilization"": 1}",1
+42936,3,cell,90,94,internal,https://alldimensions.fandom.com/wiki/Cell_(biology),"{""cell"": 1}",1
+42936,4,human,154,159,internal,https://alldimensions.fandom.com/wiki/Human,"{""human"": 1}",1
+42936,5,person,21,27,internal,https://alldimensions.fandom.com/wiki/Human,"{""person"": 1}",1
+42936,6,universe,15,23,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+42936,7,omniverse,0,9,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverse"": 1}",1
+42936,8,absolute existence,12,30,internal,https://alldimensions.fandom.com/wiki/The_Absolute_Existence,"{""absolute existence"": 1}",1

@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49100,1,Box,27,30,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+49100,1,Universe,54,62,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+49100,2,The Box,47,54,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+49100,2,Galaxies,66,74,internal,https://alldimensions.fandom.com/wiki/Galaxies,"{""Galaxies"": 1}",1
+49100,2,Stars,76,81,internal,https://alldimensions.fandom.com/wiki/Stars,"{""Stars"": 1}",1
+49100,2,Planets,83,90,internal,https://alldimensions.fandom.com/wiki/Planets,"{""Planets"": 1}",1
+49100,2,The Bots,92,100,internal,https://alldimensions.fandom.com/wiki/Hypernate%27s_Universe,"{""The Bots"": 1}",1
+49100,3,The Box,60,67,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+49100,6,Creators,96,104,internal,https://alldimensions.fandom.com/wiki/Hypernate%27s_Universe,"{""Creators"": 1}",1

@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35781,1,entities,29,37,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entities"": 1}",1
+35781,2,Blueprint Particles,391,410,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint Particles"": 1}",1
+35781,2,Blueprint Particles,391,410,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint Particles"": 1}",1
+35781,3,particles,76,85,internal,https://alldimensions.fandom.com/wiki/Category:Particle,"{""particles"": 1}",1
+35781,3,preon,152,157,internal,https://alldimensions.fandom.com/wiki/Preon,"{""preon"": 1}",1
+35781,5,OYC,232,235,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+35781,7,ten,43,46,internal,https://alldimensions.fandom.com/wiki/Ten,"{""ten"": 1}",1

@@ -1,0 +1,16 @@
+An
+UBC Cardinal
+is a list of short axioms, the resulting cardinals with these axioms are extremely large. The cardinal axioms are ranked in increasing strength when applied to cardinals.
+Axioms
+[
+]
+U0: There exists a cardinal T such that it's totality is not provable within ZFC, but may be extended to include cardinals. (Inaccessible, Mahlo, Rank-Into-Rank)
+U1: There exists a cardinal T such that it's totality is not provable within ZFC, and are incompatible with ZFC. (Reinhardt Cardinals, Berkley)
+U2: There exists a cardinal T such that it's totality is not provable within each small sets (<=10 elements) of language theories M with each language having consistency strength < ZFC such that all languages M are extendable to include all other languages, languages cannot be replicated and the language M (combined set of languages).
+U3: There exists a cardinal T such that it's totality is not provable within any definable mathematical language P.
+Assuming these definitions, we know that U3 must be a U2 cardinal, U2 must be a U1 cardinal, and U1 must be a U0 cardinal.
+Oh you got an idea?You may also think of a cardinal that contradicts mathematics due to it's sheer size? Well that's likely ill-defined since we don't know if there is a limit where math just breaks down (at least I don't).
+Why did you do this
+[
+]
+This was created for someone to use this in some other "verse" article.

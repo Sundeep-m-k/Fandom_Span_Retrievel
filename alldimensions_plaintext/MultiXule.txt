@@ -1,0 +1,33 @@
+MultiXule
+Scale
+Size
+????
+EUSI
+1
+Dimensionality
+54+i
+Kardashev Scale
+5.0 (By Definition)
+Properties
+Temperature
+-262.03  C
+Class
+1
+Life Percentage
+0%
+Density (Void Percentage)
+99.999999999%
+Position
+Contained by:
+A
+MetaXule
+Contains:
+UniXules
+A
+MultiXule
+is a special type of artificial multiverse that only exists within the computer matrix of
+The Xicohtlxul
+, an extremely complex recursively generated Archverse which is constantly growing, and exists within a Speck in The Outside.
+Like it's multiversal counterpart, a MultiXule operates under a set of precisely determined rules, and creates special universes, called UniXules, within itself. Some key differences exist however. Firstly the rules are highly engineered to optimize it's computer architecture. There is nothing "natural" about it's process of generating universes. They do not spawn spontaneously by chance but are created and cloned in an intricate and precise process.
+A MultiXule itself exists within a specific "node" of 54 dimensions of recursively expandable size. It's worth noting that MultiXules are very unlike Multiverses in some ways. The most important thing to remember is not to make assumptions on its size based on it's EUSI-Value. Although it only contains 1 lower verse type it is vastly larger than a typical Multiverse (in our Omniverse) which tends to max out at around 200 quadrillion light years (2x10^17).
+The exact operation of a MultiXule is an area of active research by so called Xi-Theorists and Xi-Programmers. This article will detail only the features that are known and well enough understood. Note that any information here, such as size estimates and behavior, is subject to change as more information is gathered. Also be aware that a full schematic of how a MultiXule works is actually classified information. However we will discuss the broad features of it's design.

@@ -1,0 +1,37 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+3045,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/83/Galaxy.png/revision/latest?cb=20210130124110,"{""\n\n"": 1}",1
+3045,1,Universes,46,55,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+3045,1,Galaxy Clusters,74,89,internal,https://alldimensions.fandom.com/wiki/Galaxy_Cluster,"{""Galaxy Clusters"": 1}",1
+3045,1,Superclusters,93,106,internal,https://alldimensions.fandom.com/wiki/Galaxy_Supercluster,"{""Superclusters"": 1}",1
+3045,1,Verseiumverses,126,140,internal,https://alldimensions.fandom.com/wiki/Verseiumverse,"{""Verseiumverses"": 1}",1
+3045,1,Diceverse,142,151,internal,https://alldimensions.fandom.com/wiki/Diceverse_(creepervilesavior),"{""Diceverse"": 1}",1
+3045,1,Iotaverse,153,162,internal,https://alldimensions.fandom.com/wiki/Iotaverse,"{""Iotaverse"": 1}",1
+3045,1,Fishverse,164,173,internal,https://alldimensions.fandom.com/wiki/Fishverse,"{""Fishverse"": 1}",1
+3045,1,1verse,175,181,internal,https://alldimensions.fandom.com/wiki/1verse,"{""1verse"": 1}",1
+3045,1,Ryakverse,183,192,internal,https://alldimensions.fandom.com/wiki/Ryakverse,"{""Ryakverse"": 1}",1
+3045,1,the Portal-Connected Verses,213,240,internal,https://alldimensions.fandom.com/wiki/The_Portal-Connected_Verses,"{""the Portal-Connected Verses"": 1}",1
+3045,1,Solar Systems,253,266,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar Systems"": 1}",1
+3045,1,Black Holes,268,279,internal,https://alldimensions.fandom.com/wiki/Black_Hole,"{""Black Holes"": 1}",1
+3045,1,black hole-verses,281,298,internal,https://alldimensions.fandom.com/wiki/Black_hole-verse,"{""black hole-verses"": 1}",1
+3045,1,Spiral arms,300,311,internal,https://alldimensions.fandom.com/wiki/Spiral_arm,"{""Spiral arms"": 1}",1
+3045,2,Galaxy Clusters,0,15,internal,https://alldimensions.fandom.com/wiki/Galaxy_Cluster,"{""Galaxy Clusters"": 1}",1
+3045,2,Superclusters,19,32,internal,https://alldimensions.fandom.com/wiki/Galaxy_Supercluster,"{""Superclusters"": 1}",1
+3045,2,Verseiumverses,52,66,internal,https://alldimensions.fandom.com/wiki/Verseiumverse,"{""Verseiumverses"": 1}",1
+3045,2,Diceverse,68,77,internal,https://alldimensions.fandom.com/wiki/Diceverse_(creepervilesavior),"{""Diceverse"": 1}",1
+3045,2,Iotaverse,79,88,internal,https://alldimensions.fandom.com/wiki/Iotaverse,"{""Iotaverse"": 1}",1
+3045,2,Fishverse,90,99,internal,https://alldimensions.fandom.com/wiki/Fishverse,"{""Fishverse"": 1}",1
+3045,2,1verse,101,107,internal,https://alldimensions.fandom.com/wiki/1verse,"{""1verse"": 1}",1
+3045,2,Ryakverse,109,118,internal,https://alldimensions.fandom.com/wiki/Ryakverse,"{""Ryakverse"": 1}",1
+3045,2,the Portal-Connected Verses,139,166,internal,https://alldimensions.fandom.com/wiki/The_Portal-Connected_Verses,"{""the Portal-Connected Verses"": 1}",1
+3045,3,stars,34,39,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+3045,3,Milky Way,365,374,internal,https://alldimensions.fandom.com/wiki/Milky_Way,"{""Milky Way"": 1}",1
+3045,3,solar systems,473,486,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""solar systems"": 1}",1
+3045,3,Milky Way,365,374,internal,https://alldimensions.fandom.com/wiki/Milky_Way,"{""Milky Way"": 1}",1
+3045,3,star,34,38,internal,https://alldimensions.fandom.com/wiki/Star,"{""star"": 1}",1
+3045,36,Spiral,13,19,internal,https://alldimensions.fandom.com/wiki/Spiral_Galaxy,"{""Spiral"": 1}",1
+3045,36,Elliptical,22,32,internal,https://alldimensions.fandom.com/wiki/Elliptical_Galaxy,"{""Elliptical"": 1}",1
+3045,41,Universal,4,13,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universal"": 1}",1
+3045,41,Verses,14,20,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verses"": 1}",1
+3045,54,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

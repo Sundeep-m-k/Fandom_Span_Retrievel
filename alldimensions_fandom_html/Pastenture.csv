@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22874,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b3/RBVaVlxtIDOAE05HAAaNtuIVgLI154.jpg/revision/latest?cb=20200325193720,"{""\n\n"": 1}",1
+22874,1,Multiverse,50,60,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+22874,1,Omniverse,62,71,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+22874,1,Superclusters,83,96,internal,https://alldimensions.fandom.com/wiki/Supercluster,"{""Superclusters"": 1}",1
+22874,1,Universes,104,113,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+22874,1,Universe,104,112,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+22874,2,Multiversal,34,45,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiversal"": 1}",1
+22874,2,Omniversal,61,71,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniversal"": 1}",1

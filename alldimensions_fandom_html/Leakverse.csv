@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34940,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/dc/Leakverse.png/revision/latest?cb=20200827223357,"{""\n\n"": 1}",1
+34940,1,The Great Triangle,184,202,internal,https://alldimensions.fandom.com/wiki/The_Great_Triangle,"{""The Great Triangle"": 1}",1
+34940,1,galaxies,254,262,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxies"": 1}",1
+34940,3,The Great Triangle,37,55,internal,https://alldimensions.fandom.com/wiki/The_Great_Triangle,"{""The Great Triangle"": 1}",1
+34940,4,Stealbot,93,101,internal,https://alldimensions.fandom.com/wiki/Stealbot,"{""Stealbot"": 1}",1
+34940,5,Coververses,88,99,internal,https://alldimensions.fandom.com/wiki/Coververse,"{""Coververses"": 1}",1
+34940,6,OYC,296,299,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+34940,7,The Box,193,200,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1

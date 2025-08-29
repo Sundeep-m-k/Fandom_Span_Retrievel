@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+38484,1,Stars,157,162,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+38484,1,protons,193,200,internal,https://alldimensions.fandom.com/wiki/Proton,"{""protons"": 1}",1
+38484,1,electrons,205,214,internal,https://alldimensions.fandom.com/wiki/Electron,"{""electrons"": 1}",1
+38484,1,neutrons,230,238,internal,https://alldimensions.fandom.com/wiki/Neutron,"{""neutrons"": 1}",1
+38484,5,biradioactivity,65,80,internal,https://alldimensions.fandom.com/wiki/Hyperradioactive_Elements,"{""biradioactivity"": 1}",1
+38484,5,biradioactivity,65,80,internal,https://alldimensions.fandom.com/wiki/Biradioactivity,"{""biradioactivity"": 1}",1

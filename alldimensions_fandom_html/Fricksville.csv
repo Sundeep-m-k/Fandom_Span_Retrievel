@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35144,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6d/Fricksville.png/revision/latest?cb=20200910134549,"{""\n\n"": 1}",1
+35144,1,Fricknias,51,60,internal,https://alldimensions.fandom.com/wiki/Fricknia,"{""Fricknias"": 1}",1
+35144,1,Downtown Fricksvilles,72,93,internal,https://alldimensions.fandom.com/wiki/Downtown_Fricksville,"{""Downtown Fricksvilles"": 1}",1
+35144,2,verse,27,32,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+35144,2,Downtown Fricksvilles,65,86,internal,https://alldimensions.fandom.com/wiki/Downtown_Fricksville,"{""Downtown Fricksvilles"": 1}",1
+35144,3,Fricknias,42,51,internal,https://alldimensions.fandom.com/wiki/Fricknia,"{""Fricknias"": 1}",1

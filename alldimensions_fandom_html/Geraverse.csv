@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+8911,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6f/Quarkverse.png/revision/latest?cb=20200414203504,"{""\n\n"": 1}",1
+8911,1,Teraverse,49,58,internal,https://alldimensions.fandom.com/wiki/Teraverse,"{""Teraverse"": 1}",1
+8911,1,Gigaverse,89,98,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverse"": 1}",1
+8911,2,Gigaverses,34,44,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverses"": 1}",1
+8911,2,Metabubble,159,169,internal,https://alldimensions.fandom.com/wiki/Metabubble,"{""Metabubble"": 1}",1
+8911,3,Teraverse,44,53,internal,https://alldimensions.fandom.com/wiki/Teraverse,"{""Teraverse"": 1}",1
+8911,3,Metabubble,101,111,internal,https://alldimensions.fandom.com/wiki/Metabubble,"{""Metabubble"": 1}",1

@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35660,1,axiom,37,42,external,https://en.wikipedia.org/wiki/Axiom,"{""axiom"": 1}",1
+35660,1,Verse,97,102,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verse"": 1}",1
+35660,2,Existence Rank,105,119,internal,https://alldimensions.fandom.com/wiki/Existence_Rank,"{""Existence Rank"": 1}",1
+35660,2,Archverse,151,160,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverse"": 1}",1
+35660,3,Eisler value,54,66,internal,https://alldimensions.fandom.com/wiki/Eisler_Value,"{""Eisler value"": 1}",1
+35660,4,Universe,7,15,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+35660,5,Multiverse,335,345,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1

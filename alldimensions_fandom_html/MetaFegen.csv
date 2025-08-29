@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49797,1,concept,4,11,internal,https://alldimensions.fandom.com/wiki/Category:Concept,"{""concept"": 1}",1
+49797,1,real life,233,242,internal,https://alldimensions.fandom.com/wiki/Real_life,"{""real life"": 1}",1
+49797,3,Wikiverse,14,23,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
+49797,4,verses,17,23,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+49797,4,species,76,83,internal,https://alldimensions.fandom.com/wiki/Category:Species,"{""species"": 1}",1
+49797,4,Transcendent Omni-Gods,113,135,internal,https://alldimensions.fandom.com/wiki/Transcendent_Omni-God,"{""Transcendent Omni-Gods"": 1}",1
+49797,4,humans,171,177,internal,https://alldimensions.fandom.com/wiki/Human,"{""humans"": 1}",1

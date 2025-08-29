@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+11833,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f1/Rcnstrcs.png/revision/latest?cb=20190130202616,"{""\n\n"": 1}",1
+11833,2,universe,151,159,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+11833,2,multiverse,163,173,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+11833,3,multiverses,65,76,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverses"": 1}",1
+11833,3,omniverses,104,114,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverses"": 1}",1

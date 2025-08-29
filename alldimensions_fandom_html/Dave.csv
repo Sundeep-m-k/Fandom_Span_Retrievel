@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+18952,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/3e/Dave.png/revision/latest?cb=20191227055435,"{""\n\n"": 1}",1
+18952,1,Heaa,46,50,internal,https://alldimensions.fandom.com/wiki/Heaa,"{""Heaa"": 1}",1
+18952,1,entity,163,169,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entity"": 1}",1
+18952,1,Heaa,46,50,internal,https://alldimensions.fandom.com/wiki/Heaa,"{""Heaa"": 1}",1
+18952,2,Hecks,259,264,internal,https://alldimensions.fandom.com/wiki/Heck,"{""Hecks"": 1}",1
+18952,2,Heccs,266,271,internal,https://alldimensions.fandom.com/wiki/Hecc,"{""Heccs"": 1}",1
+18952,2,Hekks,277,282,internal,https://alldimensions.fandom.com/wiki/Hekk,"{""Hekks"": 1}",1

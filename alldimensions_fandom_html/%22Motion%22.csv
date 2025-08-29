@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49967,1,Nihil,1,6,internal,https://alldimensions.fandom.com/wiki/Nihil,"{""Nihil"": 1}",1
+49967,3,everything,30,40,internal,https://alldimensions.fandom.com/wiki/Allsphere,"{""everything"": 1}",1
+49967,3,gravity,74,81,internal,https://alldimensions.fandom.com/wiki/%22Gravity%22,"{""gravity"": 1}",1

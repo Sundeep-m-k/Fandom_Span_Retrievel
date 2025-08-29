@@ -1,0 +1,217 @@
+The Miner's Loading Number is very big, so big it is exactly
+cos
+⁡
+TREE
+⁡
+(
+3
+)
+π
+2
+%
+{\displaystyle \cos\frac{\operatorname{TREE}\left(3\right)\pi}{2}\%}
+of the diameter of
+the Box
+(Leftunknown said he didn't want the
+Omniverse
+appearing
+😢
+). It uses the Loader Function (D
+y
+(x)).
+The formula:
+Ml
+1
+=
+D
+D
+D
+⋯
+D
+1
+(
+1
+)
+(
+1
+)
+(
+1
+)
+(
+1
+)
+(
+1
+)
+⏟
+what is D(1)
+{\displaystyle \operatorname{Ml}_1 = \underbrace{D^{D^{D^{\cdots^{D^{1}(1)}(1)}(1)}(1)}(1)}_{\text{what is D(1)}}}
+Ml
+2
+=
+D
+D
+D
+⋯
+D
+2
+(
+2
+)
+(
+2
+)
+(
+2
+)
+(
+2
+)
+(
+2
+)
+⏟
+what is D(2)
+{\displaystyle \operatorname{Ml}_2 = \underbrace{D^{D^{D^{\cdots^{D^{2}(2)}(2)}(2)}(2)}(2)}_{\text{what is D(2)}}}
+Ml
+3
+=
+D
+D
+D
+⋯
+D
+3
+(
+3
+)
+(
+3
+)
+(
+3
+)
+(
+3
+)
+(
+3
+)
+⏟
+what is D(3)
+{\displaystyle \operatorname{Ml}_3 = \underbrace{D^{D^{D^{\cdots^{D^{3}(3)}(3)}(3)}(3)}(3)}_{\text{what is D(3)}}}
+⋮
+{\displaystyle \vdots}
+Ml
+132
+=
+D
+D
+D
+⋯
+D
+132
+(
+132
+)
+(
+132
+)
+(
+132
+)
+(
+132
+)
+(
+132
+)
+⏟
+D(132)
+{\displaystyle \operatorname{Ml}_{132} = \underbrace{D^{D^{D^{\cdots^{D^{132}(132)}(132)}(132)}(132)}(132)}_{\text{D(132)}}}
+Ml
+x
+=
+D
+D
+D
+⋯
+D
+x
+(
+x
+)
+(
+x
+)
+(
+x
+)
+(
+x
+)
+(
+x
+)
+⏟
+D
+(
+x
+)
+times
+{\displaystyle \operatorname{Ml}_x = \underbrace{D^{D^{D^{\cdots^{D^{x}(x)}(x)}(x)}(x)}(x)}_{D(x) \text{times}}}
+Now, let's nest it!
+Ml
+x
+1
+=
+M
+l
+x
+⏟
+M
+l
+x
+{\displaystyle \operatorname{Ml}_x^1 = \underbrace{Ml_x}_{Ml_x}}
+Ml
+x
+2
+=
+M
+l
+M
+l
+x
+⏟
+M
+l
+x
+{\displaystyle \operatorname{Ml}_x^2 = \underbrace{Ml_{Ml_x}}_{Ml_x}}
+Ml
+x
+3
+=
+M
+l
+M
+l
+M
+l
+x
+⏟
+M
+l
+x
+{\displaystyle \operatorname{Ml}_x^3 = \underbrace{Ml_{Ml_{Ml_x}}}_{Ml_x}}
+⋮
+{\displaystyle \vdots}
+The final number is *drumroll sounds*
+Ml
+2147483648
+2147483648
+{\displaystyle \operatorname{Ml}_{2147483648}^{2147483648}}
+.
+I don't know if it's bigger than Rayo's number (I think it's smaller), but I am g
+999
+% sure it is a whole lot bigger than Loader's number.

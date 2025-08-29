@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35128,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/39/AlatarverseMiners.png/revision/latest?cb=20200908230253,"{""\n\n"": 1}",1
+35128,1,Multiverse,337,347,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+35128,1,Galaxies,359,367,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxies"": 1}",1
+35128,1,Multiverse,337,347,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+35128,2,Periodicverse,187,200,internal,https://alldimensions.fandom.com/wiki/Periodicverse,"{""Periodicverse"": 1}",1
+35128,2,deltaverse,226,236,internal,https://alldimensions.fandom.com/wiki/Deltaverse,"{""deltaverse"": 1}",1
+35128,2,Ferroverse,335,345,internal,https://alldimensions.fandom.com/wiki/Ferroverse,"{""Ferroverse"": 1}",1
+35128,4,Ferroverse,175,185,internal,https://alldimensions.fandom.com/wiki/Ferroverse,"{""Ferroverse"": 1}",1
+35128,4,Palladiumverse,202,216,internal,https://alldimensions.fandom.com/wiki/Palladiumverse,"{""Palladiumverse"": 1}",1

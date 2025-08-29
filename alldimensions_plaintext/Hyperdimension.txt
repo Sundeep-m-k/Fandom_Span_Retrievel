@@ -1,0 +1,95 @@
+Hyperdimension
+Natural Position
+Contained by
+Extensions of Hyperdimensionality (such as
+the Structures Of Everything
+)
+Contains
+Space
+,
+Time
+,
+Omnionions
+, or something else (varies depending on Hyperdimension)
+Scale
+Dimensionality
+A lot (per hyperdimension)
+Hyperdimensions
+are sets of dimensions beyond the traditional "spatial and temporal" dimensions. Each set is almost unbound, with the only boundary being the definition of a hyperdimension.
+The cardinality of dimensions within a hyperdimension is expressed as
+H
+{\displaystyle \mathbb{H}}
+. This number is typically used only for expressing larger sets than hyperdimensions (i.e.,
+H
+2
+{\displaystyle \mathbb H^{2}}
+,
+2
+H
+{\displaystyle 2^{\H}}
+), with rare use otherwise.
+Definition
+[
+]
+H(i) is the notation for hyperdimensionality, it takes integers/ordinals as input.
+The definition is below:
+H(0) = Spatial dimensions
+H(i) =
+A higher, independent set of dimensions controlling or above/beyond the "laws" of H(j) for j<i and j being an integer
+Laws are derived from the position in the current hyperdimension
+The cardinality of negative hyperdimensions will be excluded from an object's dimensionality, since objects normally contain many negative hyperdimensions and therefore it would be useless to include them. This means that H(<0) hyperdimensional dimensions can be subtracted from an object to give it a negative dimensionality.
+Examples
+[
+]
+Hyperdimension
+Relevant container's attributes
+H(-8)
+Back into the wacky realm of non-abstracts, there are now sub-truths and a bunch of extremely tiny objects that defy reality and logic extensively, yet still somehow make up basic concepts like truth and axioms.
+H(-7)
+The absolute axioms making up the definitions of everything abstract. These are always assumed to be true, and cannot be decomposed into smaller truths.
+H(-6)
+The proofs making up the abstract realm.
+H(-5)
+Basic abstract things with no representation as an object or concrete thing. For example, numbers, sets, functions, etc.
+H(-4)
+This is the end of the semi-abstracts, with the simplest concrete concepts existing here like geometry.
+H(-3)
+The realm of the abstract is approached even more, with this hyperdimension containing basic definitions for concepts like dimensionality, containment, Verses, and more.
+H(-2)
+Abstract dimensions, a strange blend of mathematics and objects. Particles embodying mathematical concepts, are a common sight here.
+H(-1)
+Hypospatial dimensions, contains negative-dimensional objects and the basics of properties. Goes all the way down to the bottom of class -1 in
+the Pre-Hierarchy
+.
+H(-0.5)
+Weird hyperdimension bethween the 0th and -1st one, consisting of
+∅
+-dimensional objects and the basics of properties.
+H(0)
+Spatial dimensions
+, by definition.
+H(1)
+Space and
+Temporal dimensions
+/order-0 law dimensions, since it defines what causes space to change. Also includes iterations of "time of time" and "timelines".
+H(2)
+H(2) contains various distorted versions of realties and reality-less voids. Also the set of order-1 law dimensions, which are independent from
+Verse
+laws due to being very static over time and space.
+H(3)
+H(3) contains a deformed version of logic that doesn't appear to work anymore, priority over logic is needed to enter without getting converted into a jumbled soup.
+Omnionions
+use dimensions from this hyperdimension, towards their larger layers. Also the set of order-2 law dimensions.
+H(4)
+Even logic priority breaks down at H(4), leading a lot of this hyperdimension unknown. However, creating artificial logic here is still an option. Also the set of order-3 law dimensions.
+H(5)
+This hyperdimension is chaotic to the point that even artificial logic doesn't work for exploration. Similarly to H(4), a lot of this hyperdimension is unknown. Also the set of order-4 law dimensions.
+H(6)
+Currently, very little is known about this (the set of order-5 law dimensions), but it is probably more chaotic than H(5) due to this. The only way we know of this, is via H(ω).
+secret info
+[
+]
+H(-Ω) - anti logic. The most foundamental thing in wikiverse. If H(size of blank) 0 logic. and H(0) its positive logic.  H(-Ω) is negative logic
+H(-10)-absolute non-existence. That is, it implies that there are no particles that are in this hyper dimension. Literally. It's hard to explain
+Н(-9)  this is when there is a shell , but there is no conceptuality .  they have null properties. Even less. They somehow exist without a concept. It is also difficult to explain. By the way they are smaller than nothing
+h(W)   everything is already so terrible here that even many all powerful beings cannot know how illogical h(w) is. Not one omnipotent being will not be able to describe this in  all language how chaotic this dimension is, but someone who was able to extract information from this dimension. That there are, for example, large hyper dimensions. He was clearly so omnipotent that no one can imagine. Remember that no one can understand and live there. Perhaps it is more difficult to settle there than in any verse that is less than wikiverse.

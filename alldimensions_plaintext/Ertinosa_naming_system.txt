@@ -1,0 +1,67 @@
+Deep in the wiki, there is something called the Ertinosa naming system. The new Ertinosa naming system is an easy one to learn:
+0D = DimoPonsta
+1D = DimoLengto
+2D = DimoPologonia
+3D = DimoHedry
+4D = DimoChroima
+5D = DimoPacteracto
+6D = DimoHectreracto
+7D = DimoSepecteranta
+8D = DimoOctomaline
+9D = DimoEnnonleminjkon
+10D = DimoDecterako
+11D = DimoHendecinetopano
+12D = DimoDodecinetopano
+20D = DimoVigintetopano
+30D = DimoTriacontetopano
+50D = DimoPentacontetopano
+100D = DimoHectetopano
+1000D = DimoKiletopano / DimoChilletopano
+1,000,000D = DimoMegetopano
+BillionD = DimoGigetopano
+TrillionD = DimoTeretopano
+SeptillionD = DimoYottetopano
+2 DecillionD = DimoDokiloweketoplexo / DimoDochilliquettotoplexo
+GoogolD = DimoDekadoketinotoplexo / Dimogoogolatitoplexo
+If d > 10, use these rules
+Prefix: Dimo
+Replace "o" with "e"
+Suffix: -topano
+i.e. DimoDodecinetopano
+If d < 0, use these rules
+Prefix: Dimo
+Replace "o" with "kostina"
+Suffix: -tenistra
+i.e. DimoNulapolytopinkostinatenistra
+If d is a decimal, use these rules
+Prefix: Dimdeco
+Root: Mastin
+Root 2:
+f
+l
+o
+o
+r
+(
+d
+)
+{\displaystyle floor(d)}
+Root 3:
+d
+e
+c
+i
+m
+a
+l
+p
+o
+r
+(
+d
+)
+{\displaystyle decimalpor(d)}
+Suffix: -iuemighe
+i.e. DimdecoMastin1.5iuemighe
+if it is larger than a decillion
+use -toplexo suffix

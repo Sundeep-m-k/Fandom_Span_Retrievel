@@ -1,0 +1,26 @@
+Aarex's polytope naming system
+is the system that names any number of
+polytope
+dimensions. This system was defined by Googleaarex.
+Definition
+[
+]
+To name polytopes, let define x as number of polytope dimensions. Then follow the steps:
+If x = 0, then 0D polytope can named as Polyoint.
+If x = 1, then 1D polytope can named as Polylinon.
+If x = 2, then 2D polytope can named as Polysquron.
+If x = 3, then 3D polytope can named as Polycubon.
+If x > 3, then follows the steps:
+You need to look for named x-dimensional hypercube.
+Replace the 'act' to 'on' on the end.
+Then put 'Poly' on the beginning.
+Examples
+[
+]
+The 0D polytope is named as Polyoint.
+The 1D polytope called Polylinon.
+2D Polytope can be named as Polysquaron.
+The 3D polytope is called Polycubon.
+4D Polytope is Polytesseron.
+5D is Polypenteron.
+And we name higher ones.

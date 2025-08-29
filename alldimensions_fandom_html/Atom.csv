@@ -1,0 +1,19 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2556,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.png/revision/latest?cb=20210913102758,"{""\n\n"": 1}",1
+2556,1,Molecules,44,53,internal,https://alldimensions.fandom.com/wiki/Molecule,"{""Molecules"": 1}",1
+2556,1,Protons,65,72,internal,https://alldimensions.fandom.com/wiki/Proton,"{""Protons"": 1}",1
+2556,1,Neutrons,74,82,internal,https://alldimensions.fandom.com/wiki/Neutron,"{""Neutrons"": 1}",1
+2556,1,Electrons,88,97,internal,https://alldimensions.fandom.com/wiki/Electron,"{""Electrons"": 1}",1
+2556,1,Protoverses,99,110,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""Protoverses"": 1}",1
+2556,1,Multiverse,326,336,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+2556,2,Molecules,5,14,internal,https://alldimensions.fandom.com/wiki/Molecule,"{""Molecules"": 1}",1
+2556,2,Electrons,229,238,internal,https://alldimensions.fandom.com/wiki/Electron,"{""Electrons"": 1}",1
+2556,3,Protons,65,72,internal,https://alldimensions.fandom.com/wiki/Proton,"{""Protons"": 1}",1
+2556,4,Neutrons,0,8,internal,https://alldimensions.fandom.com/wiki/Neutron,"{""Neutrons"": 1}",1
+2556,4,Electrons,81,90,internal,https://alldimensions.fandom.com/wiki/Electron,"{""Electrons"": 1}",1
+2556,4,Molecule,176,184,internal,https://alldimensions.fandom.com/wiki/Molecule,"{""Molecule"": 1}",1
+2556,11,Universal,4,13,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universal"": 1}",1
+2556,11,Verses,14,20,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verses"": 1}",1
+2556,24,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50108,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c7/Intraverse_v2.png/revision/latest?cb=20250606210001,"{""\n\n"": 1}",1
+50108,1,Meskoverse,50,60,internal,https://alldimensions.fandom.com/wiki/Meskoverse,"{""Meskoverse"": 1}",1
+50108,1,Mistroverse,65,76,internal,https://alldimensions.fandom.com/wiki/Mistroverse,"{""Mistroverse"": 1}",1
+50108,1,Meskoverse,50,60,internal,https://alldimensions.fandom.com/wiki/Meskoverse,"{""Meskoverse"": 1}",1
+50108,1,Meskoverse,50,60,internal,https://alldimensions.fandom.com/wiki/Meskoverse,"{""Meskoverse"": 1}",1
+50108,1,Mistroverse,65,76,internal,https://alldimensions.fandom.com/wiki/Mistroverse,"{""Mistroverse"": 1}",1
+50108,1,Gas-verse,369,378,internal,https://alldimensions.fandom.com/wiki/Category:Gas-verse,"{""Gas-verse"": 1}",1
+50108,2,Meskoverse,12,22,internal,https://alldimensions.fandom.com/wiki/Mistroverse,"{""Meskoverse"": 1}",1
+50108,2,Astroverse,25,35,internal,https://alldimensions.fandom.com/wiki/Astroverse,"{""Astroverse"": 1}",1
+50108,2,Panoverse,40,49,internal,https://alldimensions.fandom.com/wiki/Panoverse,"{""Panoverse"": 1}",1

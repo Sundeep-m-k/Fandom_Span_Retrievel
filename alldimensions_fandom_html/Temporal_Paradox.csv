@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42066,1,Wormhole,51,59,internal,https://alldimensions.fandom.com/wiki/Wormhole,"{""Wormhole"": 1}",1
+42066,2,Grandfather Paradox,107,126,external,https://en.wikipedia.org/wiki/Temporal_paradox#Grandfather_paradox,"{""Grandfather Paradox"": 1}",1
+42066,3,BSoD,207,211,external,https://en.wikipedia.org/wiki/Blue_screen_of_death,"{""BSoD"": 1}",1
+42066,5,NIGHTMARE GODITY,0,16,internal,https://alldimensions.fandom.com/wiki/Nightmare_godity,"{""NIGHTMARE GODITY"": 1}",1

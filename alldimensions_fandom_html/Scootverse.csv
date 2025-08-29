@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20120,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/63/New_Avatar5.png/revision/latest?cb=20200119133759,"{""\n\n"": 1}",1
+20120,1,Cheesebox,64,73,external,https://verse-and-dimensions.fandom.com/wiki/Cheesebox,"{""Cheesebox"": 1}",1
+20120,2,Scoot,0,5,internal,https://alldimensions.fandom.com/wiki/User:Not_scoot,"{""Scoot"": 1}",1

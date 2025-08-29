@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+17701,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/72/Hecc.jpg/revision/latest?cb=20191207224050,"{""\n\n"": 1}",1
+17701,1,Hecks,44,49,internal,https://alldimensions.fandom.com/wiki/Heck,"{""Hecks"": 1}",1
+17701,1,Hekks,61,66,internal,https://alldimensions.fandom.com/wiki/Hekk,"{""Hekks"": 1}",1
+17701,1,Hecks,44,49,internal,https://alldimensions.fandom.com/wiki/Heck,"{""Hecks"": 1}",1
+17701,1,Heck,44,48,internal,https://alldimensions.fandom.com/wiki/Heck,"{""Heck"": 1}",1
+17701,1,the Box,443,450,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""the Box"": 1}",1
+17701,1,Time and Reality,455,471,internal,https://alldimensions.fandom.com/wiki/Time_and_reality,"{""Time and Reality"": 1}",1

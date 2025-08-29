@@ -1,0 +1,19 @@
+Delaverse
+Natural Position
+Contained by
+Qiqiqiqiqiverse
+Contains
+Whatverses
+Scale
+Diameter
+Same size as an Infiniteverse
+A Delaverse is an infiniteverse that contains the
+whatverses
+. It extends to some parts of the
+Le Jorino Area
+. It has all the tools needed to create God, such as:
+Mericonela
+Daminestono
+The Delaverse code below:
+<cola><verse name="delaverse" onload="createGod()"></verse></cola>
+In the Delaverse, you can experience a new Le Jorino Area coming closer to us. As of now, 4,000,931,629 are coming closer to us.

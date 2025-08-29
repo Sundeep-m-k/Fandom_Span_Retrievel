@@ -1,0 +1,41 @@
+The
+Heptacubeverse
+is a verse that holds three nested cubes, the first holding two
+Quincubeverse
+, the second holding a
+Hexacubeverse
+, and the third holding nothing.
+The three cubes hold the laws of the Hexacubeverse to be stable.
+The Hexacubeverse has a Nest Notation of [3(3,1,0)].
+Heptacubeverse
+Basic info
+Size
+1 Trevigintillion to 1 Quadrivigintillion ly
+Temperature
+-10
+-20
++1
+Shape
+Shown in image
+Color
+Shown in image
+Age
+Unknown
+Properties
+Dimensions
+56+37
+Kardashev scale
+83
+EUSI
+ψ(5,0)
+Finality index
+5
+Existence rank
+2
+Location
+Contained by
+Octacubeverse
+Contains
+Hexacubeverse
+How the Heptacubeverse nests
+[[Category:Square

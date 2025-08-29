@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41561,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4b/Nuked1.webp/revision/latest?cb=20241117211849,"{""\n\n"": 1}",1
+41561,1,neoid,61,66,internal,https://alldimensions.fandom.com/wiki/Neoid,"{""neoid"": 1}",1
+41561,1,EUSI,70,74,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+41561,1,Finality Index,81,95,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+41561,1,FOEI,103,107,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+41561,1,Neoids,468,474,internal,https://alldimensions.fandom.com/wiki/Neoid,"{""Neoids"": 1}",1
+41561,3,neoid,74,79,internal,https://alldimensions.fandom.com/wiki/Neoid,"{""neoid"": 1}",1
+41561,3,[1],219,222,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-1,"{""[1]"": 1}",1

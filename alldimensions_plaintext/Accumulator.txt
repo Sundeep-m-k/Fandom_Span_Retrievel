@@ -1,0 +1,26 @@
+“
+Don't touch the zaps!
+”
+— Automate Industries
+Accumulator
+Picture of an accumulator (Factorio icon)
+Cost
+22
+(
+ɢ
+)
+Materials Used
+Iron, invar, copper
+Use(s)
+Energy Transportation
+Accumulators
+are machines produced by
+Automate Industries
+that store energy. If supplied with electricity, they will either release it there is energy in need or store it if there is an energy surplus. They can store up to 5 mega
+joules
+. Accumulators cost 22
+metagears
+each.
+Video of an accumulator charging and discharging energy (Factorio Wiki)
+The Really Cool Reviewing Cosmic Corporation
+gave it a rating of 9/16 - "useful in case of blackouts"

@@ -1,0 +1,232 @@
+Figure 1:
+Showing full, proper containment.
+Figure 2:
+Shows how  a verse of a smaller dimension can not fully contain a verse of a higher dimension,
+Figure 3:
+Not very clear, but if a lower dimensional verse is wrapped around a higher dimensional verse, it does not contain it but, but merely has the blue verse located in its geometrical center.
+Figure 4:
+Blue verse's area of influence extends out slightly beyond the red verse, and as such is not properly contained by the red verse.
+Containment
+is a concept referring to the ability of one object
+B
+to hold all of object
+A
+'s contents and more. In other words,
+A
+⊆
+B
+{\displaystyle  A \subseteq B}
+is equivalent to
+∀
+x
+(
+x
+⊆
+A
+⟹
+x
+⊆
+B
+)
+.
+{\displaystyle \forall x \left(x \subseteq A \implies x \subseteq B\right).}
+Contents
+1
+Definition
+2
+Measurement
+2.1
+Hierarchies
+2.2
+EUSI
+Definition
+[
+]
+Verse
+A
+{\displaystyle A}
+is contained inside of verse
+B
+{\displaystyle B}
+, if the set of all information of
+A
+{\displaystyle A}
+includes all information from the set of
+B
+{\displaystyle B}
+.
+A
+∩
+B
+=
+A
+{\displaystyle A\cap B=A}
+This rule takes advantage of the fact that laws map all information inside of the area of space they are inscribed in, which means that laws of
+B
+{\displaystyle B}
+influence
+all information from
+A
+{\displaystyle A}
+, giving us an alternative definition to
+containment
+. This only works if
+B
+{\displaystyle B}
+has laws and is used for objects that aren’t obvious if they are contained by
+B
+{\displaystyle B}
+.
+A
+{\displaystyle A}
+is partially contained in
+B
+{\displaystyle B}
+if
+A
+∩
+B
+⊈
+{
+∅
+,
+A
+}
+{\displaystyle A\cap B\nsubseteq\{\varnothing ,A\}}
+.
+Such a precise definition of
+containment
+is not needed in typical cases of
+A
+{\displaystyle A}
+and
+B
+{\displaystyle B}
+, but is needed when one can not directly observe
+containment
+between
+A
+{\displaystyle A}
+and
+B
+{\displaystyle B}
+and must use limited information.
+A
+{\displaystyle A}
+is not contained in
+B
+{\displaystyle B}
+if
+A
+∩
+B
+=
+∅
+{\displaystyle A \cap B = \varnothing}
+.
+When
+A
+{\displaystyle A}
+’s area of influence reaches
+beyond
+B
+{\displaystyle B}
+,
+A
+{\displaystyle A}
+is mostly contained in
+B
+{\displaystyle B}
+. However, if both
+A
+{\displaystyle A}
+and its area of influence is contained in
+B
+{\displaystyle B}
+,
+A
+{\displaystyle A}
+is properly contained in
+B
+{\displaystyle B}
+(properly contained and contained have the same definition, properly contained is just more specific and used in more technical matters).
+A verse that is lower
+dimensional
+than another verse can not contain said verse, as it is impossible, for example, a
+plane
+to contain a
+sphere
+.
+Measurement
+[
+]
+Hierarchies
+[
+]
+In
+Hypercosmology
+, a containment hierarchy describes a set
+H
+{\displaystyle H}
+defined as the following:
+∀
+x
+∈
+H
+∃
+y
+∈
+H
+(
+x
+∈
+y
+∨
+y
+∈
+x
+)
+{\displaystyle \forall x\in H\exists y\in H(x\in y\lor y\in x)}
+∀
+x
+∈
+H
+∀
+y
+∈
+H
+(
+x
+⊆
+y
+∨
+y
+⊆
+x
+∨
+x
+=
+y
+)
+{\displaystyle \forall x\in H\forall y\in H(x\subseteq y\lor y\subseteq x\lor x=y)}
+A hierarchy can be based on any object, such as a
+Universe
+; examples include
+The Official Hierarchy
+,
+The Extended Hierarchy
+,
+The Post-Hierarchy
+, and
+The Pre-Hierarchy
+.
+EUSI
+[
+]
+A verse's containment depth with respect to the
+Universe
+can be measured in the
+EUSI
+scale. EUSI describes a transfinite containment depth with
+Velben Notation
+.

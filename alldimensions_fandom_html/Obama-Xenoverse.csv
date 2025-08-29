@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23710,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/bf/Obama-xenoverse.png/revision/latest?cb=20201113194321,"{""\n\n"": 1}",1
+23710,1,Something,80,89,internal,https://alldimensions.fandom.com/wiki/Something,"{""Something"": 1}",1
+23710,1,Something,80,89,internal,https://alldimensions.fandom.com/wiki/Something,"{""Something"": 1}",1
+23710,1,&3,353,355,internal,https://alldimensions.fandom.com/wiki/%263,"{""&3"": 1}",1
+23710,1,Obama-Megaverse,357,372,internal,https://alldimensions.fandom.com/wiki/Obama-Megaverse,"{""Obama-Megaverse"": 1}",1
+23710,1,Obama-Metaverses,385,401,internal,https://alldimensions.fandom.com/wiki/Obama-Metaverse,"{""Obama-Metaverses"": 1}",1
+23710,1,Obama-Metaverse,385,400,internal,https://alldimensions.fandom.com/wiki/Obama-Metaverse,"{""Obama-Metaverse"": 1}",1
+23710,2,Something,69,78,internal,https://alldimensions.fandom.com/wiki/Something,"{""Something"": 1}",1
+23710,2,THE Library,227,238,internal,https://alldimensions.fandom.com/wiki/THE_Library,"{""THE Library"": 1}",1

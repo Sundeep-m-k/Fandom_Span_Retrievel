@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20807,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9a/Ducks.jpeg/revision/latest?cb=20200207001354,"{""\n\n"": 1}",1
+20807,1,Quod Infinita,45,58,internal,https://alldimensions.fandom.com/wiki/Quod_Infinita,"{""Quod Infinita"": 1}",1
+20807,1,Bubbleplex,60,70,internal,https://alldimensions.fandom.com/wiki/Bubbleplex,"{""Bubbleplex"": 1}",1
+20807,1,Thje Wa2l,72,81,internal,https://alldimensions.fandom.com/wiki/Thje_Wa2l,"{""Thje Wa2l"": 1}",1
+20807,1,The Wall,119,127,internal,https://alldimensions.fandom.com/wiki/The_Wall,"{""The Wall"": 1}",1
+20807,1,Universe,505,513,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+20807,1,Obice Novissimo,557,572,internal,https://alldimensions.fandom.com/wiki/Obice_Novissimo,"{""Obice Novissimo"": 1}",1
+20807,2,Heck,133,137,internal,https://alldimensions.fandom.com/wiki/Heck,"{""Heck"": 1}",1
+20807,3,The Wall,378,386,internal,https://alldimensions.fandom.com/wiki/The_Wall,"{""The Wall"": 1}",1

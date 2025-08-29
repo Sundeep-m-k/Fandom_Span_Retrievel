@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22854,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/19/Screen_Shot_2020-03-25_at_9.53.11_AM.png/revision/latest?cb=20200325165413,"{""\n\n"": 1}",1
+22854,1,Always,257,263,internal,https://alldimensions.fandom.com/wiki/Always,"{""Always"": 1}",1
+22854,1,A strange substance,276,295,internal,https://alldimensions.fandom.com/wiki/A_strange_substance,"{""A strange substance"": 1}",1
+22854,1,Formless,297,305,internal,https://alldimensions.fandom.com/wiki/Formless,"{""Formless"": 1}",1
+22854,1,Things,307,313,internal,https://alldimensions.fandom.com/wiki/Things,"{""Things"": 1}",1
+22854,1,-.. .. .,315,323,internal,https://alldimensions.fandom.com/wiki/-.._.._.,"{""-.. .. ."": 1}",1
+22854,2,Always,124,130,internal,https://alldimensions.fandom.com/wiki/Always,"{""Always"": 1}",1
+22854,2,a strange substance,228,247,internal,https://alldimensions.fandom.com/wiki/A_strange_substance,"{""a strange substance"": 1}",1
+22854,2,Things,264,270,internal,https://alldimensions.fandom.com/wiki/Things,"{""Things"": 1}",1
+22854,2,Formless,275,283,internal,https://alldimensions.fandom.com/wiki/Formless,"{""Formless"": 1}",1
+22854,2,-.. .. .,292,300,internal,https://alldimensions.fandom.com/wiki/-.._.._.,"{""-.. .. ."": 1}",1
+22854,2,OYC,652,655,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

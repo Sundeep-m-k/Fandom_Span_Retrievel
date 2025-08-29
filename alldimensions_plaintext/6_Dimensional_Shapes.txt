@@ -1,0 +1,236 @@
+Skeleton graph of the heptapeton
+Contents
+1
+Heptapeton
+1.1
+Properties
+1.1.1
+Hypervolumes
+1.1.2
+Subfacets
+2
+Hexeract
+2.1
+Hypervolumes
+2.2
+Subfacets
+3
+6-orthoplex
+3.1
+Subfacets
+4
+Hexaphere
+4.1
+Hypervolumes
+Heptapeton
+[
+]
+A
+heptapeton
+is a 6-dimensional
+simplex
+. It is also called the
+pyropeton
+under the elemental naming scheme.
+Properties
+[
+]
+Hypervolumes
+[
+]
+vertex count
+=
+7
+{\displaystyle 7}
+edge length
+=
+21
+l
+{\displaystyle 21l}
+surface area
+=
+35
+3
+4
+l
+2
+{\displaystyle \frac { 35\sqrt { 3 }  }{ 4 } { l }^{ 2 }}
+surcell volume
+=
+35
+3
+12
+l
+3
+{\displaystyle \frac { 35\sqrt { 3 }  }{ 12 } { l }^{ 3 }}
+surteron bulk
+=
+7
+5
+32
+l
+4
+{\displaystyle \frac { 7\sqrt { 5 }  }{ 32 } { l }^{ 4 }}
+surpeton pentavolume =
+7
+3
+480
+l
+5
+{\displaystyle \frac { 7\sqrt { 3 }  }{ 480 } { l }^{ 5 }}
+surexon hexavolume =
+7
+5760
+l
+6
+{\displaystyle \frac { \sqrt { 7 }  }{ 5760 } { l }^{ 6 }}
+Subfacets
+[
+]
+7
+points
+(0D)
+21
+lines
+(1D)
+35
+triangles
+(2D)
+35
+tetrahedra
+(3D)
+21
+pentachora
+(4D)
+7
+hexatera
+(5D)
+Hexeract
+[
+]
+A
+Hexeract
+is a 6-dimensional hypercube.
+Hypervolumes
+[
+]
+vertex count =
+64
+{\displaystyle 64}
+edge length =
+192
+l
+{\displaystyle 192l}
+surface area =
+240
+l
+2
+{\displaystyle 240{ l }^{ 2 }}
+surcell volume =
+160
+l
+3
+{\displaystyle 160{ l }^{ 3 }}
+surteron bulk =
+60
+l
+4
+{\displaystyle 60{ l }^{ 4 }}
+surpeton pentavolume =
+12
+l
+5
+{\displaystyle 12{ l }^{ 5 }}
+surecton hexavolume =
+l
+6
+{\displaystyle { l }^{ 6 }}
+Subfacets
+[
+]
+64 points (0D)
+192 line segment (1D)
+240 squares (2D)
+160 cubes (3D)
+60 tesseracts (4D)
+12 penteracts (5D)
+6-orthoplex
+[
+]
+An icosahedrally symmetric projection of the 6-orthoplex down to three dimensions
+A
+6-orthoplex
+(Hexarss)
+is the six-dimensional
+cross polytope
+. It is the dual of the hexeract and has a
+schläfli symbol
+of
+{
+3
+,
+3
+,
+3
+,
+3
+,
+4
+}
+{\displaystyle \{3,3,3,3,4\}}
+.
+Subfacets
+[
+]
+12 points (0D)
+60 line segments (1D)
+160 triangles (2D)
+240 tetrahedrons (3D)
+192 tetrarsses (4D)
+64 pentarsses (5D)
+Hexaphere
+[
+]
+A hexaphere is the 6-dimensional hypersphere.
+Hypervolumes
+[
+]
+vertex count =
+N
+/
+A
+{\displaystyle N/A}
+edge length =
+N
+/
+A
+{\displaystyle N/A}
+surface area =
+N
+/
+A
+{\displaystyle N/A}
+surcell volume =
+N
+/
+A
+{\displaystyle N/A}
+surteron bulk =
+N
+/
+A
+{\displaystyle N/A}
+surpeton pentavolume =
+π
+3
+32
+l
+5
+{\displaystyle \frac { { \pi  }^{ 3 } }{ 32 } { l }^{ 5 }}
+surecton hexavolume  =
+π
+3
+384
+l
+6
+{\displaystyle \frac { { \pi  }^{ 3 } }{ 384 } l^{ 6 }}

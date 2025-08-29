@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+28255,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cc/600f139e2000a0a2e3343a983ef0db75.gif/revision/latest?cb=20200519124646,"{""\n\n"": 1}",1
+28255,1,The Barrier of Reality,255,277,internal,https://alldimensions.fandom.com/wiki/The_Barrier_of_Reality,"{""The Barrier of Reality"": 1}",1
+28255,1,The Unimaginable,290,306,internal,https://alldimensions.fandom.com/wiki/The_Unimaginable,"{""The Unimaginable"": 1}",1
+28255,2,Unimaginables,66,79,internal,https://alldimensions.fandom.com/wiki/The_Unimaginable,"{""Unimaginables"": 1}",1
+28255,3,The Bubble Blower,37,54,internal,https://alldimensions.fandom.com/wiki/The_Bubble_Blower,"{""The Bubble Blower"": 1}",1
+28255,3,"The Barrier of Reality,",100,123,internal,https://alldimensions.fandom.com/wiki/The_Barrier_of_Reality,"{""The Barrier of Reality,"": 1}",1

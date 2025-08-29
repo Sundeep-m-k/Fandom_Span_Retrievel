@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+10682,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c7/Finger.png/revision/latest?cb=20181103231731,"{""\n\n"": 1}",1
+10682,1,Nailsverses,73,84,internal,https://alldimensions.fandom.com/wiki/Nailsverse,"{""Nailsverses"": 1}",1
+10682,1,Protoverses,86,97,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""Protoverses"": 1}",1
+10682,2,Toesverse,27,36,internal,https://alldimensions.fandom.com/wiki/Toesverse,"{""Toesverse"": 1}",1
+10682,5,Toesverse,27,36,internal,https://alldimensions.fandom.com/wiki/Toesverse,"{""Toesverse"": 1}",1
+10682,5,Nailsverse,45,55,internal,https://alldimensions.fandom.com/wiki/Nailsverse,"{""Nailsverse"": 1}",1

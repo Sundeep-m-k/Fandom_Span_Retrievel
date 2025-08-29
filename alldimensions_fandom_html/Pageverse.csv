@@ -1,0 +1,18 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+44365,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/40/PageverseNew.jpg/revision/latest?cb=20250725174123,"{""\n\n"": 1}",1
+44365,1,Wikiverse,51,60,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
+44365,1,Wikiverses,236,246,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverses"": 1}",1
+44365,1,Metawebs,258,266,internal,https://alldimensions.fandom.com/wiki/Metaweb...,"{""Metawebs"": 1}",1
+44365,1,bits,292,296,internal,https://alldimensions.fandom.com/wiki/Gigabiteverse,"{""bits"": 1}",1
+44365,2,Meta-class,64,74,internal,https://alldimensions.fandom.com/wiki/The_Meta-Hierarchy,"{""Meta-class"": 1}",1
+44365,2,verse,7,12,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+44365,2,Metawebs,93,101,internal,https://alldimensions.fandom.com/wiki/Metaweb...,"{""Metawebs"": 1}",1
+44365,3,artificial,29,39,internal,https://alldimensions.fandom.com/wiki/Category:Manmade,"{""artificial"": 1}",1
+44365,3,structure,52,61,internal,https://alldimensions.fandom.com/wiki/Category:Structure,"{""structure"": 1}",1
+44365,3,verses,69,75,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+44365,3,Wikiverse,133,142,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
+44365,3,entities,203,211,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entities"": 1}",1
+44365,3,particles,213,222,internal,https://alldimensions.fandom.com/wiki/Category:Particle,"{""particles"": 1}",1
+44365,6,TOGs,159,163,internal,https://alldimensions.fandom.com/wiki/TOG,"{""TOGs"": 1}",1

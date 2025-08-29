@@ -1,0 +1,912 @@
+The Kardashev Scale
+says how much energy is needed to control something. We are type 0.7 on the
+Kardashev Scale
+. The measure was proposed by Nikolai Kardashev in 1964. The original Kardashev scale divides civilizations into Types 1-3, although extensions used on this wiki are also commonplace.
+With using this formula:
+K
+=
+log
+10
+⁡
+P
+−
+6
+10
+{\textstyle K = \frac{\log_{10}P - 6} {10}}
+, we can calculate our
+Kardashev Scale
+. The
+P
+{\textstyle P}
+means power, or how many power it uses.
+Contents
+1
+Type -1.0 Basic Civilizations
+2
+Type 0.0 Minimal Civilizations
+3
+Type 1.0 Planetary Civilizations
+4
+Type 2.0 Stellar Civilizations
+5
+Type 3.0 Galactic Civilizations
+6
+Type 4.0 Universal Civilizations
+7
+Type 5.0 Multiversal Civilizations
+8
+Type 6.0 Metaversal Civilizations
+9
+Type 7.0 Xenoversal Civilizations
+10
+Type 8.0 Hyperversal Civilizations
+11
+Type 9.0 Kiloversal Civilizations
+12
+Type 10.0 Megaversal Civilizations
+13
+Type 11.0 Gigaversal Civilizations
+14
+Type 12.0 Teraversal Civilizations
+15
+Type 13.0 Petaversal Civilizations
+16
+Type 14.0 Exaversal Civilizations
+17
+Type 15.0 Zettaversal Civilizations
+18
+Type 16.0 Yottaversal Civilizations
+19
+Type 17.0 Ronnaversal Civilizations
+20
+Type 18.0 Quettaversal Civilizations
+21
+Type 19.0 Hendaversal Civilizations
+22
+Type 20.0 Dokaversal Civilizations
+23
+See also
+Type -1.0 Basic Civilizations
+[
+]
+-1.9
+The organisms are living on zero scale
+-1.8
+The organisms are living on sub-nanometer scale
+-1.7
+The organisms are living on scale of nanobe
+-1.6
+DNA viruses
+-1.5
+Viruses that target viruses target other viruses
+-1.4
+Viruses that target other viruses
+-1.3
+Small viruses
+-1.2
+Large viruses
+-1.1
+Small bacteria
+-1.0
+Large bacteria
+Type 0.0 Minimal Civilizations
+[
+]
+0.0
+10
+6
+watts
+Tool use was discovered.
+0.1
+10
+7
+watts
+Hominids appear in Africa that evolve into humans who move to other parts of the world.
+0.2
+10
+8
+watts
+Roaming hunter-gatherers explore vast areas, then build boats to explore the world. Ability to make fire and the wheel is invented. Egalitarian economy and barter systems emerge as tribes meet.
+0.3
+10
+9
+watts
+Politic hierarchies emerge with economic inequalities and a division of labor. Building the first structures. We still think the sun revolves around the earth.
+0.4
+10
+10
+watts
+Mercantile economies lead to market economies and democracy. The oceans are discovered via wooden ships. Early science, first telescopes, understanding of magnetism, printing press, storage and mass production of grain. Empires extend their control over peoples who are not culturally, ethnically or geographically within their normal jurisdiction, with a goal of economic dominance over rival empires. Industrial revolution emerges with steam engines.
+0.5
+10
+11
+watts
+Liberal democracies that give the vote to all citizens. Explosion of science leads to combustion engines, flight and mass produced land vehicles. Computer revolution and related technologies emerge. Capitalism and free markets emerge.
+0.6
+10
+12
+watts
+First humans on the moon. Computers are networked and mass produced due to transistor miniaturization and integrated circuit boards. Nuclear power is embraced for good and bad.
+0.7
+10
+13
+watts
+Our current civilization. Global network / internet. First particle accelerators. Digital and data revolution. Nano technology. Early space race towards nearby planets and moons. Globally linked renewable energy sources to replace nuclear fission and coal plants. Rovers land on moon and Mars smart glasses become common.
+0.8
+10
+14
+watts
+Ability to choose what your children look like due to improved genetic engineering. First moon and Mars bases. Quantum computers. Utilization of Dark Matter and Energy. Fusion power becomes primary source of energy. Sending miniature objects to nearby stars
+0.9
+10
+15
+watts
+The ability to fully control energy and weather systems on Earth which is a possible ecumenopolis. Bases around the solar system and harnessing of materials from asteroids. Sending the first ships to nearby stars.
+Type 1.0 Planetary Civilizations
+[
+]
+1.0
+10
+16
+watts
+Ability to completely control the Earth and Moon and possibly prevent aging.
+1.1
+10
+17
+watts
+Space travel becomes possible for most people. All species have been discovered. Ability to move asteroids away from earth or mine them. First space wars.
+1.2
+10
+18
+watts
+Colonization of the moon, ability to manipulate genes so that many common diseases are no longer a problem.
+1.3
+10
+19
+watts
+Space lifts, colonization of other planets, first invisibility, and the ability to upload brains to computers.
+1.4
+10
+20
+watts
+Interplanetary travel and first step to terraforming.
+1.5
+10
+21
+watts
+Possible discovery of aliens (if within home galaxy), discovered how consciousness works (possibly earlier) and what dark energy is.
+1.6
+10
+22
+watts
+Mining many asteroids, first humans in another solar system.
+1.7
+10
+23
+watts
+Beginning the construction of a dyson sphere, first warp drive and faster than light travel
+1.8
+10
+24
+watts
+Construction of an A.I. indistinguishable from that of a human being
+1.9
+10
+25
+watts
+First colony in another solar system, Dyson Sphere is nearly complete, ability to actively create species.
+Type 2.0 Stellar Civilizations
+[
+]
+2.0
+10
+26
+watts
+Dyson sphere is complete, along with star system colonization.
+2.1
+10
+27
+watts
+Multiple systems colonized.
+2.2
+10
+28
+watts
+Fikayo Aydole realised he’s the only human in the whole world.
+2.3
+10
+29
+watts
+Holograms Become Real. This may happen much, much earlier with the use of nanotechnology, but the creation of metamaterials that serve the same purpose are here now.
+2.4
+10
+30
+watts
+First object sent to intergalactic space.
+2.5
+10
+31
+watts
+First easily noticeable time travel using relativistic time dilation.
+2.6
+10
+32
+watts
+Perfection of a virtual reality that looks and feels real. 1,000,000 stars colonized.
+2.7
+10
+33
+watts
+10,000,000 stars colonized, along with cloning at the quantum level
+2.8
+10
+34
+watts
+Ability to direct wormholes.
+2.9
+10
+35
+watts
+A full spiral arm of the galaxy is colonized.
+Type 3.0 Galactic Civilizations
+[
+]
+3.0
+10
+36
+watts
+The entire galaxy is colonized, the first humans in other galaxies. Ability to control things with your mind; this could be achieved very far in the past by the use of augmented technology, but now it is indistinguishable from telekinesis.
+3.1
+10
+37
+watts
+Colonization of ten galaxies; at this point, humanity occupies the Local Group, with arrays Dyson spheres absorbing much of the light from the Milky Way, Andromeda, and Triangulum. Intergroup travel is employed to send probes to more distant galaxy groups in the Virgo Cluster.
+3.2
+10
+38
+watts
+Intergalactic civilization develops a host of technologies. Zeptotechnology allows for the modification of individual particles, including custom-making massive particles with a range of useful properties not seen in nature.
+3.3
+10
+39
+watts
+At this point, humanity occupies the entire Local Cluster. Mastery of quantum mechanics is obtained, allowing for macroscopic structures of a wide range of sizes to be placed into superposition.
+3.4
+10
+40
+watts
+Zeptotechnology has advanced to the point where the electroweak force is routinely utilized in the building of structures.
+3.5
+10
+41
+watts
+Colonization of 100,000 galaxies; at this point, humanity occupies the entire Laniakea supercluster.
+3.6
+10
+42
+watts
+Colonisation of 10 million galaxies.
+3.7
+10
+43
+watts
+Colonisation of 1 billion galaxies.
+3.8
+10
+44
+watts
+Colonisation of 100 billion galaxies.
+3.9
+10
+45
+watts
+Colonisation of 10 trillion galaxies.
+Type 4.0 Universal Civilizations
+[
+]
+4.0
+10
+46
+watts
+Humanity occupies the entire universe and is using all of the resources inside it. Interuniversal travel is difficult, so civilizations can plateau here for quite some time.
+4.1
+10
+47
+watts
+Humanity discovers how to travel to nearby other universes and begins settling them, using horizon breaking technology to escape the narrow confines of their home universe.
+4.2
+10
+48
+watts
+Humanity creates small settlements in another universe.
+4.3
+10
+49
+watts
+Humanity creates bases in another universe
+4.4
+10
+50
+watts
+Full occupation of another Universe. Colinisation of
+milliverses
+, if the civilisation's native universe doesn't have them.
+4.5
+10
+51
+watts
+Control of a universal cluster, such as a super galaxy.
+4.6
+10
+52
+watts
+Humanity finds out that the multiverse exists.
+4.7
+10
+53
+watts
+Humanity now explores between inter-universal clusters and finds more universes.
+4.8
+10
+54
+watts
+Control of a universal supercluster, such as a super galaxy cluster.
+4.9
+10
+55
+watts
+Humanity almost occupies the entire multiverse, so they manage to get more universal superclusters.
+Type 5.0 Multiversal Civilizations
+[
+]
+5.0
+10
+56
+watts
+Humanity occupies an entire multiverse.
+5.1
+10
+57
+watts
+Humanity tries to travel to a new multiverse, it failed and they travelled to another multiverse.
+5.2
+10
+58
+watts
+Using the immense power they have, travelling to other multiverses is almost easy.
+5.3
+10
+59
+watts
+Some people manage to gather multiverses and made artificial multiverses.
+5.4
+10
+60
+watts
+A theory was made that they live in a virtual simulation called the metaverse.
+5.5
+10
+61
+watts
+By correlating information over vast numbers of multiverses, humanity discovers that they exist in a simulated metaverse; expanding further is tantamount to altering the coding of this metaverse, starting with tuning small amounts of the API left open by its elusive creators.
+5.6
+10
+62
+watts
+Many people try to get to the edge of the metaverse, though they often give up because it is too far to reach.
+5.7
+10
+63
+watts
+Now people can reach the end of the metaverse, they occupy many multiverses there, but they still didn't occupy all of the metaverse.
+5.8
+10
+64
+watts
+Even though they have many multiverses, they still do not occupy all of it.
+5.9
+10
+65
+watts
+Humanity almost gains the total control over the code of the metaverse.
+Type 6.0 Metaversal Civilizations
+[
+]
+6.0
+10
+66
+watts
+Humanity gains total control over the code of the metaverse and begins looking for ways to break out.
+6.1
+10
+67
+watts
+Many theories about getting out of the metaverses existed, now some of them are disproven because of the code.
+6.2
+10
+68
+watts
+Gaining the total control of the entire metaverse's code makes humanity better. Many people tried to find a way out, but still didn't find it.
+6.3
+10
+69
+watts
+Humanity is still done, but they almost figured out the way out.
+6.4
+10
+70
+watts
+Humanity almost occupied the entire metaverse, all that was left was unknown and waiting to be discovered.
+6.5
+10
+71
+watts
+Humanity successfully occupied the entire metaverse.
+6.6
+10
+72
+watts
+Humanity is close to find the way out.
+6.7
+10
+73
+watts
+Every theory was disproven, only one being left.
+6.8
+10
+74
+watts
+Humanity founds out that the last theory was also wrong.
+6.9
+10
+75
+watts
+Humanity finds a way out of the metaverse.
+Type 7.0 Xenoversal Civilizations
+[
+]
+7.0
+10
+76
+watts
+Humanity found more metaverses and occupy them.
+7.1
+10
+77
+watts
+Many scientists are experimenting on metaverses and learning the xenoverse.
+7.2
+10
+78
+watts
+Humanity tried to find out more types of xenoverses, only one found, which is the yenoverse.
+7.3
+10
+79
+watts
+More of xenoverse types are found, including zenoverses, hypoverses, and arenoverses.
+7.4
+10
+80
+watts
+Humanity almost occupied the entire metaverse, all that was left was unknown and waiting to be discovered.
+7.5
+10
+81
+watts
+Humanity successfully occupied the entire xenoverse.
+7.6
+10
+82
+watts
+Humanity explores the backups of the xenoverse, which are the yenoverse and the zenoverse.
+7.7
+10
+83
+watts
+Humanity finds delete files and codes in the xenoverse.
+7.8
+10
+84
+watts
+Humanity gains total control over the code of the xenoverse and begins looking for ways to break out.
+7.9
+10
+85
+watts
+Many, many years later, they figured out the way to get out.
+Type 8.0 Hyperversal Civilizations
+[
+]
+8.0
+10
+86
+watts
+When humanity figured out the way out, the xenoverses are not that much separated, so it's easy to them to travel to the xenoverses.
+8.1
+10
+87
+watts
+When humanity is able to suck xenoverse energy to power warp travel.
+8.2
+10
+88
+watts
+Humans become aware of the newly found hyperverses.
+8.3
+10
+89
+watts
+Humanity enters a transfinite hyperverse but gets stuck. However, they can harvest the energy and start colonizing in the hyperverse, while sucking the infinite energy of them.
+8.4
+10
+90
+watts
+Humanity discovers they can use a lot of the xenoversal energy to lengthen their lives, and to discover more hyperverses while in them.
+8.5
+10
+91
+watts
+Humanity discovers new types of hyperverses and their code.
+8.6
+10
+92
+watts
+Humanity starts simulating all the types of hyperverses, and obtains hyperversal energy.
+8.7
+10
+93
+watts
+Humanity is able to go in and out of transfinite hyperverses, and collect their energy.
+8.8
+10
+94
+watts
+Humanity takes full control over all and every type of hyperverse.
+8.9
+10
+95
+watts
+Humanity becomes a very powerful civilization and can travel to anywhere in the transfinite hyperverses.
+Type 9.0 Kiloversal Civilizations
+[
+]
+9.0
+10
+96
+watts
+Humanity discovers kiloverses and start to colonize in them.
+9.1
+10
+97
+watts
+Humanity establishes bases and with their experience, colonizes them easily.
+9.2
+10
+98
+watts
+Humans learn to use the hyperversal power to extend life to 1,000 years.
+9.3
+10
+99
+watts
+Humanity takes over smaller civilizations.
+9.4
+10
+100
+watts
+Humanity becomes a dominant civilization and becomes feared by other civilizations.
+9.5
+10
+101
+watts
+Humans become more dominant and discover all the types of kiloverses, and do simulations.
+9.6
+10
+102
+watts
+Humanity travels from kiloverse to kiloverse harvesting energy to make portals.
+9.7
+10
+103
+watts
+Humans become obsessed with the power and start using too much.
+9.8
+10
+104
+watts
+Humanity uses too much power and overwhelms the kiloverses, collecting even more energy.
+9.9
+10
+105
+watts
+Humanity starts leaving the kiloverses.
+Type 10.0 Megaversal Civilizations
+[
+]
+10.0
+10
+106
+watts
+Humanity starts to discover the megaverse, and have full control of the layers down under.
+10.1
+10
+107
+watts
+Humans start harvesting megaverse energy, but it was unsuccessful due to the immense space the megaverse covers.
+10.2
+10
+108
+watts
+Humanity looks for other ways to escape the megaverse, but use their unlimited kiloverse energy to create energy harvesters.
+10.3
+10
+109
+watts
+Humans become so intelligent their life gets shortened to 790 years.
+10.4
+10
+110
+watts
+Humanity harvests enough energy to make lives as long as 15,000 years.
+10.5
+10
+111
+watts
+Humanity harvested enough energy to make a gate portal into megaverse simulation.
+10.6
+10
+112
+watts
+Simulations prove unsuccessful due to lack of energy.
+10.7
+10
+113
+watts
+Humanity starts realizing the danger from megaverses.
+10.8
+10
+114
+watts
+Humanity starts to evacuate megaverses, but take an unlimited amount of energy first.
+10.9
+10
+115
+watts
+Humans warp jump to other megaverses to make them collide, and collect the megaverse energy.
+Type 11.0 Gigaversal Civilizations
+[
+]
+11.0
+10
+116
+watts
+Humans discover gigaverses and start to claim their energy, which was more easy then collecting megaverses.
+11.1
+10
+117
+watts
+Humanity makes the sacrifice to start doing simulations, but it turns out easy and give more information.
+11.2
+10
+118
+watts
+Humanity becomes almost robotic as they continue the simulations.
+11.3
+10
+119
+watts
+Humanity discover how to control virtual things, making video game things possible.
+11.4
+10
+120
+watts
+A humans average life span is now 100,000 years.
+11.5
+10
+121
+watts
+Humanity establish full control over megaverses, and use a lot of gigaverse energy to do so.
+11.6
+10
+122
+watts
+Humanity becomes fully aware of the power they hold.
+11.7
+10
+123
+watts
+Humanity starts to be able to create their own universes, and multiverses, and be able to control them.
+11.8
+10
+124
+watts
+Humanity starts to become more civil and starts respecting more civilizations.
+11.9
+10
+125
+watts
+Humans start to become gods over their artificial universes and multiverses.
+Type 12.0 Teraversal Civilizations
+[
+]
+12.0
+10
+126
+watts
+Humanity become very powerful in the universes and multiverses they look for larger energy sources.
+12.1
+10
+127
+watts
+Humans start searching for larger energy sources, and find some traces of incredible objects.
+12.2
+10
+128
+watts
+Humans discover teraverses but extract energy from the outside.
+12.3
+10
+129
+watts
+Humans obtain the nessecary energy to create more verses, like the metaverse.
+12.4
+10
+130
+watts
+Humans become more intelligent and make more energy extractions and start to dive into the teraverses.
+12.5
+10
+131
+watts
+Humans now have an average life span of about 10
+99
+years.
+12.6
+10
+132
+watts
+Humans create new verses known as xenoverses.
+12.7
+10
+133
+watts
+Humanity starts to recognize the danger of finding large verses for energy extraction.
+12.8
+10
+134
+watts
+Humanity starts building energy perservers to stabilize the teraverses.
+12.9
+10
+135
+watts
+Humanity starts to look for larger verses, and find nothing, and are annoyed.
+Type 13.0 Petaversal Civilizations
+[
+]
+13.0
+10
+136
+watts
+Humanity is still looking for larger verses even after the depression.
+13.1
+10
+137
+watts
+Humanity finds the petaverses and start forming colonies.
+13.2
+10
+138
+watts
+Humanity starts energy extraction, which is hard.
+13.3
+10
+139
+watts
+Humanity starts sending lower civilizations inside of the petaverses.
+13.4
+10
+140
+watts
+The other civilizations come back - more powerful.
+13.5
+10
+141
+watts
+Humanity starts going inside the petaverses, becoming powerful from the intense energy.
+13.6
+10
+142
+watts
+Humanity starts colonizing inside the petaverses.
+13.7
+10
+143
+watts
+Humans get trapped inside because of the concentrated energy.
+13.8
+10
+144
+watts
+Humanity starts looking for ways out.
+13.9
+10
+145
+watts
+Humans get out of the petaverses.
+Type 14.0 Exaversal Civilizations
+[
+]
+14.0
+10
+146
+watts
+Humanity find the Exaverses.
+14.1
+10
+147
+watts
+Humanity starts colonizing the exaverses, proving easy.
+14.2
+10
+148
+watts
+Humanity becomes immortal.
+14.3
+10
+149
+watts
+Humans like their power, and start making kiloverses.
+14.4
+10
+150
+watts
+Humans suck out the exaversal energy, proving even easier
+14.5
+10
+151
+watts
+Humans wonder why it is easy.
+14.6
+10
+152
+watts
+Humanity start to debate whether they should continue or look for larger verses.
+14.7
+10
+153
+watts
+Humanity starts to become more intelligent, and start to colonize all of the exaverses.
+14.8
+10
+154
+watts
+Humanity tries to get out, but can't succeed
+14.9
+10
+155
+watts
+Theories about how to get out start happening.
+Type 15.0 Zettaversal Civilizations
+[
+]
+Type 16.0 Yottaversal Civilizations
+[
+]
+Type 17.0 Ronnaversal Civilizations
+[
+]
+Type 18.0 Quettaversal Civilizations
+[
+]
+Type 19.0 Hendaversal Civilizations
+[
+]
+Type 20.0 Dokaversal Civilizations
+[
+]
+See also
+[
+]
+Template:KardashevNav

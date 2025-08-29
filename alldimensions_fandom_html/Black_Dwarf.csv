@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45509,1,stellar,18,25,internal,https://alldimensions.fandom.com/wiki/Star,"{""stellar"": 1}",1
+45509,1,Earth,160,165,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+45509,1,our universe,264,276,internal,https://alldimensions.fandom.com/wiki/Observable_Universe,"{""our universe"": 1}",1
+45509,2,white dwarves,39,52,internal,https://alldimensions.fandom.com/wiki/White_dwarf,"{""white dwarves"": 1}",1

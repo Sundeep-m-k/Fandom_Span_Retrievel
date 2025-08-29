@@ -1,0 +1,22 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35999,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d7/The_Cosmic_Face.jpg/revision/latest?cb=20201204171933,"{""\n\n"": 1}",1
+35999,1,The Box,53,60,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+35999,2,Reality Warping,196,211,external,https://powerlisting.fandom.com/wiki/Reality_Warping,"{""Reality Warping"": 1}",1
+35999,2,Time Manipulation,212,229,external,https://powerlisting.fandom.com/wiki/Time_Manipulation,"{""Time Manipulation"": 1}",1
+35999,2,Cosmic Creation,231,246,external,https://powerlisting.fandom.com/wiki/Cosmic_Creation,"{""Cosmic Creation"": 1}",1
+35999,2,Cosmic Awareness,248,264,external,https://powerlisting.fandom.com/wiki/Cosmic_Awareness,"{""Cosmic Awareness"": 1}",1
+35999,2,Cosmic Manipulation,266,285,external,https://powerlisting.fandom.com/wiki/Cosmic_Manipulation,"{""Cosmic Manipulation"": 1}",1
+35999,3,Boxboxplex,136,146,internal,https://alldimensions.fandom.com/wiki/Boxboxplex,"{""Boxboxplex"": 1}",1
+35999,3,Box,136,139,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+35999,3,One True God,401,413,internal,https://alldimensions.fandom.com/wiki/The_One_True_God,"{""One True God"": 1}",1
+35999,4,The Cosmic Donut,58,74,internal,https://alldimensions.fandom.com/wiki/The_Cosmic_Donut,"{""The Cosmic Donut"": 1}",1
+35999,4,The Omniverse,86,99,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""The Omniverse"": 1}",1
+35999,4,The God with No Name,238,258,internal,https://alldimensions.fandom.com/wiki/The_God_with_No_Name,"{""The God with No Name"": 1}",1
+35999,7,The Creator,0,11,internal,https://alldimensions.fandom.com/wiki/The_Creator,"{""The Creator"": 1}",1
+35999,8,The Infinite Madness,0,20,internal,https://alldimensions.fandom.com/wiki/The_Infinite_Madness,"{""The Infinite Madness"": 1}",1
+35999,9,The Destroyer,0,13,internal,https://alldimensions.fandom.com/wiki/The_Destroyer,"{""The Destroyer"": 1}",1
+35999,9,The Creator,26,37,internal,https://alldimensions.fandom.com/wiki/The_Creator,"{""The Creator"": 1}",1
+35999,10,God of Time,0,11,internal,https://alldimensions.fandom.com/wiki/God_of_Time,"{""God of Time"": 1}",1
+35999,11,Clockwork,0,9,internal,https://alldimensions.fandom.com/wiki/Clockwork,"{""Clockwork"": 1}",1

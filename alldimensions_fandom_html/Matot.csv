@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36384,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/36/Matot.jpg/revision/latest?cb=20210103140408,"{""\n\n"": 1}",1
+36384,1,Universes,30,39,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+36384,1,first realm,307,318,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""first realm"": 1}",1

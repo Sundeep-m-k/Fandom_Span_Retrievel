@@ -1,0 +1,89 @@
+Point
+Geometry
+Dimensionality
+0
+Schläfli Symbol
+0
+Subfacets
+Vertices
+1 point
+Hypervolumes
+Vertex Count
+1
+A
+point
+is a location of size zero. This means a point is not a region, but a single location.
+I t is defined by Euler as "that which has no part", which is an apt description - a point has no height, width, depth, or any other measure in any other dimension.
+It is also the only zero-dimensional shape, and any zero-dimensional space consists of a single point and nothing else. This means that it can be considered  as a zero-dimesional space of infinite extent, in analogue with the
+plane
+.
+A line can be thought of as consisting of an infinite amount of points placed directly adjacent to each other.
+By the same logic, a plane can be thought of as infinity lines being stacked next to each other.
+Hypervolumes
+[
+]
+vertex count
+= 1
+See also
+[
+]
+Zeroth Dimension
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

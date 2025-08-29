@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49260,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a1/Funny_looking_brain_device.png/revision/latest?cb=20250403202956,"{""\n\n"": 1}",1
+49260,4,being,36,41,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""being"": 1}",1
+49260,6,Ethereum Zenith,339,354,internal,https://alldimensions.fandom.com/wiki/Ethereum_Zenith,"{""Ethereum Zenith"": 1}",1

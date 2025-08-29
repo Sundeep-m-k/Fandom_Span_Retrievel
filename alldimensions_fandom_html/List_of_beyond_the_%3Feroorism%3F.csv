@@ -1,0 +1,3 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50948,31,god,0,3,internal,https://alldimensions.fandom.com/wiki/God,"{""god"": 1}",1
+50948,32,allah,0,5,external,https://tr.wikipedia.org/wiki/Allah,"{""allah"": 1}",1

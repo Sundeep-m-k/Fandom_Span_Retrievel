@@ -1,0 +1,152 @@
+Contents
+1
+Quecto - Kilo
+2
+Mega - Quetta
+3
+Xenna - Multa
+4
+Lema - Deta
+5
+Ceta - Aeta
+6
+Kela - Olta
+7
+Luka - Tila
+Quecto - Kilo
+[
+]
+Quecto
+Ronto
+Yocto
+Zepto
+Atto
+Femto
+Pico
+Nano
+Micro
+Milli
+Centi
+Deci
+-
+Deca
+Hecto
+Kilo
+Mega - Quetta
+[
+]
+Mega
+Giga
+Tera
+Peta
+Exa
+Zetta
+Yotta
+Ronna
+Quetta
+Xenna - Multa
+[
+]
+Xenna
+Weka
+Vendeka
+Veca
+Dueca
+Udeka
+Treda
+Sorta
+Rinta
+Quexa
+Pepta/Petza
+Ocha
+Usta
+Neka
+Hota
+Kala
+Meja
+Gija
+Asta
+Ferma
+Jova
+Sola
+Betta
+Gloca
+Gaxa
+Getta
+Supa
+Versa
+Multa
+Lema - Deta
+[
+]
+Lema
+Minga
+Nena
+Luma
+Kama
+Jamea
+Iana
+Hotta
+Heva
+Grina
+Frema
+Echa
+Deta
+Ceta - Aeta
+[
+]
+Ceta
+Beva
+Phena
+Meca
+Heca
+Pita
+Luka
+Pyta
+Kina
+Brana
+Oeca
+Zinta
+Xeta
+Rica
+Trexa
+Tana
+Tula
+Etta
+Seca
+Otta
+Prexa
+Aeta
+Kela - Olta
+[
+]
+Kela
+Vila
+Teza
+Tama
+Fema
+Chela
+Mola
+Parma
+Xonna
+Iona
+Leta
+Olta
+Luka - Tila
+[
+]
+Luka
+Pila
+Acha
+Arta
+Vexa
+Meta
+Reta
+Dara
+Sera
+Jena
+Cora
+Abca
+Kloa
+Inna
+Tila

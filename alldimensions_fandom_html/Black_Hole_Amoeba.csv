@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+30189,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/76/Images_%281%29-0.jpeg/revision/latest?cb=20200530104215,"{""\n\n"": 1}",1
+30189,1,star,107,111,internal,https://alldimensions.fandom.com/wiki/Star,"{""star"": 1}",1
+30189,2,species,29,36,internal,https://alldimensions.fandom.com/wiki/Category:Species,"{""species"": 1}",1
+30189,2,beings,40,46,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""beings"": 1}",1
+30189,3,black holes,26,37,internal,https://alldimensions.fandom.com/wiki/Black_Hole,"{""black holes"": 1}",1
+30189,4,wormholes,32,41,internal,https://alldimensions.fandom.com/wiki/Wormhole,"{""wormholes"": 1}",1
+30189,7,planets,129,136,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+30189,7,stars,146,151,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+30189,7,solar systems,207,220,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""solar systems"": 1}",1

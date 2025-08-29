@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2464,1,Jonathan Bowers,51,66,internal,https://alldimensions.fandom.com/wiki/Jonathan_Bowers,"{""Jonathan Bowers"": 1}",1
+2464,2,line segment,19,31,internal,https://alldimensions.fandom.com/wiki/Line_segment,"{""line segment"": 1}",1
+2464,2,hypersphere,101,112,internal,https://alldimensions.fandom.com/wiki/Hypersphere,"{""hypersphere"": 1}",1
+2464,2,circle,207,213,internal,https://alldimensions.fandom.com/wiki/Circle,"{""circle"": 1}",1
+2464,2,glome,254,259,internal,https://alldimensions.fandom.com/wiki/Glome,"{""glome"": 1}",1
+2464,3,polytopes,92,101,internal,https://alldimensions.fandom.com/wiki/Polytope,"{""polytopes"": 1}",1
+2464,4,dimension,96,105,internal,https://alldimensions.fandom.com/wiki/Dimension,"{""dimension"": 1}",1
+2464,5,dimension,146,155,internal,https://alldimensions.fandom.com/wiki/Dimension,"{""dimension"": 1}",1

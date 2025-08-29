@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+12807,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/3d/Almoneverse.png/revision/latest?cb=20200912155254,"{""\n\n"": 1}",1
+12807,1,Multiverse,50,60,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+12807,1,Universe,139,147,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

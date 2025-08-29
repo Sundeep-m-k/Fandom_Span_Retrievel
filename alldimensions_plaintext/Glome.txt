@@ -1,0 +1,115 @@
+The glome is the 4D
+sphere
+.
+Hypervolumes
+[
+]
+vertex count
+=
+N
+/
+A
+{\displaystyle N/A}
+edge length
+=
+N
+/
+A
+{\displaystyle N/A}
+surface area
+=
+N
+/
+A
+{\displaystyle N/A}
+surcell volume
+=
+2
+π
+2
+r
+3
+{\displaystyle 2 \pi^2 r^3}
+surteron bulk
+=
+1
+2
+π
+2
+r
+4
+{\displaystyle \frac{1}{2}\pi^2 r^4}
+Subfacets
+[
+]
+Glome
+(3D)
+Notes on the subfacets of hyperspheres can be found on the
+circle
+and
+sphere
+pages.
+See also:
+[
+]
+Hyperglome
+Glome
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

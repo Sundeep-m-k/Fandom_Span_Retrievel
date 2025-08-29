@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47831,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4a/THE_GOD%21.jpg/revision/latest?cb=20241204132246,"{""\n\n"": 1}",1
+47831,2,universe,158,166,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+47831,2,multiverse,167,177,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+47831,2,THE TRUE CREATOR,220,236,internal,https://alldimensions.fandom.com/wiki/THE_TRUE_CREATOR,"{""THE TRUE CREATOR"": 1}",1
+47831,4,universe,87,95,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+47831,4,multiverse,99,109,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+47831,4,the true creator,353,369,internal,https://alldimensions.fandom.com/wiki/THE_TRUE_CREATOR,"{""the true creator"": 1}",1

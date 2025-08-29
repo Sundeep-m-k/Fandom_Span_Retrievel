@@ -1,0 +1,32 @@
+A
+Polytope
+is an n-dimensional generalization of the 3-dimensional
+polyhedron
+. In essence, it is any geometric
+object
+with flat sides. Since polytopes can exist in any dimension, they can be labeled as n-polytopes, with n being the dimension they're found within.
+In
+certain fields of mathematics
+, the terms "
+polytope
+" and "
+polyhedron
+" are used in a different sense:
+polyhedron
+refers to a generic object in any dimension, whilst a
+polytope
+means a bounded polyhedron.
+Dimension
+Name
+-1
+Nullitope (used in abstract theory)
+0
+Monon (point)
+1
+Dion (line segment)
+2
+Polygon
+3
+Polyhedron
+4
+Polychoron

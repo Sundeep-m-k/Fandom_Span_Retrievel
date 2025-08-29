@@ -1,0 +1,397 @@
+This page contains a list of Preversal Objects from The Pre-Hierarchy. The plan is to eventually incorporate them into The All Dimensions Nexus.
+Pages are roughly ordered as they appear in The Pre-Hierarchy. Ranks are not assigned to the pages as there is no official ranks below The Universe for the time being until this is sorted out. The name of the page is listed, after this the page of ONLY the primary container is included (if it exists). This can later be used to properly sort the pages.
+The pages will be listed by Class going in the reverse order of The Pre-Hierarchy, in order to discover the "Primary Chain" going down from The Universe.
+Contents
+1
+Disclaimer
+2
+Usage Guide
+3
+Class -2 Objects
+4
+Class -1 Objects
+5
+Class 0 Objects
+Disclaimer
+[
+]
+This page is a WIP (Work-In-Progress). It is highly unorganized and incomplete at the moment. It will be improved over time but it may take a while. Please be patient and excuse it's provisional state.
+Usage Guide
+[
+]
+Objects are broken into Classes either based on their self-reported class (which may disagree with their class as specified in The Pre-Hierarchy), and when the Class is unspecified they are thrown in the Class that seems the most likely based on it's neighbors in The Nexus.
+First a provisional rank is provided, then the articles name, next the Class it claims to be in based on the Category the article itself is included in. Lastly <> is used to list the Containers. The Primary Container is always listed first. Here all the primary containers are shown as this is planned to be used to sort them later. Items are separated by commas and article names are placed between quotation marks. Sometimes more than one container is listed, in which case they are listed in the order they occur in the text of "Contained by". { } is used to list the contents, again separated by commas with page nmes in quotations. If a page does not exist it is left in white. If the page exists it will be seen as a link to the page in question. If <> is empty it means it has no official Containers, and is thus a dead-end as far as ascending the chain is concerned.
+Class -2 Objects
+[
+]
+36 Items
+Rank C[-2].1 | "
+Levenin
+" | Class: -2 | <"Nothingest">
+Rank C[-2].2 | "
+Vebolntum
+" | Class: -2 | <"
+Opulum
+">
+Rank C[-2].3 | "
+Opulum
+" | Class: Unspecified | <"
+Ijitium
+">
+Rank C[-2].4 | "
+Ijitium
+" | Class: Unspecified | <"Smalleston">
+Rank C[-2].5 | "
+Yarron
+" | Class: -2 | <"Xarron">
+Rank C[-2].6 | "
+Yarron verse
+" | Class: Unspecified | <"
+Yarron box
+">
+Rank C[-2].7 | "
+Yarron box
+" | Class: Unspecified | <"Godity chaos">
+Rank C[-2].8 | "
+Godity chaos
+" | Class: Unspecified | <"non conceptual verse">
+Rank C[-2].9 | "
+Non conceptual verse
+" | Class: Unspecified | <"half comceptual verse">
+Rank C[-2].10 | "
+Half conceptual verse
+" | Class: Unspecified | <"
+Nano Hierarchy (alternate)
+">
+Rank C[-2].11 | "
+Nano Hierarchy (alternate)
+" | Class: Unspecified | <>
+Rank C[-2].12 | "
+Conceptual key
+" | Class: Unspecified | <"??????">
+Rank C[-2].13 | "
+Conceptual Gate (alternate)
+" | Class: Unspecified | <"
+Nothing
+">
+Rank C[-2].14 | "
+Nothing
+" | Class: Unspecified | <>
+Rank C[-2].15 | "
+Nothing......
+" | Class: Unspecified | <"
+true axiom
+">
+Rank C[-2].16 | "
+True axiom
+" | Class: Unspecified | <"
+Kicsi
+">
+Rank C[-2].17 | "
+Kicsi
+" | Class: -2 | <"
+Zeron
+">
+Rank C[-2].18 | "
+Zeron
+" | Class: -2 | <"
+Nontubial
+">
+Rank C[-2].19 | "
+Nontubial
+" | Class: Unspecified | <"
+Yoctubial
+">
+Rank C[-2].20 | "
+Yoctubial
+" | Class: Unspecified | <"
+Neomicron
+">
+Rank C[-2].21 | "
+Neomicron
+" | Class: Unspecified | <"
+Neoid
+">
+Rank C[-2].22 | "
+Neoid
+" | Class: -2 | <>
+Rank C[-2].23 | "
+The Microperiod Chain
+" | Class: Unspecified | <>
+Rank C[-2].24 | "
+Infinitesimal
+" | Class: Unspecified | <"
+Microest
+">
+Rank C[-2].25 | "
+Microest
+" | Class: -2 | <"
+Tiniest
+">
+Rank C[-2].26 | "
+Tiniest
+" | Class: -2 | <"
+Smallestest
+">
+Rank C[-2].27 | "
+Smallestest
+" | Class: -2 | <"
+Smallester
+">
+Rank C[-2].28 | "
+Smallester
+" | Class: -2 | <"
+Smallest
+">
+Rank C[-2].29 | "
+Smallest
+" | Class: -2 | <"
+Montos
+">
+Rank C[-2].30 | "
+Montos
+" | Class: -2 | <"
+ㅤ
+">
+Rank C[-2].31 | "
+ㅤ
+" | Class: -2 | <"
+- -
+">
+Rank C[-2].32 | "
+- -
+" | Class: Unspecified | <"
+-
+">
+Rank C[-2].33 | "
+-
+" | Class: -2 | <"
+Axion
+">
+Rank C[-2].34 | "
+Axion
+" | Class: -2 | <"
+-null-
+","
+Mathons
+","
+·
+">
+Rank C[-2].35 | "
+-null-
+" | Class: -2 | <"
+Mathon
+">
+Rank C[-2].36 | "
+Mathon
+" | Class: -2 | <"
+Zyoron
+">
+Class -1 Objects
+[
+]
+4 Items
+Rank C[-1].1 | "
+Zyoron
+" | Class: -1 | <"
+Voidonion
+">
+Rank C[-1].2 | "
+Voidonion
+" | Class: -1 | <"
+The Anti-Concept
+">
+Rank C[-1].3 | "
+The Anti-Concept
+" | Class: -1 | <"
+·
+">
+Rank C[-1].4 | "
+·
+" | Class: -1 | <"
+⬤#Structure
+">
+Class 0 Objects
+[
+]
+??? Items
+Rank ??? | "
+Heck
+" | Class: 0 | <>
+Rank C[0].1 | "
+⬤#Structure
+" | Class: 0 | <"
+Inane
+">
+Rank C[0].2 | "
+Inane
+" | Class: Unspecified | <"
+The Great Barrier
+">
+Rank C[0].3 | "
+The Great Barrier
+" | Class: Unspecified | <"
+The Other world
+">
+...
+Rank ??? | "
+Xoꓭ ǝʜT
+" | Class: Unspecified | <"
+Verseomni
+">
+Rank ??? | "
+Verseomni
+" | Class: 0 | <"
+Versehyper
+">
+Rank ??? | "
+Versehyper
+" | Class: 0 | <"
+Versexeno
+">
+Rank ??? | "
+Versexeno
+" | Class: 0 | <"
+Versemeta
+">
+Rank ??? | "
+Versemeta
+" | Class: 0 | <"
+Versemega
+">
+Rank ??? | "
+Versemega
+" | Class: 0 | <"
+Versemulti
+">
+Rank ??? | "
+Versemulti
+" | Class: 0 | <"
+Verseuni
+">
+Rank ??? | "
+Verseuni
+" | Class: 0 | <"
+Protoverse
+">
+Rank -6 | "
+Blueprint Particle
+" | Class: -1 | <"
+Protoverses
+">
+Rank -5 | "
+Protoverse
+" | Class: 0 | <"
+Quark
+">
+Rank -4 | "
+Quark
+" | Class: 0 | <"
+Proton
+">
+Rank -3 | "
+Proton
+" | Class: 0 | <"
+Atom
+">
+Rank -2 | "
+Atom
+" | Class: 0 | <"
+Molecule
+">
+Rank -1 | "
+Molecule
+" | Class: 0 | <"
+Universe
+">
+...
+Rank ??? | "
+Uqraek fiber
+" | Class: 0 | <"
+String
+">
+Rank ??? | "
+String
+" | Class: 0 | <"
+Quark
+", "
+Electron
+">
+Rank ___ | "
+Neutron
+" | Class: 0 | CommonlyFoundIn:<"
+atoms
+">
+...
+Rank ___ | "
+Cell (biology)
+" | Class: 0 | <"
+Planets
+">
+...
+Rank ___ | "
+Continent
+" | Class: Unspecified | <>
+Rank ___ | "
+Planet
+" | Class: 0 | <"
+Planetary system
+">
+Rank ___ | "
+Star
+" | Class: Unspecified | <"
+Solar System
+">
+Rank ___ | "
+Solar System
+" | Class: Unspecified | <"
+Galaxy
+">
+Rank ___ | "
+Planetary system
+" | Class: Unspecified | <>
+Rank ___ | "
+Galaxy
+" | Class: Unspecified | <"
+Universe
+">
+Rank ___ | "
+Galaxy Cluster
+" | Class: 0 | {"
+Galaxy
+"} | <"
+Universe
+", "
+Superclusters
+", "
+Universe Sections
+">
+Rank ___ | "
+Supercluster
+" | Class: Unspecified | {"
+Galaxy clusters
+", "
+Galaxies
+"} | <"
+Universe Section
+">
+Rank ___ | "
+Galaxy filament
+" | Class: Unspecified | {"
+Supercluster
+"} | <"
+Universe
+", "
+Universe Section
+">
+Rank ___ | "
+Universe Section
+" | Class: Unspecified | {"
+Filament
+", "
+Supercluster
+", "
+Galaxy Cluster
+"} | <"
+Universe
+">

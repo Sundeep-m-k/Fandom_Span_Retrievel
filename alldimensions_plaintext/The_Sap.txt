@@ -1,0 +1,50 @@
+The Sap
+Scale
+Size
+10
+42
+Fuels
+Dimensionality
+(
+Fuel
+'s dimensionality * 2)
+Fuel
+'s dimensionality
+Properties
+Temperature
+Very cold
+Life Percentage
+0%
+Shape
+Spherical
+Position
+Contained by:
+The Branch
+Contains:
+The Fuel
+The Sap
+is an extremely large "sphere" which has
+The Fuel
+mapped onto it
+. The Sap does not have a real barrier.
+Just like The Fuel, The Sap leaks its contents
+into The Fuel and
+The Branch
+.
+The Sap, unlike The Fuel,
+is not filled with energy
+,
+but instead a strange, sticky material which has the same stickiness as the substance covering the
+Stickverse
+. This material can cool down objects in contact with it very fast. These 2 factors combined make it very hard to escape The Sap, as if you come into contact with the sticky substance making up The Sap, you will get stuck and freeze to death.
+As many creatures have died in The Sap and how they do not decompose/go away, bodies are littered everywhere inside The Sap
+.
+Out of over
+1,413,342,690,111,230,679 attempts at escaping
+,
+only 5 were successful
+. The successful ones all involved using a lot of material to slowly push the sticky substance further and further, then using a
+Stealbot
+and riding through one by one. The creatures who escaped would soon end up in
+The Branch
+.

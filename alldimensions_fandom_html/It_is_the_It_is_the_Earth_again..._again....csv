@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36472,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4b/It_is_it_is_the_earth_again_again.png/revision/latest?cb=20210112025111,"{""\n\n"": 1}",1
+36472,1,Terminal Terminal,96,113,internal,https://alldimensions.fandom.com/wiki/Terminal_Terminal,"{""Terminal Terminal"": 1}",1
+36472,1,LAIF,182,186,internal,https://alldimensions.fandom.com/wiki/LAIF,"{""LAIF"": 1}",1
+36472,1,inuesreV,240,248,internal,https://alldimensions.fandom.com/wiki/InuesreV,"{""inuesreV"": 1}",1
+36472,1,Vezozverses,253,264,internal,https://alldimensions.fandom.com/wiki/Vezozverse,"{""Vezozverses"": 1}",1
+36472,1,Terminal Terminals,277,295,internal,https://alldimensions.fandom.com/wiki/Terminal_Terminal,"{""Terminal Terminals"": 1}",1
+36472,3,It is the Earth again...,10,34,internal,https://alldimensions.fandom.com/wiki/It_is_the_Earth_again...,"{""It is the Earth again..."": 1}",1
+36472,3,Earth,20,25,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+36472,5,Terminal Terminals,64,82,internal,https://alldimensions.fandom.com/wiki/Terminal_Terminal,"{""Terminal Terminals"": 1}",1

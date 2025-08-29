@@ -1,0 +1,33 @@
+A .verse file is a massive file that contains every
+atom
+and energy particle as well as their properties. It may resemble Java or C#, but they're actually pretty different.
+The only program to open them in a reliable
+xD
+interactive environment is
+Verse.exe
+. (Sorry Mac, Linux, Firefox, and Chrome OS users)
+Examples
+[
+]
+Example .verse file:
+This
+verse
+(name=
+"example.verse"
+, timespan=
+"400 yrs"
+, dimensionality=
+3
+):
+→→
+New
+electron
+(pos=
+Vec3
+[
+2.99
+,
+4.109090923
+,
+3.222
+]);

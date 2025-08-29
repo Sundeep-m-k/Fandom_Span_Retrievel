@@ -1,0 +1,23 @@
+The Fraction of Everything Index, or FOEI, is a way of measuring how much of "everything" a verse has. In other words, it is an existence index.
+In FOEI, 0 means it contains nothing and 1 means it contains everything. But when we say it’s FOEI of (0,-1) this means that this thing have negative size and existing bellow the
+Protoverse
+.
+Also, an FOEI of (0, 1) means it contains something but not nothing, but an infinitely small fraction of existence.
+For example:
+Protoverse
+has an FOEI of 0, since it contains absolutely nothing.
+Universe
+has an FOEI of (0, 1) since it contains only a infinitely small part of everything.
+Multiverse
+has an FOEI of (0, 1) since it still contains only a few things, even though it contains more than the Universe.
+Omniverse
+has an FOEI of 1, since it contains everything that exists.
+There are some areas where it contains everything that exists AND more, like in
+The Box
+, which has an FOEI of Omega.
+If it had an FOEI of 2, it would contain everything, as well as another quantity the same size of everything, sort of between existence and non-existence.
+You can also take the (0, 1) and convert it to (1, 2), which is everything and some part of another space relative to everything.
+The larger the FOEI is, the more it contains, even though it contains everything AND more.
+With natural sized gaps, we could create unimaginably large verses with this index as well. This can be used if the
+EUSI
+scale isn't enough, or if you want to have a fraction of everything or more than everything that size cannot quite justify.

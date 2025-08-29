@@ -1,0 +1,61 @@
+Bowers' Rotatope Notation
+is a notation created by
+Jonathan Bowers
+to represent
+rotatopes
+.
+In the notation, a
+line segment
+is represented as
+|
+{\displaystyle |}
+and an n-dimensional
+hypersphere
+is represented as
+(
+|
+n
+−
+2
+)
+{\displaystyle ({ | }^{ n-2 })}
+(for example, a
+circle
+is
+(
+)
+{\displaystyle ()}
+and a
+glome
+is
+(
+|
+|
+)
+{\displaystyle (||)}
+).
+Two of these elements placed adjacent to each other represent the multiplication of the two
+polytopes
+.
+Strings in rotatope notation have the interesting property that they are the same length as the
+dimension
+of the
+rotatope
+they represent; for example,
+(
+|
+|
+|
+|
+)
+|
+{\displaystyle (||||)|}
+represents a
+seven-dimensional
+Hexaphere-Based Prism
+, and is seven characters long.
+Since there are only two states for the entries - a bracket or a line - strings in rototope notation can be stored using a maximum of one bit per
+dimension
+. An example encoding would be to have 0 for brackets and 1 for lines. This would make a
+Hexaphere-Based Prism
+representable using 0111101.

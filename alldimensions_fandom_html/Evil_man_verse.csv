@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45074,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/48/Image_%284%29.png/revision/latest?cb=20231223001902,"{""\n\n"": 1}",1
+45074,1,Broccoliverse,54,67,internal,https://alldimensions.fandom.com/wiki/Broccoliverse,"{""Broccoliverse"": 1}",1
+45074,1,Bongus,69,75,internal,https://alldimensions.fandom.com/wiki/Bongus,"{""Bongus"": 1}",1
+45074,7,JEFF BEZOS,170,180,internal,https://alldimensions.fandom.com/wiki/Jeff_Bezos,"{""JEFF BEZOS"": 1}",1
+45074,16,earth,124,129,internal,https://alldimensions.fandom.com/wiki/Earth,"{""earth"": 1}",1

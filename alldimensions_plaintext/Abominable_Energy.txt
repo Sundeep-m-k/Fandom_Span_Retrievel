@@ -1,0 +1,48 @@
+Abominable Energy
+is a
+Crafting Material
+. It is always dropped by the
+Abominationn
+.
+Abominable Energy
+Piece of Abominable Power.
+Dropped by
+Entity
+Abominationn
+Quantity
+10~30
+Rate
+100%
+Crafting
+[
+]
+Used in
+[
+]
+Result
+Ingredients
+Crafting Station
+Soul of the Master
+Supreme Deathbringer Fairy
+Bionomic Cluster
+Dubious Circuitry
+Pure Heart
+Lump of Flesh
+Galactic Globe
+Heart of the Master
+Abominable Energy (15)
+Crucible of the Eternity
+The Penetrator
+Mutant Eye
+Phantasmal Energy
+Eternal Energy
+(15)
+Abominable Energy (15)
+Crucible of the Eternity
+Styx Gazer
+Abominable Wand
+Broken Hilt
+Eternal Energy
+(15)
+Abominable Energy (15)
+Crucible of the Eternity

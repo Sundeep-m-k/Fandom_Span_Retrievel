@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36727,1,HQ,185,187,internal,https://alldimensions.fandom.com/wiki/HQ,"{""HQ"": 1}",1
+36727,2,Alphasm,700,707,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""Alphasm"": 1}",1
+36727,5,,0,0,external,https://static.wikia.nocookie.net/alldimensions/images/b/bd/Noko.png/revision/latest?cb=20210206204644,"{"""": 1}",1
+36727,7,,0,0,external,https://static.wikia.nocookie.net/alldimensions/images/5/51/Boko.png/revision/latest?cb=20210206211343,"{"""": 1}",1
+36727,10,Gammasm,3,10,internal,https://alldimensions.fandom.com/wiki/Gammasm,"{""Gammasm"": 1}",1

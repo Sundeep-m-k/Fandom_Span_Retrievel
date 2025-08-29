@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+3285,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9e/Antiverse.png/revision/latest?cb=20200427210008,"{""\n\n"": 1}",1
+3285,1,Metareality-Web,75,90,internal,https://alldimensions.fandom.com/wiki/Metareality-Web,"{""Metareality-Web"": 1}",1
+3285,2,universe,30,38,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1

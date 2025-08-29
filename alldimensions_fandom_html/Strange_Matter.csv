@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36921,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d0/Strange-Matter.jpg/revision/latest?cb=20210219152830,"{""\n\n"": 1}",1
+36921,1,Universe,97,105,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+36921,1,matter,29,35,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1
+36921,1,quarks,165,171,internal,https://alldimensions.fandom.com/wiki/Quark,"{""quarks"": 1}",1
+36921,1,strangelet,599,609,external,https://en.m.wikipedia.org/wiki/Strangelet,"{""strangelet"": 1}",1

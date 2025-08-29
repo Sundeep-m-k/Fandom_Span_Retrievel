@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41808,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b9/%CE%94.jpeg/revision/latest?cb=20220528083824,"{""\n\n"": 1}",1
+41808,1,The Drum,123,131,internal,https://alldimensions.fandom.com/wiki/The_Drum,"{""The Drum"": 1}",1

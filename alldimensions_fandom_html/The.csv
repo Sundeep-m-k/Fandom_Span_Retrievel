@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+24229,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/37/The_%281%29.jpg/revision/latest?cb=20200411020747,"{""\n\n"": 1}",1
+24229,1,THE the,117,124,internal,https://alldimensions.fandom.com/wiki/THE_the,"{""THE the"": 1}",1
+24229,1,The Omni-Omni,188,201,internal,https://alldimensions.fandom.com/wiki/The_Omni-Omni,"{""The Omni-Omni"": 1}",1
+24229,2,THE the,176,183,internal,https://alldimensions.fandom.com/wiki/THE_the,"{""THE the"": 1}",1
+24229,3,The Omni-Omni,237,250,internal,https://alldimensions.fandom.com/wiki/The_Omni-Omni,"{""The Omni-Omni"": 1}",1
+24229,4,The HE,20,26,internal,https://alldimensions.fandom.com/wiki/The_HE,"{""The HE"": 1}",1

@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36725,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/8b/Limit_of_Numbers.png/revision/latest?cb=20210206015659,"{""\n\n"": 1}",1
+36725,1,the Pentorbs,156,168,internal,https://alldimensions.fandom.com/wiki/The_Pentorb,"{""the Pentorbs"": 1}",1
+36725,1,LAIF,202,206,internal,https://alldimensions.fandom.com/wiki/LAIF,"{""LAIF"": 1}",1
+36725,1,LAIF,202,206,internal,https://alldimensions.fandom.com/wiki/LAIF,"{""LAIF"": 1}",1
+36725,1,Limits of Ordinals,356,374,internal,https://alldimensions.fandom.com/wiki/Limit_of_Ordinals,"{""Limits of Ordinals"": 1}",1
+36725,1,The Pentorbs,387,399,internal,https://alldimensions.fandom.com/wiki/The_Pentorb,"{""The Pentorbs"": 1}",1
+36725,3,hyperspheres,51,63,internal,https://alldimensions.fandom.com/wiki/Hypersphere,"{""hyperspheres"": 1}",1
+36725,3,Pentorb,103,110,internal,https://alldimensions.fandom.com/wiki/The_Pentorb,"{""Pentorb"": 1}",1
+36725,5,Absolute Balances,187,204,internal,https://alldimensions.fandom.com/wiki/The_Absolute_Balance,"{""Absolute Balances"": 1}",1
+36725,6,Apollonian gasket,300,317,external,https://en.wikipedia.org/wiki/Apollonian_gasket,"{""Apollonian gasket"": 1}",1
+36725,7,Absolute Darks,254,268,internal,https://alldimensions.fandom.com/wiki/The_Absolute_Dark,"{""Absolute Darks"": 1}",1

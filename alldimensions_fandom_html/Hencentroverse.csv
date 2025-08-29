@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35662,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1e/Hencentroverse.png/revision/latest?cb=20201030132423,"{""\n\n"": 1}",1
+35662,1,Tworusverse,54,65,internal,https://alldimensions.fandom.com/wiki/Tworusverse,"{""Tworusverse"": 1}",1
+35662,1,Divergent Container,85,104,internal,https://alldimensions.fandom.com/wiki/Divergent_Container,"{""Divergent Container"": 1}",1
+35662,1,Toriverses,116,126,internal,https://alldimensions.fandom.com/wiki/Toriverse,"{""Toriverses"": 1}",1
+35662,1,forustars,134,143,internal,https://alldimensions.fandom.com/wiki/Forustar,"{""forustars"": 1}",1
+35662,2,Toriverses,42,52,internal,https://alldimensions.fandom.com/wiki/Toriverse,"{""Toriverses"": 1}",1
+35662,2,forustar,83,91,internal,https://alldimensions.fandom.com/wiki/Forustar,"{""forustar"": 1}",1
+35662,2,toriverses,128,138,internal,https://alldimensions.fandom.com/wiki/Toriverse,"{""toriverses"": 1}",1
+35662,2,moquarks,159,167,internal,https://alldimensions.fandom.com/wiki/Moquark,"{""moquarks"": 1}",1

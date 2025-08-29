@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+17796,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/43/Download-1575828019.jpg/revision/latest?cb=20191208180019,"{""\n\n"": 1}",1
+17796,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/09/Download-0.jpeg/revision/latest?cb=20191208180147,"{""\n\n"": 1}",1
+17796,1,string,86,92,internal,https://alldimensions.fandom.com/wiki/String,"{""string"": 1}",1
+17796,1,Multiverses,139,150,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverses"": 1}",1
+17796,1,protoverses,215,226,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""protoverses"": 1}",1
+17796,2,universes,37,46,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+17796,2,multiverse,93,103,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+17796,3,string,163,169,internal,https://alldimensions.fandom.com/wiki/String,"{""string"": 1}",1

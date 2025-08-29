@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+29541,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c5/Infinity_Box.png/revision/latest?cb=20190918203701,"{""\n\n"": 1}",1
+29541,1,Omniverse,66,75,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+29541,4,Box,212,215,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1

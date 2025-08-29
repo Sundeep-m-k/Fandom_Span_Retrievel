@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45810,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f6/Geraldson.png/revision/latest?cb=20240404100323,"{""\n\n"": 1}",1
+45810,2,OYC,221,224,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+45810,3,Yappanese,62,71,internal,https://alldimensions.fandom.com/wiki/Earth_2/Yappanese,"{""Yappanese"": 1}",1
+45810,4,Omniverse,69,78,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+45810,4,pows,106,110,internal,https://alldimensions.fandom.com/wiki/DiggyPT%27s_Power_Ranking_System,"{""pows"": 1}",1
+45810,4,thuons,364,370,internal,https://alldimensions.fandom.com/wiki/Thuon,"{""thuons"": 1}",1
+45810,6,Der Boxenverse,36,50,internal,https://alldimensions.fandom.com/wiki/Hans#Der_Boxenverse,"{""Der Boxenverse"": 1}",1
+45810,6,Hans,55,59,internal,https://alldimensions.fandom.com/wiki/Hans,"{""Hans"": 1}",1

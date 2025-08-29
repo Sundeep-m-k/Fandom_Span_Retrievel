@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42334,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/05/The_Building_Tree%27s_of_everything.png/revision/latest?cb=20220828191905,"{""\n\n"": 1}",1
+42334,1,Final Containers,73,89,internal,https://alldimensions.fandom.com/wiki/Final_Container,"{""Final Containers"": 1}",1
+42334,1,The Omega Containers,101,121,internal,https://alldimensions.fandom.com/wiki/The_Omega_Container,"{""The Omega Containers"": 1}",1
+42334,1,Omega Container,105,120,internal,https://alldimensions.fandom.com/wiki/The_Omega_Container,"{""Omega Container"": 1}",1
+42334,1,Omega Container,105,120,internal,https://alldimensions.fandom.com/wiki/The_Omega_Container,"{""Omega Container"": 1}",1
+42334,1,Omega Container,105,120,internal,https://alldimensions.fandom.com/wiki/The_Omega_Container,"{""Omega Container"": 1}",1
+42334,2,Final Container,173,188,internal,https://alldimensions.fandom.com/wiki/Final_Container,"{""Final Container"": 1}",1
+42334,3,Googology Wiki,109,123,external,https://googology.fandom.com/wiki/Googology_Wiki,"{""Googology Wiki"": 1}",1

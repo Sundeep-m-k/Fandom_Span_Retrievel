@@ -1,0 +1,37 @@
+One of the infinite rooms of the Library of Babel
+The
+Library of Babel
+is an infinite library located somewhere in
+our Box
+. This library contains infinite rooms, infinite shelves and infinite books which in total contain every single text in existence. Every truth, every lie, everything that happened, everything that will happen and the answers to every question are here.
+Contents
+1
+Structure
+1.1
+Book Rooms
+1.2
+Stair Rooms
+2
+Getting Lost in the Library
+2.1
+Lost People
+Structure
+[
+]
+The Library has infinite grids of hexagonal rooms stacked on one another.
+Book Rooms
+[
+]
+The book rooms contain 4 shelves full of books. The remaining 2 shelves are to pass into another room. These 2 shelves aren't put in any set way, they can be opposite, adjacent or at a 120º angle. They have infinite holes in the center.
+Stair Rooms
+[
+]
+Every 1 in 50 rooms is a stair room. Instead of shelves, they have 2 sets of spiral stairs going around the edges that you can use to go down and up.
+Getting Lost in the Library
+[
+]
+The Library of Babel is very easy to get lost in. There's nothing that lets you know where the exit is, so you have to write down where you go.
+Lost People
+[
+]
+People who get lost in here have no hope for them. 2 hours after they die of dehydration / exhaustion, their soul is trapped and they become librarians.

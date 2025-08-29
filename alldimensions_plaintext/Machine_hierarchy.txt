@@ -1,0 +1,25 @@
+The machine hierarchy is a hierarchy where the tiers of machines are listed, ranging from hands to THE SIZE OF THE
+GOOGLEVERSE
+. Each tier has a speed  that normally gets better with each passing one.
+Class 0 - Normal Machinery
+[
+]
+These machines have a planetary processing ability.
+Tier Name
+Abbreviation
+Tier Image
+Speed
+Material
+Description
+Rotary Age
+RA
+0.2x
+Wood
+Rocks
+Does not actually automate things, simply makes their manual creation easier.
+Steam Age
+SA
+0.4x
+Bronze
+Bricks
+Uses steam to power machines.

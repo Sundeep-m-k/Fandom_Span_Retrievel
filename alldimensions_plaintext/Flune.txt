@@ -1,0 +1,39 @@
+The
+flune
+is the name given to the generic four-dimensional space, and has
+length
+,
+width
+,
+height
+, and
+trength
+. Points on the flune can be shown using four coordinates, traditionally written as
+(
+x
+,
+y
+,
+z
+,
+w
+)
+{\displaystyle (x,y,z,w)}
+.
+Polychora
+[
+]
+Main Article:
+List of Polychora by Type
+Dimension
+[
+]
+Name:
+Polychoron
+Previous:
+Realm
+Next: Various other dimensions, which are all succeeded by
+physical realms
+, which itself is succeeded by
+hyperdimensional space
+.

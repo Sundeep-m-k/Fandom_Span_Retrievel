@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/home/sundeep/anaconda3/bin/python",
+    "python.condaPath": "/home/sundeep/anaconda3/bin/conda",
+    "python.analysis.extraPaths": [
+      "/home/sundeep/anaconda3/lib/python3.11/site-packages"
+    ]
+  }
+  

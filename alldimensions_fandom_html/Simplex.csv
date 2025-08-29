@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2470,3,line segment,43,55,internal,https://alldimensions.fandom.com/wiki/Line_segment,"{""line segment"": 1}",1
+2470,3,triangle,58,66,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangle"": 1}",1
+2470,3,tetrahedron,69,80,internal,https://alldimensions.fandom.com/wiki/Tetrahedron,"{""tetrahedron"": 1}",1
+2470,3,point,125,130,internal,https://alldimensions.fandom.com/wiki/Point,"{""point"": 1}",1
+2470,3,tetrahedron,69,80,internal,https://alldimensions.fandom.com/wiki/Tetrahedron,"{""tetrahedron"": 1}",1
+2470,3,triangle,58,66,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangle"": 1}",1
+2470,4,schläfli symbol,4,19,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""schläfli symbol"": 1}",1
+2470,4,schläfli symbol,4,19,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""schläfli symbol"": 1}",1
+2470,4,pentachoron,141,152,internal,https://alldimensions.fandom.com/wiki/Pentachoron,"{""pentachoron"": 1}",1

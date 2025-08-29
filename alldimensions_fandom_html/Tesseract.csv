@@ -1,0 +1,18 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2091,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/55/Tesseract.gif/revision/latest?cb=20161214221048,"{""\n\n"": 1}",1
+2091,1,points,126,132,internal,https://alldimensions.fandom.com/wiki/Point,"{""points"": 1}",1
+2091,1,line segments,144,157,internal,https://alldimensions.fandom.com/wiki/Line_Segment,"{""line segments"": 1}",1
+2091,1,squares,169,176,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1
+2091,1,cubes,187,192,internal,https://alldimensions.fandom.com/wiki/Cube,"{""cubes"": 1}",1
+2091,2,number,52,58,internal,https://alldimensions.fandom.com/wiki/Category:Number,"{""number"": 1}",1
+2091,3,cube,31,35,internal,https://alldimensions.fandom.com/wiki/Cube,"{""cube"": 1}",1
+2091,3,prism,36,41,internal,https://alldimensions.fandom.com/wiki/Prism,"{""prism"": 1}",1
+2091,3,line segment,71,83,internal,https://alldimensions.fandom.com/wiki/Line_segment,"{""line segment"": 1}",1
+2091,3,square,100,106,internal,https://alldimensions.fandom.com/wiki/Square,"{""square"": 1}",1
+2091,4,cubes,61,66,internal,https://alldimensions.fandom.com/wiki/Cube,"{""cubes"": 1}",1
+2091,5,square prism,127,139,internal,https://alldimensions.fandom.com/wiki/Square_Prism,"{""square prism"": 1}",1
+2091,5,triangular prism,202,218,internal,https://alldimensions.fandom.com/wiki/Triangular_Prism,"{""triangular prism"": 1}",1
+2091,5,tetrahedron,377,388,internal,https://alldimensions.fandom.com/wiki/Tetrahedron,"{""tetrahedron"": 1}",1
+2091,5,octahedron,392,402,internal,https://alldimensions.fandom.com/wiki/Octahedron,"{""octahedron"": 1}",1

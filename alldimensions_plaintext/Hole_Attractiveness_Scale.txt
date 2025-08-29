@@ -1,0 +1,55 @@
+Various holes imaged  by the HAST (Hole Attractiveness Scaling Telescope)
+The hole attractiveness scale is a scale used in UNI-22938 (known as the Universe of Holes) to measure the attractiveness of holes. It normally ranges from -1 to 1, but some holes (called superholes) can surpass these limits. For example,
+black holes
+have a HA of 1, and
+white holes
+have a HA of -1. Pure
+grey/gray holes
+have a HA of 0.
+Contents
+1
+List
+1.1
+Inside range
+1.1.1
+-1: White hole
+1.1.2
+-1 to 0: White-oriented gray hole
+1.1.3
+0: Pure gray hole
+1.1.4
+0 to 1: Black-oriented grey holes
+1.1.5
+1: Black holes
+List
+[
+]
+Inside range
+[
+]
+-1: White hole
+[
+]
+Main article:
+White hole
+White holes are the standard repulsive end of the scale. It is highly unstable in
+Our Universe
+. Almost every very old black hole (1e+75 years or older) turned into white holes. White holes "spit" out everything they consumed in their black hole life, but on the other hand, they won't let anything, even light, in their event horizon, or apotynchanosphere, if it is rotating.
+-1 to 0: White-oriented gray hole
+[
+]
+White-oriented gray holes, or woghs, are holes that sometimes spit matter. It does not exist in approximately 99.9918% of every universe discovered. Woghs, unlike white holes, have a special areas when spinning, named the semiapotynchanosphere (cover this word if you have  hippopotomonstrosesquippedaliophobia, it has 21 letters). It is basically incomprehensible (also cover it, hippopotomonstrosesquippedaliophobic people).
+0: Pure gray hole
+[
+]
+Pure gray holes, known as pugraholes for short, are at the middle of the standard scale. It has two types. Distinguished Event Horizon pure grey holes have a clear event horizon like black and white holes, and blurry pure grey holes are visible, just don't have a clear event horizon. The area between blurry pugraholes' complete areas and non-blurry pugraholes areas, known as outer space, is called the merikosphere. (IS THAT A USA REFERENCE?! | No. The merikosphere is not a reference to the United States of America and even North and South Americas. America is named after Amerigo Vespucci.)
+0 to 1: Black-oriented grey holes
+[
+]
+Black-oriented grey holes, or boghs, are the rarest type inside the scake.. It has been speculated so far that it sometimes consumes matter. Despite being holes, they can let light escape. There are only 24 boghs discovered in UNI-22938. They appear near wormholes.
+1: Black holes
+[
+]
+Main article:
+Black hole
+You don't need to read this section, you know much about it

@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+31561,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/95/20EABAC3-7E9A-4E38-A1C8-5D2DD32315D7.jpeg/revision/latest?cb=20200614012034,"{""\n\n"": 1}",1
+31561,1,Megaverse,71,80,internal,https://alldimensions.fandom.com/wiki/Best%27s_Cosmoline_-_Megaverse,"{""Megaverse"": 1}",1
+31561,2,Protoverses,153,164,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""Protoverses"": 1}",1
+31561,2,Proto,153,158,internal,https://alldimensions.fandom.com/wiki/Proto,"{""Proto"": 1}",1
+31561,2,Megaverse,346,355,internal,https://alldimensions.fandom.com/wiki/Best%27s_Cosmoline_-_Megaverse,"{""Megaverse"": 1}",1

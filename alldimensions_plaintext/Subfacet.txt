@@ -1,0 +1,53 @@
+(This page is a grouping of multiple very low-effort articles worthy of deletions, but linked to heavily nonetheless. That is why this article itself may be very low quality too.)
+An
+n
+-dimensional polytope is bounded by a number of (
+n
+− 1)-dimensional
+facets
+. They can also be called as "elements" of a polytope.
+Subfacets include: vertices, edges, faces, cells, etc...
+Contents
+1
+Vertex
+2
+Edge
+3
+Face
+4
+Cell
+Vertex
+[
+]
+A vertex is a
+zero-dimensional
+subfacet. Two or more vertices create an edge.
+Edge
+[
+]
+An
+edge
+is a
+one-dimensional
+subfacet. Two or more edges meet at a vertex. A face is made up of three or more edges.
+Face
+[
+]
+A
+face
+is a
+two-dimensional
+subfacet. Two or more faces meet at an edge.
+Cell
+[
+]
+A
+cell
+is a
+three-dimensional
+subfacet
+. Two or more cells meet at a
+face
+. A
+teron
+is made up of five or more cells.

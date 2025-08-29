@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35845,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/55/Tesseract.gif/revision/latest?cb=20161214221048,"{""\n\n"": 1}",1
+35845,1,Multiverse,52,62,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+35845,8,tesseract,231,240,internal,https://alldimensions.fandom.com/wiki/Tesseract,"{""tesseract"": 1}",1

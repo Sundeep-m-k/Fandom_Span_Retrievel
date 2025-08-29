@@ -1,0 +1,53 @@
+Imaginary Rubik's Cube
+The IRC compared to other verses.
+Scale
+Size
+10
+10
+124
+ly
+EUSI
+1
+Finality Index
+N/A
+FOEI
+(0,1)
+Dimensionality
+3
+Properties
+Class
+1
+Shape
+n x n x n Rubik's Cube
+Position
+Contained by:
+Omniverse
+Contains:
+Not much
+The
+Imaginary Rubik's Cube
+is a Rubik's cube floating in (
+roughly
+) the middle of the
+Omniverse
+(although, it does
+slowly
+travel east-south).
+Multiversal travelers often come to this location to solve the Rubik's cube each time it gets rescrambled.
+The
+Imaginary Rubik's Cube
+is an
+n
+×
+n
+×
+n
+{\displaystyle  n \times n \times n }
+Rubik's cube, where
+n
+is the diameter of the universe in planck lengths. The size of this cube, is (in light years) the amount of possible combinations, which is
+10
+10
+124
+{\displaystyle 10^{10^{124}}}
+.

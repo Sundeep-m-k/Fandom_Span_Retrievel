@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48903,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/89/Fleb.png/revision/latest?cb=20250225220422,"{""\n\n"": 1}",1
+48903,1,SMOLverse,123,132,internal,https://alldimensions.fandom.com/wiki/SMOLverse,"{""SMOLverse"": 1}",1
+48903,3,SMOLverses,63,73,internal,https://alldimensions.fandom.com/wiki/SMOLverse,"{""SMOLverses"": 1}",1
+48903,4,Brox,175,179,internal,https://alldimensions.fandom.com/wiki/The_Brox,"{""Brox"": 1}",1

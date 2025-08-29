@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49802,1,verses,9,15,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+49802,3,Moons,0,5,internal,https://alldimensions.fandom.com/wiki/Moon,"{""Moons"": 1}",1
+49802,3,Planets,7,14,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+49802,3,Stars,16,21,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+49802,3,Black holes,23,34,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""Black holes"": 1}",1
+49802,3,Universes,47,56,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+49802,4,"The ""Omniverse-sized"" Universe",30,60,internal,https://alldimensions.fandom.com/wiki/The_%22Omniverse-sized%22_Universe,"{""The \""Omniverse-sized\"" Universe"": 1}",1
+49802,5,flat verses,136,147,internal,https://alldimensions.fandom.com/wiki/Flat_verses,"{""flat verses"": 1}",1

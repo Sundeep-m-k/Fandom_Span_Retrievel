@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45063,1,AD,129,131,internal,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki,"{""AD"": 1}",1
+45063,1,AFE,133,136,external,https://amongus-fictional-entities.fandom.com/wiki/Amongus_fictional_entities_Wiki,"{""AFE"": 1}",1
+45063,1,Googology,138,147,external,https://googology.fandom.com/wiki/Googology_Wiki,"{""Googology"": 1}",1
+45063,1,Fictional Googology,152,171,external,https://fictional-googology.fandom.com/wiki/Fictional_Googology_Wiki,"{""Fictional Googology"": 1}",1
+45063,1,[1],184,187,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-1,"{""[1]"": 1}",1
+45063,1,[2],187,190,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-2,"{""[2]"": 1}",1
+45063,1,[3],190,193,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-3,"{""[3]"": 1}",1
+45063,1,[4],193,196,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-4,"{""[4]"": 1}",1
+45063,1,[5],269,272,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-5,"{""[5]"": 1}",1
+45063,3,🦟,90,91,internal,https://alldimensions.fandom.com/wiki/%F0%9F%A6%9F,"{""🦟"": 1}",1
+45063,3,🌌,96,97,internal,https://alldimensions.fandom.com/wiki/%F0%9F%8C%8C,"{""🌌"": 1}",1

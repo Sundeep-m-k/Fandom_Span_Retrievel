@@ -1,0 +1,24 @@
+Unifield
+SIze and more
+Size
+Binaryfield
+/ 1000000
+Dimensions
+3D
+Planets with life percentage
+A number above 0%
+Has life
+Yes
+Shape
+Unknown
+Containments
+Contained by:
+Binaryfield
+Contains:
+Actually existing things smaller than it
+The Unifield is a cosmological structure that contains smaller things that actually exist, though it cannot contain imaginary things, for instance an imaginary ball. The
+Binaryfield
+will do that. The reason is that you are only imagining that ball and it actually doesn't exist. The Unifield can only contain things that follow 2 criteria:
+It is smaller than the Unifield.
+It actually exists and is not imaginary or made up.
+That ball doesn't follow the 2nd criteria, "It actually exists and is not imaginary or made up", so it cannot be contained by Unifield. A nonexistent object smaller than Unifield that tries to enter Unifield will automatically be warped back to Binaryfield as if a nonexistent object enters it, it's spacetime will glitch and time will locally rewind on that object.

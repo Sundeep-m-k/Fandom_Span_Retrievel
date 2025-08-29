@@ -1,0 +1,51 @@
+“
+They do smart stuff. I don't even know how they work, it was tyler from IT here who made them.
+”
+— Automate Industries
+Combinators are machines that were created by
+Automate Industries
+to perform operations and decisions. They all cost 10
+ɢ
+.
+Arithmetic Combinator
+[
+]
+Arithmetic Combinator
+Picture of an arithmetic combinator (Factorio wiki)
+Cost
+10
+ɢ
+Materials Used
+Copper wires and
+electronic circuits
+Use(s)
+Signal operation
+Arithmetic combinators can perform operations such as addition, subtraction, multiplication, division, modulo, exponentiation and bit manipulation on the signals they get, and output the answer.
+Constant Combinator
+[
+]
+Constant Combinator
+Picture of a constant combinator (Factorio wiki)
+Cost
+10
+ɢ
+Materials Used
+Copper wires and
+electronic circuits
+Use(s)
+Signal output
+Constant combinators constantly output signals. They do not have inputs, only an output.
+Decider Combinator
+[
+]
+Decider Combinator
+Picture of a decider combinator (Factorio wiki)
+Cost
+10
+ɢ
+Materials Used
+Copper wires and
+electronic circuits
+Use(s)
+Signal comparison
+Decider combinators compare two signals, and they output based on the comparison. This decision can be less than (<), greater than (>), less than or equal (≤), greater than or equal (≥), equal (=) or not equal (≠).

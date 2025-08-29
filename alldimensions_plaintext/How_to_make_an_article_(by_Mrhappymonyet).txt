@@ -1,0 +1,103 @@
+(Disclaimer: Does not include categories, infoboxes, creating accounts, templates etc other than what's mentioned here already)
+Ok, If you are new to All Dimensions wiki you are gonna want to create some pages of your own. But how exactly do you that? This guide will help you make pages on the All Dimensions(AD for short) wiki that fit quality standards. First you need to create an account and go to the AD wiki before you create a page here.
+Contents
+1
+Step 1:
+2
+Step 2:
+3
+Step 3:
+4
+Step 4:
+5
+Step 5:
+6
+Step 6:
+7
+Page Standards
+8
+How to decorate your text
+9
+The Code
+9.1
+Basic Text Decoration
+9.2
+Colored/Styled Text Decoration
+10
+Images
+10.1
+Step 1:
+10.2
+Step 2:
+10.3
+Step 3:
+Step 1:
+Step 1
+Click/press the icon on the top right of your screen with 3 dots on it that looks like the image on the right.
+Step 2:
+Step 2
+Click on "Add New Page".
+Step 3:
+Step 3
+Write the name for your new page.
+Step 4:
+Start Writing!
+Step 5:
+Step 5
+If you want to switch to source edit click on the "Visual Edit" button on you top left. Source editing is the code for your page.
+Step 6:
+Step 6
+If you want to write a description of your edit, click on the "Describe what you changed" textbox on top of the "Save" button and write. When you want to finish your edit you press the "Save" button in the bottom right. If you want to cancel your edit you press the "Cancel" button beside the "Save" button. If you don't want people to comment on your page you need to press the box on the left of "Commenting".
+Page Standards
+Your new page must be at least 510 bytes and it must be related to the wiki to remain a page. We admins delete any pages that do not follow these standards or move them to blog posts.
+How to decorate your text
+Text decoration
+is similar to using a
+<b>
+tag to bold your text, or a <u> to underline it . But the text-decoration attribute takes this farther, giving you wavy underlines, or colored strikethroughs. Text-decoration is a useful HTML, CSS, and Wikicode/Wikitext attribute that this guide will teach you how to use.
+The Code
+Basic Text Decoration
+Let's start with a few examples:
+Overlined text
+The code for this:
+<div style="text-decoration: overline">Overlined text</div>
+Strikethrough text
+The code for this:
+<div style="text-decoration:line-through">Strikethrough text</div>
+Underline-overline text
+The code for this:
+<div style="text-decoration: underline overline">Underline-overline text</div>
+Common text decorations can be achieved through tags like <b> for bold and <i> for italic. But text-decoration takes this farther—you can create a combination like an overline, an underline, and italics! The format for this is: 'text-decoration: *type*'. The types of text decoration: overline, line-through, underline overline, bold, italic, underline. You can mix the types together by putting the names and a space between them.
+Colored/Styled Text Decoration
+There are 2 other attributes
+inside
+of this that define even more things; the exact style of the decoration, and the color. First, let's look at the text-decoration-color attribute. The format of this is 'text-decoration-color:*color*'. Replace *color* with a color (HEX code, RGB, Common Color Name).
+This is an example of red text-decoration
+The code for this:
+<div style="text-decoration: underline overline ; text-decoration-color: red">This is an example of red text-decoration</div>
+The other attribute; text-decoration-style is like border type, but for text instead of the entire coded item. The format for it is 'text-decoration-style: *type*'. Type should be replaced with one of the following: solid, double, dotted, dashed, wavy. Below is an example of a wavy underline.
+Wavy Underline
+The code for this:
+<div style="text-decoration: underline; text-decoration-style: wavy">Wavy Underline</div>
+We can also combine all three attributes to get this:
+Wavy Green Underline
+The code for this:
+<div style="text-decoration: underline; text-decoration-style: wavy; text-decoration-color: Green">Wavy Green Underline</div>
+(These are basic text coding, you can actually do a lot more with source code but it's too complicated to mention here).
+Images
+Adding images is a great way to make your page better. I will show you how to add one to a page.
+Step 1:
+Step 1
+Click on the image icon near the top right of your page.
+Step 2:
+If you want to add a image that you have already uploaded onto a page, find it in the "Search" tab but if you want to upload an image you can press "Upload" and click on the "Select a file" button and upload the file.
+Step 3:
+This is optional but if you want to move your image to the left side of the screen(the picture is automatically at the right side), you can use this code:
+|}
+<</div>
+|}
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+<div style="border: 1px solid red; width: 100%; margin: 0 auto; margin-top: 20px; border-radius: 5px; width: auto;">
+</div>
+[[File:Something.png/jpg/jpeg|398px|Hello!]]

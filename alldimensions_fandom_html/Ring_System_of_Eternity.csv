@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+25603,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f3/Screen_Shot_2020-03-29_at_9.10.06_AM.png/revision/latest?cb=20200329161045,"{""\n\n"": 1}",1
+25603,1,The Bracket,71,82,internal,https://alldimensions.fandom.com/wiki/The_Bracket,"{""The Bracket"": 1}",1
+25603,1,Endless Perch,102,115,internal,https://alldimensions.fandom.com/wiki/Endless_Perch,"{""Endless Perch"": 1}",1
+25603,1,The True Impossible,117,136,internal,https://alldimensions.fandom.com/wiki/The_True_Impossible,"{""The True Impossible"": 1}",1
+25603,2,Endless Perches,80,95,internal,https://alldimensions.fandom.com/wiki/Endless_Perch,"{""Endless Perches"": 1}",1
+25603,2,Bongus,259,265,internal,https://alldimensions.fandom.com/wiki/Bongus,"{""Bongus"": 1}",1

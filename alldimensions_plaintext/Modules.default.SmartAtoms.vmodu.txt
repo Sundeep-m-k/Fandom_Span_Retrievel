@@ -1,0 +1,178 @@
+import Modules.default.SmartAtomDimensions
+import Modules.default.PeriodicTable
+module
+SmartAtoms:
+→→
+new
+PublicFunction
+setOrbital(
+Electron
+e,
+String
+o):
+→→→→
+new
+Array
+e.OrbitalRange.x = getVar(
+"SmartAtomDimensions."
++ o +
+".x"
+);
+→→→→
+new
+Array
+e.OrbitalRange.y = getVar(
+"SmartAtomDimensions."
++ o +
+".y"
+);
+→→→→
+new
+Array
+e.OrbitalRange.z = getVar(
+"SmartAtomDimensions."
++ o +
+".z"
+);
+→→
+new
+Function
+orbit(
+Electron
+e):
+→→→→
+new
+Int
+posI = randomInt(
+0
+, e.OrbitalRange.length -
+1
+);
+→→→→
+new
+Array
+x = e.OrbitalRange.x;
+→→→→
+new
+Array
+y = e.OrbitalRange.y;
+→→→→
+new
+Array
+z = e.OrbitalRange.z;
+→→→→
+e.setPos(x[posI], y[posI], z[posI]);
+→→
+new
+Class
+Hadron(
+Quark
+q1,
+Quark
+q2,
+Quark
+q3) in Particle():
+→→→→
+new
+Property
+charge(Type =
+Double
+);
+→→→→
+new
+Property
+pos(Type =
+Vec3
+);
+→→→→
+self = object.applyGluons(q1,q2,q3);
+→→→→
+charge = q1.charge + q2.charge + q3.charge;
+→→
+new
+Class
+Proton() in Hadron():
+→→→→
+Hadron.q1.type=up;
+→→→→
+Hadron.q2.type=up;
+→→→→
+Hadron.q3.type=down;
+→→
+new
+Class
+Neuton() in Hadron():
+→→→→
+Hadron.q1.type=up;
+→→→→
+Hadron.q2.type=down;
+→→→→
+Hadron.q3.type=down;
+→→
+new
+Class
+Atom(
+String
+atomicName,
+Int
+atomicNumber,
+Int
+isotope):
+→→→→
+new
+Property
+Nucleus(Type =
+ParticleArray
+);
+→→→→
+new
+Property
+charge(Type =
+Int
+);
+→→→→
+new
+Property
+pos(Type =
+Vec3
+);
+→→→→
+if (atomicNumber =
+null
+):
+→→→→→→
+atomicNumber =         PeriodicTable.All[
+1
+][indexOf(atomicNumber,PeriodicTable.All[
+0
+])];
+→→→→
+Nucleus.addMultiple(new Proton(), atomicNumber);
+→→→→
+Nucleus.addMultiple(new Proton(), isotope - atomicNumber);
+→→→→
+Nucleus.relPos = pos;
+→→→→
+Nucleus.addMultiple(new
+Electron
+e
+i
+, atomicNumber);
+→→→→
+repeat
+infinity
+:
+→→→→
+orbit(e
+i
+);
+Wait finally i can talk agai-
+→→→→
+repeat
+infinity
+:
+→→→→
+orbit(e
+i
+)
+→→→→ HELP MEEE

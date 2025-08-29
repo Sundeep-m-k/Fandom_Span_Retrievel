@@ -1,0 +1,19 @@
+This is a list of Omnisecurity protocols. Omnisecurity protocols are, simply put, protocols that are set in place to prevent some “Meta-Servers” from being exploited.
+As the list expands, the security protocols become newer.
+OmniSecurity
+OmniSecurity+
+Omni2Security
+Omni2Security+
+OmniSecurityX
+OmniSecurityY
+OmniSecurityZ
+OmniHyperSecurity
+OmniHyperSecurity+
+OmniHyperSecurity++
+OmniHyperSecurity+++
+As of now, OmniHyperSecurity+++ is the most modern and safe security protocol.
+It is unlikely we will have a new protocol anytime soon, as the more secure the protocol is, the harder and more complex it is to build. It is said that the next new protocol,
+OmniHyperSecurityX
+, won’t be released until about ~10^10^100 more OYC. But at the same time, a server using OmniHyperSecurity+++ won’t be getting hacked anytime soon, either.
+The official spreadsheet of protocols purchased can be found here:
+https://docs.google.com/spreadsheets/d/176KrCeO4JbXITnMhKz15nsFrurYMjlOzOjp0cXpYqi4/edit

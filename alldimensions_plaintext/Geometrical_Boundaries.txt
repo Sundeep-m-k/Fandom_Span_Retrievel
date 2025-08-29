@@ -1,0 +1,86 @@
+Contents
+1
+Vertex count
+2
+Edge length
+3
+Surface area
+4
+Surcell volume
+5
+Surteron bulk
+Vertex count
+[
+]
+Full article:
+Vertex
+The
+vertex count
+of a shape is the total number of vertices (
+points
+that are part of a larger shape) it has. This can therefore be considered the shape's total extent in
+zero-dimensional space
+.
+Vertex count is unitless.
+Edge length
+[
+]
+The
+edge length
+of a shape is the total length of all of its
+edges
+. This can therefore be considered the shape's total extent in
+one-dimensional space
+. The edge length of a
+polytelon
+is called its
+length
+. The edge length of a
+polygon
+is called its
+perimeter
+.
+Edge length in physics is measured in metres.
+Surface area
+[
+]
+The
+surface area
+of a shape is the total area of all its
+faces
+. This can therefore be considered the shape's total extent in
+two-dimensional space
+. The surface area of a
+polygon
+is simply called its
+area
+.
+Surface area in physics is measured in meters squared.
+Surcell volume
+[
+]
+The
+surcell volume
+of a shape is the total volume of all its
+cells
+. This can therefore be considered the shape's total extent in
+three-dimensional space
+. The surcell volume of a
+polyhedron
+is simply called its
+volume
+.
+Surface area in physics is measured in metres cubed.
+Surteron bulk
+[
+]
+The
+surteron bulk
+of a shape is the total bulk of all its tera. This can therefore be considered the shape's total extent in
+four-dimensional space
+. The surteron bulk of a
+polychoron
+is simply called its
+bulk
+.
+Surteron bulk in theoretical physics is measured in metres to the fourth.

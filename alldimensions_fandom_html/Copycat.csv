@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23311,1,The Seeker,148,158,internal,https://alldimensions.fandom.com/wiki/The_Seeker,"{""The Seeker"": 1}",1
+23311,3,Bongus,13,19,internal,https://alldimensions.fandom.com/wiki/Bongus,"{""Bongus"": 1}",1
+23311,3,The Cosmological Recycler,25,50,internal,https://alldimensions.fandom.com/wiki/The_Cosmological_Recycler,"{""The Cosmological Recycler"": 1}",1

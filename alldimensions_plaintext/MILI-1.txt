@@ -1,0 +1,37 @@
+Milliverse/MILI-1
+Map of MILI-1
+Scale
+Size
+233 million ly
+EUSI
+0
+Finality Index
+N/A
+FOEI
+(0,1)
+Dimensionality
+3
+Kardashev Scale
+3.5
+Properties
+Class
+0
+Shape
+Bubble
+Position
+Contained by:
+UNI-5039
+Contains:
+Arsoinekia, Pelruthis, and Tersonketh galaxy clusters,
+Schiverse
+MILI-1 is the first
+milliverse
+that was discovered by
+humans
+. It is 233 million lightyears in diameter and located inside of
+UNI-5039
+, the first other universe explored by humans. It has insanely small deviations in its constants in relation to its parent universe. It has 3 galaxy clusters:
+Arsoinekia Cluster (64 galaxies)
+Pelruthis Cluster (118 galaxies)
+Tersonketh Cluster (59 galaxies)
+And 241 relevant galaxies.

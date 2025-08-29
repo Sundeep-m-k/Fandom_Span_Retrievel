@@ -1,0 +1,64 @@
+The Virtual Machine
+Scale
+Size
+Beyond mathematics
+Dimensionality
+Beyond mathematics
+Position
+Contained by:
+The Squared Virtual Machine
+Contains:
+Xenocosmology
+,
+Concept Eater
+The Virtual Machine
+is a virtual machine which is being hosted on the
+The Squared Virtual Machine
+through
+The Virtual Box
+software. It is running a program that is currently simulating the entire
+second class system
+including every
+metacosmological
+and
+cosmological
+object contained inside it. The operating system The Virtual Machine runs is
+Microsoft Windows XT
+Professional, which was likely chosen because it was the first Windows version to have robust support for metacosmological simulation software. The Virtual Machine was believed to have been created in approximately 5
+OYC
+by a
+Talking Tom
+. The Virtual Machine uses a large portion of the Squared Virtual Machine's processing power, because the Engine Eater simulation software has high system requirements.
+Contents
+1
+Programs in The Virtual Machine
+1.1
+Microsoft Eagle
+1.2
+Google Chrome
+1.3
+File Explorer
+1.4
+Engine Eater
+Programs in The Virtual Machine
+[
+]
+There are only a few programs that have ever been opened on the Virtual Machine, since its only purpose was to simulate. The only program which is currently open is Engine Eater. There are more programs than these but they have never been opened.
+Microsoft Eagle
+[
+]
+Microsoft Eagle is the web browser included with Windows XT. It has such slow performance that it is rendered completely unusable, each page takes at least 1 OYC to load on average. This program was only opened once in 5 OYC to install Google Chrome. It took 1 OYC to load the page  for Chrome and another OYC to download Chrome.
+Google Chrome
+[
+]
+This is a third-party browser that was installed by the owner because of Microsoft Eagle's unusability. It is several billion times faster than Microsoft Eagle, although that is still abysmally slow by human standards. It was opened three times throughout the existence of The Virtual Machine. The first time was to download the Engine Eater simulation program, the second time was in 19 OYC to troubleshoot a bug in Engine Eater, and the third time was in 23 OYC and is believed to have been accidental.
+File Explorer
+[
+]
+The file browser included with Windows XT. Only opened once in 7 OYC to drag Engine Eater to the desktop.
+Engine Eater
+[
+]
+A third-party program that simulates the
+concept eater
+using procedural generation (basically SpaceEngine but the concept eater version). Properties of objects, such as size, dimensionality, Kardashev scale, etc., are visible to the being running the simulation, although these are not visible to beings inside the simulation (including the simulated concept eater itself, since it is an entity). It is by far the largest program installed on the Virtual Machine with the file size being Beyond mathematics bytes. It has been continuously open from 7 OYC to today, with the only exception being for a few minutes in 19 OYC because a bug occurred.

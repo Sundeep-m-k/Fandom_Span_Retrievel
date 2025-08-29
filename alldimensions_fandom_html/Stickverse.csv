@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34925,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/aa/Stick.png/revision/latest?cb=20200828160203,"{""\n\n"": 1}",1
+34925,1,Multiverse,222,232,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+34925,7,Stealbots,68,77,internal,https://alldimensions.fandom.com/wiki/Stealbot,"{""Stealbots"": 1}",1

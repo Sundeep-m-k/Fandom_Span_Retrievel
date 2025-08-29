@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50328,1,The Embodiment of Evil,12,34,internal,https://alldimensions.fandom.com/wiki/The_Embodiment_of_Evil,"{""The Embodiment of Evil"": 1}",1
+50328,2,POWER,103,108,internal,https://alldimensions.fandom.com/wiki/The_POWAHinator,"{""POWER"": 1}",1
+50328,3,human song,18,28,external,https://www.youtube.com/watch?v=QPB6tyGGtcg,"{""human song"": 1}",1
+50328,5,https://alldimensions.fandom.com/wiki/File:Tau.ogg,0,50,internal,https://alldimensions.fandom.com/wiki/File:Tau.ogg,"{""https://alldimensions.fandom.com/wiki/File:Tau.ogg"": 1}",1
+50328,6,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/84/Aether.jpg/revision/latest?cb=20250716094715,"{""\n\n"": 1}",1
+50328,11,Lord of Lords,447,460,internal,https://alldimensions.fandom.com/wiki/Lord_of_Lords,"{""Lord of Lords"": 1}",1

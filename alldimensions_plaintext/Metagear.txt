@@ -1,0 +1,59 @@
+(Metagear. Not metal gear!)
+Picture of a basic metagear
+Metagears
+are the currency of
+our metaverse
+. They are commonly abbreviated as ɢ, and can have
+metric prefixes
+attached. 1ɢ is worth approximately 3$ / 2.75€.
+Divisions
+[
+]
+Name
+Abbreviation
+Value in $
+Color
+Petametagear
+Pɢ
+3Qd
+Purple
+Terametagear
+Tɢ
+3T
+Indigo
+Gigametagear
+Gɢ
+3B
+Blue
+Megametagear
+Mɢ
+3M
+Sky Blue
+Kilometagear
+kɢ
+3K
+Cyan
+Hectometagear
+hɢ
+300
+Turquoise
+Decametagear
+daɢ
+30
+Lime
+Metagear
+ɢ
+3
+Chartreuse
+Decimetagear
+dɢ
+0.3
+Yellow
+Centimetagear
+cɢ
+0.03
+Gold
+Millimetagear
+mɢ
+0.003
+Orange

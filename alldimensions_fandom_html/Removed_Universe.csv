@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+33440,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/32/Universe1.PNG/revision/latest?cb=20200714031229,"{""\n\n"": 1}",1
+33440,1,Universe,10,18,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+33440,1,Wikiverse,287,296,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1

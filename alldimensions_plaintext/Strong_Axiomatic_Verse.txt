@@ -1,0 +1,462 @@
+Strong Axiomatic Verse
+Natural Position
+Contained by
+The Infinite Chain
+Contains
+Dropoverse
+Scale
+Dimensionality
+'"`UNIQ--postMath-00000001-QINU`"' (absolute infinity), greater than '"`UNIQ--postMath-00000002-QINU`"'
+[
+1
+]
+, greater than contradictory cardinals like '"`UNIQ--postMath-00000003-QINU`"', '"`UNIQ--postMath-00000004-QINU`"' (see
+LAIF
+).
+Diameter
+'"`UNIQ--postMath-00000006-QINU`"'
+Kardashev Scale
+'"`UNIQ--postMath-00000005-QINU`"'
+The Strong Axiomatic Verse, usually abbreviated as SAV, is a verse of which it's size is defined by an extremely strong axiom, even beyond cardinals like
+κ
+=
+C
+κ
+{\displaystyle \kappa=C_\kappa}
+[
+1
+]
+. The size gap between the previous verse (
+dropoverse
+) and the SAV is on such a greater scale than the gap between the
+Trefoil Barrier
+and the
+End of Chain
+, it took teamwork between both us and the Artoths to get past it, and our civilization finally also meets all of the Artoths here (besides
+Arnenothen
+). It is one of the only verses in this chain that has a ruler.
+Contents
+1
+The Axiom for the SAV
+2
+Properties
+3
+History
+3.1
+Artoth Entrance
+3.2
+Artoth Colonization
+3.3
+Entrance
+3.4
+Artoth Discovery
+3.5
+Conversing with the Artoths
+3.6
+Meeting the Artoths
+3.7
+Measurement
+3.8
+Reaching the Edge
+4
+The Barrier
+4.1
+Escaping The Barrier (history)
+4.2
+First Attempt
+4.3
+Population of the Barrier
+4.4
+More Attempts and Study
+4.5
+Barrier Escape
+5
+Current Events
+5.1
+Finding Verses in the SAV
+5.2
+Ruler of the SAV
+The Axiom for the SAV
+[
+]
+The cardinal for the size of the SAV can be defined as:
+The smallest cardinal
+κ
+where given any finite or tranfinite cardinal
+α
+,
+α
+will be a subset of
+κ
+.
+{\displaystyle \text{The smallest cardinal } \kappa \text{ where given any finite or tranfinite cardinal } \alpha \text{, } \alpha \text{ will be a subset of } \kappa \text{.}}
+which is a
+more
+well-defined version of
+Cantor's absolute infinity
+, although it may be still ill-defined.
+Properties
+[
+]
+The SAV is an extremely large verse, but it only contains a single kind of verse inside it: the
+dropoverse
+. Many, many dropoverses. They are usually bunched in very large 'clusters' (shown in the image of the SAV), while everything else is surrounded by very large voids, although it may be possible that there are some other stray verses out there.
+An interesting property of the SAV is that there are
+no
+quantum mechanics. This means that you cannot use wormholes to get past barriers (like we used in
+torubarriers
+), so escaping it will be much harder, even if you reach the SAV's barrier.
+History
+[
+]
+This part of the page on the SAV is about the history of and events in the Strong Axiomatic Verse. It begins with the Artoths entering, and ends with the escape into the next verse.
+Artoth Entrance
+[
+]
+ω
+ω
+ω
+{\displaystyle \omega^{\omega^{\omega}}}
+AE
+[
+2
+]
+At this time, the Artoths first entered the SAV, but had left it unnamed. Recently the Artoths had escaped from the dropoverse, and began looking around to see what verses were inside the SAV. Not finding any other verses other than dropoverses, they began trying to escape the SAV, still not having a decided-upon name.
+Artoth Colonization
+[
+]
+ω
+ω
+ω
++
+ω
+{\displaystyle \omega^{\omega^{\omega}}+\omega}
+AE
+The Artoths now are relatively stuck in the SAV, and had created their own kinds of extreme drives, like strongly compact drives combined with superstrong drives, but because the SAV is so large, these sorts of things don't work to escape. The Artoths began to colonize like they did in the
+End of Chain
+, creating Areas of the 6 types:
+Recourse Gathering
+Education
+Construction
+Exploration
+Economic
+Portech
+although there weren't ideas this time.
+Entrance
+[
+]
+ω
+ω
+ω
++
+ω
+⋅
+60
+{\displaystyle \omega^{\omega^\omega}+\omega\cdot60}
+AE
+Now we reach our part of the story, as we escape the
+dropoverse
+and into the SAV, naively thinking that we should probably escape very quickly. This would definitely not be true, as attempts to make a rank-into-rank-into-rank drive
+[
+3
+]
+would fail. Because of this, we began to explore, and
+Arnenothen
+was even interested enough to come, which would be lucky for us later.
+Artoth Discovery
+[
+]
+ω
+ω
+ω
++
+ω
+⋅
+62
+{\displaystyle \omega^{\omega^\omega}+\omega\cdot62}
+AE
+On the ship meant to explore the SAV (it was never named, possibly because people didn't have any other ideas for ship names), a signal was detected that would normally be impossible to emit by Dropoverses, so the crew directed toward it. It turns out that this was a signal accidentally sent by the Artoths, but this would be lucky for them, as it would let them escape.
+As the ship got closer, it was realized that it was the Artoths. The Artoths realized something was there, but still had no idea what it was exactly. The ship closed in on the Area cluster, and Arnenothen was going to see the Artoths for the first time in over
+ω
+1
+C
+K
+{\displaystyle \omega^{CK}_{1}}
+OYC
+. The Artoths hastily prepared for nearly every possible situation they could be in.
+Conversing with the Artoths
+[
+]
+ω
+ω
+ω
++
+ω
+⋅
+62
++
+0.01
+{\displaystyle \omega^{\omega^\omega}+\omega\cdot62+0.01}
+AE
+When the ship arrived, the Artoths had a conversation with us, and the captain, Captain Orenue Jr. (creator of the Explorer
+[
+4
+]
+), which likely went something similar to this:
+Artoth (Arnethen): "Hello. Where have you come from and why are you here?"
+[
+5
+]
+Arnenothen already knew a lot about Artoth language, and so a translator was created that translated English into Artoth, albeit a slightly broken Artoth. This surprised the Artoths, for good reason. The translator was very slow, though, and took around 1 day of silence between each translation (both ways).
+Orenue (through translator):  "Hello. We are here to say hello, and to get to know more about both of us."
+Arnethen, surprised: "Uh.. Where have you come from?"
+Orenue: "A
+Universe
+. We have been looking around these verses, and have found some of the things you left behind."
+Arnethen: "We have come from a parallel
+Tworusverse
+, but we seem to have just found out about you now."
+Orenue: "We may need a faster way to communicate with each other."
+Arnethen: "Agreed. Do you know of any way that we would be able to do that?"
+Orenue returned to the ship and informed the crew of the most recent message between him and Arnethen, and Arnenothen said that they would be up to being a translator from English to Artoth, and that this would allow for much faster communication.
+Arnenothen (Artoth): "I think that I may be of assistance."
+Arnethen: "An Artoth? How did you find another Artoth?"
+Arnenothen (Artoth): "I was... left behind."
+Arnethen: "That was you?!"
+Arnenothen: "Yes. That was me."
+Arnethen: "But we had been trying to get back there for so long! How did you escape?"
+Arnenothen: "With some help with these humans."
+There was a period of silence before someone talked again.
+Orenue: "Well, welcome back."
+Meeting the Artoths
+[
+]
+ω
+ω
+ω
++
+ω
+⋅
+62
++
+0.09
+{\displaystyle \omega^{\omega^\omega}+\omega\cdot62+0.09}
+AE
+After the initial conversation with the Artoths, with a total amount of time taken being a bit over 1 week and 1 day. After humans learning about the Artoths and vice versa, immediately both of them began planning to escape the SAV. The way this was done was by basically using Arnenothen as a translator, but they also contributed in these conversations.
+Planning began to first try to find the actual size of the SAV, as the attempts of even rank-into-rank-into-rank drives failing worried everyone that there would be too many attempts until an escape.
+A possible way to measure nearly
+any
+verse size was created, dubbed the Extreme Measurement Device. People and Artoths gathered to the event to see just how large the largest known verse was.
+Measurement
+[
+]
+ω
+ω
+ω
++
+ω
+⋅
+62
++
+0.5
+{\displaystyle \omega^{\omega^\omega}+\omega\cdot62+0.5}
+AE
+It was found that the size of the SAV is actually an absolutely
+ginormous
+∞
+(
+0
+,
+1
+)
+{\displaystyle \infin(0,1)}
+[
+6
+]
+! Although it was surprising that the Strong Axiomatic Verse was this large for everyone, it was also slightly problematic, because nobody had any idea how to escape.
+Reaching the Edge
+[
+]
+ω
+ω
+ω
++
+ω
+ω
+{\displaystyle \omega^{\omega^{\omega}}+\omega^{\omega}}
+AE
+After a very long time and many tests and equations, we might have found a way to escape the SAV.
+It was not a drive, but a computer that overwhelms space itself from how it processes information, and allows for propelling anything in a set radius (around
+ω
+{\displaystyle \omega}
+light-
+OYC
+at max) at extremely infinite speeds, eventually accelerating to what seems to limit to
+∞
+(
+0
+,
+1
+)
+{\displaystyle \infin(0,1)}
+after around 1 year, and does not go farther after that. It was dubbed the Absolute Computer, and was going to be used for testing to see if it would get through the SAV.
+Of course, when the Absolute Computer was going to be tested for SAV escape, even more people and Artoths came to the event (hundreds of thousands) than when the Strong Axiomatic Verse was first measured.
+When launched, the ship with the Absolute Computer on it seemed to not move at all in the beginning. It turns out that it was just moving extremely slowly, and by 1 minute in it was visually moving. Slowly, it accelerated to
+ω
+OYC
+{\displaystyle \frac{\omega}{\text{OYC}}}
+, and then
+Ω
+OYC
+{\displaystyle \frac{\Omega}{\text{OYC}}}
+. By just 1 day, it had accelerated to
+Ω
+ω
+OYC
+{\displaystyle \frac{\Omega_\omega}{\text{OYC}}}
+, which was much, much faster than was originally predicted. Because of this, it was predicted that in only 1 week they would reach the edge instead of in a whole year. The second day in, it had accelerated to
+I
+Ω
+ω
+OYC
+{\displaystyle \frac{I_{\Omega_\omega}}{\text{OYC}}}
+, the third day in it had accelerated to the first strong cardinal per OYC. By the fourth day, we had accelerated to the first rank-into-rank cardinal, and by the fifth day a cardinal of which we have not named yet. This goes on to the seventh day, where we actually reach the edge of the SAV. And it was an edge. Not an edge, but a barrier. A harder barrier to pass than we had ever seen before.
+The Barrier
+[
+]
+The barrier of the SAV is much harder to pass due to 3 main reasons:
+There are no quantum mechanics in this verse, so we can't use the
+wormhole trick
+,
+It is just as hard, if not harder than both the torubarrier and the End of Chain's barriers,
+Even when an Absolute Computer tries to propel it, it has the opposite effect and actually makes the barrier slightly smaller, until it eventually expands again.
+This means that the barrier is somehow connected to something beyond space and time, but we still don't know what that is exactly.
+Escaping The Barrier (history)
+[
+]
+Here is the final part of the history of the SAV, being the part where we try to break the barrier and we fail a few times.
+First Attempt
+[
+]
+ω
+ω
+ω
++
+ω
+ω
++
+0.01
+{\displaystyle \omega^{\omega^\omega}+\omega^\omega+0.01}
+AE
+It was unexpected that the Absolute Computer failed to pass the SAV. In fact, it failed even more than we thought it would, because it actually brought the SAV's barrier
+towards
+the Absolute Computer. Attempts to surpass the barrier would fail, with the first being an attempt to reuse the Absolute Computer to teleport past the SAV which would ultimately fail, as it seemed that the laws that we thought would be in the SAV did not hold when we actually tested it.
+To figure this out, we needed more people.
+Population of the Barrier
+[
+]
+ω
+ω
+ω
++
+ω
+ω
++
+ω
++
+1
+{\displaystyle \omega^{\omega^\omega}+\omega^\omega+\omega+1}
+AE
+To get more information, we needed more people, and therefore more Absolute Computers, luckily we knew how to create them, so construction of 144 Absolute Computers began construction, as 1440 people and Artoths were found that were willing to go to the barrier.
+When they finished construction, all the computers were installed into 144 spare ships and every one of them launched at the same time, to go to the barrier.
+Because of this, all of these people and Artoths all arrived at the barrier, and began to study the properties of it. A larger ship was created as a combination of the 145 ships, called The Actual Barrier Station, which was named after the Beyond Barrier Station
+[
+4
+]
+. The Actual Barrier Station was relatively big for being the combination of 145 ships, being about 1.1 times larger than predicted, further telling us that we know little about this verse (it would turn out that this part of the verse was slightly spherical, allowing for more area).
+More Attempts and Study
+[
+]
+ω
+ω
+ω
++
+ω
+ω
+⋅
+2
+{\displaystyle \omega^{\omega^\omega}+\omega^\omega\cdot2}
+AE
+People began studying the SAV barrier, and although many things were found, there were still many questions that are still unknown, like what is this 'other type of dimension' other than time?' or 'Why does using an Absolute Computer shrink the barrier?'. However, after around 14 failed attempts, none of which are very notable, until we finally. Finally. Finally found a way to escape, actually using
+multiple
+Absolute Computers moving each other in multiple directions, technically creating a new drive.
+Barrier Escape
+[
+]
+ω
+ω
+ω
++
+ω
+ω
++
+1
+{\displaystyle \omega^{\omega^\omega}+\omega^{\omega+1}}
+AE
+When this new drive-ish object made of Absolute Computers was created, it was tested in another direction and in simulations and should work if put on a ship. A smaller station was portioned off of the 145 combined ships, having 10 ships combined (called the Decastation because there were originally 10 ships) that will be going to the other side, and the other 135 that will stay on the other end (for now).
+The drive-ish was installed on the Decastation and then the station was launched. Because of how it worked, it slowly oscillated back and forth, foaster and faster over time, until eventually it shot immediately from one side of the barrier to the other, and then finally, flew past the barrier. Because of the laws in this next verse, it stopped oscillating and slowed down, and the station eventually stopped and the Decastation was placed right next to the 135 ships, but on the other side of the barrier.
+Current Events
+[
+]
+Since the escape of the Strong Axiomatic Verse's barrier, a couple of things has happened.
+Arnenothen
+returned to the
+End of Chain
+to work on translating Ancient Scripts (Note: the reason that other Artoths couldn't do this is that the writing system had changed after escaping the End of Chain and Arnenothen was the only one who kept it)
+Artoths mostly populate the SAV now, and are trying to find any other verses that may be inside of the SAV. We will go into more detail about this later.
+The verse gets a ruler.
+These three main events are usually said to increase in importance, and I'd agree that that is true. We will be going into detail in the last two events on this page.
+Finding Verses in the SAV
+[
+]
+It is very unlikely for a verse to have only one kind of verse in it when a verse is this much larger compared to the previous. The reason why this is is still unknown, but this is still extremely unlikely.
+The Aroths have recently been trying to find out if there really are only
+dropoverses
+in the SAV, with large scans of much of the SAV being attempted. However, nothing has been found out yet, but is still being undergone.
+Ruler of the SAV
+[
+]
+As mentioned... I think 3 times now, the SAV now has a ruler. The Artoth that currently rules the SAV is named
+Arelonen
+and was elected to guide the people and Artoths in the SAV to explore and find all the information in it.
+The next Artoth election will be about
+ω
+{\displaystyle \omega}
+OYC
+from now.
+↑
+1.0
+1.1
+See
+Miner's Cardinal
+and
+Miner Enumeration
+.
+↑
+AE stands for After Entrance, more specifically years after entrance of the
+End of Chain
+.
+↑
+Note: there is not a cardinal with a property called 'rank into rank into rank', it's just that people were probably just running out of ideas.
+↑
+4.0
+4.1
+See the
+End of Chain
+.
+↑
+Note: This is an exact translation, and has become a famous quote.
+↑
+See
+LAIF
+.

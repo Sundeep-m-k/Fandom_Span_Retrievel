@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36392,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/69/Drop.jpeg/revision/latest?cb=20210105114600,"{""\n\n"": 1}",1
+36392,3,universe,10,18,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+36392,3,voids,86,91,internal,https://alldimensions.fandom.com/wiki/Void,"{""voids"": 1}",1
+36392,3,matter,138,144,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1
+36392,4,substance,134,143,internal,https://alldimensions.fandom.com/wiki/Category:Substance,"{""substance"": 1}",1
+36392,5,verses,21,27,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+36392,5,materials,109,118,internal,https://alldimensions.fandom.com/wiki/Category:Material,"{""materials"": 1}",1
+36392,5,creature,146,154,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""creature"": 1}",1
+36392,6,matot,35,40,internal,https://alldimensions.fandom.com/wiki/Matot,"{""matot"": 1}",1
+36392,6,particles,41,50,internal,https://alldimensions.fandom.com/wiki/Category:Particle,"{""particles"": 1}",1

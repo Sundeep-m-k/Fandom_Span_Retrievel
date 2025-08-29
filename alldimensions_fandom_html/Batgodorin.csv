@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45918,1,humans,53,59,internal,https://alldimensions.fandom.com/wiki/Human,"{""humans"": 1}",1
+45918,1,Batgodori,2,11,internal,https://alldimensions.fandom.com/wiki/Batgodori,"{""Batgodori"": 1}",1
+45918,3,species,31,38,internal,https://alldimensions.fandom.com/wiki/Category:Species,"{""species"": 1}",1
+45918,3,planet,90,96,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
+45918,3,Batgodori,4,13,internal,https://alldimensions.fandom.com/wiki/Batgodori,"{""Batgodori"": 1}",1
+45918,3,Batgodor,4,12,internal,https://alldimensions.fandom.com/wiki/Batgodor,"{""Batgodor"": 1}",1
+45918,4,human,45,50,internal,https://alldimensions.fandom.com/wiki/Human,"{""human"": 1}",1
+45918,4,verses,279,285,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+45918,4,Zatronos Zeldtro,316,332,internal,https://alldimensions.fandom.com/wiki/Zatronos_Zeldtro,"{""Zatronos Zeldtro"": 1}",1
+45918,4,Batlon Maxaon,334,347,internal,https://alldimensions.fandom.com/wiki/Batlon_Maxaon,"{""Batlon Maxaon"": 1}",1
+45918,4,Vilabat Gortoso,353,368,internal,https://alldimensions.fandom.com/wiki/Vilabat_Gortoso,"{""Vilabat Gortoso"": 1}",1
+45918,5,cosmic entities,37,52,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""cosmic entities"": 1}",1

@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47679,1,that one,24,32,internal,https://alldimensions.fandom.com/wiki/Layers_of_Our_Existence,"{""that one"": 1}",1
+47679,3,exi,11,14,internal,https://alldimensions.fandom.com/wiki/Time,"{""exi"": 1}",1
+47679,3,ste,14,17,internal,https://alldimensions.fandom.com/wiki/Reality,"{""ste"": 1}",1
+47679,3,nce,17,20,internal,https://alldimensions.fandom.com/wiki/Space,"{""nce"": 1}",1
