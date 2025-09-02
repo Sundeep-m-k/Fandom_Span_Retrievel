@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-18357,3,glider,38,44,internal,https://alldimensions.fandom.com/wiki/Glider,"{""glider"": 1}",1
-18357,4,gliders,39,46,internal,https://alldimensions.fandom.com/wiki/Glider,"{""gliders"": 1}",1
-18357,4,universes,80,89,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
-18357,7,universes,77,86,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
-18357,7,glider,113,119,internal,https://alldimensions.fandom.com/wiki/Glider,"{""glider"": 1}",1
-18357,8,glider,292,298,internal,https://alldimensions.fandom.com/wiki/Glider,"{""glider"": 1}",1
-18357,9,glider,141,147,internal,https://alldimensions.fandom.com/wiki/Glider,"{""glider"": 1}",1

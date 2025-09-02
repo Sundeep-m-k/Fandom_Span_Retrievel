@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-36660,3,circle,2,8,internal,https://alldimensions.fandom.com/wiki/Circle,"{""circle"": 1}",1
-36660,3,2D,95,97,internal,https://alldimensions.fandom.com/wiki/Plane,"{""2D"": 1}",1
-36660,3,hypersphere,98,109,internal,https://alldimensions.fandom.com/wiki/Hypersphere,"{""hypersphere"": 1}",1
-36660,3,points,155,161,internal,https://alldimensions.fandom.com/wiki/Point,"{""points"": 1}",1
-36660,3,point,155,160,internal,https://alldimensions.fandom.com/wiki/Point,"{""point"": 1}",1
-36660,3,plane,234,239,internal,https://alldimensions.fandom.com/wiki/Plane,"{""plane"": 1}",1

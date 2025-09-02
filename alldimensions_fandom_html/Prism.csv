@@ -1,4 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-2643,2,polygons,202,210,internal,https://alldimensions.fandom.com/wiki/Polygon,"{""polygons"": 1}",1
-2643,4,faces,63,68,internal,https://alldimensions.fandom.com/wiki/Face,"{""faces"": 1}",1
-2643,4,triangular,74,84,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangular"": 1}",1

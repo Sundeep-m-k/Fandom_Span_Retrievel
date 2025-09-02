@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-39919,20,barrel,34,40,internal,https://alldimensions.fandom.com/wiki/Barrel,"{""barrel"": 1}",1
-39919,24,BOX,29,32,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""BOX"": 1}",1
-39919,25,BOXES,30,35,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""BOXES"": 1}",1
-39919,26,brox,31,35,internal,https://alldimensions.fandom.com/wiki/The_Brox,"{""brox"": 1}",1
-39919,27,ultra-box,23,32,internal,https://alldimensions.fandom.com/wiki/Ultra-box,"{""ultra-box"": 1}",1

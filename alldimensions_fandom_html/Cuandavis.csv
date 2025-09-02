@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-46108,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/24/Cuandavis.png/revision/latest?cb=20240512075846,"{""\n\n"": 1}",1
-46108,3,proton,90,96,internal,https://alldimensions.fandom.com/wiki/Proton,"{""proton"": 1}",1
-46108,4,up quarks,30,39,internal,https://alldimensions.fandom.com/wiki/Up_Quark,"{""up quarks"": 1}",1
-46108,4,rizz quark,50,60,internal,https://alldimensions.fandom.com/wiki/Rizz_Quark,"{""rizz quark"": 1}",1
-46108,5,atoms,10,15,internal,https://alldimensions.fandom.com/wiki/Atom,"{""atoms"": 1}",1
-46108,6,[1],23,26,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-1,"{""[1]"": 1}",1

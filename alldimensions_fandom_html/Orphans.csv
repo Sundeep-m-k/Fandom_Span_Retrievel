@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-49476,2,planets,16,23,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
-49476,2,universes,64,73,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
-49476,2,black holes,93,104,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black holes"": 1}",1
-49476,4,stars,140,145,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
-49476,4,life,221,225,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""life"": 1}",1
-49476,5,our,64,67,internal,https://alldimensions.fandom.com/wiki/Our_Multiverse,"{""our"": 1}",1
-49476,5,multiverse,68,78,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1

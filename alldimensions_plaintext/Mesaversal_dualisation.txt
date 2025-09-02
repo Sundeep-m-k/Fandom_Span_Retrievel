@@ -1,9 +1,0 @@
-Mesaversal dualisation
-is a technology employed by mesaversal civilisations to convert physical structures inside
-multiverses
-in the
-mesaverse
-into rules that determine how multiverses should change over time. Done correctly, this gives them nigh-complete control over the nature of the mesaverse that they reside in, though implementing the wrong rules (or even the right rules) can render large swathes of the mesaverse completely uninhabitable.
-The principle is somewhat similar to a
-mesaversal buffer overflow
-, though rather than making the information to be sent manifest in a different multiverse, it instead manifests in the abstract part of the mesaverse responsible for deciding what should be written to memory in each multiverse.

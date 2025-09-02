@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-44731,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b3/222.png/revision/latest?cb=20231009153836,"{""\n\n"": 1}",1
-44731,1,Multiverse,49,59,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-44731,1,Stars,71,76,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
-44731,1,galaxies,81,89,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxies"": 1}",1
-44731,1,planets,98,105,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1

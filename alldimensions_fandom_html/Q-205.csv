@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-43981,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1c/Screenshot_2023-05-02_6.33.04_PM.png/revision/latest?cb=20230502223322,"{""\n\n"": 1}",1
-43981,1,EUSI,63,67,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
-43981,1,Finality Index,79,93,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
-43981,1,FOEI,105,109,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
-43981,1,Multiverse,280,290,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-43981,3,Black Box.,82,92,internal,https://alldimensions.fandom.com/wiki/The_Black_Boxes,"{""Black Box."": 1}",1

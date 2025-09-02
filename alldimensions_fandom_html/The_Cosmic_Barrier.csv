@@ -1,5 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-22334,1,Randomverse,108,119,internal,https://alldimensions.fandom.com/wiki/Randomverse,"{""Randomverse"": 1}",1
-22334,1,'thingy',306,314,internal,https://alldimensions.fandom.com/wiki/%27thingy%27,"{""'thingy'"": 1}",1
-22334,2,Chunk of Space,14,28,internal,https://alldimensions.fandom.com/wiki/Chunk_of_Space,"{""Chunk of Space"": 1}",1
-22334,3,Randomverse,10,21,internal,https://alldimensions.fandom.com/wiki/Randomverse,"{""Randomverse"": 1}",1

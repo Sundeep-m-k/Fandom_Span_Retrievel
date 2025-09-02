@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-36464,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f6/Ender_Pearl_JE3_BE2.png/revision/latest?cb=20210115040833,"{""\n\n"": 1}",1
-36464,1,aardwolf,61,69,internal,https://alldimensions.fandom.com/wiki/The_aardwolf,"{""aardwolf"": 1}",1
-36464,1,The aardwolf,88,100,internal,https://alldimensions.fandom.com/wiki/The_aardwolf,"{""The aardwolf"": 1}",1
-36464,1,Pepton,140,146,internal,https://alldimensions.fandom.com/wiki/Pepton,"{""Pepton"": 1}",1
-36464,1,aardwolf,61,69,internal,https://alldimensions.fandom.com/wiki/The_aardwolf,"{""aardwolf"": 1}",1
-36464,3,Blueprint Particles,641,660,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint Particles"": 1}",1

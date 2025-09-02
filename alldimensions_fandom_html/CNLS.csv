@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-19957,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/ea/Cosmic_Space.png/revision/latest?cb=20200116172853,"{""\n\n"": 1}",1
-19957,1,Omniverse,190,199,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
-19957,1,Stars,211,216,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
-19957,1,omniverses,312,322,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverses"": 1}",1
-19957,1,universes,487,496,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
-19957,2,stars,16,21,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1

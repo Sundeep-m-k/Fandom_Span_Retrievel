@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-45972,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ae/The_Addictionverse.jpg/revision/latest?cb=20240917111557,"{""\n\n"": 1}",1
-45972,1,verse,11,16,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
-45972,1,planets,299,306,internal,https://alldimensions.fandom.com/wiki/Category:Planet,"{""planets"": 1}",1
-45972,2,human,59,64,internal,https://alldimensions.fandom.com/wiki/Human,"{""human"": 1}",1

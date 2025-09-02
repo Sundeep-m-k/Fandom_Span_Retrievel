@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-48447,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/91/Fractaloverse-inside.png/revision/latest?cb=20250104172712,"{""\n\n"": 1}",1
-48447,1,Polyverse,108,117,internal,https://alldimensions.fandom.com/wiki/Polyverse,"{""Polyverse"": 1}",1
-48447,2,polyverses,49,59,internal,https://alldimensions.fandom.com/wiki/Polyverse,"{""polyverses"": 1}",1
-48447,2,planets,222,229,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
-48447,9,polyverse,243,252,internal,https://alldimensions.fandom.com/wiki/Polyverse,"{""polyverse"": 1}",1

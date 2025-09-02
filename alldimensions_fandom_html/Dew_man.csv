@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-38042,1,red,59,62,internal,https://alldimensions.fandom.com/wiki/Red,"{""red"": 1}",1
-38042,1,"
-
-",63,65,external,https://static.wikia.nocookie.net/alldimensions/images/6/64/Dew_man.jpg/revision/latest?cb=20210428175304,"{""\n\n"": 1}",1
-38042,7,red,0,3,internal,https://alldimensions.fandom.com/wiki/Red,"{""red"": 1}",1
-38042,13,existence,19,28,internal,https://alldimensions.fandom.com/wiki/Existence,"{""existence"": 1}",1

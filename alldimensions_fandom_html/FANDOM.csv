@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-43621,1,The True Him,222,234,external,https://en.wikipedia.org/wiki/Jimmy_Wales,"{""The True Him"": 1}",1
-43621,2,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/10/FANDOM_planet.jpg/revision/latest?cb=20230201104650,"{""\n\n"": 1}",1
-43621,2,FANDOMverse,124,135,internal,https://alldimensions.fandom.com/wiki/FANDOMverse,"{""FANDOMverse"": 1}",1
-43621,2,Wikiverse,147,156,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
-43621,6,Global FANDOM Jail,207,225,external,https://soap.fandom.com/wiki/SOAP_Wiki,"{""Global FANDOM Jail"": 1}",1

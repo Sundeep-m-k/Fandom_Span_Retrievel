@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-32519,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/dd/9D04F6F1-D26B-45C4-BCFD-EA195F5597DD.png/revision/latest?cb=20200628010806,"{""\n\n"": 1}",1
-32519,1,Oniverse,48,56,internal,https://alldimensions.fandom.com/wiki/Oniverse,"{""Oniverse"": 1}",1
-32519,2,"""Star”s",71,78,internal,https://alldimensions.fandom.com/wiki/%E2%80%9CThe_Star%E2%80%9D,"{""\""Star”s"": 1}",1

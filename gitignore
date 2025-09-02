@@ -1,0 +1,49 @@
+# -------------------------
+# Ignore dataset directories & files
+# -------------------------
+dataset/
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# -------------------------
+# Ignore outputs, logs & checkpoints
+# -------------------------
+outputs/
+logs/
+checkpoints/
+*.log
+*.out
+*.err
+*.tmp
+
+# -------------------------
+# Python specific ignores
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# -------------------------
+# OS / Editor specific
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42857,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0f/Blue_Vapour_Planet.jpg/revision/latest?cb=20221217024747,"{""\n\n"": 1}",1
-42857,1,Superloops,431,441,internal,https://alldimensions.fandom.com/wiki/Superloops,"{""Superloops"": 1}",1
-42857,1,All other lower loops,508,529,internal,https://alldimensions.fandom.com/wiki/The_infinite_loops_theory,"{""All other lower loops"": 1}",1
-42857,2,Superlooped,5,16,internal,https://alldimensions.fandom.com/wiki/Superloops,"{""Superlooped"": 1}",1
-42857,2,[1],180,183,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-1,"{""[1]"": 1}",1
-42857,2,[2],269,272,anchor,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki#cite_note-2,"{""[2]"": 1}",1

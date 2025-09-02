@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-34984,2,numbers,38,45,internal,https://alldimensions.fandom.com/wiki/Category:Number,"{""numbers"": 1}",1
-34984,2,CAI / Ω,83,90,internal,https://alldimensions.fandom.com/wiki/Cantor%27s_Absolute_Infinity,"{""CAI / Ω"": 1}",1
-34984,2,Infinity,103,111,internal,https://alldimensions.fandom.com/wiki/Infinity,"{""Infinity"": 1}",1
-34984,2,ℵ0,113,115,internal,https://alldimensions.fandom.com/wiki/Aleph_null,"{""ℵ0"": 1}",1
-34984,9,Vsaue,22,27,internal,https://alldimensions.fandom.com/wiki/Vsaue,"{""Vsaue"": 1}",1
-34984,25,Vsaue,139,144,internal,https://alldimensions.fandom.com/wiki/Vsaue,"{""Vsaue"": 1}",1

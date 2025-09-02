@@ -1,4 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-40137,5,official,39,47,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""official"": 1}",1
-40137,5,extended,49,57,internal,https://alldimensions.fandom.com/wiki/The_Extended_Hierarchy,"{""extended"": 1}",1
-40137,5,post,62,66,internal,https://alldimensions.fandom.com/wiki/The_Post-Hierarchy,"{""post"": 1}",1

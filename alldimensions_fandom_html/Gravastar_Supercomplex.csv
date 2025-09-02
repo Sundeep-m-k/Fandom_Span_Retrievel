@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-48951,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9c/Gravasupercomplex.jpg/revision/latest?cb=20250304000222,"{""\n\n"": 1}",1
-48951,1,galaxy cluster,120,134,internal,https://alldimensions.fandom.com/wiki/Galaxy_Cluster,"{""galaxy cluster"": 1}",1
-48951,1,Gravastar Megacomplex,191,212,internal,https://alldimensions.fandom.com/wiki/Gravastar_Megacomplex,"{""Gravastar Megacomplex"": 1}",1
-48951,1,Gravastar Complex,224,241,internal,https://alldimensions.fandom.com/wiki/Gravastar_Complex,"{""Gravastar Complex"": 1}",1
-48951,2,gravastars,47,57,internal,https://alldimensions.fandom.com/wiki/Gravastar,"{""gravastars"": 1}",1
-48951,2,gravastar complexes,96,115,internal,https://alldimensions.fandom.com/wiki/Gravastar_Complex,"{""gravastar complexes"": 1}",1

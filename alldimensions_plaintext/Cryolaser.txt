@@ -1,8 +1,0 @@
-Blueprint of a Compact Cryolaser
-Cryolasers are lasers used for the cooling of an object. Normally, their main use is for halting a universe's expansion to make it dissipate and disappear, but cryolasers are only effective at destroying new universes because older universes have a faster expansion.
-Structure
-[
-]
-Cryolasers are composed of three parts: the hypercoolant tank, the first focus and the second focus (top to bottom). These are all composed of
-Dairyite
-because it is a stable way to use cheese to prevent the laser itself being hypercryocooled.

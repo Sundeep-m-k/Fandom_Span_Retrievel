@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-35105,1,godlike,14,21,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""godlike"": 1}",1
-35105,1,creature,22,30,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""creature"": 1}",1
-35105,1,Barrel,79,85,internal,https://alldimensions.fandom.com/wiki/The_Barrel,"{""Barrel"": 1}",1
-35105,3,Teraversal,272,282,internal,https://alldimensions.fandom.com/wiki/Teraverse,"{""Teraversal"": 1}",1
-35105,3,civilization,283,295,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilization"": 1}",1
-35105,4,Universe,36,44,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

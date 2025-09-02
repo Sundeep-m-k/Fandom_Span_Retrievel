@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-36139,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/8e/The_Absolute_-0_Icon.jpg/revision/latest?cb=20201214165236,"{""\n\n"": 1}",1
-36139,3,number,68,74,internal,https://alldimensions.fandom.com/wiki/Category:Number,"{""number"": 1}",1
-36139,4,verse,35,40,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
-36139,4,teraverse,64,73,internal,https://alldimensions.fandom.com/wiki/Teraverse,"{""teraverse"": 1}",1
-36139,7,page,61,65,internal,https://alldimensions.fandom.com/wiki/Pageverse,"{""page"": 1}",1

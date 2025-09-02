@@ -1,4 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-22308,1,'thingy',74,82,internal,https://alldimensions.fandom.com/wiki/%27thingy%27,"{""'thingy'"": 1}",1
-22308,2,Boxes,825,830,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Boxes"": 1}",1
-22308,9,not yet,29,36,internal,https://alldimensions.fandom.com/wiki/Not_yet,"{""not yet"": 1}",1
