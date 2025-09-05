@@ -1,0 +1,40 @@
+TIC control room is, as it’s name implies, the control room for
+The Information Core
+.
+Contents
+1
+PL control panel
+2
+General Control Panel
+3
+Critical control panels
+3.1
+Start-up button
+3.2
+Shutdown button
+PL control panel
+[
+]
+PL = Power Lasers
+There is 2 PL lasers.
+Each PL can be controlled but you can't set to 0, as a way to not stall TIC. There is also a way to boost PL lasers which boosts 2x.
+General Control Panel
+[
+]
+This is used to display TIC's power level. There's also alarms that is used for when the safety system is activated, alarms for 75%, 50%, 25%, alarms for above 150%, 200% 300% and alarm (facility-wide) for when the TIC enters thermal runaway. There is also a TIC information editor which certain folder and files are protected such as
+Laws
+.
+Critical control panels
+[
+]
+These will then be sent to confirm. After that, it's preformed.
+Start-up button
+[
+]
+These will be protected by a key. An unbreakable mollygaurd will open once a key is inserted.
+Once confirmed, TIC will start.
+Shutdown button
+[
+]
+Guarded by a key.
+Once confirmed, 2 PLs is put into discharge mode.

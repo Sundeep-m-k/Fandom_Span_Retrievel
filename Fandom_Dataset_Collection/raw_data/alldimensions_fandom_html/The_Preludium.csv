@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43452,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/64/The_Preludium.jpg/revision/latest?cb=20230116220710,"{""\n\n"": 1}",1
+43452,1,EUSI,78,82,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+43452,1,Finality Index,127,141,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+43452,1,The Postludium,536,550,internal,https://alldimensions.fandom.com/wiki/The_Postludium,"{""The Postludium"": 1}",1
+43452,1,Metasm,563,569,internal,https://alldimensions.fandom.com/wiki/Metasm,"{""Metasm"": 1}",1
+43452,2,Meta-Class 10,50,63,internal,https://alldimensions.fandom.com/wiki/Category:Meta-Class_10,"{""Meta-Class 10"": 1}",1
+43452,2,Ultrafinite Power,114,131,internal,https://alldimensions.fandom.com/wiki/Metafinities#Hyperfinite_Power,"{""Ultrafinite Power"": 1}",1
+43452,3,Metasm,203,209,internal,https://alldimensions.fandom.com/wiki/Metasm,"{""Metasm"": 1}",1

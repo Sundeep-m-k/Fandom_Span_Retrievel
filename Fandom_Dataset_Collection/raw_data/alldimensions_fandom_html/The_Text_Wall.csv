@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+38384,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/36/Textwall.PNG/revision/latest?cb=20210522012608,"{""\n\n"": 1}",1
+38384,1,Extraverse,161,171,internal,https://alldimensions.fandom.com/wiki/Extraverse,"{""Extraverse"": 1}",1
+38384,1,this website,593,605,external,https://ourworldoftext.com/,"{""this website"": 1}",1
+38384,3,Example,169,176,external,https://ourworldoftext.com/CartesianCoordinateSystem,"{""Example"": 1}",1
+38384,3,Example,169,176,external,https://ourworldoftext.com/hynexgwd7uifxguiywfg8qw78xrnfgygdeygdeydgeydgeydegyd,"{""Example"": 1}",1
+38384,4,/CartesianCoordinateSystem,259,285,external,https://ourworldoftext.com/CartesianCoordinateSystem,"{""/CartesianCoordinateSystem"": 1}",1

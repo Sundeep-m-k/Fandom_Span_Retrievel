@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35659,8,dimensional,22,33,internal,https://alldimensions.fandom.com/wiki/Dimension,"{""dimensional"": 1}",1
+35659,8,plane,117,122,internal,https://alldimensions.fandom.com/wiki/Plane,"{""plane"": 1}",1
+35659,8,sphere,136,142,internal,https://alldimensions.fandom.com/wiki/Sphere,"{""sphere"": 1}",1
+35659,9,Hypercosmology,3,17,internal,https://alldimensions.fandom.com/wiki/Hypercosmology,"{""Hypercosmology"": 1}",1
+35659,10,Universe,50,58,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+35659,10,The Official Hierarchy,77,99,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""The Official Hierarchy"": 1}",1
+35659,10,The Extended Hierarchy,101,123,internal,https://alldimensions.fandom.com/wiki/The_Extended_Hierarchy,"{""The Extended Hierarchy"": 1}",1
+35659,10,The Post-Hierarchy,125,143,internal,https://alldimensions.fandom.com/wiki/The_Post-Hierarchy,"{""The Post-Hierarchy"": 1}",1
+35659,10,The Pre-Hierarchy,149,166,internal,https://alldimensions.fandom.com/wiki/The_Pre-Hierarchy,"{""The Pre-Hierarchy"": 1}",1
+35659,11,Universe,48,56,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+35659,11,EUSI,80,84,internal,https://alldimensions.fandom.com/wiki/EUSI,"{""EUSI"": 1}",1
+35659,11,Velben Notation,144,159,external,https://en.wikipedia.org/wiki/Veblen_function#Finitely_many_variables,"{""Velben Notation"": 1}",1

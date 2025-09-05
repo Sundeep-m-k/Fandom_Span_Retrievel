@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42937,1,particle,3,11,internal,https://alldimensions.fandom.com/wiki/List_of_Particles,"{""particle"": 1}",1
+42937,1,particles,121,130,internal,https://alldimensions.fandom.com/wiki/List_of_Particles,"{""particles"": 1}",1
+42937,1,electrons,185,194,internal,https://alldimensions.fandom.com/wiki/Electron,"{""electrons"": 1}",1
+42937,1,fermions,212,220,internal,https://alldimensions.fandom.com/wiki/List_of_Particles,"{""fermions"": 1}",1
+42937,1,quarks,222,228,internal,https://alldimensions.fandom.com/wiki/Quark,"{""quarks"": 1}",1
+42937,1,leptons,230,237,internal,https://alldimensions.fandom.com/wiki/Lepton,"{""leptons"": 1}",1
+42937,1,matter,264,270,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1
+42937,1,bosons,335,341,internal,https://alldimensions.fandom.com/wiki/Boson,"{""bosons"": 1}",1

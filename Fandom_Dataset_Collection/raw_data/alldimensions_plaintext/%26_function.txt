@@ -1,0 +1,60 @@
+The & function (
+x
+&
+y
+{\displaystyle x\overset{y}{\&}}
+) is a very rapidly growing function. It is a shortening of
+MBN
+'s [x,x].
+It works like this:
+1& = [1,1] = 1↑1 = 1
+2& = [2,2] = 2↑↑2 = 4
+3& = [3,3] = 3↑↑↑3 =
+3
+3
+⋯
+3
+3
+⏟
+≈
+7.6
+∗
+10
+12
+{\displaystyle \underbrace{3^{3^{\cdots^{3^3}}}}_{\approx 7.6*10^{12}}}
+4& = [4,4] = 4↑↑↑↑4 = Ma
+2
+...
+But then, you could NeSt It LoL xD
+So, x& is always
+x
+&
+1
+{\displaystyle x \overset{1}{\&}}
+, but when you want to indicate multiple &'s, then you use
+&
+y
+{\displaystyle \overset{y}{\&}}
+(ex:
+5
+&
+3
+=
+5
+&
+&
+&
+{\displaystyle 5 \overset{3}{\&} = 5 \& \& \&}
+). The & function with the number on top being 2 can be expressed as [[x,x],[x,x]], and the number of the top being 3, it will be [[[x,x],[x,x]],[[x,x],[x,x]]], and the number in the top being 4, then the MBN will be [[[[x,x],[x,x]],[[x,x],[x,x]]],[[[x,x],[x,x]],[[x,x],[x,x]]]], and so on.
+Another cool fact is that
+4
+&
+x
+=
+M
+a
+x
++
+1
+{\displaystyle 4 \overset{x}{\&} = Ma_{x+1}}
+.

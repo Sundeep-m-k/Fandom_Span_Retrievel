@@ -1,0 +1,62 @@
+Aleph Null
+Value
+'"`UNIQ--postMath-00000001-QINU`"'
+Properties
+Inaccessible through finite numbers, addition becomes asymmetric ('"`UNIQ--postMath-00000002-QINU`"'),  cardinality of all natural numbers, integers, rational and irrational numbers
+Aleph Null, represented as
+ℵ
+0
+{\displaystyle \aleph_0}
+, is the smallest infinite cardinal number. It contains all natural numbers, and is followed by Aleph 1 -
+ℵ
+1
+{\displaystyle \aleph_1}
+. Due to this, Aleph Null is a benchmark in size. It is also weakly inaccessible and most its ordinal counterpart is omega -
+ω
+{\displaystyle \omega}
+. Applying mathematical notations on
+ω
+{\displaystyle \omega}
+doesn't change its size, as it doesn't actually change the size of the set, but merely incorporates it with other sets in a different set. Meanwhile
+ℵ
+0
+{\displaystyle \aleph_0}
+and
+ℵ
+1
+{\displaystyle \aleph_1}
+have an actual cardinal size difference.
+Some of the
+Omniverse
+'s properties have a value of
+ℵ
+0
+{\displaystyle \aleph_0}
+Examples of using notations
+[
+]
+ℵ
+0
++
+1
+=
+ℵ
+0
+{\displaystyle \aleph_0 + 1 = \aleph_0}
+meanwhile
+ω
++
+1
+=
+ω
++
+1
+{\displaystyle \omega +1=\omega +1}
+2
+ℵ
+0
+=
+ℵ
+1
+{\displaystyle 2^{\aleph_0}=\aleph_1}
+, if the continuum hypothesis is proven to be correct

@@ -1,0 +1,64 @@
+Dropoverse
+Natural Position
+Contained by
+SAVs
+Contains
+The Dropoffs
+Scale
+Dimensionality
+The first I0 (strongest rank-into-rank axiom) cardinal.
+Diameter
+Reaches
+class 4
+Kardashev Scale
+The
+M
+-th I0 cardinal.
+About
+[
+]
+The
+Dropoverse
+is a very large type or
+verse
+that is usually formed into many, many layers, with
+Dropoffs
+at their center. Because of this, the Dropoverses do not really have a single 'edge'. It has also been debated if a Dropoverse is a
+chain
+or a single verse, but for the purposes of this page, we will be considering it to be the latter.
+Layers
+[
+]
+A Dropoverse's layers usually stay the same size between each other for a very long time, until a study by Danica Todd found that around (this is just an estimate, the exact
+number
+is not completely known)
+f
+ω
+2
+(
+65536
+)
++
+10
+300
+↑
+6302
+2
++
+2
+3
+4
+5
+⋅
+f
+ω
++
+1
+(
+64
+)
+{\displaystyle f_\omega^2(65536)+10^{300\uparrow^{6302}2+2^{3^{4^5}}}\cdot f_{\omega+1}(64)}
+layers in on average, there is an extremely large gap in between the next layer, actually increasing in distance over time. Danica said that the number seemed 'oddly
+saladlike
+' and she also noted that more research should be done to find a reason to why this specific number is so special. It is currently unknown why these layers are where they are.
+The color of the layers are different on each layer, until the previously mentioned large gap, where the colors loop. It is possible that the colors loop at most 5 times before this, but we do not have equipment precise enough to know for sure.

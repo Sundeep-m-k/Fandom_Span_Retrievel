@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36657,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c4/Glominder.png/revision/latest?cb=20210130121726,"{""\n\n"": 1}",1
+36657,1,The Pentorbs,53,65,internal,https://alldimensions.fandom.com/wiki/The_Pentorb,"{""The Pentorbs"": 1}",1
+36657,1,The Cyclospheres,77,93,internal,https://alldimensions.fandom.com/wiki/The_Cyclosphere,"{""The Cyclospheres"": 1}",1
+36657,1,LAIF,135,139,internal,https://alldimensions.fandom.com/wiki/LAIF,"{""LAIF"": 1}",1
+36657,1,the Cyclospheres,185,201,internal,https://alldimensions.fandom.com/wiki/The_Cyclosphere,"{""the Cyclospheres"": 1}",1
+36657,1,LAIF,135,139,internal,https://alldimensions.fandom.com/wiki/LAIF,"{""LAIF"": 1}",1
+36657,2,glome,76,81,internal,https://alldimensions.fandom.com/wiki/Glome,"{""glome"": 1}",1
+36657,2,The Glome,82,91,internal,https://alldimensions.fandom.com/wiki/The_Glome,"{""The Glome"": 1}",1
+36657,3,Absolute Colors,102,117,internal,https://alldimensions.fandom.com/wiki/The_Absolute_Colors,"{""Absolute Colors"": 1}",1

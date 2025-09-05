@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50543,1,Metaverse,22,31,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1
+50543,1,Our Metaverse,35,48,internal,https://alldimensions.fandom.com/wiki/Our_Metaverse,"{""Our Metaverse"": 1}",1
+50543,1,Multiverses,62,73,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverses"": 1}",1
+50543,1,Our Metaverse,35,48,internal,https://alldimensions.fandom.com/wiki/Our_Metaverse,"{""Our Metaverse"": 1}",1
+50543,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e8/MET-01.png.jpg/revision/latest?cb=20250805201020,"{""\n\n"": 1}",1
+50543,2,Our Xenoverse,38,51,internal,https://alldimensions.fandom.com/wiki/Our_Xenoverse,"{""Our Xenoverse"": 1}",1
+50543,2,Our Xenoverse,38,51,internal,https://alldimensions.fandom.com/wiki/Our_Xenoverse,"{""Our Xenoverse"": 1}",1
+50543,2,Multiverse,254,264,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+50543,3,Metaverse,9,18,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1
+50543,3,Our Xenoverse,22,35,internal,https://alldimensions.fandom.com/wiki/Our_Xenoverse,"{""Our Xenoverse"": 1}",1
+50543,3,Multiverses,60,71,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverses"": 1}",1

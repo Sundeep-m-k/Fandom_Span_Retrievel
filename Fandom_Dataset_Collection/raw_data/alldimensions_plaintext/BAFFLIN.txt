@@ -1,0 +1,196 @@
+BAFFLIN
+(Best's Array Function for Literally Insane Numbers) is an extension of
+BAF
+. Here, hashtags represent a normal array.
+base
+BAFFLIN[#
+1
+] = [#
+1
+] (
+BAF
+)
+rep recreation
+BAFFLIN[#
+1
+, a; b, #
+2
+] = BAFFLIN[#
+1
+, a, a; (b-1), #
+2
+]
+BAFFLIN[#
+1
+, a; 1, #
+2
+] = BAFFLIN[#
+1
+, a, #
+2
+]
+rep extension
+BAFFLIN[#
+1
+, a; b; c, #
+2
+] = BAFFLIN[#
+1
+, a; BAFFLIN[a; b; (c-1)], #
+2
+]
+BAFFLIN[#
+1
+, a; b; 1, #
+2
+] = BAFFLIN[#
+1
+, a; b, #
+2
+]
+final single semi-colon extension
+subscripts on hashtags will no longer be included at this point
+BAFFLIN[#, a
+1
+; a
+2
+; ... a
+b-2
+; a
+b-1
+; a
+b
+, #] = BAFFLIN[#, a
+1
+; a
+2
+; ... a
+b-2
+; BAFFLIN[a
+1
+; a
+2
+; ... a
+b-2
+; a
+b-1
+; (a
+b
+-1)], #]
+BAFFLIN[#, a
+1
+; a
+2
+; ... a
+b-2
+; a
+b-1
+; 1, #] = BAFFLIN[#, a
+1
+; a
+2
+; ... a
+b-2
+; a
+b-1
+, #]
+double semi-colon
+BAFFLIN[#, a;; b, #] = BAFFLIN[#, a; a;; (b-1), #]
+BAFFLIN[#, a;; 1, #] = BAFFLIN[#, a, #]
+multi semi-colon
+BAFFLIN[#, a;
+b
+c, #] = BAFFLIN[#, a;
+b-1
+a;
+b
+(c-1), #]
+BAFFLIN[#, a;
+b
+1, #] = BAFFLIN[#, a, #]
+multi semi-colon final extension
+BAFFLIN[#, a
+1
+;
+b
+a
+2
+;
+b
+... a
+c-2
+;
+b
+a
+c-1
+;
+b
+a
+c
+, #] = BAFFLIN[#, a
+1
+;
+b
+a
+2
+;
+b
+... a
+c-2
+;
+b
+BAFFLIN[a
+1
+;
+b
+a
+2
+;
+b
+... a
+c-2
+;
+b
+a
+c-1
+;
+b
+a
+c
+-1], #]
+BAFFLIN[#, a
+1
+;
+b
+a
+2
+;
+b
+... a
+c-2
+;
+b
+a
+c-1
+;
+b
+1, #] = BAFFLIN[#, a
+1
+;
+b
+a
+2
+;
+b
+... a
+c-2
+;
+b
+a
+c-1
+, #]
+slash notation
+BAFFLIN[#, a/b, #] = BAFFLIN[#, a;
+b
+a, #]
+BAFFLIN[#, a/1, #] = BAFFLIN[#, a, #]

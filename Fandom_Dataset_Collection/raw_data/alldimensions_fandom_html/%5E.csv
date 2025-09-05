@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48657,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cc/%5E.png/revision/latest?cb=20250122054358,"{""\n\n"": 1}",1
+48657,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6b/%5E_transparent.png/revision/latest?cb=20250122060248,"{""\n\n"": 1}",1
+48657,1,*,96,97,internal,https://alldimensions.fandom.com/wiki/*,"{""*"": 1}",1

@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+31892,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a8/Screen_Shot_2020-06-21_at_3.26.42_PM.png/revision/latest?cb=20200621222826,"{""\n\n"": 1}",1
+31892,2,Realm,106,111,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Realm"": 1}",1

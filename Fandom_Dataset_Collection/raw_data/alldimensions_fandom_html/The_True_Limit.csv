@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48800,2,The Limits,72,82,internal,https://alldimensions.fandom.com/wiki/The_Limit,"{""The Limits"": 1}",1
+48800,2,OYC,472,475,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+48800,3,Limits,10,16,internal,https://alldimensions.fandom.com/wiki/The_Limit,"{""Limits"": 1}",1
+48800,3,verses,77,83,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+48800,3,[ERROR]verses,456,469,internal,https://alldimensions.fandom.com/wiki/Category:ERRORverse_Chain,"{""[ERROR]verses"": 1}",1
+48800,3,Fake Wikiverse Chain,473,493,internal,https://alldimensions.fandom.com/wiki/Category:Fake_Wikiverse_Chain,"{""Fake Wikiverse Chain"": 1}",1
+48800,6,Void,0,4,internal,https://alldimensions.fandom.com/wiki/User:KingVoidDragon11,"{""Void"": 1}",1
+48800,41,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

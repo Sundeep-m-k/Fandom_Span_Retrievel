@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45691,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/bb/M31_Spiral_Galaxy.jpg/revision/latest?cb=20190308035034,"{""\n\n"": 1}",1
+45691,2,Galaxy,45,51,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxy"": 1}",1
+45691,2,Universe,172,180,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+45691,2,Stars,193,198,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+45691,2,black holes,200,211,internal,https://alldimensions.fandom.com/wiki/Black_Hole,"{""black holes"": 1}",1
+45691,15,Elliptical,22,32,internal,https://alldimensions.fandom.com/wiki/Elliptical_Galaxy,"{""Elliptical"": 1}",1

@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50274,1,ש,37,38,internal,https://alldimensions.fandom.com/wiki/%D7%A9,"{""ש"": 1}",1
+50274,1,🦟,187,188,internal,https://alldimensions.fandom.com/wiki/%F0%9F%A6%9F,"{""🦟"": 1}",1
+50274,1,🦠,237,238,internal,https://alldimensions.fandom.com/wiki/%F0%9F%A6%A0,"{""🦠"": 1}",1
+50274,1,Mindensphere,326,338,internal,https://alldimensions.fandom.com/wiki/Mindensphere,"{""Mindensphere"": 1}",1

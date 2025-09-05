@@ -1,0 +1,200 @@
+This is a bigger
+Miner's Arrow Number
+, and this number is Graham's number times zero percent of the size of the
+Omniverse
+in
+Multiversal
+diameters.
+Sadly, it doesn't end with 121 steps.
+Formula:
+M
+S
+a
+0
+=
+M
+a
+M
+a
+0
+{\displaystyle MSa_0 = Ma_{Ma_{0}}}
+, or simply
+M
+S
+a
+0
+=
+M
+a
+2
+{\displaystyle MSa_0 = Ma_2}
+.
+M
+S
+a
+1
+=
+M
+a
+M
+a
+M
+a
+M
+a
+1
+{\displaystyle MSa_1 = Ma_{Ma_{Ma_{Ma_{1}}}}}
+M
+S
+a
+2
+=
+M
+a
+M
+a
+.
+.
+.
+M
+a
+2
+⏞
+M
+a
+2
+Ma's
+{\displaystyle MSa_2 = \overbrace{Ma_{Ma_{..._{Ma_2}}}}^{Ma_2\text{ Ma's}}}
+M
+S
+a
+3
+=
+M
+a
+M
+a
+.
+.
+.
+M
+a
+3
+⏞
+M
+a
+3
+Ma's
+{\displaystyle MSa_3 = \overbrace{Ma_{Ma_{..._{Ma_3}}}}^{Ma_3\text{ Ma's}}}
+⋯
+{\displaystyle \cdots}
+M
+S
+a
+119
+=
+M
+a
+M
+a
+.
+.
+.
+M
+a
+119
+⏞
+M
+a
+119
+Ma's
+{\displaystyle MSa_{119} = \overbrace{Ma_{Ma_{..._{Ma_{119}}}}}^{Ma_{119}\text{ Ma's}}}
+M
+S
+a
+120
+=
+M
+a
+M
+a
+.
+.
+.
+M
+a
+120
+⏞
+M
+a
+120
+Ma's
+{\displaystyle MSa_{120} = \overbrace{Ma_{Ma_{..._{Ma_{120}}}}}^{Ma_{120}\text{ Ma's}}}
+M
+S
+a
+121
+=
+M
+a
+M
+a
+.
+.
+.
+M
+a
+121
+⏞
+M
+a
+121
+Ma's
+{\displaystyle MSa_{121} = \overbrace{Ma_{Ma_{..._{Ma_{121}}}}}^{Ma_{121}\text{ Ma's}}}
+M
+S
+a
+122
+=
+M
+a
+M
+a
+.
+.
+.
+M
+a
+122
+⏞
+M
+a
+122
+Ma's
+{\displaystyle MSa_{122} = \overbrace{Ma_{Ma_{..._{Ma_{122}}}}}^{Ma_{122}\text{ Ma's}}}
+M
+S
+a
+n
+=
+M
+a
+M
+a
+.
+.
+.
+M
+a
+n
+⏞
+M
+a
+n
+Ma's
+{\displaystyle MSa_{n} = \overbrace{Ma_{Ma_{..._{Ma_{n}}}}}^{Ma_{n}\text{ Ma's}}}
+Conclusion: This number is really big, maybe even bigger than the salad-number ending
+"OH NO" number
+. And it is MSa
+122
+.

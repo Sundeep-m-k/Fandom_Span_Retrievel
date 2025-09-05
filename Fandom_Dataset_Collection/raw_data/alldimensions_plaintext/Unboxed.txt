@@ -1,0 +1,66 @@
+Unboxed
+Natural Position
+Contained by
+Structure Complex
+,
+The Final Box
+Contains
+The Warehouse
+Scale
+Dimensionality
+'"`UNIQ--postMath-00000001-QINU`"'
+Diameter
+'"`UNIQ--postMath-00000002-QINU`"' or '"`UNIQ--postMath-00000003-QINU`"'
+Unboxed
+is an extension of
+The Warehouse
+, that relaxes the restrictions on
+Existence Ranks
+. That is, it allows for a generalized reality state that allows for arbitrary containment and attraction relations to form between verses of different/same reality states.
+Reality States
+[
+]
+Unlike traditional Existence Ranks, Reality States are not bound by order and chaos sums (since those two aren't a stable concept at Unboxed's scale), and also don't necessarily have to form attraction pairs.
+This means that Reality States can form attraction cycles and graphs of arbitrary lengths/connections, with no requirement to be transitive or communicative.
+Pseudo-Boxes
+[
+]
+A Pseudo-Box is a self-containing system of layers, where each section of the system is a specific Reality State.
+Psuedo-Boxes can contain smaller cycles of Psuedo-Boxes in order to increase size, and systems can even be implemented to control the layer structure. However, this size incrementation is still bound by
+φ
+(
+1
+,
+0
+,
+0
+)
+{\displaystyle \varphi (1,0,0)}
+, due to the fact that each layer of cycles can be optimized to correspond to
+φ
+(
+x
+,
+0
+)
+{\displaystyle \varphi(x,0)}
+, which is bound by
+φ
+(
+1
+,
+0
+,
+0
+)
+{\displaystyle \varphi (1,0,0)}
+via fixed points.
+Due to the higher counts of layers than our
+The Box
+, large Pseudo-Boxes and their layers have been exploited to clone a variety of objects and verses. This includes
+The Box
+itself, which is cloned due to higher stability/habitability/usefulness of The Box.
+Pseudo-Warehouses
+[
+]
+Pseudo-Warehouses are clusters of similar Pseudo-Boxes, usually unified by an increment/decrement in a property. The distances between are usually less than the average size of each Pseudo-Box in the cluster, making them even more useful for cloning if all of them are merged. However, merging requires a large amount of energy and a specific type of reality that can interact with the whole Pseudo-Warehouse, so merging is a rare event.

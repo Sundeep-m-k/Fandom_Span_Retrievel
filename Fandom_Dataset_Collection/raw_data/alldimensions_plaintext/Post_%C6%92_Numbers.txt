@@ -1,0 +1,85 @@
+Post
+ƒ
+numbers (In order):
+ƒ
+₂, "Ful-Two"
+ƒ
+ʃ
+, "Ful-San"
+ℾ
+￼, "Gath"
+ℾ
+ℾ
+, "Gath-Gath"
+ℍ
+, "Hi'Gi" =
+ℾ
+ℾ
+ℾ...
+...
+𝕆, "Nuf" =
+ƒ
+∅
+𝕆₂, "Nuf-Two"
+ƒ(
+∅₂)
+𝔸, "At" = Γ(𝕆
+)
+𝔸
+𝔸
+, "At-At"
+𝕍
+, "Hi'At" = 𝔸
+𝔸
+𝔸...
+𝕎, "Wul" = Γ(Γ(Γ(Γ(Γ(...
+𝕍
+𝕍
+𝕍
+...
+))))))... *Done 𝕍 times for all "..."
+...
+𝕗
+,  "Fuzou" =
+𝕎
+𝕎
+𝕎w...
+}
+𝕎 times
+𝔽
+, "Fuzuz" =
+𝕗
+𝕗
+𝕗
+𝕗...
+}
+𝕗 times
+𝔽₂, "Fuzuzuz"
+...
+𝕧, "Val"
+⊠
+{\displaystyle \boxtimes}
+, "Zek"
+v
+v
+v
+v
+v
+{\displaystyle v_{v^v_{v^v}}}
+so on until we get v nests.
+ℸ
+ℷ
+ℶ
+{\displaystyle \daleth\gimel\beth}
+, "Dek", ContOC of zek.
+Ä, "Yek", obligatory A of dek.
+▼, "Aek", expansion of Yek to the end of dhaxarum, which is yet to be complete, but the definition for this will be set once it is done.
+♂, "Amal Cak", ▼
+fap
+fap
+, cont ▼.
+¶, "Amal Zeren", cont of all growing functions with no limit in highest possible order, tp of ♂ (> any set of all functions)
+○, "Amal Nys-Zerek Puttes", full cont of all growth ( cannot be passed from below, no matter what function or notation or array you invent. more unreachable than an inaccessible. )
+♦, "Amal Final", ○ + 1.
+ड, “Bek” 1% of a TOG's power.
+[not well defined]

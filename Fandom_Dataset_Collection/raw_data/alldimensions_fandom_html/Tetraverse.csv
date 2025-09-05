@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2067,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/8e/Tetraverse.png/revision/latest?cb=20170519142242,"{""\n\n"": 1}",1
+2067,1,Panoverse,156,165,internal,https://alldimensions.fandom.com/wiki/Panoverse,"{""Panoverse"": 1}",1
+2067,1,tetrahedrons,304,316,internal,https://alldimensions.fandom.com/wiki/Tetrahedron,"{""tetrahedrons"": 1}",1
+2067,1,squares,321,328,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1
+2067,1,squares,321,328,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1
+2067,1,Circles,423,430,internal,https://alldimensions.fandom.com/wiki/Circle,"{""Circles"": 1}",1
+2067,1,squares,321,328,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1

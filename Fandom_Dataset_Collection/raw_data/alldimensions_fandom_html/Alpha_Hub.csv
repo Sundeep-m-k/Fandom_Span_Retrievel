@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41459,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b8/298689BA-62A5-4718-B385-6D9252D84EB0.png/revision/latest?cb=20220422094111,"{""\n\n"": 1}",1
+41459,1,Alphaverses,53,64,internal,https://alldimensions.fandom.com/wiki/Alphaverse,"{""Alphaverses"": 1}",1
+41459,1,ALPHAs,89,95,internal,https://alldimensions.fandom.com/wiki/ALPHA,"{""ALPHAs"": 1}",1
+41459,1,Planets,111,118,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+41459,1,Alphaverses,53,64,internal,https://alldimensions.fandom.com/wiki/Alphaverse,"{""Alphaverses"": 1}",1
+41459,1,ALPHAs,89,95,internal,https://alldimensions.fandom.com/wiki/ALPHA,"{""ALPHAs"": 1}",1
+41459,2,planets,169,176,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+41459,3,universes,73,82,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+41459,6,ALPHA,23,28,internal,https://alldimensions.fandom.com/wiki/ALPHA,"{""ALPHA"": 1}",1

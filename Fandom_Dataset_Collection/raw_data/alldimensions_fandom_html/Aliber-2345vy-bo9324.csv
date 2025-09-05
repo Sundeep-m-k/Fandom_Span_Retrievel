@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42043,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f9/A_new_exoplanet_image_.webp/revision/latest?cb=20221201212308,"{""\n\n"": 1}",1
+42043,6,IO,689,691,external,https://en.wikipedia.org/wiki/Io_(moon),"{""IO"": 1}",1
+42043,6,Europa,706,712,external,https://en.wikipedia.org/wiki/Europa_(moon),"{""Europa"": 1}",1
+42043,6,Charon,716,722,external,https://en.wikipedia.org/wiki/Charon_(moon),"{""Charon"": 1}",1
+42043,7,multiverse,524,534,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+42043,7,omniverse,539,548,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverse"": 1}",1
+42043,7,Compaverse,635,645,internal,https://alldimensions.fandom.com/wiki/Compaverse,"{""Compaverse"": 1}",1

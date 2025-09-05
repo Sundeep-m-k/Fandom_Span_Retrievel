@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42726,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6e/ParaXules.jpg/revision/latest?cb=20221129111343,"{""\n\n"": 1}",1
+42726,1,EUSI,62,66,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42726,1,XenoXule,285,293,internal,https://alldimensions.fandom.com/wiki/XenoXule,"{""XenoXule"": 1}",1
+42726,1,MultiXules,306,316,internal,https://alldimensions.fandom.com/wiki/MultiXule,"{""MultiXules"": 1}",1
+42726,4,The Xicohtlxul,46,60,internal,https://alldimensions.fandom.com/wiki/Xicohtlxul,"{""The Xicohtlxul"": 1}",1

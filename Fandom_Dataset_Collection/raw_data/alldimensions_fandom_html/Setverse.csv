@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35219,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/5f/Setverse.png/revision/latest?cb=20220119190700,"{""\n\n"": 1}",1
+35219,1,Upload Site,48,59,internal,https://alldimensions.fandom.com/wiki/Upload_Site,"{""Upload Site"": 1}",1
+35219,1,The Tower,71,80,internal,https://alldimensions.fandom.com/wiki/The_Tower,"{""The Tower"": 1}",1
+35219,2,the Tower,50,59,internal,https://alldimensions.fandom.com/wiki/The_Tower,"{""the Tower"": 1}",1
+35219,2,OYC,133,136,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+35219,3,the mines of slavery,159,179,internal,https://alldimensions.fandom.com/wiki/The_Mines_of_Slavery,"{""the mines of slavery"": 1}",1

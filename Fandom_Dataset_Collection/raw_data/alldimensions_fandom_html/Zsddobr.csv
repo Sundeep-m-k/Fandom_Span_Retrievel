@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+30990,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/df/Screen_Shot_2020-06-07_at_9.46.23_PM.png/revision/latest?cb=20200608161146,"{""\n\n"": 1}",1
+30990,1,Yottaverse,227,237,internal,https://alldimensions.fandom.com/wiki/Yottaverse,"{""Yottaverse"": 1}",1
+30990,2,creatures,33,42,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""creatures"": 1}",1
+30990,2,Yottaverse,118,128,internal,https://alldimensions.fandom.com/wiki/Yottaverse,"{""Yottaverse"": 1}",1
+30990,2,planets,145,152,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+30990,2,satellites,173,183,internal,https://alldimensions.fandom.com/wiki/Moon,"{""satellites"": 1}",1
+30990,3,stars,120,125,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+30990,6,another planet being called the same name,72,113,internal,https://alldimensions.fandom.com/wiki/Organismverse,"{""another planet being called the same name"": 1}",1
+30990,25,Yottaverse,184,194,internal,https://alldimensions.fandom.com/wiki/Yottaverse,"{""Yottaverse"": 1}",1

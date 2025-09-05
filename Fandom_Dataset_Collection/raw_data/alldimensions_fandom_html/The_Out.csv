@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+28020,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e1/Screen_Shot_2020-05-12_at_5.59.28_PM.png/revision/latest?cb=20200513005944,"{""\n\n"": 1}",1
+28020,1,Box,107,110,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+28020,1,Box,107,110,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+28020,2,verse,18,23,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+28020,2,Box,66,69,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+28020,2,void,137,141,internal,https://alldimensions.fandom.com/wiki/Void,"{""void"": 1}",1
+28020,2,creatures,160,169,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""creatures"": 1}",1
+28020,4,civilizations,124,137,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilizations"": 1}",1
+28020,5,Omniverses,65,75,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverses"": 1}",1
+28020,5,Hugghiguyughiyuguhians,106,128,internal,https://alldimensions.fandom.com/wiki/The_Hugghiguyughiyuguhi,"{""Hugghiguyughiyuguhians"": 1}",1
+28020,8,planets,170,177,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+28020,13,deities,180,187,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""deities"": 1}",1

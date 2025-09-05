@@ -1,0 +1,3 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42337,3,Stars,18,23,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+42337,3,outer-galaxy,78,90,internal,https://alldimensions.fandom.com/wiki/Galaktor/Normals_and_exotics_star_classification,"{""outer-galaxy"": 1}",1

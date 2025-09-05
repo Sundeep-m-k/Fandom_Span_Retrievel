@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42709,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ab/Earth-525.jpeg/revision/latest?cb=20221127154401,"{""\n\n"": 1}",1
+42709,3,Your local internet guy,82,105,internal,https://alldimensions.fandom.com/wiki/User:Your_local_internet_guy,"{""Your local internet guy"": 1}",1
+42709,5,The One True God,190,206,internal,https://alldimensions.fandom.com/wiki/The_One_True_God,"{""The One True God"": 1}",1

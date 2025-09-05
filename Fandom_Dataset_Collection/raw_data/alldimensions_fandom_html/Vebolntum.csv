@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42474,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/af/Vebolntum.png/revision/latest?cb=20221030224403,"{""\n\n"": 1}",1
+42474,1,Opulum,151,157,internal,https://alldimensions.fandom.com/wiki/Opulum,"{""Opulum"": 1}",1
+42474,1,H (-9),181,187,internal,https://alldimensions.fandom.com/wiki/Hyperdimension,"{""H (-9)"": 1}",1
+42474,1,Opulums,250,257,internal,https://alldimensions.fandom.com/wiki/Opulum,"{""Opulums"": 1}",1
+42474,1,Nothingest,270,280,internal,https://alldimensions.fandom.com/wiki/Nothingest,"{""Nothingest"": 1}",1
+42474,1,Opuli,343,348,internal,https://alldimensions.fandom.com/wiki/Opulum,"{""Opuli"": 1}",1
+42474,2,Yarron,326,332,internal,https://alldimensions.fandom.com/wiki/Yarron,"{""Yarron"": 1}",1

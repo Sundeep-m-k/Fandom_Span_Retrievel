@@ -1,0 +1,99 @@
+(Note: Please do not take this as actual maths, I just came up with this and thought it was cool)
+First, we shall declare that all real
+numbers
+form a circle, with 0 at the bottom,
+CAI / Ω
+at the top,
+Infinity
+(
+ℵ
+0
+) on the right, and Negative infinity on the left. However, we shall use
+σ
+(lowercase sigma) as Negative infinity instead of -
+∞.
+ʃ
+[
+]
+THE FIRST SET - ʃ
+ʃ
+is the symbol used to symbolise this entire set, it is also equal to:
+n
+÷
+0, n · Ω
+∞
+-
+∞
+,
+σ - σ
+ε is sort of the 'midpoint' between 0 and
+∞
+, same goes for δ but with 0 and σ
+THE SECOND SET - ɼ
+0 and Ω are considered 'absolute numbers', and
+∞
+and
+σ
+are classified as 'infinite numbers' (unsurprisingly)
+ɼ
+[
+]
+We can go beyond ʃ, the symbol for this, new, weird set is called 'ɼ',
+Its 'version' of 1 is
+Vsaue
+aka 'Λ'
+Now obviously, we can continue with this, getting bigger and bigger sets,
+The
+ƒ
+ractal nature of numbers
+[
+]
+Here is a list of the first eleven sets:
+Set 0:
+∅ "Nul"
+Set 1:
+ʃ "San"
+Set 2:
+ɼ "Ret"
+Set 3:
+ɭ "Luth"
+Set 4:
+ʈ "Top"
+Set 5:
+ȴ "Ler"
+Set 6: ʝ
+"Hok"
+Set 7:
+ȶ "Thyo"
+Set 8:
+ʆ "Shop"
+Set 9:
+ʄ "Zun"
+Set 10:
+ʃ∅ "San-Nul"
+Set 11:
+ʃʃ "San-San"
+As you can see, this is in a base 10 system, and is just going to be another longer number line, we can turn this into another circle. Set
+Vsaue
+is the version of 1 in this set.
+THE METASET - ʃ₂
+This is the 'The metaset', we can then do the same thing with this to get
+ɼ
+₂ and so on, eventually we will get the set: ʃ₃.
+Going on and on and on with this forever we will eventually get ʃ
+∞
+, but that's not the end, we can do this for every other number, beyond infinity.
+Obviously, you can use the set numbers as set numbers themselves (e.g ʃ
+ʃ
+, ʃ
+ɼ
+, ʃ
+ʃ
+2
+etc.)
+But no matter how much you do this, you will
+never
+reach the inaccessible number beyond
+all this...
+ƒ.
+(Note: 'ƒ' is pronounced "Ful")

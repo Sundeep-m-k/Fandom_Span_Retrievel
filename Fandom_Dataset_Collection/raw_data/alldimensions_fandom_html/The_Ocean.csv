@@ -1,0 +1,17 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+11738,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/89/Ocean.png/revision/latest?cb=20190116152338,"{""\n\n"": 1}",1
+11738,1,The Earth,49,58,anchor,https://alldimensions.fandom.com#The_Earth,"{""The Earth"": 1}",1
+11738,1,The Wave,70,78,anchor,https://alldimensions.fandom.com#The_Wave,"{""The Wave"": 1}",1
+11738,1,The Bin,80,87,internal,https://alldimensions.fandom.com/wiki/The_Bin,"{""The Bin"": 1}",1
+11738,1,The Bin,80,87,internal,https://alldimensions.fandom.com/wiki/The_Bin,"{""The Bin"": 1}",1
+11738,2,universes,134,143,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+11738,2,The Box,199,206,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+11738,2,The Last Void,208,221,internal,https://alldimensions.fandom.com/wiki/The_Last_Void,"{""The Last Void"": 1}",1
+11738,2,Peraomniversal Complex,223,245,internal,https://alldimensions.fandom.com/wiki/Peraomniversal_Complex,"{""Peraomniversal Complex"": 1}",1
+11738,2,The Bin,250,257,internal,https://alldimensions.fandom.com/wiki/The_Bin,"{""The Bin"": 1}",1
+11738,3,Archverse,26,35,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverse"": 1}",1
+11738,3,waves,231,236,anchor,https://alldimensions.fandom.com#The_Wave,"{""waves"": 1}",1
+11738,4,The Bin,307,314,internal,https://alldimensions.fandom.com/wiki/The_Bin,"{""The Bin"": 1}",1
+11738,8,The Earth,540,549,anchor,https://alldimensions.fandom.com#The_Earth,"{""The Earth"": 1}",1

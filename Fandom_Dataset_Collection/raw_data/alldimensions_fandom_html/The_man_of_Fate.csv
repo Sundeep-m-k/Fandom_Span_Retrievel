@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45990,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a5/The_man_of_Fate.png/revision/latest?cb=20250801085823,"{""\n\n"": 1}",1
+45990,4,Neon,24,28,internal,https://alldimensions.fandom.com/wiki/Neon_Ash,"{""Neon"": 1}",1
+45990,4,Stella,189,195,internal,https://alldimensions.fandom.com/wiki/Stella_Nova,"{""Stella"": 1}",1
+45990,4,Karano,249,255,internal,https://alldimensions.fandom.com/wiki/Karano,"{""Karano"": 1}",1

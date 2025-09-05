@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42100,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/57/Dingo67s_profile_.webp/revision/latest?cb=20220615230314,"{""\n\n"": 1}",1
+42100,1,Our Multiverse,66,80,internal,https://alldimensions.fandom.com/wiki/Our_Multiverse,"{""Our Multiverse"": 1}",1
+42100,2,Our Multiverse,56,70,internal,https://alldimensions.fandom.com/wiki/Our_Multiverse,"{""Our Multiverse"": 1}",1
+42100,2,Multiverse,60,70,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+42100,2,Metaverse,856,865,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1
+42100,2,Xenoverse,875,884,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverse"": 1}",1
+42100,2,Hyperverse,911,921,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""Hyperverse"": 1}",1

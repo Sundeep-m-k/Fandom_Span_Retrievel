@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+24632,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/25/The_Final_Barrier.jpg/revision/latest?cb=20200315170941,"{""\n\n"": 1}",1
+24632,1,Collection,54,64,internal,https://alldimensions.fandom.com/wiki/The_Collection,"{""Collection"": 1}",1
+24632,1,The Final Layer of The Cluster,83,113,internal,https://alldimensions.fandom.com/wiki/The_Cluster,"{""The Final Layer of The Cluster"": 1}",1
+24632,1,The Far,271,278,internal,https://alldimensions.fandom.com/wiki/The_Far,"{""The Far"": 1}",1
+24632,1,The Cluster,102,113,internal,https://alldimensions.fandom.com/wiki/The_Cluster,"{""The Cluster"": 1}",1
+24632,2,The Cluster,86,97,internal,https://alldimensions.fandom.com/wiki/The_Cluster,"{""The Cluster"": 1}",1
+24632,2,The Far,102,109,internal,https://alldimensions.fandom.com/wiki/The_Far,"{""The Far"": 1}",1
+24632,3,OYC,44,47,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

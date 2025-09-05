@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36209,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cf/Wallrock.png/revision/latest?cb=20201220054749,"{""\n\n"": 1}",1
+36209,1,Red wall,97,105,internal,https://alldimensions.fandom.com/wiki/Red_wall,"{""Red wall"": 1}",1
+36209,1,Blue wall,107,116,internal,https://alldimensions.fandom.com/wiki/Blue_wall,"{""Blue wall"": 1}",1
+36209,1,Green wall,118,128,internal,https://alldimensions.fandom.com/wiki/Green_wall,"{""Green wall"": 1}",1

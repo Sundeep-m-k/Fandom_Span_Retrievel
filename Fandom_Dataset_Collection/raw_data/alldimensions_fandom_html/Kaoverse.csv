@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+5221,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/27/Kaoverse.png/revision/latest?cb=20200920094546,"{""\n\n"": 1}",1
+5221,1,Universe,117,125,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+5221,1,Archverses,129,139,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverses"": 1}",1
+5221,1,Universe,117,125,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+5221,1,matter,306,312,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1
+5221,1,void,321,325,internal,https://alldimensions.fandom.com/wiki/Void,"{""void"": 1}",1
+5221,3,Photoverse,153,163,internal,https://alldimensions.fandom.com/wiki/Photoverse,"{""Photoverse"": 1}",1

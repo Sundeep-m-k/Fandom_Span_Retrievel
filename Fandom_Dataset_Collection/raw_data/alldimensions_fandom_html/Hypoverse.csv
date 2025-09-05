@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35369,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/93/Hypoverse.png/revision/latest?cb=20210710154150,"{""\n\n"": 1}",1
+35369,1,hypocomputer,90,102,internal,https://alldimensions.fandom.com/wiki/Hypocomputer,"{""hypocomputer"": 1}",1
+35369,3,Illuminati,268,278,internal,https://alldimensions.fandom.com/wiki/Illuminati,"{""Illuminati"": 1}",1
+35369,3,hypocomputers,325,338,internal,https://alldimensions.fandom.com/wiki/Hypocomputer,"{""hypocomputers"": 1}",1

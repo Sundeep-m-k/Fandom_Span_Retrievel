@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+13998,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e7/The_Blue_Maze.jpg/revision/latest?cb=20191209225158,"{""\n\n"": 1}",1
+13998,1,The Great Complexes,453,472,internal,https://alldimensions.fandom.com/wiki/The_Great_Complex,"{""The Great Complexes"": 1}",1
+13998,1,The Green Mazes,484,499,internal,https://alldimensions.fandom.com/wiki/The_Green_Maze,"{""The Green Mazes"": 1}",1
+13998,1,maze,572,576,internal,https://alldimensions.fandom.com/wiki/Category:Maze,"{""maze"": 1}",1
+13998,1,void,619,623,internal,https://alldimensions.fandom.com/wiki/Void,"{""void"": 1}",1
+13998,1,Green Mazes,49,60,internal,https://alldimensions.fandom.com/wiki/The_Green_Maze,"{""Green Mazes"": 1}",1
+13998,3,blue,69,73,internal,https://alldimensions.fandom.com/wiki/Category:Blue,"{""blue"": 1}",1

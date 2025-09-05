@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+21679,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6e/The_box-0.png/revision/latest?cb=20170704081928,"{""\n\n"": 1}",1
+21679,1,The Existences,73,87,internal,https://alldimensions.fandom.com/wiki/The_Existence,"{""The Existences"": 1}",1
+21679,1,The Bins,99,107,internal,https://alldimensions.fandom.com/wiki/The_Bin,"{""The Bins"": 1}",1
+21679,1,Bins,103,107,internal,https://alldimensions.fandom.com/wiki/The_Bin,"{""Bins"": 1}",1
+21679,1,Universe,215,223,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+21679,1,hierarchy,12,21,internal,https://alldimensions.fandom.com/wiki/Category:Hierarchy,"{""hierarchy"": 1}",1
+21679,1,Bims,301,305,internal,https://alldimensions.fandom.com/wiki/The_Bin,"{""Bims"": 1}",1
+21679,1,Universes,365,374,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+21679,4,Wiki,88,92,internal,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki,"{""Wiki"": 1}",1

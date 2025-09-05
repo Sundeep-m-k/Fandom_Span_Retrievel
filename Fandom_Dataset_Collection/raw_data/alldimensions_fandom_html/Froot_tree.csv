@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+33629,1,Tree,28,32,internal,https://alldimensions.fandom.com/wiki/The_Tree,"{""Tree"": 1}",1
+33629,1,Great Tree,40,50,internal,https://alldimensions.fandom.com/wiki/The_Great_Tree,"{""Great Tree"": 1}",1
+33629,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/17/Opt_aboutcom_coeus_resources_content_migration_treehugger_images_2015_04_general-sherman-tree-875850b3310040fab15be34e06db5607.jpg/revision/latest?cb=20200709004407,"{""\n\n"": 1}",1
+33629,2,Levlumverse Hierarchy,78,99,internal,https://alldimensions.fandom.com/wiki/Levlumverse_Hierarchy,"{""Levlumverse Hierarchy"": 1}",1
+33629,2,Bocks chain,292,303,internal,https://alldimensions.fandom.com/wiki/Bocks_chain,"{""Bocks chain"": 1}",1
+33629,2,Levlumverse Hierarchy,78,99,internal,https://alldimensions.fandom.com/wiki/Levlumverse_Hierarchy,"{""Levlumverse Hierarchy"": 1}",1

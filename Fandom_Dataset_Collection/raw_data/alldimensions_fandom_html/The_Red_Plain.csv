@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40312,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/2c/The_Red_Plain.png/revision/latest?cb=20211230162517,"{""\n\n"": 1}",1
+40312,1,White Plain,59,70,internal,https://alldimensions.fandom.com/wiki/The_White_Plain,"{""White Plain"": 1}",1
+40312,1,The Orange Plains,120,137,internal,https://alldimensions.fandom.com/wiki/The_Orange_Plain,"{""The Orange Plains"": 1}",1
+40312,1,The White Plains,149,165,internal,https://alldimensions.fandom.com/wiki/The_White_Plain,"{""The White Plains"": 1}",1
+40312,2,color plain chain,43,60,internal,https://alldimensions.fandom.com/wiki/Category:Color_Plain_chain,"{""color plain chain"": 1}",1
+40312,3,White Plain's,48,61,internal,https://alldimensions.fandom.com/wiki/The_White_Plain,"{""White Plain's"": 1}",1

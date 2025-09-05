@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34726,2,Multiverse,468,478,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+34726,3,Thinverse,40,49,internal,https://alldimensions.fandom.com/wiki/Thinverse,"{""Thinverse"": 1}",1
+34726,7,OYC,93,96,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+34726,7,Universe,120,128,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+34726,7,Multiverse,366,376,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+34726,9,OYC,100,103,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

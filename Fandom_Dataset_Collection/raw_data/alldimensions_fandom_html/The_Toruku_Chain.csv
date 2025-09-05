@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35678,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fd/Torukuchain.png/revision/latest?cb=20201031205655,"{""\n\n"": 1}",1
+35678,1,Metatoriverse,56,69,internal,https://alldimensions.fandom.com/wiki/Metatoriverse,"{""Metatoriverse"": 1}",1
+35678,1,Toruchain,81,90,internal,https://alldimensions.fandom.com/wiki/Toruchain,"{""Toruchain"": 1}",1
+35678,2,The Torus Chain,43,58,internal,https://alldimensions.fandom.com/wiki/The_Torus_Chain,"{""The Torus Chain"": 1}",1
+35678,2,Möbiverse hyperchain,66,86,internal,https://alldimensions.fandom.com/wiki/M%C3%B6biverse_Hyperchain,"{""Möbiverse hyperchain"": 1}",1
+35678,2,Toruchains,203,213,internal,https://alldimensions.fandom.com/wiki/Toruchain,"{""Toruchains"": 1}",1

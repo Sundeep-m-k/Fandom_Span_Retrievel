@@ -1,0 +1,22 @@
+Xxcsgxtgxt is a new language. It is intended to have a writing system but I haven't done that yet.
+Also see
+The Pencil Language
+, as I will probably reference it a lot.
+Prefixes
+[
+]
+Xpa- = yes/true, xpa also is commonly used to mean the word yes
+Xpo- = no/false/opposite, xpo also is commonly used to mean the word no
+Xpe- = maybe, xpe also is commonly used to mean the word maybe
+Reya- = 'Bosh' in tpl
+Reyaa- = 'Bash' in tpl
+Ayer- = opposite of 'Bosh in tpl
+Aayer- = opposite of 'Bash' in tpl
+Pelyz- = Used to turn words like 'I' into 'me'
+Words
+[
+]
+Xaa = I
+Xel = you
+Pelyzxaa = me
+Cor = means nothing

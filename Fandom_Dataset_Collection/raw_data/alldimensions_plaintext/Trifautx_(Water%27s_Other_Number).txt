@@ -1,0 +1,196 @@
+We will be starting this page from the end of the last number, where we defined
+ℏ
+(
+1
+)
+{\displaystyle \hbar(1)}
+as Water's Number. As per tradition, we will go even further and develop and even more extended version of Ackermann numbers.
+Though I won't be doing a repeat of the last number but with
+ℏ
+(
+n
+)
+{\displaystyle \hbar(n)}
+, there will be some differences. This extension will start the same way that the original did, as it doesn't change until stacks.
+ℏ
+2
+(
+n
+)
+{\displaystyle \hbar^2(n)}
+=
+ℏ
+(
+ℏ
+(
+n
+)
+)
+{\displaystyle \hbar(\hbar(n))}
+ℏ
+ℏ
+(
+x
+)
+(
+y
+)
+{\displaystyle \hbar^{\hbar(x)}(y)}
+ℏ
+ℏ
+ℏ
+(
+x
+)
+(
+y
+)
+{\displaystyle \hbar^{\hbar^{\hbar(x)}}(y)}
+This is where the extension changes.
+ℏ
+[
+3
+]
+x
+,
+y
+{\displaystyle \hbar[3]x,y}
+=
+ℏ
+ℏ
+ℏ
+(
+x
+)
+(
+y
+)
+{\displaystyle \hbar^{\hbar^{\hbar(x)}}(y)}
+(Note: Alternatively you can just use
+n
+{\displaystyle n}
+instead of
+x
+,
+y
+{\displaystyle x, y}
+to define both x and y.)
+Now the extension mainly takes inspiration from array notations like BEAF or BAN.
+ℏ
+[
+ℏ
+[
+ℏ
+[
+ℏ
+[
+10
+24
+]
+]
+]
+]
+10
+{\displaystyle \hbar[\hbar[\hbar[\hbar[10^{24}]]]]10}
+can be compressed into
+ℏ
+[
+[
+4
+,
+10
+24
+]
+]
+10
+{\displaystyle \hbar[[4, 10^{24}]]10}
+.
+ℏ
+[
+[
+10
+10
+,
+[
+[
+10
+10
+,
+10
+10
+]
+]
+]
+]
+10
+{\displaystyle \hbar[[10^{10},[[10^{10}, 10^{10}]]]]10}
+can be even further compressed into
+ℏ
+{
+10
+10
+,
+[
+3
+]
+}
+10
+{\displaystyle \hbar\{10^{10},[3]\}10}
+I know I didn't develop this extension as much as I did the original extension, but I believe this is already large enough of a jump.
+I will define Trifautx as
+ℏ
+{
+ℏ
+[
+[
+10
+10
+100
+,
+ℏ
+(
+100
+)
+]
+]
+10
+24
+,
+[
+ℏ
+[
+[
+300
+600
+,
+ℏ
+(
+100
+)
+]
+]
+]
+3
+↑
+↑
+↑
+10
+}
+10
+10
+10
+100
+{\displaystyle \hbar\{\hbar[[10^{10^{100}},\hbar(100)]]10^{24},[\hbar[[300^{600},\hbar(100)]]]3 \uparrow \uparrow \uparrow 10\}10^{10^{10^{100}}}}
+The symbol is
+μ
+(
+n
+)
+{\displaystyle \mu (n)}
+, and once again, n is how many times you want it to repeat. No, I'm not guaranteed making ANOTHER extension, but anyway,
+μ
+(
+1
+)
+{\displaystyle \mu(1)}
+is default. This concludes Trifautx!

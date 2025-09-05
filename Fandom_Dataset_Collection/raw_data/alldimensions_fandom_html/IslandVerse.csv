@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45771,1,verse,29,34,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+45771,1,individuals,176,187,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""individuals"": 1}",1
+45771,2,article,5,12,internal,https://alldimensions.fandom.com/wiki/Pageverse,"{""article"": 1}",1

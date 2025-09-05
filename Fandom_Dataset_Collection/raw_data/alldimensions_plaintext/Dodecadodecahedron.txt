@@ -1,0 +1,18 @@
+A
+dodecadodecahedron
+is one of the uniform polyhedra. It may be considered to exist either in Euclidean space, with pentagonal and pentagrammatic faces, or in a 2-D hyperbolic space with purely pentagonal faces. Due to the nature of the dodecadodecahedron, both interpretations are topologically the same.
+Subfacets
+[
+]
+30
+points
+(0D)
+60
+line segments
+(1D)
+12
+pentagons
+(2D)
+12
+pentagrams
+(2D)

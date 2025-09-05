@@ -1,0 +1,106 @@
+Omnionion
+Natural Position
+Contained by
+H(3)s
+Contains
+Many substructures
+Other objects
+Omnipockets
+Novachains
+Scale
+Diameter
+⊙
+𝜔
+1
+LY
+The
+Omnionion
+is a natural structural container with a system of layers. It is the inverse of the
+Voidonion
+, which is element-based instead of reality-based.
+Each layer is an extended reality building on top of the previous layer, with limit ordinals additionally building on top of the properties of their fundamental sequences.
+Contents
+1
+Substructures
+1.1
+Naming system
+1.2
+Various "important" layers (can be expanded over time by users)
+2
+Accessibility
+Substructures
+[
+]
+Define
+⊙
+x
+{\displaystyle \odot_{x}}
+as the x-th layer of the Omnionion.
+⊙
+0
+{\displaystyle \odot_{0}}
+is the "traditional" reality, with a mostly static containment order, very basic logic to determine if something is valid, and so on.
+For elements in y's fundamental sequence,
+⊙
+x
+{\displaystyle \odot_{x}}
+generally consists of progressively looser and looser rules applied to the corresponding layer of the Omnionion, along with sub-fundamental-sequence layer correspondences.
+Due to the arbitrary and broad definitions above, the layers of Omnionions are varied in descriptions.
+Naming system
+[
+]
+Each layer is suffixed with
+-skerse
+, which itself is named after a combination of the words "skin" and
+Verse
+.
+Various "important" layers (can be expanded over time by users)
+[
+]
+Do not change the numbers to math tags, otherwise its not obvious that they are links
+Layer
+General description (links, if the layer has one, will have more information)
+0
+Layer 0 is traditional reality with a more static form of containment. It includes
+TOH
+and
+TEH
+.
+1
+Containment restrictions are almost removed, verse laws can now adjust the parent verse's containment position in small increments over time, even with the ability to swap position in containment with outer verses.
+2
+Containment starts to break down, every few
+OYC
+many chains start to shuffle positions of their verses. First prime numbered layer.
+3
+Even chains of indirect containment are also affected by shuffling now.
+4
+Containment collapses on itself, laws now affect random points in space.
+ω
+The Omnionion nearly reaches a peak in disorder, with post-first
+Physical Realm
+-like properties. However, due to the large disorder, and the fact that
+ω
+{\displaystyle \omega}
+is an element in many fundamental sequences, the "more chaotic" rule starts to fade away and be replaced by new realities with alien-like laws and structure occupying further layers.
+ω + 8
+This is the first point after
+ω
+{\displaystyle \omega}
+where reality starts to become stable again.
+ω
+1
+This is the Omnionion itself. Due to the lack of
+ω
+{\displaystyle \omega}
+-
+cofinality
+fundamental sequences at this point, there lacks a proper system of rules, opening the doors for disorderly conditions in future verses.
+Accessibility
+[
+]
+Similarly to the
+Voidonion
+, the Omnionion's upper layers can only be accessed efficiently via
+Omnipockets
+. This is due to the heavily disconnected, anti-hierarchial nature of the Omnionion.

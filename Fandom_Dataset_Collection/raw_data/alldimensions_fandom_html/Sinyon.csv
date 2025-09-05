@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45522,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/bc/Sinyon_Particle.png/revision/latest?cb=20240221213257,"{""\n\n"": 1}",1
+45522,1,The Gridcube,103,115,internal,https://alldimensions.fandom.com/wiki/The_Gridcube,"{""The Gridcube"": 1}",1
+45522,3,gridcube,73,81,internal,https://alldimensions.fandom.com/wiki/The_Gridcube,"{""gridcube"": 1}",1
+45522,3,Ħ,193,194,internal,https://alldimensions.fandom.com/wiki/The_Extended_Post-Hierarchy/Numbers,"{""Ħ"": 1}",1
+45522,4,gridcubes,36,45,internal,https://alldimensions.fandom.com/wiki/The_Gridcube,"{""gridcubes"": 1}",1
+45522,5,thuon,89,94,internal,https://alldimensions.fandom.com/wiki/Thuon,"{""thuon"": 1}",1
+45522,6,strings,166,173,internal,https://alldimensions.fandom.com/wiki/String,"{""strings"": 1}",1
+45522,6,neutral particles,175,192,internal,https://alldimensions.fandom.com/wiki/Neutral_Matter,"{""neutral particles"": 1}",1

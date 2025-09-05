@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40237,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/10/Theglobe.gif/revision/latest?cb=20211223062419,"{""\n\n"": 1}",1
+40237,1,The Pens,49,57,internal,https://alldimensions.fandom.com/wiki/The_Pen,"{""The Pens"": 1}",1
+40237,1,The Cups,69,77,internal,https://alldimensions.fandom.com/wiki/The_Cup,"{""The Cups"": 1}",1
+40237,1,Cup,73,76,internal,https://alldimensions.fandom.com/wiki/The_Cup,"{""Cup"": 1}",1
+40237,1,The Cup,69,76,internal,https://alldimensions.fandom.com/wiki/The_Cup,"{""The Cup"": 1}",1
+40237,1,Cups,73,77,internal,https://alldimensions.fandom.com/wiki/The_Cup,"{""Cups"": 1}",1
+40237,1,Giganta's Class,290,305,internal,https://alldimensions.fandom.com/wiki/The_Post-Hierarchy#.CE.A8_Gigantas_Class_.2820.29_.CE.A8,"{""Giganta's Class"": 1}",1
+40237,2,voidsecond,147,157,internal,https://alldimensions.fandom.com/wiki/Voidsecond,"{""voidsecond"": 1}",1

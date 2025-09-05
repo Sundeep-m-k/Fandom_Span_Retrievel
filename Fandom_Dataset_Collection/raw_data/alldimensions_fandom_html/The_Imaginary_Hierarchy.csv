@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42400,3,Pre,260,263,internal,https://alldimensions.fandom.com/wiki/The_Pre-Hierarchy,"{""Pre"": 1}",1
+42400,3,Official,265,273,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""Official"": 1}",1
+42400,3,Extended,275,283,internal,https://alldimensions.fandom.com/wiki/The_Extended_Hierarchy,"{""Extended"": 1}",1
+42400,3,Post,285,289,internal,https://alldimensions.fandom.com/wiki/The_Post-Hierarchy,"{""Post"": 1}",1
+42400,3,Extended-Post,291,304,internal,https://alldimensions.fandom.com/wiki/The_Extended_Post-Hierarchy,"{""Extended-Post"": 1}",1
+42400,3,Meta,309,313,internal,https://alldimensions.fandom.com/wiki/The_Meta-Hierarchy,"{""Meta"": 1}",1
+42400,4,hypercosmological,53,70,internal,https://alldimensions.fandom.com/wiki/Hypercosmology,"{""hypercosmological"": 1}",1

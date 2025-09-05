@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+17844,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/61/Universe.jpg/revision/latest?cb=20180504154521,"{""\n\n"": 1}",1
+17844,8,Omniverse,191,200,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+17844,8,Metaverse,244,253,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1
+17844,12,exist,254,259,internal,https://alldimensions.fandom.com/wiki/Existence_Rank,"{""exist"": 1}",1

@@ -1,0 +1,130 @@
+Knot Chain
+A chain of knots.
+Natural Position
+Contained by
+Trefoil Barriers
+Contains
+Trefoilverses
+,
+Figure-Eightverses
+, Cinquiverses, etc.
+Scale
+Dimensionality
+I(1,0)
+Diameter
+I(1,ω) LY
+Kardashev Scale
+I(1,ω)
+The
+Knot Chains
+are
+chains
+that contain all knotverse types, such as the
+trefoilverses
+,
+Figure-Eightverses
+,
+Cinqueverses
+, etc.
+Because there are infinitely many knots, we find chains out of them.
+Contents
+[
+]
+Here are the first few types of objects in the Knot Chains:
+Trefoilverses (shaped like
+3
+1
+{\displaystyle 3_{1}}
+knots)
+Figure-Eightverses (shaped like
+4
+1
+{\displaystyle 4_{1}}
+knots)
+Cinquiverses (shaped like
+5
+1
+{\displaystyle 5_{1}}
+knots)
+Three-Twiverses (shaped like
+5
+2
+{\displaystyle 5_{2}}
+knots)
+Stevedoverses (shaped like
+6
+1
+{\displaystyle 6_{1}}
+knots)
+...
+Cinquiverses
+[
+]
+Example of a Cinquiverse.
+The
+Cinquiverses
+are
+verses
+shaped like
+Cinquefoil knots
+. They look similar to a star, and Cinquiverses are made from Figure-Eightverses, and also sometimes Trefoilverses which come from Figure-Eightverses colliding. Some properties of Cinquiveses is that actually inside them it is completely full of
+moquarks
+shaped into a hypercubic grid. This causes Cinquiverses to be very dense, combined with Figure-Eightverses being so tightly packed, Cinquiverses are one of the strongest objects of their size class discovered.
+Size
+[
+]
+The size of elements in the Knot Chain varies dramatically, so here's a chart based on relative size:
+Name
+Dimensionality
+Trefoilverse
+ℵ
+2
+{\displaystyle \alef_2}
+Figure-Eightverse
+ℵ
+ℵ
+0
+{\displaystyle \aleph_{\aleph_0}}
+Cinquiverse
+ℵ
+ℵ
+ℵ
+0
+{\displaystyle \aleph_{\aleph_{\aleph_0}}}
+Three-Twiverse
+I
+{\displaystyle I}
+or likely
+ℵ
+∞
+{\displaystyle \aleph_{\infty}}
+Stevedoverse
+I
+I
+{\displaystyle I_{I}}
+By the time we get to Stevedoverses, they'll likely be already larger (in dimensionality) than
+THE atoms
+(although the number
+ℵ
+∞
+×
+(
+℧
+℧
++
+ℓ
+)
+ℵ
+ℵ
+9
+{\displaystyle \aleph _{\infty \times (\mho ^{\mho +\ell })}^{\aleph ^{\aleph _{9}}}}
+isn't well-defined).
+The limit of all these knots has a dimensionality of
+I
+(
+1
+,
+0
+)
+{\displaystyle I(1,0)}
+, or the first 1-innaccessible cardinal.

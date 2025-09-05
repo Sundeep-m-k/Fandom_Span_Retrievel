@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45280,5,Custom polygon builder,82,104,external,https://arras.cx/ext/custom-shape,"{""Custom polygon builder"": 1}",1
+45280,12,Custom polygon builder,78,100,external,https://arras.cx/ext/custom-shape,"{""Custom polygon builder"": 1}",1
+45280,16,The Circle,218,228,internal,https://alldimensions.fandom.com/wiki/The_Circle,"{""The Circle"": 1}",1
+45280,16,The Point,268,277,internal,https://alldimensions.fandom.com/wiki/The_Point,"{""The Point"": 1}",1
+45280,23,The Line,213,221,internal,https://alldimensions.fandom.com/wiki/The_Line,"{""The Line"": 1}",1
+45280,26,Custom polygon builder,62,84,external,https://arras.cx/ext/custom-shape,"{""Custom polygon builder"": 1}",1
+45280,34,The Line,11,19,internal,https://alldimensions.fandom.com/wiki/The_Line,"{""The Line"": 1}",1

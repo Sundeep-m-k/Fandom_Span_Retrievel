@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+46639,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/ee/Cut_up_steak.jpg/revision/latest?cb=20240804072619,"{""\n\n"": 1}",1
+46639,1,Metareality-Web,318,333,internal,https://alldimensions.fandom.com/wiki/Metareality-Web,"{""Metareality-Web"": 1}",1
+46639,3,verse,36,41,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+46639,3,Metareality-Web,72,87,internal,https://alldimensions.fandom.com/wiki/Metareality-Web,"{""Metareality-Web"": 1}",1
+46639,4,Earth,370,375,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+46639,5,entities,18,26,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entities"": 1}",1
+46639,6,humans,48,54,internal,https://alldimensions.fandom.com/wiki/Human,"{""humans"": 1}",1
+46639,8,Earth,30,35,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1

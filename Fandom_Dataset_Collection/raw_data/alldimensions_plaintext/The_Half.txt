@@ -1,0 +1,189 @@
+Contents
+1
+The Half
+1.1
+The Half/Triangle
+1.1.1
+Code
+1.1.2
+Information
+1.2
+The Half/Square
+1.2.1
+Code
+1.2.2
+Information
+1.3
+The half/Circle [2]
+1.3.1
+Code
+1.3.2
+Information
+1.4
+The Half/Line [5]
+1.4.1
+Code
+1.4.2
+Information
+2
+Footnotes
+The Half
+[
+]
+The half is super-cosmologic thing, they is had many types.
+The Half/Triangle
+[
+]
+The Half Triangle
+Scale
+Size
+Omega / 10
+Dimensionality
+6D or 4D
+Kardashev Scale
+Omega / 10
+Properties
+Temperature
+-500 to 500
+Class
+Class 1
+Life Percentage
+0.001%
+Shape
+Half-Triangle
+Position
+Contained by:
+The Triangle
+Contains:
+None [1]
+The half traingle is half triangle was had some rotation
+Code
+[
+]
+[[-1,-1],[0,1],[-0.0,-1]]
+Information
+[
+]
+The Half Traingle
+- The broken triangle had some 3 sides and they is some made in
+Custom polygon builder
+The Half/Square
+[
+]
+The half square
+Scale
+Size
+Omega / 10
+Dimensionality
+6D or 4D
+Kardashev Scale
+Omega / 10
+Properties
+Temperature
+-500 to 500
+Class
+Class 1
+Life Percentage
+0.01%
+Shape
+Half square
+Position
+Contained by:
+The Square
+Contains:
+None [1.1]
+The half square is half square was had some rotation
+Code
+[
+]
+[[-1,-1],[-1,1],[0,1],[-0.00,-1]]
+Information
+[
+]
+The half square
+-
+The broken square had some 4 sides and they is some made in
+Custom polygon builder
+The half/Circle [2]
+[
+]
+The half circle
+Scale
+Size
+Omega / 10
+Dimensionality
+6D
+Kardashev Scale
+Omega / 10
+Properties
+Temperature
+-375 to 375
+Class
+Class 1
+Life Percentage
+0.536%
+Shape
+Half Circle
+Position
+Contained by:
+The Circle
+Contains:
+None [1.2],
+The Esrevinu
+(
+The Point
+The half circle is half circle was had some rotation
+Code
+[
+]
+N/A [3]
+Information
+[
+]
+The half Circle
+- The broken circle had some 0/2 [4] sides and they is impossible to make it
+The Half/Line [5]
+[
+]
+The half Line
+Scale
+Size
+Infinity / 10
+Dimensionality
+1D
+Kardashev Scale
+Infinity / 10
+Properties
+Temperature
+-125 to 125
+Class
+Class 1
+Life Percentage
+0.2%
+Shape
+Line
+Position
+Contained by:
+The Line
+Contains:
+None [1.3]
+The half line had some rotation
+Code
+[
+]
+[[-1,0],[0.0,-0.00]]
+Information
+[
+]
+The half line
+- The line had some 2 Sides and they is made in
+Custom polygon builder
+Footnotes
+[
+]
+1. to 1.3. The smallest thing
+2. The half/Point.
+3. Custom polygon build can't do this
+4. 0 / 2 = 0
+5. Same as
+The Line

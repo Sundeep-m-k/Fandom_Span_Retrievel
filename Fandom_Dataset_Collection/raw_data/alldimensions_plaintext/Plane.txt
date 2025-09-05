@@ -1,0 +1,160 @@
+Contents
+1
+Do not mess with this page as it is from the old times when this wiki was founded.
+2
+Objects on the Plane
+2.1
+List of Uniform Polygons
+2.2
+List of Curved Shapes
+2.3
+Flexagons
+2.4
+Polyominoes
+3
+Coordinates on the Plane
+4
+Dimension
+Do not mess with this page as it is from the old times when this wiki was founded.
+[
+]
+The plane has
+length
+and
+width
+. The plane also refers to a hypothetical two-dimensional space of infinite extent; this use is used, for example, when describing
+tilings
+of the plane. Points on the plane can be shown using two coordinates, written as
+(
+x
+,
+y
+)
+{\displaystyle (x,y)}
+. In analogue with
+Space
+.
+Objects on the Plane
+[
+]
+List of Uniform Polygons
+[
+]
+Henagon
+Digon
+Triangle
+Square
+Pentagram
+Pentagon
+Hexagon
+Heptagon
+Octagon
+Nonagon
+Decagon
+...
+Apeirogon
+List of Curved Shapes
+[
+]
+Circle
+Semicircle
+Flexagons
+[
+]
+A Polygon which has 3 or more faces is called a flexagon
+Polyominoes
+[
+]
+Polyominoes
+are two-dimensional figures consisting of multiple
+squares
+fixed edge-to-edge. There are an infinite number of
+polyominoes
+, and the number of
+polyominoes
+increases with the amount of
+squares
+allowed.
+Coordinates on the Plane
+[
+]
+There are two coordinate systems that can be used to define points on the plane - Cartesian coordinates, and polar coordinates.
+Cartesian coordinates consist of two distances - the left-right distance from the origin, and the up-down distance from the origin. This is written as
+(
+x
+,
+y
+)
+{\displaystyle (x,y)}
+. Cartesian coordinates where either
+x
+or
+y
+are fixed trace out an infinite
+line
+. Cartesian coordinates where both are fixed trace out a
+point
+, and where none are fixed trace out a plane. Polar coordinates consist of a distance and an angle - the overall distance from the origin, and the angle of the point from horizontal. This is written as
+(
+x
+,
+θ
+)
+{\displaystyle (x,\theta )}
+. Polar coordinates where
+x
+is fixed trace out a
+circle
+; polar coordinates where
+θ
+is fixed trace out an infinite
+line
+. Polar coordinates where both are fixed trace out a
+point
+, and where none are fixed trace out a plane. When converting from polar to Cartesian coordinates, the equations
+x
+cos
+⁡
+θ
+=
+x
+{\displaystyle x\cos { \theta  } =x}
+and
+x
+sin
+⁡
+θ
+=
+y
+{\displaystyle x\sin{\theta  } =y}
+can be used. When converting from Cartesian to polar coordinates, the equations
+x
+2
++
+y
+2
+=
+x
+{\displaystyle \sqrt { { x }^{ 2 }+{ y }^{ 2 } } =x }
+and
+tan
+−
+1
+⁡
+(
+y
+x
+)
+=
+θ
+{\displaystyle \tan ^{ -1 }{ (\frac { y }{ x } ) } =\theta }
+can be used.
+Dimension
+[
+]
+Name:
+Polygon
+Back:
+First Dimension
+Next:
+Space

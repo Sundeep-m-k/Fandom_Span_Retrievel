@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+3453,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/58/Creator.jpg/revision/latest?cb=20160928220958,"{""\n\n"": 1}",1
+3453,2,The Box,83,90,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+3453,4,Earth,70,75,external,https://en.wikipedia.org/wiki/Earth,"{""Earth"": 1}",1
+3453,4,world,77,82,external,https://en.wikipedia.org/wiki/World,"{""world"": 1}",1
+3453,4,universe,84,92,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+3453,4,omniverse,94,103,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverse"": 1}",1
+3453,4,The Box,111,118,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+3453,7,verse,22,27,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+3453,7,The Box,63,70,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+3453,11,from Wikipedia,3,17,external,https://en.wikipedia.org/wiki/God,"{""from Wikipedia"": 1}",1

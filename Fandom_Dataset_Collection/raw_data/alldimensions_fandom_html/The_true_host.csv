@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+44775,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0c/The_true_host.jpeg/revision/latest?cb=20231023083249,"{""\n\n"": 1}",1
+44775,1,Real reality,267,279,internal,https://alldimensions.fandom.com/wiki/Real_reality,"{""Real reality"": 1}",1
+44775,1,The Virtual Box,292,307,internal,https://alldimensions.fandom.com/wiki/The_Virtual_Box,"{""The Virtual Box"": 1}",1
+44775,1,Tom Republic,309,321,internal,https://alldimensions.fandom.com/wiki/Tom_Republic,"{""Tom Republic"": 1}",1
+44775,2,The Virtual Box,41,56,internal,https://alldimensions.fandom.com/wiki/The_Virtual_Box,"{""The Virtual Box"": 1}",1
+44775,2,The Virtual Machine,101,120,internal,https://alldimensions.fandom.com/wiki/The_Virtual_Machine,"{""The Virtual Machine"": 1}",1
+44775,2,real reality,239,251,internal,https://alldimensions.fandom.com/wiki/Real_reality,"{""real reality"": 1}",1
+44775,3,Real reality,836,848,internal,https://alldimensions.fandom.com/wiki/Real_reality,"{""Real reality"": 1}",1
+44775,5,Talking Toms,58,70,internal,https://alldimensions.fandom.com/wiki/Talking_Tom,"{""Talking Toms"": 1}",1
+44775,5,Talking Toms,58,70,internal,https://alldimensions.fandom.com/wiki/Talking_Tom,"{""Talking Toms"": 1}",1
+44775,5,The Virtual Box,280,295,internal,https://alldimensions.fandom.com/wiki/The_Virtual_Box,"{""The Virtual Box"": 1}",1

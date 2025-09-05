@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+27732,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/66/Palladiumverse.png/revision/latest?cb=20200512015530,"{""\n\n"": 1}",1
+27732,1,Multiverse,350,360,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+27732,1,Galaxies,372,380,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxies"": 1}",1
+27732,2,Ferroverse,110,120,internal,https://alldimensions.fandom.com/wiki/Ferroverse,"{""Ferroverse"": 1}",1
+27732,2,Alatarverse,129,140,internal,https://alldimensions.fandom.com/wiki/Alatarverse,"{""Alatarverse"": 1}",1

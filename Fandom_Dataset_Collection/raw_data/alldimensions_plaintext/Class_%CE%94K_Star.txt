@@ -1,0 +1,179 @@
+Picture of FIJI-192, the first discovered ΔK star, through a megascope. It is about 1.5 trillion light years away, and has a spectral type of ∆K2.
+Class
+Class-ΔK
+Mass
+3,000 - 5,000,000 solar masses
+Radius
+550 - 1,100 solar radii
+Luminosity
+15 billion to 1 quadrillion Solar luminosity
+Temperature
+at least 2,000,000 K
+Lifetime
+50 million years
+Class ΔK, also known as kilogiants, is a stellar class for
+stars
+and the first metric prefix class. Class ΔK stars are larger and more massive than
+class Z stars
+but less massive than
+ΔM stars
+. These stars are live for ~50 million years because they are more dense, and subsequently have more fuel to spend more slowly. They normally explode into hypernovae at the end of their life.
+Evolution
+[
+]
+ΔK stars start as giant protostars. They become actual ΔK stars after accumulating enough matter, which is normally after a few million years. After accumulating enough matter and becoming hot enough, the matter inside the star begins to break down, causing the star to condense and turning the star into a purple color. This is when the protostar transforms into an actual ΔK star. The star will then continue to live for the rest of its lifespan, until running out of fuel. Once the star runs out of fuel, the matter inside starts to expand now that there isn’t enough fusion to keep them condensed, causing the star to increase exponentially in size for a period of about 1,000 years until it reaches a size of around several light years. During this time, the temperature of the star will drop. After expanding enough, the star explodes in a kilonova, giant explosions energetic enough to spew the star’s matter thousands of light years away and create a massive nebula, rich in heavy elements.
+These stars have an extremely high luminosity of ~15,000,000,000 Solar luminosity at the very least and up to over one quadrillion at the highest.
+Potential for life
+[
+]
+The extreme properties of class ΔK stars mean that habitable zones range from the tens to thousands of light years depending on the star. The high mass of class ΔK stars mean almost any planet captured into their orbits will fall into and be consumed by the star. If the captured planet is lucky enough to be within the habitable zone however, the star’s longer lifespan compared to other types of stars may give enough time for basic life forms to develop.
+ΔK stars in our
+Local Universe Group
+[
+]
+FIJI-192 (Also known as Gersus) (
+UNI-5039
+)
+FIJI-230 (UNI-5039)
+TOGO-19 (
+UNI-3
+,
+MILI-5
+)
+TOGO-422 (UNI-3, MILI-9)
+Typical properties of Class ΔK stars
+Spectral type
+Luminosity
+(
+L
+☉
+)
+Radius
+(
+R
+☉
+)
+Mass
+(
+M
+☉
+)
+Temperature
+(K)
+ΔK0
+1x10^15
+1,100
+5,000,000
+7,500,000,000
+ΔK1
+4.2x10^14
+1,023
+2,300,000
+3,001,500,000
+ΔK2
+8x10^13
+989
+750,000
+1,300,000,000
+ΔK3
+1x10^13
+912
+300,000
+500,000,000
+ΔK4
+2.1x10^12
+874
+100,000
+140,000,000
+ΔK5
+732,000,000,000
+802
+46,000
+50,000,000
+ΔK6
+341,000,000,000
+750
+20,000
+20,580,000
+ΔK7
+193,000,000,000
+712
+12,000
+10,000,000
+ΔK8
+40,000,000,000
+675
+5500
+4,500,000
+ΔK9
+15,000,000,000
+550
+3000
+2,000,000
+Note: All numbers above one trillion are displayed in scientific notation to save space
+Star
+Classes
+Main Sequence
+Y
+-
+T
+-
+L
+-
+M
+-
+K
+-
+G
+-
+F
+-
+A
+-
+B
+-
+O
+-
+Z
+-
+Ξ
+-
+ΔK
+-
+ΔM
+-
+ΔG
+-
+ΔT
+-
+ΔP
+-
+ΔE
+-
+ΔZ
+-
+ΔY
+-
+ΔR
+-
+Q
+-
+ω
+Dwarves
+D
+-
+Θ
+Holes
+Ω
+Other
+?
+-
+σ
+-
+þ
+-
+φ
+-
+R
+-
+Gs

@@ -1,0 +1,18 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+13058,1,civilization,70,82,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilization"": 1}",1
+13058,1,cosmic entity,86,99,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""cosmic entity"": 1}",1
+13058,2,nothing,11,18,internal,https://alldimensions.fandom.com/wiki/True_nothing_(true),"{""nothing"": 1}",1
+13058,3,Humans,9,15,internal,https://alldimensions.fandom.com/wiki/Humans,"{""Humans"": 1}",1
+13058,4,planet,24,30,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
+13058,6,star,24,28,internal,https://alldimensions.fandom.com/wiki/Star,"{""star"": 1}",1
+13058,7,solar system,23,35,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""solar system"": 1}",1
+13058,9,galaxy,23,29,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxy"": 1}",1
+13058,11,cluster of galaxies,15,34,internal,https://alldimensions.fandom.com/wiki/Galaxy_Cluster,"{""cluster of galaxies"": 1}",1
+13058,13,supercluster,15,27,internal,https://alldimensions.fandom.com/wiki/Supercluster,"{""supercluster"": 1}",1
+13058,14,Verse,20,25,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verse"": 1}",1
+13058,16,Multiverse,63,73,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+13058,18,Megaverse,82,91,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverse"": 1}",1
+13058,20,EUSI,26,30,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+13058,21,Maxywaxy's Hierarchy,44,64,internal,https://alldimensions.fandom.com/wiki/Maxywaxy%27s_Hierarchy,"{""Maxywaxy's Hierarchy"": 1}",1
+13058,22,Firstlink Hierarchy,3,22,internal,https://alldimensions.fandom.com/wiki/User:Maxywaxy/TheList,"{""Firstlink Hierarchy"": 1}",1
+13058,23,Kardeshev scale wiki,0,20,external,https://kardashev.fandom.com/wiki/Kardashev_Scale_Wiki,"{""Kardeshev scale wiki"": 1}",1

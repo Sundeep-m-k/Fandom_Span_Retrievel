@@ -1,0 +1,97 @@
+A doodol is an overly large number. Not really anything else to say about it.
+Contents
+1
+1st Step
+1.1
+Examples
+2
+2nd Step
+2.1
+Examples
+3
+3rd Step
+3.1
+Examples
+1st Step
+[
+]
+First, we gotta start with a function. Since we cannot make brackets stretching across stuff without FANDOM's wonky LaTeX system, we'll use
+BAF
+array instead to represent it, as BAF is perfect for doing this.
+F
+0, 0
+(a) = [rep
+a, 3
+] (
+BAF
+)
+Examples
+[
+]
+F
+0, 0
+(1) = [1, 1, 1] = 1
+F
+0, 0
+(2) = 4, solved with the properties of 2.
+F
+0, 0
+(3) = [3, 3, 3] = almost
+G
+3
+, add 1 to the middle entry and it IS G
+3
+.
+2nd Step
+[
+]
+That's not all. We can go further.
+F
+a, 0
+(b) = F
+a-1, 0
+(F
+a-1, 0
+(b))
+(b)
+Examples
+[
+]
+F
+1, 0
+(1) = F
+0, 0
+(1) = 1, already solved
+F
+1, 0
+(2) = F(F(F(F(2)))) = F(F(F(4))) = MY GOODNESS
+F
+2, 0
+(2) = F(F(F(... (F
+1
+(2) nested) ... 2))) = OH MY FREAKING GOD WHY
+3rd Step
+[
+]
+Not even THAT's the end.
+F
+a, b
+(c) = [rep
+F
+a, 0
+(c), F
+a, b-1
+(c)
+] (BAF)
+Examples
+[
+]
+No, forget it. It's already big. No examples, but I can tell you one thing here that needs to be...
+F
+10
+100
+, 10
+100
+(10
+100
+) = Doodol

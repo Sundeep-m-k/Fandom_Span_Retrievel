@@ -1,0 +1,160 @@
+Impossidron
+Geometry
+Dimensionality
+'"`UNIQ--postMath-00000001-QINU`"'
+Schläfli Symbol
+'"`UNIQ--postMath-00000002-QINU`"'
+Subfacets
+Vertices
+'"`UNIQ--postMath-00000003-QINU`"'
+Edges
+'"`UNIQ--postMath-00000004-QINU`"'
+Faces
+'"`UNIQ--postMath-00000005-QINU`"'
+Cells
+'"`UNIQ--postMath-00000006-QINU`"'
+Tera
+'"`UNIQ--postMath-00000007-QINU`"'
+Peta
+'"`UNIQ--postMath-00000008-QINU`"'
+Exa
+'"`UNIQ--postMath-00000009-QINU`"'
+Zetta
+'"`UNIQ--postMath-0000000A-QINU`"'
+Yotta
+'"`UNIQ--postMath-0000000B-QINU`"'
+Xenna
+'"`UNIQ--postMath-0000000C-QINU`"'
+Weka
+'"`UNIQ--postMath-0000000D-QINU`"'
+Vunda
+'"`UNIQ--postMath-0000000E-QINU`"'
+Uda
+'"`UNIQ--postMath-0000000F-QINU`"'
+Treda
+'"`UNIQ--postMath-00000010-QINU`"'
+Sorta
+'"`UNIQ--postMath-00000011-QINU`"'
+Rinta
+'"`UNIQ--postMath-00000012-QINU`"'
+Quexa
+'"`UNIQ--postMath-00000013-QINU`"'
+Pepta
+'"`UNIQ--postMath-00000014-QINU`"'
+Ocha
+'"`UNIQ--postMath-00000015-QINU`"'
+Nena
+'"`UNIQ--postMath-00000016-QINU`"'
+Minga
+'"`UNIQ--postMath-00000017-QINU`"'
+Luma
+'"`UNIQ--postMath-0000002D-QINU`"'
+Kama
+'"`UNIQ--postMath-0000002E-QINU`"'
+Jamea
+'"`UNIQ--postMath-0000002F-QINU`"'
+Iana
+'"`UNIQ--postMath-00000030-QINU`"'
+Heva
+'"`UNIQ--postMath-00000031-QINU`"'
+Grina
+'"`UNIQ--postMath-00000032-QINU`"'
+Frema
+'"`UNIQ--postMath-00000033-QINU`"'
+Echa
+'"`UNIQ--postMath-00000034-QINU`"'
+Druna
+'"`UNIQ--postMath-00000035-QINU`"'
+Cera
+'"`UNIQ--postMath-00000036-QINU`"'
+Brota
+'"`UNIQ--postMath-00000037-QINU`"'
+Arita
+'"`UNIQ--postMath-00000038-QINU`"'
+Hypervolumes
+Vertex Count
+'"`UNIQ--postMath-00000018-QINU`"'
+Edges Length
+'"`UNIQ--postMath-00000019-QINU`"'
+Surface Area
+'"`UNIQ--postMath-0000001A-QINU`"'
+Surcell Volume
+'"`UNIQ--postMath-0000001B-QINU`"'
+Surteron Bulk
+'"`UNIQ--postMath-0000001C-QINU`"'
+Surpeton Pentavolume
+'"`UNIQ--postMath-0000001D-QINU`"'
+Surexon Hexavolume
+'"`UNIQ--postMath-0000001E-QINU`"'
+Surzetton Heptavolume
+'"`UNIQ--postMath-0000001F-QINU`"'
+Suryotton Octavolume
+'"`UNIQ--postMath-00000020-QINU`"'
+Surxennon Enneavolume
+'"`UNIQ--postMath-00000021-QINU`"'
+Surwekon Decavolume
+'"`UNIQ--postMath-00000022-QINU`"'
+Survendekon Hendecavolume
+'"`UNIQ--postMath-00000023-QINU`"'
+Surudekon Dodecavolume
+'"`UNIQ--postMath-00000024-QINU`"'
+Surtredon Tredecavolume
+'"`UNIQ--postMath-00000025-QINU`"'
+Sursorton Quattuordecavolume
+'"`UNIQ--postMath-00000026-QINU`"'
+Surrinton Quindecavolume
+'"`UNIQ--postMath-00000027-QINU`"'
+Surquexon Sexdecavolume
+'"`UNIQ--postMath-00000028-QINU`"'
+Surpepton Septendecavolume
+'"`UNIQ--postMath-00000029-QINU`"'
+Surochon Octodecavolume
+'"`UNIQ--postMath-0000002A-QINU`"'
+Surnenon Novendecavolume
+'"`UNIQ--postMath-0000002B-QINU`"'
+Surmingon Icosavolume
+'"`UNIQ--postMath-0000002C-QINU`"'
+Surlumon Henicosavolume
+'"`UNIQ--postMath-00000039-QINU`"'
+Impossidron
+[
+]
+The
+Impossidron
+is an infinite-dimensional shape that is impossible. Its Shläfli symbol is
+{
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+,
+10
+⋯
+ω
+}
+{\displaystyle \{1,2,3,4,5,6,7,8,9,10 \cdots \omega\}}
+. This symbol is impossible because of some weird math crap. It is in the Unvoid.
+Why it's in the unvoid
+[
+]
+Because somebody got tired of it sitting around and breaking geometric laws that they hacked into the matrix and set it's y-velocity to the number BiggestNumberEverFunction(Rayo's Number).
+Impossidron
+Ω
+{\displaystyle \Omega}
+[
+]
+Oh no it's coming to break all our hypergeometrical laws that we worked so hard to figure out aaa run it's coming
+Nobody knows what this looks like because it's outside of the box (trust me on this one) and it doesn't really exist but sort of does.

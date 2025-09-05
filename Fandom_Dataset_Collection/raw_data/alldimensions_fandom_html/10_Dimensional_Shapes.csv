@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35463,3,cross polytope,48,62,internal,https://alldimensions.fandom.com/wiki/Cross_polytope,"{""cross polytope"": 1}",1
+35463,3,dekeract,86,94,internal,https://alldimensions.fandom.com/wiki/Dekeract,"{""dekeract"": 1}",1
+35463,3,schläfli symbol,105,120,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""schläfli symbol"": 1}",1

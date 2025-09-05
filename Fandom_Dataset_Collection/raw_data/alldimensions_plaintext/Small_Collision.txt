@@ -1,0 +1,192 @@
+Small Collisions
+[
+]
+NOTE! - Details are to be added, please wait patiently.
+Collision Chart (names are not yet confirmed, do not take these as official. Details are yet to be added.)
+Collision Chart (down = type, right = archetype)
+Soft
+Many Universes (Soft)
+Small
+Bubble Collision
+Bouncer Collision
+Big
+Big Collision
+Ripper Collision
+Intense
+Intense Collision
+Icarus Collision
+Hyper
+Hyper Collision
+Insane
+Insane Collision
+Universes that size is under 500 billion years is considered a small universe, a small collision occurs when two or more of these small universes collide, often resulting in a Type D Universe, but quickly cools down after an amount of years bigger than the First Collisional Law, which is:
+Ж = mass * speed^force * no. of universes.
+We can find the mass of a universe by using these 4 steps:
+1. Mass-Energy Content of Said-Universe
+The total mass of the universe isn't just matter, it can also account for energy. Using Einstein's
+e
+=
+m
+c
+2
+{\displaystyle e=mc^2}
+, we can account that Matter (planets,stars,gas,solids,etc), dark energy (not visible but with gravity. Basically, it's not visible, but it does have weight because it has gravity. Even if it's subtle.), and dark matter (not mass but contributes to total energy density.)
+==
+2. Using the Cosmic Density Parameter
+Scientists (especially astronomers) agree on a critical density
+p
+c
+{\displaystyle p_{c}}
+which is the density needed for a universe to be "flat" (geometrically), the actual density
+p
+{\displaystyle p}
+(including matter and energy) is compared to
+p
+c
+{\displaystyle p_{c}}
+, giving
+Ω
+=
+p
+/
+p
+c
+{\displaystyle \Omega =p/p_{c}}
+==
+3. Estimating Mass From Volume And Density
+The observable universe is a sphere with an estimated radius of 46 billion ly. The total mass is approximately:
+M
+=
+p
+×
+V
+=
+Ω
+p
+c
+×
+4
+/
+3
+π
+R
+3
+{\displaystyle M=p\times V=\Omega p_{c}\times 4/3\pi R^{3}}
+Which P = density, V = volume, Ω/omega = density parameter (ratio for
+p
+{\displaystyle p}
+/density to
+p
+c
+{\displaystyle p_{c}}
+/critical density), and
+4
+/
+3
+π
+R
+3
+{\displaystyle 4/3\pi R^{3}}
+means 4/3 * pi * radius cubed.
+==
+4. How pc is calculated
+p
+c
+=
+3
+H
+0
+2
+/
+8
+π
+G
+{\displaystyle p_{c}=3H_{0}^{2}/8\pi G}
+H
+0
+{\displaystyle H_0}
+= Hubble's constant.
+G
+{\displaystyle G}
+= The Gravity Constant
+===
+4.1. How H0 is measured
+What is Hubble's Constant?
+H
+0
+{\displaystyle H_0}
+- the Hubble constant: Present day's rate of universe expansion (units: km,
+s
+−
+1
+{\displaystyle s^{-}1}
+,
+M
+p
+c
+−
+1
+{\displaystyle Mpc^{-}1}
+). At small distances, Hubble's law is:
+v
+=
+H
+0
+D
+{\displaystyle v = H_0D}
+v = velocity of galaxies moving away
+d = distance to the other galaxies
+h
+0
+{\displaystyle h_0}
+= Hubble's constant.
+====
+4.11. Measure galaxies velocity
+Example Of Doppler Effect
+Use the Doppler Effect to measure a galaxy's light.
+f
+=
+f
+o
+(
+V
+±
+V
+o
+/
+V
+∓
+V
+s
+)
+{\displaystyle f=f_{o}(V\pm V_{o}/V\mp V_{s})}
+5. Matter Particles Made After Small Collision
+[
+]
+Quasoun
+A quasoun is in a quantum superposition until it clicks in with more particles, when a Quasoun is finally clicked, it will have a lifespan of
+10
+−
+53
+s
+e
+c
+o
+n
+d
+s
+.
+{\displaystyle 10^{-}53seconds.}
+and will give out Euler Decay. A result of this decay is that electrons are released because a quasoun is in the family of leptons, so when a quasoun finally decays. It decays into electrons, but the average amount if still unknown and being researched.
+Basaoun
+A basaoun is a type of hadron that releases quason when in a Phi Decay. A Basaoun can live for quite a few seconds until it is eradicated of it's unstable nature, A basoun is used for Basaoun-based galaxies made after a superheated supernova, when this Basaoun galaxy decays, it releases metal in the form of Gold. This is most likely to collide into asteroids, resulting in gold-rich asteroids called "Greedy Asteroids".
+PLACEHOLDER
+PLACEHOLDER
+PLACEHOLDER
+PLACEHOLDER
+"
+Aw, man! Not again, it's a black hole!
+" - Big Pages
+Small Collision is one of the most powerful voids, because it is only 0.00001% matter, and the 'matter' is just letters. Fill in the void by
+expanding the article
+.

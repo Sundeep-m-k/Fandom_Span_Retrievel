@@ -1,0 +1,26 @@
+Quebec Autoroute 30verse
+Natural Position
+Contained by
+Ontario Highway 400verse
+Contains
+1234567890verse
+,
+Buses and Trainsverse
+Scale
+Dimensionality
+3D
+Diameter
+161.3 km
+The Quebec Autoroute 30verse contains the Quebec Autoroute 30. It is slow and made of stone.
+Usage
+[
+]
+It is not used for much, but it is useful for containing smaller verses that don't have a home. It does not have the capability of containing something larger than itself like the
+Ontario Highway 400verse
+, but it still can contain a bunch of things.
+Appearance
+[
+]
+The Quebec Autoroute 30verse looks like a rock from the outside, but inside, it looks like the Quebec Autoroute 30, which is what it was named after. It is quite similar to the
+Ontario Highway 400verse
+.

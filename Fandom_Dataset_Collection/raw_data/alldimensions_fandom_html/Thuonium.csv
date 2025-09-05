@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45548,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/ce/Thuonium.png/revision/latest?cb=20240224161451,"{""\n\n"": 1}",1
+45548,3,material,14,22,internal,https://alldimensions.fandom.com/wiki/Category:Material,"{""material"": 1}",1
+45548,3,element,58,65,internal,https://alldimensions.fandom.com/wiki/Category:Element,"{""element"": 1}",1
+45548,3,Connecticut Meson,148,165,internal,https://alldimensions.fandom.com/wiki/Connecticut_Meson,"{""Connecticut Meson"": 1}",1
+45548,3,Oklahoma Meson,173,187,internal,https://alldimensions.fandom.com/wiki/Oklahoma_Meson,"{""Oklahoma Meson"": 1}",1
+45548,4,thuons,85,91,internal,https://alldimensions.fandom.com/wiki/Thuon,"{""thuons"": 1}",1
+45548,5,Mutated,126,133,internal,https://alldimensions.fandom.com/wiki/Mutated_Particle,"{""Mutated"": 1}",1
+45548,6,sinyon,35,41,internal,https://alldimensions.fandom.com/wiki/Sinyon,"{""sinyon"": 1}",1
+45548,6,Gridcube,86,94,internal,https://alldimensions.fandom.com/wiki/The_Gridcube,"{""Gridcube"": 1}",1

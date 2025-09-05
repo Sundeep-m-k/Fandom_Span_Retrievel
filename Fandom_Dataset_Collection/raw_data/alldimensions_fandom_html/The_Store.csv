@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34049,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/7b/Screen_Shot_2020-07-21_at_11.46.16_AM.png/revision/latest?cb=20200721184708,"{""\n\n"": 1}",1
+34049,9,its species,148,159,internal,https://alldimensions.fandom.com/wiki/The_Entrigeri,"{""its species"": 1}",1
+34049,22,Toxicium,36,44,internal,https://alldimensions.fandom.com/wiki/Toxicium,"{""Toxicium"": 1}",1
+34049,24,Primordium Delta,52,68,internal,https://alldimensions.fandom.com/wiki/Primordium_Delta,"{""Primordium Delta"": 1}",1
+34049,24,Primordium Alpha,70,86,internal,https://alldimensions.fandom.com/wiki/Primordium_Alpha,"{""Primordium Alpha"": 1}",1
+34049,24,Primordium Omega,88,104,internal,https://alldimensions.fandom.com/wiki/Primordium_Omega,"{""Primordium Omega"": 1}",1
+34049,24,Primordium Sigma,106,122,internal,https://alldimensions.fandom.com/wiki/%CE%A3_particle,"{""Primordium Sigma"": 1}",1
+34049,28,Primordialverse,25,40,internal,https://alldimensions.fandom.com/wiki/Primordialverse,"{""Primordialverse"": 1}",1

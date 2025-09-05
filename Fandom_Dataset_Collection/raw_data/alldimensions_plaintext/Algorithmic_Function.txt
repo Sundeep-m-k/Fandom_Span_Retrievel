@@ -1,0 +1,66 @@
+This is a function that use an algorithm produces fairly big
+numbers
+.
+Contents
+1
+#(n)
+2
+#_1(n)
+3
+#_Δ(n)
+4
+#_ω(n)
+5
+#_Ω(n)
+#(n)
+[
+]
+To obtain the output : choose a integer n superior to 1 and follow the first step.
+Step a (for a<n) : Repeat n times step a+1
+Step n : Set n to n+1.
+The end result is written as #(n). This may seem weak, but if we just change step n to : ”Repeat n times step 1.0” and define step 1.0 as “Set n to n+1”
+, we already have something faster than the graham function ! .
+Its just f_ω(n+1). Now we can define #_1(n) and #_x(n).
+#_1(n)
+[
+]
+Step a (for a<n) : Repeat n times step a+1
+Step n : Repeat n times step 1.0
+Step a.b : (for a and b <n)
+Repeat n times step a.b+1 Step a.n (for a<n):	 Repeat n times step a+1.0
+Step n.0 : Add 1 to n
+#_x(n) is an extension of #_1(n) that goes up to step n.0.0.0.0.0.0… with x zeroes.
+The Supreme Algorithmic Function is #_n(n) and has a growth rate of
+f_(ω^ω)
+f_ω(n^n) using FGH.
+#_Δ(n)
+[
+]
+Δ_1(x) is step x.0.0.0.0... with x terms.
+You can think of #(n) as simply a column of steps, #_1(n) as a collection of any columns : a plane of steps, #_2(n) a cube of steps, and #_x(n) as a (x+1)-cube.
+Now, you can imagine step Δ_1(x) as x x-cubes, Δ_1(x,0) as x columns of x-cubes, Δ_1(x,0,0) as x cubes of x-cubes (x cubes = x 3 dimensional  cubes; x-cubes = some number of x-dimensional cubes) , etc.
+Δ_2(x) is x x-cubes of x-cubes.
+Δ_3(x) is x x-cubes of x-cubes of x-cubes.
+Etc.
+The Supreme Metacube Function (#_Δ(n)) is a function that uses the algorithm up to Δ_n(n) and has a growth rate of
+f_(epsilon(0))
+f_w(n^^n)
+#_ω(n)
+[
+]
+We can still define steps that come after !
+ω_1(n) is n columns/lines of "n-cube of n-cubes of n-cubes of n-cubes..."
+ω_1(n,0) is n planes
+ω_1(n,0,0) is n cubes
+etc.
+ω_2(x) is  n n-cubes of n-cubes.
+ω_3(x) is n n-cubes of n-cubes of n-cubes.
+Etc.
+The Supreme Metametacube Function (#_ω(n)) is a function that uses the algorithm up to ω_n(n).
+Growth : f_w(n^^n^^n)
+#_Ω(n)
+[
+]
+You can probably see the pattern between #_Δ(n) and #_ω(n). We can continue the pattern and use the hypercube thingy in the index itself !! This gets us to the last extension of the function (for now) : #_Ω(n). Basically : its a metametametameta... (the "meta" form a metametametameta...(the "meta" form a metametametameta...(the "meta" form a metametametameta...(the "meta" form a metametametameta...(...cube)cube)cube)cube)...cube.
+I call it : the hypermeta-cube function
+Growth rate : f_w(n^^^n)

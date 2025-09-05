@@ -1,0 +1,146 @@
+Novus, a ΔP1 star
+Class
+0
+Mass
+9x10^17 - 3.1x10^26 (900 quintillion to 310 septillion) solar masses
+Radius
+100,000 to 7,500,000 solar radii
+Luminosity
+10^32 - 8.6x10^42 (100 nonillion to 8.6 tredecillion) solar luminosity
+Temperature
+2.9x10^22 - 1.6x10^30 Kelvin (29 sextillion to 1.6 nonillion)
+Lifetime
+About 10 billion years
+ΔP stars, also known as petagiants,
+are very massive and bright stars found usually in multiverses, and on some occasions megaverses. They are blue in color, and can be easily differentiated from other classes with its size and brightness.
+Class ΔP stars are very rare. Only one out of five multiverses contain these stars, and 1 in 200 contain multiple. Several stars have also been found in megaverses, however this is significantly rarer. The closest ΔP star, Novus, lies about 13 sextillion light years away.
+Evolution
+[
+]
+Class ΔP stars begin as universes undergoing gravitational collapse. The energy generated from the late stages of the collapse is great enough that fusion begins, repelling the collapse. Matter inside the universe gradually gets turned into plasma and ionized due to the extreme forces, giving the star its blue shade. After around 10 billion years, the star explodes in a petanova, leaving a black hole billions of light years across and a nebula the size of universes.
+Habitability
+[
+]
+ΔP stars have habitable zones ranging from trillions, to quintillions of light years. Their lifespan however, means that life is possible if a captured planet were to be in the star's habitable zone.
+Properties of typical class ΔP stars
+Spectral Type
+Solar Masses
+Solar Radii
+Solar Luminosities
+Temperature
+ΔP0
+3.1x10^26
+7,500,000
+8.6x10^42
+1.6x10^30
+ΔP1
+3x10^24
+4,000,000
+1.7x10^40
+1.1x10^29
+ΔP2
+3.9x10^23
+2,900,000
+10^39
+6x10^27
+ΔP3
+8x10^22
+2,340,000
+4.7x10^38
+2.9x10^27
+ΔP4
+1.3x10^22
+1,780,000
+6.9x10^37
+6.5x10^26
+ΔP5
+2x10^21
+1,000,000
+10^37
+9.8x10^25
+ΔP6
+3x10^20
+600,000
+1.6x10^36
+10^25
+ΔP7
+2.3x10^19
+350,000
+8.9x10^34
+4.2x10^23
+ΔP8
+5x10^18
+210,000
+1.4x10^34
+10^23
+ΔP9
+9x10^17
+100,000
+10^32
+2.9x10^22
+Star
+Classes
+Main Sequence
+Y
+-
+T
+-
+L
+-
+M
+-
+K
+-
+G
+-
+F
+-
+A
+-
+B
+-
+O
+-
+Z
+-
+Ξ
+-
+ΔK
+-
+ΔM
+-
+ΔG
+-
+ΔT
+-
+ΔP
+-
+ΔE
+-
+ΔZ
+-
+ΔY
+-
+ΔR
+-
+Q
+-
+ω
+Dwarves
+D
+-
+Θ
+Holes
+Ω
+Other
+?
+-
+σ
+-
+þ
+-
+φ
+-
+R
+-
+Gs

@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40030,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/5a/Red.jpg/revision/latest?cb=20211130150609,"{""\n\n"": 1}",1
+40030,1,Everything,16,26,internal,https://alldimensions.fandom.com/wiki/Everything,"{""Everything"": 1}",1
+40030,1,Nothing,571,578,internal,https://alldimensions.fandom.com/wiki/Nothing,"{""Nothing"": 1}",1
+40030,19,"
+
+",64,66,external,https://static.wikia.nocookie.net/alldimensions/images/5/57/Masterverse.jpg/revision/latest?cb=20211130161111,"{""\n\n"": 1}",1
+40030,19,everything,135,145,internal,https://alldimensions.fandom.com/wiki/Everything,"{""everything"": 1}",1

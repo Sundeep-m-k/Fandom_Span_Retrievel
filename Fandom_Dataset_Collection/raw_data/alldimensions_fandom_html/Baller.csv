@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42490,1,Human.,221,227,internal,https://alldimensions.fandom.com/wiki/Human,"{""Human."": 1}",1
+42490,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/17/Baller.webp/revision/latest?cb=20221104165530,"{""\n\n"": 1}",1
+42490,4,The Baller Hierarchy.,25,46,internal,https://alldimensions.fandom.com/wiki/The_Baller_Hierarchy,"{""The Baller Hierarchy."": 1}",1

@@ -1,0 +1,71 @@
+AKA the versje hierarchy
+Contents
+1
+Metaversjes
+1.1
+Beyond
+1.2
+Local
+2
+Versjes
+2.1
+Semi-traversable
+2.2
+Traversable
+3
+Atomtjes
+3.1
+Accessible
+3.2
+Inaccessible
+Metaversjes
+[
+]
+Metaversjes are abstractions of reality, not actual things
+Beyond
+[
+]
+Iteriversje
+(stacked hierarchies)
+Altiversje
+(hierarchy)
+Local
+[
+]
+Inaniversje
+(probability, creating existences)
+Veritaversje
+(same-axiom multiverse)
+Omniversje
+(same-physics multiverse)
+Versjes
+[
+]
+Semi-traversable
+[
+]
+Semi-traversable versjes require theoretical technology to traverse
+Xenoversje
+(universe)
+Oikoversje
+(subphysics container)
+Traversable
+[
+]
+Universje
+(observable universe)
+Atomtjes
+[
+]
+Accessible
+[
+]
+Quantatomtje
+(fundamental particle)
+Inaccessible
+[
+]
+Intratomtje
+(planck field)
+Fortuatomtje
+(randomness, generating an existence)

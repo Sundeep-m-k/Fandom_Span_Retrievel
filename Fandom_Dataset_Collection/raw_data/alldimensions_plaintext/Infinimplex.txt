@@ -1,0 +1,132 @@
+An Infinimplex is a Infinite-Dimensional
+Simplex
+. It's
+Schläfli symbol
+is {3
+Infinity
+}.
+There is only one known to exist, within
+E100#100
+meters of the center of
+Forever
+. It acts like a
+purple hole
+and does not move.
+Infinimplex
+Geometry
+Dimensionality
+Infinite
+Schläfli Symbol
+{3^infinity}
+Subfacets
+Vertices
+infinite
+Edges
+infinite
+Faces
+infinite
+Cells
+infinite
+Tera
+infinite
+Peta
+infinite
+Exa
+infinite
+Zetta
+infinite
+Yotta
+infinite
+Xenna
+infinite
+Weka
+infinite
+Vunda
+infinite
+Uda
+infinite
+Treda
+infinite
+Sorta
+infinite
+Rinta
+infinite
+Quexa
+infinite
+Pepta
+infinite
+Ocha
+infinite
+Nena
+infinite
+Minga
+infinite
+Luma
+infinite
+Kama
+infinite
+Jamea
+infinite
+Iana
+infinite
+Heva
+infinite
+Grina
+infinite
+Frema
+infinite
+Echa
+infinite
+Druna
+infinite
+Cera
+infinite
+Brota
+infinite
+Arita
+infinite
+Hypervolumes
+Vertex Count
+infinite
+Edges Length
+infinite
+Surface Area
+infinite
+Surcell Volume
+infinite
+Surteron Bulk
+infinite
+Surpeton Pentavolume
+infinite
+Surexon Hexavolume
+infinite
+Surzetton Heptavolume
+infinite
+Suryotton Octavolume
+infinite
+Surxennon Enneavolume
+infinite
+Surwekon Decavolume
+infinite
+Survendekon Hendecavolume
+infinite
+Surudekon Dodecavolume
+infinite
+Surtredon Tredecavolume
+infinite
+Sursorton Quattuordecavolume
+infinite
+Surrinton Quindecavolume
+infinite
+Surquexon Sexdecavolume
+infinite
+Surpepton Septendecavolume
+infinite
+Surochon Octodecavolume
+infinite
+Surnenon Novendecavolume
+infinite
+Surmingon Icosavolume
+infinite
+Surlumon Henicosavolume
+infinite

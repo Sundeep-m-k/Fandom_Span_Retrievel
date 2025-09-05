@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40769,1,Wikiverse,2,11,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
+40769,1,loops,102,107,internal,https://alldimensions.fandom.com/wiki/The_infinite_loops_theory,"{""loops"": 1}",1
+40769,1,Everything Layer,164,180,internal,https://alldimensions.fandom.com/wiki/Everything_Layer,"{""Everything Layer"": 1}",1
+40769,3,Earth,164,169,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1

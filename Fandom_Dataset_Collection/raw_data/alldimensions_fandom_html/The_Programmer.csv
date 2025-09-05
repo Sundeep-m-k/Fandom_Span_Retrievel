@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36469,1,"
+
+",52,54,external,https://static.wikia.nocookie.net/alldimensions/images/f/f3/The_programmer.png/revision/latest?cb=20210112020159,"{""\n\n"": 1}",1
+36469,1,Terminal Terminals,121,139,internal,https://alldimensions.fandom.com/wiki/Terminal_Terminal,"{""Terminal Terminals"": 1}",1
+36469,1,the Outside Programmer,212,234,internal,https://alldimensions.fandom.com/wiki/The_Outside_Programmer,"{""the Outside Programmer"": 1}",1
+36469,1,Terminal Terminal,121,138,internal,https://alldimensions.fandom.com/wiki/Terminal_Terminal,"{""Terminal Terminal"": 1}",1

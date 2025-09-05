@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35730,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f2/Trefoil_Barrier.png/revision/latest?cb=20201109011805,"{""\n\n"": 1}",1
+35730,1,End of Chain,59,71,internal,https://alldimensions.fandom.com/wiki/End_of_Chain,"{""End of Chain"": 1}",1
+35730,1,The Knot Chain,83,97,internal,https://alldimensions.fandom.com/wiki/Knot_Chain,"{""The Knot Chain"": 1}",1
+35730,2,Trefoilverse,24,36,internal,https://alldimensions.fandom.com/wiki/Trefoilverse,"{""Trefoilverse"": 1}",1
+35730,3,Knot Chain,92,102,internal,https://alldimensions.fandom.com/wiki/Knot_Chain,"{""Knot Chain"": 1}",1
+35730,3,Hencentroverses,156,171,internal,https://alldimensions.fandom.com/wiki/Hencentroverse,"{""Hencentroverses"": 1}",1

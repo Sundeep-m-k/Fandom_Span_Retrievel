@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49369,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/36/Screenshot_2025-04-17_142714.png/revision/latest?cb=20250417182840,"{""\n\n"": 1}",1
+49369,2,universes,61,70,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+49369,2,life,186,190,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""life"": 1}",1
+49369,2,here,203,207,internal,https://alldimensions.fandom.com/wiki/Toxic_Materialsverse,"{""here"": 1}",1
+49369,4,Sproyongs,57,66,internal,https://alldimensions.fandom.com/wiki/Sproyongs,"{""Sproyongs"": 1}",1
+49369,7,void,35,39,internal,https://alldimensions.fandom.com/wiki/Void,"{""void"": 1}",1

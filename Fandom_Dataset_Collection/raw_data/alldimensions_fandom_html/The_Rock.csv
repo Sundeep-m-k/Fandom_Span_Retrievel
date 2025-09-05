@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23244,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e8/A7E2B25F-B6CB-4139-9F6B-925BE2F5A8B0.jpeg/revision/latest?cb=20200329220352,"{""\n\n"": 1}",1
+23244,1,Vastnesses,48,58,internal,https://alldimensions.fandom.com/wiki/Vastness,"{""Vastnesses"": 1}",1
+23244,1,The Waterfalls,70,84,internal,https://alldimensions.fandom.com/wiki/The_Waterfall,"{""The Waterfalls"": 1}",1
+23244,1,Waterfall,74,83,internal,https://alldimensions.fandom.com/wiki/The_Waterfall,"{""Waterfall"": 1}",1
+23244,1,voids,456,461,internal,https://alldimensions.fandom.com/wiki/Void,"{""voids"": 1}",1
+23244,1,Waterfalls,74,84,internal,https://alldimensions.fandom.com/wiki/The_Waterfall,"{""Waterfalls"": 1}",1
+23244,2,Lightverses,52,63,internal,https://alldimensions.fandom.com/wiki/Lightverse,"{""Lightverses"": 1}",1
+23244,2,Vastness,203,211,internal,https://alldimensions.fandom.com/wiki/Vastness,"{""Vastness"": 1}",1
+23244,3,Papers,36,42,internal,https://alldimensions.fandom.com/wiki/The_Paper,"{""Papers"": 1}",1

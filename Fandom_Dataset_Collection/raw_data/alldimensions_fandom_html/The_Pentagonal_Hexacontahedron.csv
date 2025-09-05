@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35454,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b2/PHuh.jpeg/revision/latest?cb=20201006034639,"{""\n\n"": 1}",1
+35454,1,LAIF,76,80,internal,https://alldimensions.fandom.com/wiki/LAIF,"{""LAIF"": 1}",1
+35454,1,Exinoverse,91,101,internal,https://alldimensions.fandom.com/wiki/Exinoverse,"{""Exinoverse"": 1}",1
+35454,1,White Pentagonal Hexacontahedrons,163,196,internal,https://alldimensions.fandom.com/wiki/The_White_Pentagonal_Hexacontahedron,"{""White Pentagonal Hexacontahedrons"": 1}",1
+35454,1,Absolute Truths,226,241,internal,https://alldimensions.fandom.com/wiki/The_Absolute_Truth,"{""Absolute Truths"": 1}",1
+35454,1,Exinoverses,243,254,internal,https://alldimensions.fandom.com/wiki/Exinoverse,"{""Exinoverses"": 1}",1
+35454,1,Terminal Truncated Nonacontanonagon,319,354,internal,https://alldimensions.fandom.com/wiki/Terminal_Truncated_Nonacontanonagon,"{""Terminal Truncated Nonacontanonagon"": 1}",1
+35454,1,absolute truths,549,564,internal,https://alldimensions.fandom.com/wiki/The_Absolute_Truth,"{""absolute truths"": 1}",1
+35454,2,white holes,120,131,internal,https://alldimensions.fandom.com/wiki/White_hole,"{""white holes"": 1}",1
+35454,2,black holes,146,157,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black holes"": 1}",1
+35454,3,pentagonal hexaconeahedrons,18,45,external,https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron,"{""pentagonal hexaconeahedrons"": 1}",1

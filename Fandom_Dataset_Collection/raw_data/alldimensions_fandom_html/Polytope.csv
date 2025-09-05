@@ -1,0 +1,3 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2827,1,polyhedron,67,77,internal,https://alldimensions.fandom.com/wiki/List_of_Polyhedra_By_Type,"{""polyhedron"": 1}",1
+2827,1,object,111,117,internal,https://alldimensions.fandom.com/wiki/Category:Object,"{""object"": 1}",1

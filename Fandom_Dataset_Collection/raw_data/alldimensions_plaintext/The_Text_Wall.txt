@@ -1,0 +1,75 @@
+Contents
+1
+What is The Text Wall?
+2
+Grouping
+2.1
+Realms
+2.2
+Tiles
+2.3
+Text Units
+3
+Energy
+What is The Text Wall?
+[
+]
+The text wall
+The smallest bit of the text wall.
+Size
+Diameter
+10
+10
+12
+light years
+EUSI
+'"`UNIQ--postMath-00000001-QINU`"'
+Location
+Contained by
+Extraverse
+Speed
+16 light years per second
+Properties
+Existence Rank
+1
+Contains
+No verses are contained by this.
+Temperature
+2206°C / 4002.8°F
+Kardashev scale
+N/A
+Life percentage
+0%
+Contents
+Many text units (Contained by the realms of the text wall)
+Void percentage
+0%
+The text wall is a verse that is filled with groups of text split in various ways. This text can be changed by any life form that can access
+this website
+.  The text is on a normally white background, but can be changed by updating text units.
+Grouping
+[
+]
+The Text Wall is grouped into 3 levels. These are the realms, tiles, and text units, which are the main structures of The Text Wall.
+Realms
+[
+]
+Realms are the main level of division of The Text Wall and can only be seen one at a time (per tab). You can find these by adding "/[any text]" to the end of the link. (
+Example
+) There are basically infinite realms, but most are empty, so they take up no space. (
+Example
+)
+Tiles
+[
+]
+Tiles are the second level of division in The Text Wall, and you are able to see multiple of them at once. They are 8 text units tall and 16 text units wide and in a square shape. They can be used to make bigger spaces between things than text units, like in
+/CartesianCoordinateSystem
+.
+Text Units
+[
+]
+Text Units are the third and smallest level of division in The Text Wall. Each Text Unit can hold 1 byte, so you need a lot of these to make any actual impact. Just a sentence can use around 10-50.
+Energy
+[
+]
+When a text unit gets changed (by backspace OR adding a character), is releases energy that is around 10 joules. All of the updates make this place very energetic, and hot. With thousands of updates a second, it multiplies quickly. There are also more energetic text units, that contain links and coordinates. These use around 20 joules and 5 watts after to stay up.

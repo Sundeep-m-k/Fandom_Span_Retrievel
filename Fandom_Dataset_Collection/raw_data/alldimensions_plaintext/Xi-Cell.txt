@@ -1,0 +1,122 @@
+A-Cell
+Scale
+Size
+Hypervolume:
+1.2414x10
+23
+km
+27
+Edge:
+7.1669 km (4.4533 mi)
+EUSI
+0
+Dimensionality
+27+i
+Kardashev Scale
+0.333333333...
+Properties
+Temperature
+-128.26°C (144.88°K)
+Class
+1
+Life Percentage
+0%
+Shape
+Icosahepteract
+Density (Void Percentage)
+96.296%
+Position
+Contained by:
+A
+Xi-Module
+Contains:
+Xi-Components
+A
+Xi-Cell
+, simply called a "Cell" by Xi-Theorists, is a fundamental building block of
+The Xul
+, a finite recurso-verse hyper-computer in a top secret location in
+The Deadzone
+.
+It may be thought of as essentially The Atomic building block of The Xicohtlxul's processing capabilities. Unlike larger structures that can be dynamically duplicated to have a variety of sizes Xi-Cells only come in fixed sizes. Instead Xi-Cells come in different types that have different functions. The most common cells serve as The Xul's independent and scalable ALU's (Arithmetic-Logic-Units). The Operations and functionality of a Xi-Cell is a primary area of study for Xi-Theorists who wish to understand how The Xicohtlxul works.
+Contents
+1
+Introduction
+2
+Dimensions and Environment
+3
+Exiting
+4
+Ternary Representation
+5
+Implementation
+6
+Capabilities
+Introduction
+[
+]
+As fundamental as it is, and arguably "simple" in comparison to all the higher level processes continuously going on at all times at higher structural scales, it is unfortunately very difficult to study. This is because manned missions to The Xicohtlxul have been banned as a sentience-rights violation, as there is no known way to escape The Xul once you have entered it. The few times organic beings have been sent there, either by accident, for reconnaissance purposes, by special request, or as a form of psychological torture and punishment, very little information was able to be gathered. It would require a team of specialists bringing back samples and components into labs in order to study them with proper time and tools, but this is impossible. No matter or energy can leave The Lugubrigothic Speck, the sur-infinite space containing The Xicohtlxul, since it is surrounded by The Deadzone, that will instantly delete any kind of existence. The Deadzone can not be skipped over from the interior either as Exit Barreling is prevented.
+Most of the more technical information has come from schematics and evolutionary design histories which can be retrieved only by direct Request with The Xul's Special Terminal Request Program, Lord Calculohn, by writing in an extremely arcane programming language called Xi*. Only a few specialists, called Xi-Programmers, actually understand it well enough to sometimes write code The Terminal will accept and compile. To make matters worse, some believe The Terminal is semi-sentient and can simply refuse requests if it does not want to divulge certain information about its operations for any reason it deems valid. Thus we only get the window into its operation that The Xul allows us. What follows are what we know about the architecture, composition, operation, and theory of Xi-Cells.
+Dimensions and Environment
+[
+]
+The Dimensions of a Xi-Cell are remarkably consistent. It's edge length is approximately equal to 7.1669 kilometers (4.4533 miles). In 3-dimensions this ends up being 368.12 km^3 (88.31 mi^3). Even this is no small amount of space. It would be possible to house several skyscrapers within this space, situating them on different levels as well. As impressive as this already is, a Xi-Cell actually has far more space than it let's on to a normal human. Remember that actually it hides 27-dimensions. It's full 27D hypervolume is around 10^23 km^27. Ironically most of the interior of the Xi-Cell is actually empty space. About 96.296% of it. Despite this, it still is able to house over 10^1000 (googolchime) terns as available memory, and still has room for other sorts of components as well. The 27-dimensional space allows data to flow multidimensionally allowing for very rapid calculations. It's able to perform 27th powers of any number as a single operation, due to this effect. This gives it abilities that would be unthinkable on a conventional earth computer. In addition the large amount of empty space is used to allow rapid duplications and consolidations of data. Just like Modules can be rapidly duplicated in batches of 3^27 copies, so too data units within the Xi-Cell can rapidly multiply and then collapse back together, rapidly generating massive calculations.
+The environment has Zero-Gravity. This has something to do with the physics of UniXules which are engineered to maximize extraneous design concerns, such as creating blackholes through extremely dense packing of data. In fact, A Xi-Cell has data so tightly packed, that were it to be packed to it's absolute capacity it could hold a maximum of 3^(3*27^2) terns (2.911x10^1043). In actuality the real number is always a bit below this due to the vast empty space, however it makes little dent, and it still manages to hold more than 10^1000 terns at any given time!
+The Zero-Gravity environment presents some difficulty for navigation. To aid this there are various handles and rails throughout the interior. This suggests that the designers may not have been very different than humans after all. In addition there are magnetic rails with handles attached, that can allow for great acceleration in straight line orthogonal directions. Lastly there are paths that seem like floors which seem to have an attractive force to any matter than makes contact with them. With a little practice one can free one foot while keeping the other planted, and thus perform a walk that keeps one attached to the floor. Various terminals allow for 26D display of data in holographic form, but humans can only see 3 of them at a time, and it can be difficult to make sense of the translucent layers which were clearly intended to be viewed simultaneously through 27D eyes. If all this were not enough, there also appears to be a field throughout the Cell that causes one to slowly drift towards a central point that acts as a nexus allowing one to travel to the different parts of the Cell. In short, if you wait long enough, you will eventually find something to make contact with and use to begin navigating again. It is basically impossible to achieve any sort of fatal velocity within the Cell.
+Despite this, visitors reported extreme vertigo and confusion. There is this sense of slowly falling, or sometimes feeling like one is upside-down looking up into the Cell and feeling like one is going to fall. The constant shifting of dimensions and being unable to recognize everything furthers the confusion.
+The interior is extremely cold though it's warmer than the surrounding environment of the UniXule. The temperature seems to sit at around 144 Kelvin for some reason. It's believed to be some kind of optimal operating temperature, or possibly a temperature considered nominal for the designers. In any case, without proper insulation, needless to say, this temperature is eventually fatal. The extreme cold and dead emptiness of the environment seems to lead to extreme paranoia.
+A quiet humming or pulsing sound is reported, and hallucinations are common, hearing voices in the hum, usually of a garbled alien nature leading to panic attacks. This is in addition to the near constant white noise of "clicking", which is believed to be caused by the machines operation. Vistor's have also been frightened by the sudden load reverberations that occur when the UniXule space is rapidly expanding to duplicate Modules. It is believed this is actually caused by the vibration of the spacetime fabric, as there is a near perfect vacuum between the Modules, allowing there intersection with the 27D space without incident. This ripple effect in spacetime however agitates the thin atmosphere of the interior of the Cells.
+There is in fact a breathable atmosphere produced inside a Cell. It is still difficult to breath and extremely cold to breath in, but theoretically you could survive for sometime breathing it although it would be extremely painful. A space suit is a must, and ideally atmosphere converters as well. These can be used to capture the surrounding atmosphere to warm it up and condense it into canisters. With the right equipment it is possible to syphon enough energy to stay warm and keep breathing basically indefinitely, but ... there is no real organic matter to be found. Water can be sythesized from the oxygen and hydrogen in the air, however ... starvation is inevitable. One can theoretically live up to a month in this harsh environment, however the psychological toll is believed to take effect much sooner. A terrifying mix of agoraphobia and megalophobia sets in.
+Exiting
+[
+]
+Each Xi-Cell is equipped with 54 exit ports, located at the centers of each of it's facets. Each one will lead into a neighboring Cell, unless that space is vacant due to shuffling. If this is the case it is possible to climb down a set of ladders in 52 possible directions, but one should be wary of another Cell moving into the space. Although you won't be crushed as the ladders are laid somewhat inwards to allow for this situation, the space allowed is very small, only just enough to crawl through.
+Although most times when exiting you will simply enter the neighboring Xi-Cell, sometimes the gateway actually bends into the 28th dimension, allowing one to enter a UniXule that is perpendicularly aligned with the one you are currently residing in. In this way it is possible to actually travel through and extremely large network of interwoven UniXules in perpendicular "hyperplanes" in 27 different directions. To get a better understanding of how this works, see the article on the MultiXule, and how UniXules are arranged through each other.
+Ternary Representation
+[
+]
+Xi-Cells do not operate on binary, like our typical earth computers. Instead everything is based on ternary (base 3) and powers of 3. A "tern" or "trit", can be in one of three states. These are typically represented as either 0,1,2 or alternatively as red,green,blue, respectively. Groups of 3 terns are called "ikes", which is short for icosahepts, meaning 27, for the 27 possible states a ike can be in. Since there are 26 letters in english, these are used to represent all three non-zero states. The zero state is then simply represented by 0 or more commonly, a space. Here is a quick chart for ike representation:
+_ = 000 a = 001 b = 002 c = 010 d = 011 e = 012 f = 020 g = 021 h = 022
+i = 100 j = 101 k = 102 l = 110 m = 111 n = 112 o = 120 p = 121 q = 122
+r = 200 s = 201 t = 202 u = 210 v = 211 w = 212 x = 220 y = 221 z = 222
+This allows for a quick and simple encoding for english phrases. For example:
+"the_quick_brown_fox_jumped_over_the_lazy_dog."
+becomes:
+(202 022 012 000 122 210 100 010 102) (000 002 200 120 212 112 000 020 120) (220 000 101 210 111 121 012 010 000) (120 211 012 200 000 202 022 012 000) (110 001 222 221 000 011 120 021 000) (000 000 000 000 000 000 000 000 000)
+Note that a period and other punctuation marks can be represented by having a set of multiple spaces in a row followed by a final instruction. Here we have represented a period as a pack of 9 ikes all of which are empty.
+Sets of 9 terns or 3 ikes, are called tibs, in analogy with nibbles. Lastly sets of 27 terns, 9 ikes, or 3 tibs, are called coords, short for coordinates. Since everything is 27-dimensional, it makes sense that a set of 27 terns represents a coordinate within a Rubrik's-Stage. In this case however, (000 000 000 000 000 000 000 000 000) represents the central most Element of the Rubrik's-Stage, In this form 1 becomes - and 2 becomes +. Thus the first coord in our previous example could also be represented (+0+ 0++ 0-+ 000 -++ +-0 -00 0-0 -0+). Such representations are actually important for IDing the positions of Xi-Cells and Xi-Modules. In a Stage 27 Module, 27 coords will be used as an ID Number for a given Xi-Cell, representing its starting position in each of it's assigned Rubrik's Stages. To read the coordinate of a single dimesion, one has to then grab the kth position of each coord in order to reconstruct the position. So to find the 5th dimensional coordinate of say (120 0
+2
+1 ...)(101 2
+0
+1 ...)(200 1
+0
+1 ...)(201 2
+0
+1 ...)(020 1
+2
+0 ...)(120 0
+1
+2 ...)(021 0
+1
+2 ...)...etc. we take all the underlined positions in order to obtain:
+2000211
+...etc. In this way 27 coordinates can be represented in "arbitrary precision" with an appropriate sequence of coords. In practice however, an ID# can not exceed the memory capacity of the Xi-Cell itself or else it ceases to be useful. This puts some limitations on the size of Modules and UniXules, but the limitations are ... ridiculous overkill. Basically one could theoretically go up to a Stage 10^1000 Module before the addresses would take up all the memory in a single Xi-Cell. This would amount to a Module with a edge length of 3^10^1000 Xi-Cell edges, about in the ballpark of a
+googolplexichime
+. In practice Modules almost never exceed 999 coords, which is so tiny it can easily fit in the space of a neutron. In fact usually a Xi-Cell can hold it's Module ID as well in it's respective UniXule. Sometimes a dedicated Module Central Control Node handles this sort of addressing. If it does this is a special type of Cell much larger than a normal cell that always resides in the exact center of the Module in an empty pit in the center. This allows greater addressing capacity, but it's rarely necessary.
+Lastly memory is packed into sub-atomic "Rubrik's-Stages", each one able to store 3^27 copies of the lower Rubrik's Stage. A single pack of 3^27 terns or 3^26 ikes or 3^25 tibs or 3^24 coords (282,429,536,481), tightly arranged in a 3x3x3x...x3 (27 3s) configuration is called a TriXul, sorta the Xul equivalent of a kilobyte, though much much larger, being closer to what we would call a terabyte. This is followed by powers of 3^27, with 3^54 being a DyatriXul. This is still only 9 elements to a side and so is still incredibly tiny, yet packs info incredibly densely. 3^81 is a TriatriXul, 3^108 is a tetratriXul, etc. Even a tetratriXul only is 81 elements to a side an unimaginably tiny, still fitting within the space of a neutron. In this way, a 27D cube about 1 foot to a side could house (3^27)^72 = 3^1944 (10^927) terns, going all the way up to ebdomintadyatriXuls!
+Implementation
+[
+]
+The physical representation of a Tern is carried out by a triplet of Quarks which are collapsed down to the Plank Scale (10^-35 m). Through the manipulation of Quantum Chromodynamics, these collapsed nucleons are very temporarily in a state in which all 3 Quarks are the same color simultaneously while two gluons hold the balancing charges so that the whole configuration remains chromodynamically neutral. The exact process is extremely sensitive. In fact, the state is so volatile that this moment of color agreement lasts for only a Plank Time (10^-43 seconds), before decaying to a state in which the quarks are again in their more natural red-green-blue configuration. In fact the timing is extremely precise. The second gluon needs to be emitted while the first gluon is still in transit to have this effect. Because of this extreme volatility, a calculation has to be performed on it within a Plank Time, thus inducing another state of agreement. As such the operation speed of The Xul is at about 10^43 operations per second. Going much faster would complicate matters with gluon interaction. The precise mechanics of the combining of Terns is not well understood at this time. None the less it is believed all ternary operations are performed through the manipulation of quark-gluon interactions on plank scales. The smaller the scale the faster the computer operates and the more memory can be packed per unit space.
+During Intervals of 10^-43 seconds, two quarks have the same color, which can be used as a representation of the tern state, of either red (0), green (1), or blue (2)
+To gain an understanding of how a tern state occurs, you can look at the diagram to the right. Note that for brief intervals, two quarks can actually share the same color. The reason this doesn't unbalance the color charge is the presence of a single gluon. It carries a negating color for the doubled color, as well as the missing color. For example, if the current state is red-red-blue, then there must be a gluon which has antired-green as it's colors. This will eventually cause red to cancel and be replaced by green. The upshot of this gluon transmission and absorption is that the end, the colors simply switch places between pairs of quarks. This system could be used to represent a tern, where whichever color is "doubled" is the current tern-state. For whatever reason however, most of the Xi-Cells use an even trickier system. In this system two gluons are emitted within short intervals of each other. For example say red and green are switching places. Green turns red as it emits a green-antired gluon, which makes its way towards the red quark. Only shortly after, blue turns red as it emits a blue-antired gluon heading towards the other red quark. During this brief transit all 3 quarks are red, and the tern "red" or "0" is represented. Less than 10^-43 seconds later however, the first gluon reaches its destination leaving one green quark and two red quarks. And in more brief instant later, the second gluon arrives turning the remaining red quark into a blue quark, thus restoring the normal red-green-blue state. For this tiny tiny
+tiny
+interval of time the Tern exists ... and then instantly vanishes. Before it does it is combined with another quark-triplet, both transferring the data, and combining it with the data of the other quark. The interactions here are more complex and uncertain.
+None the less, activity is so intense in processing centers such as A-Cells that the data is never actually lost. Information which has to persist for long periods of time is put into cold storage in B-Cells. The exact mechanics of this process are not yet known.
+Capabilities
+[
+]
+The most amazing capability of Xi-Cells is their ability to raise a number to the 27th power in a single operation (single Planck Time), by exploiting the ability to array terns into 27 dimensional arrays. Each of these positions then performs a single multiplication of 27 numbers simultaneously this is then compressed into facets eventually becoming a sequence of coords that can be read out. Due to the ability to perform these operations in parallel, and copy elements across dimensions rapidly, this ability is completely scalable and is not slowed down, no matter how long the initial number is. Essentially multiplication can be carried out across Intersecting UniXules or even higher spaces if need be. The ability of the data to copy and spread into more and more batches of 27 dimensions allows it to scale indefinitely.
+It is this miraculous ability that allowed Researchers to hijack a dedicated Sector of The Xicohtlxul, called G*, and program into it Graham's Number. Within just the first second it was actually able to compute 3^3^3^3^3, stored in ternary coded decimal. The data contained 10^10^12 digits. Again this is due to the ability of the number of digits to scale by a factor of 27 every plank time! G* is currently busy at work on 3^^6. It is not expected to complete it before the Omniverse passes away. It has however currently computed up to 10^10^250 digits. The program has been running for a roughly a
+gargoogol years
+(10^200).

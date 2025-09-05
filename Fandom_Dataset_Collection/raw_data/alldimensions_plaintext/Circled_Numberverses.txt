@@ -1,0 +1,121 @@
+Circled Numberverses
+Info About Chain
+Amount Of Verses
+Unknown
+Smallest Verse
+⓪verse
+Smallest Verse Size
+0 meters
+Largest Verse
+Unknown
+Largest Verse Size
+Unknown
+The
+Circled Numberverses
+are a chain of
+verses
+. They are based on the different Hindu-Arabic numerals from
+Earth
+in
+UNI-1
+circled. The first verse is the ⓪verse. Their sizes are their verse number in a pentagon in Steinhaus-Moser notation, or that number in a circle in the original notation. They are also shaped like that specific circled number. It was discovered in 5388
+OYC
+, when professional verse explorers found a two-part permanent portal to and from the ①verse. It being a chain was discovered 32 OYC later, when further explorations were made in the space outside the ①verse.
+Contents
+1
+List of Circled Numberverses
+1.1
+⓪verse
+1.2
+①verse
+1.3
+②verse
+List of Circled Numberverses
+[
+]
+⓪verse
+[
+]
+⓪verse
+Scale
+Size
+0 meters
+EUSI
+0
+Finality Index
+N/A
+FOEI
+0
+Dimensionality
+0
+Properties
+Temperature
+0 K
+Class
+0
+Shape
+⓪
+Position
+Contained by:
+①verse
+Contains:
+Nothing
+The
+⓪verse
+is the first verse of the Circled Numberverses chain. It is 0 meters large, and contains nothing. It has no interesting attributes.
+①verse
+[
+]
+①verse
+Scale
+Size
+1 ly
+EUSI
+1
+Finality Index
+N/A
+Dimensionality
+3+1
+Properties
+Temperature
+0 K
+Class
+0
+Shape
+①
+Position
+Contained by:
+②verse
+Contains:
+1 ⓪verse
+The
+①verse
+is the second verse of the Circled Numberverses chain. It is 1 light year large, and contains one ⓪verse. It has no interesting attributes.
+②verse
+[
+]
+②verse
+Scale
+Size
+2 in a circle (Mega, approximately 10^^257) ly
+EUSI
+1
+Finality Index
+N/A
+Dimensionality
+5+3
+Properties
+Temperature
+0 K
+Class
+1
+Shape
+②
+Position
+Contained by:
+③verse
+Contains:
+2 ①verses
+The ②
+verse
+is the third verse of the Circled Numberverses chain. It is 2 in a circle (approximately 10^^257) light years large, and contains two ①verses. It has no interesting attributes.

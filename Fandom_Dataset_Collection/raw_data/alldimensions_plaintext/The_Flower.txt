@@ -1,0 +1,55 @@
+The Flower
+The Flower
+Scale
+Size
+𝑍
+EUSI
+𝑍
+Finality Index
+4
+FOEI
+𝑍+
+Dimensionality
+𝑍
+Kardashev Scale
+𝑍
+Properties
+Temperature
+Varies by 𝑍 degrees
+Class
+16
+Life Percentage
+1/∞
+Shape
+Flower
+Density (Void Percentage)
+Any
+Position
+Contained by:
+The Souls
+Contains:
+The Clocks
+The Flower
+[
+]
+The Flower
+is a monstruously large megastructure suspended in a pitch white limbo.
+From far away, or even on the infinite scale, the Flower looks smooth and static, in the shape of a flower.
+But if one were to travel to the finite scale
+, the roughness and chaos of the Flower would instantly become apparent.
+The Flower is in reality an
+infinitely-dimensional game of life variant with much more complex rules that allow it to generate large-scale objects
+. However, a majority of these rules are seemingly arbitrary, so patterns in general are
+very rare to find.
+The starting conditions for the Flower's conception are unknown, but are known to have been strategically placed in order to create a stable container. The container itself is a
+chaotic, web-like, spherical embalmment that surrounds the core primary, that being the Flower.
+Composition
+[
+]
+The Flower's composition, as above mentioned, is of
+cellular automata, working in a collaborative adjacence torwards a final state, a structural equilibrium, where upon all movement from cells both inside and outside of the container will terminate.
+The container is still completing its shape, however, it is mostly finished and is likely thought that no more oddities will happen until it's completion.
+The cells themselves are extremely durable,
+to technologically inferior civilizations, even indestructable
+. Each cell is pitch black and composed of a void-like material that interacts with everything, especially with other cells.
+There exists some property that communicates all properties with all other cells, based on these, the cells is determined to be either alive or dead. The amount of properties is practically unending, being such as: position, angular distance to any cell, shortest distance to any cell, amount of cells in a hypercube containing cell A and cell B in opposite corners, the ratio in amount of cells between 2 intersecting straight lines, and much more with much higher and lower complexity.

@@ -1,0 +1,326 @@
+Part of Eternal Abyss.
+Brimstone Flames Icon.
+Crush Depth Icon.
+Eidolon Wyrm.
+Aquatic Urchin.
+Primordial Wyrm.
+Reaper Shark.
+Baby Cannonball Jellyfish.
+Cannonball Jellyfish.
+Aidolist.
+Gulper Eel.
+Devil Fish.
+Chaotic Puffer.
+Toxicalfish.
+Eternal Abyss Layer 2.
+Eternal Abyss Layer 3.
+Eternal Abyss Layer 1.
+Eternal Abyss is a abyss that is almost size of
+-Flaws in the World-
+. While there are many sightless crevasses in the deep sea, this one is a unique geological marvel. It is hard to breath and see in Eternal Abyss, so items like Eternal Abyssal Suit is recommended.
+Eternal Abyss
+4th Layer of Eternal Abyss.
+Info
+Size
+Almost unable to measure, describe, comprehendable to fictional beings.
+What type of object is it
+Eternal Abyss
+Dimensionality
+Almost unable to measure, describe, comprehendable to fictional beings.
+Position
+Contained by
+-Flaws_in_the_World-
+Contains
+Eternal Abyss Creatures, Eternal Abyss Contents
+Contents
+1
+Creatures
+1.1
+Layer 1
+1.1.1
+Aquatic Urchin
+1.1.2
+Toxicalfish
+1.1.3
+Toxic Minnow
+1.1.4
+Cannonball Jellyfish
+1.1.5
+Baby Cannonball Jellyfish
+1.1.6
+Box Jellyfish
+1.1.7
+Moray Eel
+1.1.8
+Slab Crab
+1.1.9
+Sufflounder
+1.2
+Layer 2
+1.2.1
+Oarfish
+1.2.2
+Luminous Corvina
+1.2.3
+Cuttlefish
+1.2.4
+Viperfish
+1.2.5
+Laserfish
+1.3
+Layer 3
+1.3.1
+Colossal Squid
+1.3.2
+Giant Squid
+1.3.3
+Aidolist
+1.3.4
+Mirage Jelly
+1.3.5
+Devil Fish
+1.3.6
+Chaotic Puffer
+1.3.7
+Gulper Eel
+2
+Layer 4
+2.1
+Eidolon Wyrm
+2.2
+Reaper Shark
+2.3
+Bobbit Worm
+2.4
+Primordial Wyrm
+2.5
+Jared
+2.6
+Bloatfish
+3
+Depth Crush
+4
+Riptide
+5
+Brimstone Flames
+6
+Eternal Abyssal Suit
+7
+Eternal Abyssal Fragments
+8
+Eternal Abyssal Suit Fragments
+9
+Contents
+9.1
+Eternal Abyss' Chest
+9.2
+Eternal Abyss' Pot
+9.3
+Eternal Abyssal Ore
+9.4
+Eternal Abyss' Chest (4th Layer)
+10
+Altar of the Accursed (Can be found in 4th Layer)
+Creatures
+[
+]
+Layer 1
+[
+]
+Aquatic Urchin
+[
+]
+Aquatic Urchin is a urchin that is lime colored.
+Toxicalfish
+[
+]
+Toxicalfish is a fish that is brown colored and when contacted with entity, entity will be affected by Irradiated, which does: -10%. defense, -10% damage reduction, -0.02% health per second.
+Toxic Minnow
+[
+]
+Toxic Minnow is a minnow that has green and grey appearance. when contacted with entity, entity will be affected by Irradiated.
+Cannonball Jellyfish
+[
+]
+Cannonball Jellyfish is a jellyfish that help keep the Abyss clean from the sulphuric poisoning. It has green appearance.
+Baby Cannonball Jellyfish
+[
+]
+Baby Cannonball Jellyfish is a baby of Cannonball Jellyfish. it has same appearance as Cannonball Jellyfish.
+Box Jellyfish
+[
+]
+Box Jellyfish is a Jellyfish that is green colored. Larger than the average jellyfish, the sting of these persistent pests packs a powerful punch.
+Moray Eel
+[
+]
+Moray Eel is a eel that has green appearance. When a fish bites your heel and it looks like an eel, that's a moray.
+Slab Crab
+[
+]
+Slab Crab is a crab that can disguise as a rock.
+Sufflounder
+[
+]
+Sufflounder is a fish that has brown appearance and shoots Sulphuric Acid Mists to the target.
+Layer 2
+[
+]
+Oarfish
+[
+]
+Oarfish are known for laying thousands or even millions of eggs in astonishingly quick gestation cycles. Oarfish affects Riptide to entity when contacted.
+Luminous Corvina
+[
+]
+Luminous Corvina is a fish that is immune to Crush Depth,
+Cuttlefish
+[
+]
+Cuttlefish is a fish that is white colored. Using natural camouflage to hide from greater predators and catch unsuspecting prey, cuttlefish wait patiently on the ground for their time to strike.
+Viperfish
+[
+]
+Their wide mouth normally reserved for filter feeding can double as a means to scare off predators by mimicking the much more threatening gulper eels. Viperfish are fish that is dark grey and has cyan dots detail.
+Laserfish
+[
+]
+Laserfish is a fish that is immune to Riptide, Its eyes are blinded by bacteria that gather in large sacs on its head. As it swims through the waters, relying on primitive echolocation, the bacteria are able to release concussive blasts to clear its path.
+Layer 3
+[
+]
+Colossal Squid
+[
+]
+The bigger and white-colored Giant Squids. They are much stronger than Giant Squids. when contact with entity, entity will be affected by Obstructed for 10 seconds, which removes entity's light vision.
+Giant Squid
+[
+]
+Squid are known to be cannibalistic animals, having few qualms with consuming their own kind when in need of food. Quite ironically, this creature's main predator is itself. when contact with entity, entity will be affected by Darkness for 10 seconds, which reduces entity's light vision.
+Aidolist
+[
+]
+Aidolist are the cultist that worships Primordial Wyrm, which has been blessed by Life Goddess.
+Mirage Jelly
+[
+]
+Jellys that lives in the Eternal Abyss. they have blue and dark blue appearance. when contact with entity, entity will be affected by Acid Venom for 3 seconds, which makes entity lose life rapidly.
+Devil Fish
+[
+]
+Devil fishes are called "Devil Fish" because of it's appearance, and living in deep.
+Chaotic Puffer
+[
+]
+These creatures inhale trace amounts of scoria in the water while inflating, heating the liquid inside of them immensely. Hot enough to melt iron in this state, they cause horrific burns to those they make contact with, and predators attempting to consume them are boiled from the inside out. Chaotic Puffer is a creature that is black. it affects Brimstone Flames to entity when contacted.
+Gulper Eel
+[
+]
+Though sluggish and bulky, these eels traverse the eternal abyss with surprising ease. They blend into the darkness, with a mouth that can stretch abnormally wide used to slowly swallow prey whole. Their meals are left unaware of their predicament until it is far too late. Gulper Eel is a eel that is dark light blue colored and bright yellow dot details.
+Layer 4
+[
+]
+Eidolon Wyrm
+[
+]
+They adapted to hide away in a forgotten corner of the world to survive the great purges. And yet even without auric souls, the power of eidolon wyrms rivals many of their brethren who possessed them. Eidolon Wyrm is similar to Primordial Wyrm, but it is smaller and has less details. Appearance is like black worm with decorated with blue things. also has bright yellow eyes.
+Reaper Shark
+[
+]
+True predators of the void, these sharks take advantage of both their stealthiness and might to hunt anything and everything that comes near. Using their arms for purposes from hurling colossal squids into the Eternal Abyss' walls to crushing the heavily armored heads of eidolon wyrms, few can match their raw strength. Reaper Shark is a shark that is colored dark and has cyan-colored details.
+Bobbit Worm
+[
+]
+Hiding away in the darkest corners of the void to strike at unsuspecting prey, bobbit worms take full advantage of the Abyss' darkness. To live here, in the most extreme environment in the world, a creature must either be truly mighty, learn to use the environment to survive, or both. Bobbit Worm attacks the entity when entity is near. Appearance is a huge worm that is blue colored.
+Primordial Wyrm
+[
+]
+The first Eidolon Wyrm ever created, blessed by the Goddess of Life, held staggering power that surpassed nearly all of its auric brethren. It held a deep hatred for any sign of usurped light, and would have attempted to strike down even the wielder of Primordial Light had they returned to reclaim their artifact. And yet, despite its immense power, it never would have stood a chance. Primordial Wyrm is the strongest creature in Eternal Abyss. Appearance is almost looks like Eidolon Wyrm, but it is bigger and has more details.
+Jared
+[
+]
+Jared. the Eidolon Wyrm that transccended
+Time
+and
+Reality
+.. and
+Other Thing
+.
+Jared's Powers (Abilities)
+Bend the fabric of
+Reality
+Trivia
+Jared is probably older than
+Jerald
+in True Real Life time.
+Bloatfish
+[
+]
+Bloatfish have sticky glue-like skin that they use to cover their bodies in voidstone. Though it protects them from predators, their immense weight has sunk them to the deepest parts of the Eternal Abyss. Bloatfish is a fish that is almost has same detail as other Eternal Abyss' creatures.
+Depth Crush
+[
+]
+When entity gets hit by Eternal Abyss' Layer 3 or 4 entity or projectile, entity will affected by "Depth Crush", which does: No
+Life Regeneration
+, -0.5% life per second.
+Riptide
+[
+]
+When entity gets hit by Eternal Abyss' Layer 2 entity or projectile, entity will affected by "Riptide", which does: No
+Life Regeneration
+, -0.03% life per second.
+Brimstone Flames
+[
+]
+Brimstone Flames is a
+Debuff
+that does: No Life Regeneration, -0.1% life per second.
+Eternal Abyssal Suit
+[
+]
+Eternal Abyssal Suit is a suit that provides much things in the Eternal Abyss.
+Provides large amount of light.
+Drastically reduces breath loss in Eternal Abyss.
+Increases mobility in Eternal Abyss.
+Drastically reduces damage taken by entities in Eternal Abyss.
+Drastically reduces damage taken by
+Debuff
+s in Eternal Abyss.
+Eternal Abyssal Fragments
+[
+]
+Eternal Abyssal Fragments are fragment of Eternal Abyss.
+Eternal Abyssal Suit Fragments
+[
+]
+Eternal Abyssal Suit Fragments are broken Eternal Suit Plates.
+Contents
+[
+]
+Eternal Abyss' Chest
+[
+]
+Some Eternal Abyssal Suit Fragments can be found in this chest.
+Eternal Abyss' Pot
+[
+]
+Eternal Abyssal Fragments can be obtained from this pot.
+Eternal Abyssal Ore
+[
+]
+Eternal Abyssal Ore is a ore that has dark blue color and bright blue cracks. You can craft Eternal Abyssal Suit with 100K Eternal Abyssal Ores,1M Eternal Abyssal Fragments and 10 Eternal Abyssal Suit Fragments.
+Eternal Abyss' Chest (4th Layer)
+[
+]
+The
+Terminus
+can be found in this chest.
+Altar of the Accursed (Can be found in 4th Layer)
+[
+]
+Altar of the Accursed can be used with
+Ashes of Calamity
+when summoning
+Supreme Witch, Calamitas
+.
+The Full Map Picture of Eternal Abyss.

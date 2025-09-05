@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+27348,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/eb/Screen_Shot_2020-05-08_at_9.03.12_AM.png/revision/latest?cb=20200508160433,"{""\n\n"": 1}",1
+27348,1,Six,45,48,internal,https://alldimensions.fandom.com/wiki/Six,"{""Six"": 1}",1
+27348,1,Fives,214,219,internal,https://alldimensions.fandom.com/wiki/Five,"{""Fives"": 1}",1
+27348,1,Sixs,235,239,internal,https://alldimensions.fandom.com/wiki/Six,"{""Sixs"": 1}",1
+27348,1,Threes,261,267,internal,https://alldimensions.fandom.com/wiki/Three,"{""Threes"": 1}",1
+27348,2,The Pencil Language,16,35,internal,https://alldimensions.fandom.com/wiki/The_Pencil_Language,"{""The Pencil Language"": 1}",1
+27348,2,Threes,71,77,internal,https://alldimensions.fandom.com/wiki/Three,"{""Threes"": 1}",1
+27348,2,One Chain,131,140,internal,https://alldimensions.fandom.com/wiki/Category:One_Chain,"{""One Chain"": 1}",1
+27348,5,Threes,24,30,internal,https://alldimensions.fandom.com/wiki/Three,"{""Threes"": 1}",1
+27348,5,Ones,68,72,internal,https://alldimensions.fandom.com/wiki/One,"{""Ones"": 1}",1

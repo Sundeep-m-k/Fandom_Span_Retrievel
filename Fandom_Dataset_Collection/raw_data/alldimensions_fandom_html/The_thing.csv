@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+24709,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f1/Screen_Shot_2020-04-16_at_7.27.39_PM.png/revision/latest?cb=20200417022755,"{""\n\n"": 1}",1
+24709,1,Universe,280,288,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+24709,2,Universes,65,74,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+24709,4,OYC,27,30,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+24709,4,shadow,149,155,internal,https://alldimensions.fandom.com/wiki/Shadow,"{""shadow"": 1}",1

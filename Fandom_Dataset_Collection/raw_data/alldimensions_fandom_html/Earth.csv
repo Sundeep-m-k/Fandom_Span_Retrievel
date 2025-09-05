@@ -1,0 +1,48 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2468,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/36/Earth.jpg/revision/latest?cb=20200103172944,"{""\n\n"": 1}",1
+2468,1,Solar System,455,467,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar System"": 1}",1
+2468,1,Frontrooms,508,518,internal,https://alldimensions.fandom.com/wiki/The_Frontrooms,"{""Frontrooms"": 1}",1
+2468,1,The Moon,571,579,internal,https://alldimensions.fandom.com/wiki/The_Moon,"{""The Moon"": 1}",1
+2468,1,Sun,616,619,internal,https://alldimensions.fandom.com/wiki/Sun,"{""Sun"": 1}",1
+2468,1,Solar System,455,467,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar System"": 1}",1
+2468,1,The Moon,571,579,internal,https://alldimensions.fandom.com/wiki/The_Moon,"{""The Moon"": 1}",1
+2468,1,Universe,906,914,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+2468,8,Jupiter,89,96,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
+2468,8,Saturn,146,152,internal,https://alldimensions.fandom.com/wiki/Saturn,"{""Saturn"": 1}",1
+2468,8,Jupiter,89,96,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
+2468,8,Mars,77,81,internal,https://alldimensions.fandom.com/wiki/Mars,"{""Mars"": 1}",1
+2468,10,[1],76,79,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+2468,11,[2],242,245,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1
+2468,11,[3],245,248,anchor,https://alldimensions.fandom.com#cite_note-3,"{""[3]"": 1}",1
+2468,13,Mohorovicic discontinuity,84,109,external,https://en.wikipedia.org/wiki/Mohorovi%C4%8Di%C4%87_discontinuity,"{""Mohorovicic discontinuity"": 1}",1
+2468,13,[4],166,169,anchor,https://alldimensions.fandom.com#cite_note-4,"{""[4]"": 1}",1
+2468,14,[5],355,358,anchor,https://alldimensions.fandom.com#cite_note-5,"{""[5]"": 1}",1
+2468,15,Olivine,0,7,external,https://geology.com/minerals/olivine.shtml,"{""Olivine"": 1}",1
+2468,15,pyroxenes,9,18,external,https://www.esci.umn.edu/courses/1001/minerals/pyroxene.shtml,"{""pyroxenes"": 1}",1
+2468,15,garnets,20,27,external,https://geology.com/minerals/garnet.shtml,"{""garnets"": 1}",1
+2468,15,spinels,29,36,external,https://en.wikipedia.org/wiki/Spinel,"{""spinels"": 1}",1
+2468,15,perovskite,38,48,external,https://www.perovskite-info.com/perovskite-solar,"{""perovskite"": 1}",1
+2468,15,ferropericlase,53,67,external,https://en.wikipedia.org/wiki/Ferropericlase,"{""ferropericlase"": 1}",1
+2468,15,[6],118,121,anchor,https://alldimensions.fandom.com#cite_note-6,"{""[6]"": 1}",1
+2468,16,[7],174,177,anchor,https://alldimensions.fandom.com#cite_note-7,"{""[7]"": 1}",1
+2468,18,[8],122,125,anchor,https://alldimensions.fandom.com#cite_note-8,"{""[8]"": 1}",1
+2468,18,[9],382,385,anchor,https://alldimensions.fandom.com#cite_note-9,"{""[9]"": 1}",1
+2468,19,magnetosphere,60,73,external,https://phys.org/news/2018-03-earth-magnetosphere.html,"{""magnetosphere"": 1}",1
+2468,20,eddy currents,109,122,external,https://en.wikipedia.org/wiki/Eddy_current,"{""eddy currents"": 1}",1
+2468,21,[10],406,410,anchor,https://alldimensions.fandom.com#cite_note-10,"{""[10]"": 1}",1
+2468,23,[11],386,390,anchor,https://alldimensions.fandom.com#cite_note-11,"{""[11]"": 1}",1
+2468,25,[12],302,306,anchor,https://alldimensions.fandom.com#cite_note-12,"{""[12]"": 1}",1
+2468,29,[13],171,175,anchor,https://alldimensions.fandom.com#cite_note-13,"{""[13]"": 1}",1
+2468,30,Brewer-Dubson circulations,99,125,external,https://en.wikipedia.org/wiki/Brewer%E2%80%93Dobson_circulation,"{""Brewer-Dubson circulations"": 1}",1
+2468,32,[14],120,124,anchor,https://alldimensions.fandom.com#cite_note-14,"{""[14]"": 1}",1
+2468,37,guided stars,207,219,external,https://en.wikipedia.org/wiki/Laser_guide_star,"{""guided stars"": 1}",1
+2468,39,Mercury,98,105,internal,https://alldimensions.fandom.com/wiki/Mercury,"{""Mercury"": 1}",1
+2468,40,barometric functions,178,198,external,https://en.wikipedia.org/wiki/Barometric_formula,"{""barometric functions"": 1}",1
+2468,42,[15],124,128,anchor,https://alldimensions.fandom.com#cite_note-15,"{""[15]"": 1}",1
+2468,42,[16],303,307,anchor,https://alldimensions.fandom.com#cite_note-16,"{""[16]"": 1}",1
+2468,42,Jupiter,385,392,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
+2468,42,[17],891,895,anchor,https://alldimensions.fandom.com#cite_note-17,"{""[17]"": 1}",1
+2468,42,[18],1076,1080,anchor,https://alldimensions.fandom.com#cite_note-18,"{""[18]"": 1}",1
+2468,43,User blog:A86475342/Earth,11,36,internal,https://alldimensions.fandom.com/wiki/User_blog:A86475342/Earth,"{""User blog:A86475342/Earth"": 1}",1

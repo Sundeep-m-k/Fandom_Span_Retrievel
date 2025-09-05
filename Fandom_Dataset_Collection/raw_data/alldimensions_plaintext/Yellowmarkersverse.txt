@@ -1,0 +1,42 @@
+Yellowmarkersverse
+Scale
+Size
+At least ω
+2
+EUSI
+φ(1) + 1
+Finality Index
+N/A
+Dimensionality
+ω
+Properties
+Class
+1
+Shape
+A yellow marker
+Position
+Contained by:
+The Box
+Contains:
+Cranberrycupverse
+,
+A cat in a treeverse
+,
+Paradoxverse
+,
+Countingverse
+The
+Yellowmarkersverse
+is a yellow marker-shaped verse that contains all of YellowMarker's verses, with some exceptions.
+The Yellowmarkersverse does not contain any of his verses contained by another verse explicitly.
+This means that the Yellowmarkersverse contains the
+Cranberrycupverse
+, the
+A cat in a treeverse
+, the
+Paradoxverse
+, and the
+Countingverse
+. The
+Paradoxverse
+in fact contains itself, but the self-containment of the Paradoxverse is located in the Paradoxverse. The other verses have nothing special in terms of containment, and are contained as they are.

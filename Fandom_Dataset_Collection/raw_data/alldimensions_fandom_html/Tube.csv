@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+6111,1,circle,82,88,external,https://verse-and-dimensions.fandom.com/wiki/Circle,"{""circle"": 1}",1
+6111,1,torus,164,169,external,https://verse-and-dimensions.fandom.com/wiki/Torus,"{""torus"": 1}",1
+6111,1,line segment,197,209,external,https://verse-and-dimensions.fandom.com/wiki/Line_segment,"{""line segment"": 1}",1

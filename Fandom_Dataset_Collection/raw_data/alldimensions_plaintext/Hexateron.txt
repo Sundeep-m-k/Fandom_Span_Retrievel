@@ -1,0 +1,131 @@
+hexateron
+A
+hexateron
+is a 5-dimensional
+simplex
+. It is also called the
+pyroteron
+under the
+elemental naming scheme
+.
+Properties
+[
+]
+Hypervolumes
+[
+]
+vertex count
+=
+6
+{\displaystyle 6}
+edge length
+=
+15
+l
+{\displaystyle 15l}
+surface area
+=
+5
+3
+l
+2
+{\displaystyle 5\sqrt { 3 } { l }^{ 2 }}
+surcell volume
+=
+5
+2
+4
+l
+3
+{\displaystyle \frac { 5\sqrt { 2 }  }{ 4 } { l }^{ 3 }}
+surteron bulk
+=
+5
+16
+l
+4
+{\displaystyle \frac { \sqrt { 5 }  }{ 16 } { l }^{ 4 }}
+surpeton pentavolume
+=
+3
+480
+l
+5
+{\displaystyle \frac { \sqrt { 3 }  }{ 480 } { l }^{ 5 }}
+Subfacets
+[
+]
+6
+points
+(0D)
+15
+lines
+(1D)
+20
+triangles
+(2D)
+15
+tetrahedra
+(3D)
+6
+pentachora
+(4D)
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

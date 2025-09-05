@@ -1,0 +1,133 @@
+Ronnagiant
+MS-91201, a ΔR2 Star. On the bottom right corner is MUS-3920123, a ΔY6 Star Companion
+Class
+0
+Mass
+10^200 - 10^1,000 solar masses
+Radius
+5,000 - 1,000,000 light-years
+Luminosity
+10^350 - 10^1,500 solar luminosities
+Temperature
+10^250 - 10^900 kelvins
+Lifetime
+1 quarillion years
+Class ΔR Stars
+(Also known as Ronnagiants, Xennagiants or Brontogiants) are the second largest metric prefix stars, much brighter than
+Yottagiants
+, but dwarf in size to
+Quettagiants
+. They are extremely massive, with sizes ranging from thousands to 1 million light years and weighing up to 10^1,000 times heavier than our sun. They have a red hue that get's darker and more noticeable the brighter the star. They are also incredibly bright, shining with the brightness of up to 10^1,500 suns and with temperatures up to 10^900 Kelvin. They are commonly found in
+Ochaverses
+, the largest of them being found in
+Mingaverses
+.
+The most common type of ΔR Stars are Substars, which are nowhere near the size of regular ΔR Stars. A common example is the
+Geraldson 9-21
+system, containing two Ronnagiant Substars and one Quettagiant Substar. Substars have a much lower size, temperature, mass and brightness, yet still maintain their color due to the elements they fuse.
+Class ΔR Stars fuse many hyperradioactive elements, the heaviest being Rixium, with an element number of 1,002,398.
+Lifespan
+[
+]
+ΔR stars, despite their size, have insanely dense cores. This gives them lots of fuel to burn, allowing them to live for around a quadrillion years on average, far outliving even the smallest red dwarves.
+Habitability
+[
+]
+ΔR stars have a habitable zone ranging from 10^300 to 10^1200 light years. For Substars, the habitable zone is around 300,000 light years on average.
+Rarity
+[
+]
+Around 1 in 10^750 stars are ΔR stars, and 1 in 10^2200 are ΔR2 stars, the largest type of Ronnagiants. For Substars, the rarity is around 1 in 1.3 quadrillion.
+The closest Ronnagiant Substar is Geraldson 9-21 A and B, at 15 trillion light years away. The closest main sequence ΔR Star is RMS-3209, at 10^695 light years away. The closest ΔR2 Star is MS-91201, at 10^1,980 light years away.
+Properties of ΔR Stars
+Spectral Type
+Mass
+Luminosity
+Radius
+Temperature
+ΔR Substar
+10^25
+10^13
+5
+2,000
+ΔR0
+10^200
+10^350
+5,000
+10^250
+ΔR1
+10^500
+10^900
+200,000
+10^550
+ΔR2
+10^1,000
+10^1,500
+1,000,000
+10^900
+Star
+Classes
+Main Sequence
+Y
+-
+T
+-
+L
+-
+M
+-
+K
+-
+G
+-
+F
+-
+A
+-
+B
+-
+O
+-
+Z
+-
+Ξ
+-
+ΔK
+-
+ΔM
+-
+ΔG
+-
+ΔT
+-
+ΔP
+-
+ΔE
+-
+ΔZ
+-
+ΔY
+-
+ΔR
+-
+Q
+-
+ω
+Dwarves
+D
+-
+Θ
+Holes
+Ω
+Other
+?
+-
+σ
+-
+þ
+-
+φ
+-
+R
+-
+Gs

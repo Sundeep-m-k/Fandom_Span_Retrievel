@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35665,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/05/Tworusverse.png/revision/latest?cb=20201030141033,"{""\n\n"": 1}",1
+35665,1,Torus Chain,51,62,internal,https://alldimensions.fandom.com/wiki/The_Torus_Chain,"{""Torus Chain"": 1}",1
+35665,1,Hencentroverse,74,88,internal,https://alldimensions.fandom.com/wiki/Hencentroverse,"{""Hencentroverse"": 1}",1
+35665,2,toriverse,82,91,internal,https://alldimensions.fandom.com/wiki/Toriverse,"{""toriverse"": 1}",1
+35665,2,Hencentroverses,232,247,internal,https://alldimensions.fandom.com/wiki/Hencentroverse,"{""Hencentroverses"": 1}",1
+35665,4,moquarks,117,125,internal,https://alldimensions.fandom.com/wiki/Moquark,"{""moquarks"": 1}",1

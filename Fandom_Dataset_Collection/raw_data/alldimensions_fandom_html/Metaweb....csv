@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43673,1,Meta,2,6,internal,https://alldimensions.fandom.com/wiki/The_Meta-Hierarchy,"{""Meta"": 1}",1
+43673,1,loop,128,132,internal,https://alldimensions.fandom.com/wiki/The_infinite_loops_theory,"{""loop"": 1}",1
+43673,3,universe,90,98,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+43673,3,Wikiverse,349,358,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
+43673,4,gods,164,168,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""gods"": 1}",1
+43673,5,polyasm,154,161,internal,https://alldimensions.fandom.com/wiki/Polyasms,"{""polyasm"": 1}",1
+43673,5,Pageverse,219,228,internal,https://alldimensions.fandom.com/wiki/Pageverse,"{""Pageverse"": 1}",1
+43673,5,metaclasses,276,287,internal,https://alldimensions.fandom.com/wiki/The_Meta-Hierarchy,"{""metaclasses"": 1}",1
+43673,6,Collective,24,34,internal,https://alldimensions.fandom.com/wiki/The_Collective,"{""Collective"": 1}",1
+43673,6,the meta hierarchy,71,89,internal,https://alldimensions.fandom.com/wiki/The_Meta-Hierarchy,"{""the meta hierarchy"": 1}",1

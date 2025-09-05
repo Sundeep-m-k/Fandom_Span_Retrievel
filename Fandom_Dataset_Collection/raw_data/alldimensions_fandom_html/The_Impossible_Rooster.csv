@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+30060,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ad/Rooster.jpg/revision/latest?cb=20200707140924,"{""\n\n"": 1}",1
+30060,3,dude with a mop,21,36,internal,https://alldimensions.fandom.com/wiki/The_Dude_with_a_Mop,"{""dude with a mop"": 1}",1
+30060,7,Thegatus,58,66,internal,https://alldimensions.fandom.com/wiki/Thegatus,"{""Thegatus"": 1}",1

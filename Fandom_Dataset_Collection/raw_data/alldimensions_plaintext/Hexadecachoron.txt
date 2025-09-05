@@ -1,0 +1,205 @@
+Hexadecachoron
+Geometry
+Dimensionality
+4
+Schläfli Symbol
+'"`UNIQ--postMath-00000001-QINU`"'
+Subfacets
+Vertices
+8
+points
+Edges
+24
+line segments
+Faces
+32
+triangles
+Cells
+16
+tetrahedra
+Tera
+1 hexadecachoron
+Hypervolumes
+Vertex Count
+'"`UNIQ--postMath-00000002-QINU`"'
+Edges Length
+'"`UNIQ--postMath-00000003-QINU`"'
+Surface Area
+'"`UNIQ--postMath-00000004-QINU`"'
+Surcell Volume
+'"`UNIQ--postMath-00000005-QINU`"'
+Surteron Bulk
+'"`UNIQ--postMath-00000006-QINU`"'
+Vertex-first projection of a hexadecachoron. In this projection, eight cells are obscured.
+A
+hexadecachoron
+(also called
+tetracross
+) is the four-dimensional
+cross polytope
+and the dual of a
+tesseract
+. It is also called a
+16-cell
+, due to its 16
+tetrahedral
+cells
+. It has the
+schläfli symbol
+{
+3
+,
+3
+,
+4
+}
+{\displaystyle \{3, 3, 4\}}
+, meaning that 4
+tetrahedra
+meet at each
+edge
+. Its Bowers acronym is "hex".
+Contents
+1
+Properties
+2
+Structure
+3
+Hypervolumes
+4
+Subfacets
+5
+See also
+Properties
+[
+]
+The hexadecachoron is the 4-D
+demihypercube
+, meaning it can be constructed by taking half the vertices of a
+tesseract
+. It is also a
+bipyramid
+of an
+octahedron
+, or a square
+duopyramid
+. Eight tetrahedra join at each vertex.
+Structure
+[
+]
+When seen from one of its cells, the hexadecachoron first has one cell, then four attached to its faces. The next six share an edge with the top cell and are perpendicular to it. The remaining four side cells share only a vertex with the top cell, and are themselves joined to the final cell, in dual orientation to the top cell.
+In vertex-first orientation, it is just two
+octahedral
+pyramids
+joined together.
+Hypervolumes
+[
+]
+vertex count
+=
+8
+{\displaystyle 8}
+edge length
+=
+24
+l
+{\displaystyle 24 l}
+surface area
+=
+8
+l
+2
+3
+{\displaystyle 8{ l }^{ 2 }\sqrt { 3 }}
+surcell volume
+=
+4
+2
+3
+l
+3
+{\displaystyle \frac { 4\sqrt { 2 }  }{ 3 } { l }^{ 3 }}
+surteron bulk
+=
+1
+6
+l
+4
+{\displaystyle \frac{1}{6}l^4}
+Subfacets
+[
+]
+8
+points
+(0D)
+24
+line segments
+(1D)
+32
+triangles
+(2D)
+16
+tetrahedra
+(3D)
+See also
+[
+]
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

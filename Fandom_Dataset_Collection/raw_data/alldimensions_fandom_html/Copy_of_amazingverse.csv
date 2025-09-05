@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+19231,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a0/Carbon_dioxide_3D_ball.png/revision/latest?cb=20191218132236,"{""\n\n"": 1}",1
+19231,1,The Box,60,67,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1

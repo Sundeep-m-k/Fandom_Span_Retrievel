@@ -1,0 +1,52 @@
+The 3rd dimension, the
+realm
+, has
+length
+,
+width
+, and
+height
+. Points on the realm can be described with three coordinates, written in the form
+(
+x
+,
+y
+,
+z
+)
+{\displaystyle (x, y, z)}
+.
+Space is also used to describe things in a physical realm. The smallest major terrestrial body in space is a
+Planet
+.
+Polyhedra
+[
+]
+Main Article:
+List of Polyhedra By Type
+The platonic solids have all their
+faces
+be the same type, all their
+edges
+be the same length, and all vertices have the same number of
+edges
+coming from them, and are convex. They are sometimes associated with the classical elements.
+All platonic solids can also be used as dice, with the number of possible values being equal to the number of
+faces
+.
+Tetrahedron
+Cube
+(hexahedron)
+Octahedron
+Dodecahedron
+Icosahedron
+Dimension
+[
+]
+Name:
+Polyhedron
+Prev:
+Plane
+Next:
+Flune
+, or sometimes time (though time is somewhat useless when talking about geometry).

@@ -1,0 +1,20 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+30310,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/da/Vowoez.png/revision/latest?cb=20200530202335,"{""\n\n"": 1}",1
+30310,1,the First Realm,258,273,internal,https://alldimensions.fandom.com/wiki/The_First_Realm,"{""the First Realm"": 1}",1
+30310,1,The Ealer,543,552,internal,https://alldimensions.fandom.com/wiki/The_Ealer,"{""The Ealer"": 1}",1
+30310,1,Realm,268,273,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Realm"": 1}",1
+30310,6,The Ealer,360,369,internal,https://alldimensions.fandom.com/wiki/The_Ealer,"{""The Ealer"": 1}",1
+30310,11,Yetmmud,23,30,internal,https://alldimensions.fandom.com/wiki/Yetmmud,"{""Yetmmud"": 1}",1
+30310,20,Grasslands,130,140,internal,https://alldimensions.fandom.com/wiki/Grasslands,"{""Grasslands"": 1}",1
+30310,20,TSoO,142,146,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Order,"{""TSoO"": 1}",1
+30310,20,TSoC,148,152,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Chaos,"{""TSoC"": 1}",1
+30310,20,TSoN,154,158,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Noise,"{""TSoN"": 1}",1
+30310,20,TSoL,160,164,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Limits,"{""TSoL"": 1}",1
+30310,20,TSoZ,166,170,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Zero,"{""TSoZ"": 1}",1
+30310,20,laws of Reality,216,231,internal,https://alldimensions.fandom.com/wiki/Leftunknown%27s_Axioms_of_Reality,"{""laws of Reality"": 1}",1
+30310,20,Cataclysm of 45,521,536,internal,https://alldimensions.fandom.com/wiki/Yetmmud,"{""Cataclysm of 45"": 1}",1
+30310,21,order,301,306,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Order,"{""order"": 1}",1
+30310,21,chaos,691,696,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Chaos,"{""chaos"": 1}",1
+30310,21,noise,922,927,internal,https://alldimensions.fandom.com/wiki/The_Supremum_of_Noise,"{""noise"": 1}",1

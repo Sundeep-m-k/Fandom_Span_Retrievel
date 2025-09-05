@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40594,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/ba/The_Fields.png/revision/latest?cb=20220115005226,"{""\n\n"": 1}",1
+40594,1,the blades,60,70,internal,https://alldimensions.fandom.com/wiki/The_blade,"{""the blades"": 1}",1
+40594,1,Earth,263,268,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+40594,1,Hardcore Axions,362,377,internal,https://alldimensions.fandom.com/wiki/Hardcore_Axion,"{""Hardcore Axions"": 1}",1
+40594,1,The blades,390,400,internal,https://alldimensions.fandom.com/wiki/The_blade,"{""The blades"": 1}",1
+40594,2,Earth's,131,138,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth's"": 1}",1
+40594,5,Earth,52,57,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1

@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+46527,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/53/Cubed_Virtual_Machine.png.jpg/revision/latest?cb=20240716104651,"{""\n\n"": 1}",1
+46527,2,The true host,163,176,internal,https://alldimensions.fandom.com/wiki/The_true_host,"{""The true host"": 1}",1
+46527,2,The Squared Virtual Machine,208,235,internal,https://alldimensions.fandom.com/wiki/The_Squared_Virtual_Machine,"{""The Squared Virtual Machine"": 1}",1

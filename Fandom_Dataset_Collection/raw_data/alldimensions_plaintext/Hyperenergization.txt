@@ -1,0 +1,27 @@
+Hyperenergization
+(British English: Hyperenergisation)
+is the process of bombarding an atom with ridiculous amounts of atomic energy. Hyperenergisation typically changes the properties of an element, generally making it more reactive.
+Hyperenergisation Levels
+[
+]
+There are various levels of hyperenergization which make atoms have different properties. The hyperenergisation level increases with the amount of atomic energy that is given to the atom.
+Chemical Notation
+[
+]
+Hypernergisation is labeled in chemical formulas as
+hE
+. If the hypernergization level is higher than 1, then it will be notated next to the hE in roman numerals, for example II-hyperenergisation is notated as
+hEII
+.
+Example of a real molecule (Bronzecarbite-hEIV):
+CoSn
+hEIV
+C
+9
+{\displaystyle {\ce {CoSn^{hEIV}C9}}}
+Hyperenergization Machines
+[
+]
+Diagram of a T-1 hyperenergiser.
+Normally, materials are run through hyperenergisers for singular hyperenergisation. These machines use a generator to convert regular energy to atomic energy, which is then put into a bombarder which beams the energy to an input material.
+To obtain higher hyperenergisation levels, it is required that the material is run through a hyperenergisation chain.

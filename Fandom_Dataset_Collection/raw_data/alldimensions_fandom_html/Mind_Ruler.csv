@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+25158,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/60/ZEEVEREEFURSTVURZZ.png/revision/latest?cb=20191003220555,"{""\n\n"": 1}",1
+25158,2,Dave,268,272,internal,https://alldimensions.fandom.com/wiki/Dave,"{""Dave"": 1}",1
+25158,2,Cosmic Dominators,401,418,internal,https://alldimensions.fandom.com/wiki/Cosmic_Dominator,"{""Cosmic Dominators"": 1}",1
+25158,2,Cosmic Burrows,471,485,internal,https://alldimensions.fandom.com/wiki/Cosmic_Burrow,"{""Cosmic Burrows"": 1}",1
+25158,2,CROM,514,518,internal,https://alldimensions.fandom.com/wiki/Cosmic_Remote_Omnipotence_Machine,"{""CROM"": 1}",1

@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35173,2,Apex,263,267,internal,https://alldimensions.fandom.com/wiki/Apex,"{""Apex"": 1}",1
+35173,2,Oracle,381,387,internal,https://alldimensions.fandom.com/wiki/Oracle,"{""Oracle"": 1}",1
+35173,3,Apex,202,206,internal,https://alldimensions.fandom.com/wiki/Apex,"{""Apex"": 1}",1

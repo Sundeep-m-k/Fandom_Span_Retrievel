@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41407,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e2/Smallester.jpg/revision/latest?cb=20220417225517,"{""\n\n"": 1}",1
+41407,1,Smallest,2,10,internal,https://alldimensions.fandom.com/wiki/Smallest,"{""Smallest"": 1}",1
+41407,1,Smallests,195,204,internal,https://alldimensions.fandom.com/wiki/Smallest,"{""Smallests"": 1}",1
+41407,1,Smallestests,216,228,internal,https://alldimensions.fandom.com/wiki/Smallestest,"{""Smallestests"": 1}",1
+41407,1,Smallests,195,204,internal,https://alldimensions.fandom.com/wiki/Smallest,"{""Smallests"": 1}",1
+41407,2,Fricknia,166,174,internal,https://alldimensions.fandom.com/wiki/Fricknia,"{""Fricknia"": 1}",1
+41407,3,OYC,230,233,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

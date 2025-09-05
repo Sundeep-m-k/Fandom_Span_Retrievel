@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20804,1,Simplex,41,48,internal,https://alldimensions.fandom.com/wiki/Simplex,"{""Simplex"": 1}",1
+20804,1,Schläfli symbol,55,70,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""Schläfli symbol"": 1}",1
+20804,2,E100#100,41,49,external,https://googology.fandom.com/wiki/Hyper-E_notation,"{""E100#100"": 1}",1
+20804,2,Forever,74,81,internal,https://alldimensions.fandom.com/wiki/Forever,"{""Forever"": 1}",1
+20804,2,purple hole,98,109,internal,https://alldimensions.fandom.com/wiki/Holes,"{""purple hole"": 1}",1

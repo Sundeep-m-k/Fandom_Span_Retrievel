@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45413,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/44/Planet_Nine.png/revision/latest?cb=20240207191746,"{""\n\n"": 1}",1
+45413,1, Our Solar System,343,360,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{"" Our Solar System"": 1}",1
+45413,2,Solar System,35,47,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar System"": 1}",1
+45413,2,Sun,103,106,internal,https://alldimensions.fandom.com/wiki/Sun,"{""Sun"": 1}",1
+45413,7,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/56/Hera.png/revision/latest?cb=20240207214850,"{""\n\n"": 1}",1
+45413,15,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ae/Trogdor.png/revision/latest?cb=20240210181002,"{""\n\n"": 1}",1

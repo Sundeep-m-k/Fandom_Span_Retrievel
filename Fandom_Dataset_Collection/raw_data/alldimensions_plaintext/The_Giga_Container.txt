@@ -1,0 +1,33 @@
+Giga Container
+Looks pretty giga to me!
+Scale
+Size
+?????
+Properties
+Class
+21
+Shape
+Cube
+Density (Void Percentage)
+0%, infinitely dense
+Position
+Contained by:
+The Containers of Containers of Containers...
+, and itself
+Contains:
+The Mega Containers
+, itself, and everything the same size as it (which includes itself).
+The Giga Container
+is a container that contains everything smaller than itself, and the same size as itself, meaning it is not only everywhere, but every instance contains infinite instances of the Giga Container.
+So, you may be asking, why is this not a berry paradox? Well, *points to
+the Box
+*. But Fish, that’s also the Berry Paradox too! Well, to that I say: Cry about it.
+WAIT NO MODS I’M SORRY DON’T DELETE THIS PAGE PLEASE—
+Aaaaaanyway, due to the
+Mega Container
+requiring to contain literally everything smaller than itself, the Giga Container has no parts. It is made of one particle that is large, indescribably large. If you are too small, breaking through the Giga Barrier will send you to the
+Mega Container
+. Otherwise, you will go to either the center of the Giga Container, or to
+Unexistence
+. Thus, to exit TGC, your components must grow larger than TGC.
+This is the old image of TGC.

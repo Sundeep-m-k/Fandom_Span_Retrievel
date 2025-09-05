@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43706,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/63/Bubbles.jpg/revision/latest?cb=20230216130512,"{""\n\n"": 1}",1
+43706,1,Omniversje,85,95,internal,https://alldimensions.fandom.com/wiki/Omniversje,"{""Omniversje"": 1}",1
+43706,1,The Box,113,120,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+43706,1,Oikoversje,132,142,internal,https://alldimensions.fandom.com/wiki/Oikoversje,"{""Oikoversje"": 1}",1
+43706,2,oikoversjes,158,169,internal,https://alldimensions.fandom.com/wiki/Oikoversje,"{""oikoversjes"": 1}",1
+43706,4,omniversje,389,399,internal,https://alldimensions.fandom.com/wiki/Omniversje,"{""omniversje"": 1}",1
+43706,5,oikoversjes,23,34,internal,https://alldimensions.fandom.com/wiki/Oikoversje,"{""oikoversjes"": 1}",1
+43706,5,oikoversje,23,33,internal,https://alldimensions.fandom.com/wiki/Oikoversje,"{""oikoversje"": 1}",1

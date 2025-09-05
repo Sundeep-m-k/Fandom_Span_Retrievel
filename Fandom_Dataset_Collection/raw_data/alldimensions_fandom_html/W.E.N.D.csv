@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+38262,2,[1],23,26,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+38262,2,here,41,45,internal,https://alldimensions.fandom.com/wiki/Category:W.E.N.D,"{""here"": 1}",1
+38262,3,cosmic entities,83,98,internal,https://alldimensions.fandom.com/wiki/The_Official_Cosmic_Entity_Hierarchy,"{""cosmic entities"": 1}",1
+38262,3,·,235,236,internal,https://alldimensions.fandom.com/wiki/%C2%B7,"{""·"": 1}",1
+38262,3,the help of other entities,252,278,internal,https://alldimensions.fandom.com/wiki/The_Forcers,"{""the help of other entities"": 1}",1
+38262,4,Wendy,33,38,internal,https://alldimensions.fandom.com/wiki/Wendy,"{""Wendy"": 1}",1
+38262,4,Micropeanut,73,84,internal,https://alldimensions.fandom.com/wiki/Micropeanut,"{""Micropeanut"": 1}",1
+38262,4,Forcers,100,107,internal,https://alldimensions.fandom.com/wiki/The_Forcers,"{""Forcers"": 1}",1
+38262,5,·,184,185,internal,https://alldimensions.fandom.com/wiki/%C2%B7,"{""·"": 1}",1
+38262,5,[2],185,188,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1

@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36184,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/12/V1.png/revision/latest?cb=20201219074338,"{""\n\n"": 1}",1
+36184,1,Green wall,212,222,internal,https://alldimensions.fandom.com/wiki/Green_wall,"{""Green wall"": 1}",1
+36184,1,The line,224,232,internal,https://alldimensions.fandom.com/wiki/The_line,"{""The line"": 1}",1
+36184,1,Horosphere,234,244,internal,https://alldimensions.fandom.com/wiki/Horosphere,"{""Horosphere"": 1}",1
+36184,1,Odd void,246,254,internal,https://alldimensions.fandom.com/wiki/Odd_void,"{""Odd void"": 1}",1

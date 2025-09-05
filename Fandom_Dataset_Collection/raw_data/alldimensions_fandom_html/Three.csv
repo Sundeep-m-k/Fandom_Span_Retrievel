@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+27216,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/74/Screen_Shot_2020-05-07_at_12.02.57_PM.png/revision/latest?cb=20200507190312,"{""\n\n"": 1}",1
+27216,1,Fours,204,209,internal,https://alldimensions.fandom.com/wiki/Four,"{""Fours"": 1}",1
+27216,1,Twos,222,226,internal,https://alldimensions.fandom.com/wiki/Two,"{""Twos"": 1}",1
+27216,2,Pencil Language,15,30,internal,https://alldimensions.fandom.com/wiki/The_Pencil_Language,"{""Pencil Language"": 1}",1
+27216,2,One,80,83,internal,https://alldimensions.fandom.com/wiki/One,"{""One"": 1}",1
+27216,4,Twos,20,24,internal,https://alldimensions.fandom.com/wiki/Two,"{""Twos"": 1}",1
+27216,4,Twos,20,24,internal,https://alldimensions.fandom.com/wiki/Two,"{""Twos"": 1}",1
+27216,4,Ones,71,75,internal,https://alldimensions.fandom.com/wiki/One,"{""Ones"": 1}",1
+27216,4,Two,20,23,internal,https://alldimensions.fandom.com/wiki/Two,"{""Two"": 1}",1
+27216,4,Twos,20,24,internal,https://alldimensions.fandom.com/wiki/Two,"{""Twos"": 1}",1
+27216,4,Two,20,23,internal,https://alldimensions.fandom.com/wiki/Two,"{""Two"": 1}",1

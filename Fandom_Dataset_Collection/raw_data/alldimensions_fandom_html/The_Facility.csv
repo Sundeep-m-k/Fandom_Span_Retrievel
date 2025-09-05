@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34826,1,Something,215,224,internal,https://alldimensions.fandom.com/wiki/Something,"{""Something"": 1}",1
+34826,1,Something,215,224,internal,https://alldimensions.fandom.com/wiki/Something,"{""Something"": 1}",1
+34826,9,"""Password, Please""",28,46,internal,"https://alldimensions.fandom.com/wiki/%22Password,_Please!%22","{""\""Password, Please\"""": 1}",1

@@ -1,0 +1,82 @@
+Hyperbolicluster
+Info
+Size/Diameter
+940 Tly (1200 δ) (verse break)
+1.1 Ply (1400 δ) (hyperbolic to euclidean shift)
+1.59 Ply (1900 δ) (fully euclidean)
+Dimensions
+3D
+G̸̡̛̤̪̰̭̫͔̼͊̃̽̓̔̂̈̽͌́͒̚͘͜͠l̴̥̦͙̺̯͙̣̳̮̜͛ͅĭ̵̡̢̪͇̪͉͕̤͍̭̅̋̿̓̓͊ͅͅt̷̜͇̲̻͙̟͓̯̩̭͖̐̅ć̵̨̛̭̫̻̻̜̈͑̈̆̆̈̈́͋͐̔͘͝h̴̛̟̜̓͑̃̿͂̄̀͛͐̈́́̈́̇͝y̴̡̢̤̫͓̪̹̲̖̩̥̫̏͂̐̈́̓͜͝ͅ?
+No
+Age
+741 trillion years
+Location
+Contained by
+Metaverse
+Contains
+Hyperbolic universes (Hyperboliverses)
+The
+Hyperbolicluster
+is a large cluster of different types of verses inside a hyperbolic region of space. In this page, it will use
+δ
+as a measuring unit, which is the absolute unit
+[
+1
+]
+of the space, which is about 783.52 Gly. It is about 940 Tly (1200 δ) in diameter.
+Contents
+1
+Verse Types
+1.1
+Hyperboliverse δ
+1.2
+Hyperboliverse γ / Hyper Galaxy Cluster
+1.3
+Hyperboliverse β
+1.4
+Hyperboliverse α
+2
+References
+Verse Types
+[
+]
+The Hyperbolicluster has four types of verses, called Hyperboliverses.
+Hyperboliverse δ
+[
+]
+Hyperboliverses δ
+are Hyperboliverses located in the outer regions of the Hyperbolicluster. Their average size is very close to the absolute unit (796.2 Gly, 1.016 δ), and that is the reason δ is used for the absolute unit. Normally, they are blue.
+Hyperboliverses δ only exist on the outer 43% of the Hyperbolicluster.
+Hyperboliverse γ / Hyper Galaxy Cluster
+[
+]
+Hyper Galaxy Clusters
+or
+Hyperboliverse γ
+are rogue galaxy clusters 84 Gly (0.107 δ) across on average. They are relatively Euclidean, and most civilizations don't notice the unnatural nature of the surroundings until much later, when they start measuring very large triangles inside the Hyperbolicluster.
+Because of gravity, they are usually roughly spherical and have voids in them, like our universe's cosmic web.
+Hyperboliverse β
+[
+]
+Hyperboliverses β
+are normal, though hyperbolic, universes. They are, on average, 3.27 Tly (4.176 δ) in diameter. Normally, their emitted color is turquoise, though in some rare cases (1.3%), their color is green.
+Around 60% of the verses include many hypergalaxies, which are clusters of galaxies, typically containing 3000-7000 galaxies. They orbit around a very massive black hole (septillions of solar masses) on a single plane, like the planets in our solar system.
+Hyperboliverse α
+[
+]
+Hyperboliverses α
+are the largest class of Hyperboliverses. They are very large and bright, and are on average 26.54 Tly (33.873 δ) in diameter. They are very hot, reaching temperatures of 1800 °C on average, making this verse lifeless. They only exist 230 δ from the center of the Hyperbolicluster.
+Even though they are very bright, they become exponentially harder to see the farther from one you go, which makes it so that they become as bright as the sun at ~135 δ, and become impossible to see at ~140 δ.
+References
+[
+]
+↑
+The
+absolute unit
+is a unit in hyperbolic space which is used for formulas.
+
+For example, the area for a circle in hyperbolic space is
+2π(cosh(r)-1)
+, where
+r
+is the radius in absolute units

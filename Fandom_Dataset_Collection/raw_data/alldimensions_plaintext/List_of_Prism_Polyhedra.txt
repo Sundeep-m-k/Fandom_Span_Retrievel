@@ -1,0 +1,387 @@
+Triangular Prism
+Wider Scope:
+List of Polyhedra by Type
+Prism polyhedra are formed by stretching a
+polygon
+into
+three-dimensional space
+, or connecting two polygons with rectangles, or getting the Cartesian product of a polygon and a
+line segment
+(all three methods are identical). As there are an infinite number of uniform
+polygons
+, there are also an infinite number of prisms.
+Some significant prisms are, along with their
+Schläfli symbols
+:
+Henagonal Prism
+{
+}
+×
+{
+1
+}
+{\displaystyle \{\}\times \{1\}}
+Digonal Prism
+{
+}
+×
+{
+2
+}
+{\displaystyle \{\}\times \{2\}}
+Triangular Prism
+{
+}
+×
+{
+3
+}
+{\displaystyle \{\}\times \{3\}}
+Cube
+{
+4
+,
+3
+}
+{\displaystyle \{4,3\}}
+Pentagonal Prism
+{
+}
+×
+{
+5
+}
+{\displaystyle \{\}\times \{5\}}
+Hexagonal Prism
+{
+}
+×
+{
+6
+}
+{\displaystyle \{\}\times \{6\}}
+Heptagonal Prism
+{
+}
+×
+{
+7
+}
+{\displaystyle \{\}\times \{7\}}
+Octagonal Prism
+{
+}
+×
+{
+8
+}
+{\displaystyle \{\}\times \{8\}}
+Enneagonal Prism
+{
+}
+×
+{
+9
+}
+{\displaystyle \{\}\times \{9\}}
+Decagonal Prism
+{
+}
+×
+{
+10
+}
+{\displaystyle \{\}\times \{10\}}
+Hendecagonal Prism
+{
+}
+×
+{
+11
+}
+{\displaystyle \{\}\times \{11\}}
+Dodecagonal Prism
+{
+}
+×
+{
+12
+}
+{\displaystyle \{\}\times \{12\}}
+Megagonal Prism
+{
+}
+×
+{
+1000000
+}
+{\displaystyle \{\}\times \{1000000\}}
+Apeirogonal Prism
+{
+}
+×
+{
+ℵ
+0
+}
+{\displaystyle \{\}\times \{{\aleph }_{0}\}}
+Contents
+1
+Henagonal Prism
+1.1
+Hypervolumes
+1.2
+Subfacets
+2
+Diagonal Prism
+2.1
+Hypervolumes
+2.2
+Subfacets
+3
+Triangular Prism
+4
+Square Prism
+5
+Pentagonal Prism
+6
+Prism Polyhedron Subfacets
+Henagonal Prism
+[
+]
+A
+henagonal prism
+is a prism with a
+henagon
+as the base. Because of this, it is degenerate in normal Euclidean space.
+It has the Schläfli symbol
+{
+}
+×
+{
+1
+}
+{\displaystyle \{\}\times \{1\}}
+, since it is the product of a line segment and a henagon.
+Hypervolumes
+[
+]
+vertex count =
+2
+{\displaystyle 2}
+edge length =
+l
+{\displaystyle l}
+surface area =
+0
+l
+2
+{\displaystyle 0{l}^{2}}
+surcell volume =
+0
+l
+3
+{\displaystyle 0{l}^{3}}
+Subfacets
+[
+]
+2
+points
+(0D)
+3
+line segments
+(1D)
+2
+henagons
+(2D)
+1
+square
+(2D)
+Diagonal Prism
+[
+]
+The
+digonal prism
+is a prism with a
+digon
+as the base. Because of this, it is degenerate in normal Euclidean space but in some geometries (such as spherical geometry) it can exist properly.
+It has the Schläfli symbol
+{
+}
+×
+{
+2
+}
+{\displaystyle \{\}\times \{2\}}
+, since it is the product of a line segment and a digon. It also has the Schläfli symbol
+t
+{
+2
+,
+2
+}
+{\displaystyle t\{2,2\}}
+, since it is a truncated Digonal Dihedron and a truncated Digonal Hosohedron (both of which are in fact the same shape).
+Hypervolumes
+[
+]
+vertex count =
+4
+{\displaystyle 4}
+edge length =
+2
+l
+{\displaystyle 2 l}
+surface area =
+2
+l
+2
+{\displaystyle 2{l}^{2}}
+surcell volume =
+0
+l
+3
+{\displaystyle 0{l}^{3}}
+Subfacets
+[
+]
+4
+points
+(0D)
+6
+line segments
+(1D)
+2
+digons
+(2D)
+2
+squares
+(2D)
+Verticles
+Edges
+Faces
+Vertex Count
+Edges Length
+Surface Area
+4
+2
+2
+digons
+2
+squares
+4
+2
+l
+{\displaystyle 2 l}
+2
+l
+2
+{\displaystyle 2l^2}
+Triangular Prism
+[
+]
+A
+triangular prism
+is a prism with a
+triangle
+as its base. It is the simplest non-degenerate prism in Euclidean geometry.
+Verticles
+Edges
+Faces
+Cells
+Vertex Count
+Edges Length
+Surface Area
+Surcell Volume
+6
+9
+2
+triangles
+3
+squares
+1 triangular prism
+6
+9
+l
+{\displaystyle 9 l}
+3
++
+6
+2
+l
+2
+{\displaystyle {\frac {{\sqrt {3}}+6}{2}}l^{2}}
+3
+4
+l
+3
+{\displaystyle \frac{\sqrt{3}}{4} l^3}
+Square Prism
+[
+]
+A square prism is a three-dimensional shape. True to its name, it has a square base and four triangular faces meeting at an apex and each with one side sharing an edge with the object's base.
+Pentagonal Prism
+[
+]
+A
+pentagonal prism
+is a prism with a
+pentagon
+as its base.
+Verticles
+Edges
+Faces
+Cells
+Vertex Count
+Edges Length
+Surface Area
+Surcell Volume
+10
+15
+2
+pentagons
+5
+squares
+1 pentagonal prism
+10
+15
+l
+{\displaystyle 15l}
+10
++
+5
+(
+5
++
+2
+5
+)
+2
+l
+2
+{\displaystyle {\frac {10+{\sqrt {5(5+2{\sqrt {5}})}}}{2}}{l}^{2}}
+5
+(
+5
++
+2
+5
+)
+4
+l
+3
+{\displaystyle {\frac {\sqrt {5(5+2{\sqrt {5}})}}{4}}{l}^{3}}
+Prism Polyhedron Subfacets
+[
+]
+X = Sides of Base
+2X
+Points
+3X
+Lines
+X+2
+Faces
+(2 Bases, X
+Squares
+)
+1 Cell (1 Prism)

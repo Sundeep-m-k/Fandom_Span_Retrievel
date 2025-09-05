@@ -1,0 +1,229 @@
+This page is for Class 1 Verses that are not found along the Main line. This page is a WIP (Work-In-Progress). Different ways of how to organize The All Dimensions Nexus are still being experimented with.
+Contents
+1
+Rank 4 Branch Verses
+1.1
+4a+
+1.2
+4b+
+2
+Rank 6 Sub-Verses
+2.1
+6a-
+2.2
+6b-
+2.3
+6c-
+2.4
+6d-
+2.5
+6e-
+3
+Rank 6 Super-Verses
+3.1
+6+
+3.2
+6a+
+3.3
+6b+
+Rank 4 Branch Verses
+[
+]
+All verses that can be reached beginning with The Hyperverse as the initial node. These verses all have Rank extensions that begin with 4.
+4a+
+[
+]
+Rank 4a.1 | "
+Megaverse
+" | <5><4.2><4.1.1>
+Rank 4a.1.1 | "
+Ultraverse
+" | <5><4.1.2>
+Rank 4a.1.2 | "
+Infinityverse
+" | <+>
+Rank 4a.2 | "
+Gigaverse
+" | <+><+><+>
+Rank 4a.2.1 | "
+Geraverse
+"  | <4.3>
+Rank 4a.3 | "
+Teraverse
+" | <+>
+Rank 4a.4 | "
+Petaverse
+" | {-}{-}
+Rank 4a.5 | "
+Exaverse
+" |
+Rank 4a.6 | "
+Zettaverse
+" |
+Rank 4a.7 | "
+Yottaverse
+" |
+Rank 4a.8 | "
+Xennaverse
+" |
+Rank 4a.9 | "
+Wekaverse
+" |
+Rank 4a.10 | "
+Vendekaverse
+" |
+Rank 4a.11 | "
+Udekaverse
+" |
+Rank 4a.12 | "
+Tredaverse
+" |
+Rank 4a.13 | "
+Sortaverse
+" |
+Rank 4a.14 | "
+Rintaverse
+" |
+Rank 4a.15 | "
+Omni-Web
+" | <5>
+4b+
+[
+]
+Rank 4b.1 | "
+Archverse
+" | <5><4.1.1>
+Rank 4b.2 | "
+Infraverse
+" | <5><"Lawverse">
+Rank 6 Sub-Verses
+[
+]
+The Rank 6 Sub-Verses are all the Non-Primary Verses that can be said to be contained by "The Outside".
+6a-
+[
+]
+Rank 6a.-1 | "
+The Inside
+" | <6> |
+6b-
+[
+]
+Rank 6b.-1 | "
+Contradictverse
+" | <6> |
+6c-
+[
+]
+Rank 6c.-10 | "
+Xi-Cell
+" |
+Rank 6c.-9 | "
+Xi-Module
+" |
+Rank 6c.-8 | "
+UniXule
+" |
+Rank 6c.-7 | "
+MultiXule
+" |
+Rank 6c.-6 | "
+MetaXule
+" |
+Rank 6c.-5 | "
+XenoXule
+" |
+Rank 6c.-4 | "
+HyperXule
+" |
+Rank 6c.-3 | "
+Xicohtlxul
+" |
+Rank 6c.-2 | "
+The Lugubrigothic Speck
+" |
+Rank 6c.-1 | "
+The Deadzone
+" | {6c.-2}<6> |
+6d-
+[
+]
+Rank 6d.-1 | "
+The Outershell
+" | <6> |
+6e-
+[
+]
+Rank 6e.-1 | "
+Devourerverse
+" | {1,0}<6> |
+Rank 6 Super-Verses
+[
+]
+The Rank 6 Super-Verses are verses that contain The Outside yet are not primary verses themselves. These would be verses that contain The Outside but are still contained by The Box. The organization of such verses is currently under development. Stand by.
+6+
+[
+]
+Rank 6.1 | "
+Plasticverse
+" | {6}<6b.1> |
+6a+
+[
+]
+Rank 6a.1 | "
+Lawverse
+" | {6}<6b.1>
+6b+
+[
+]
+Rank 6b.1.-2 | "
+Luzeaverse
+" | {"galaxy"}<6b.1.-1> |
+Rank 6b.1.-1 | "
+TREEVERSE
+" | {"galaxy", 4.11, 4.10, 6b.1.-2, 1}<6b.1> |
+Rank 6b.1 | "
+Barrel
+" | {6,6b.1,6a.1}
+Rank 6b.2 | "
+Barrelplex
+" | {6b.1}<6b.3> |
+Rank 6b.3 | "
+The Barrelplock.
+" | {6b2,"Rainbowcomos","Tranverse"}<6b.4> |
+Rank 6b.4 | "
+The Barrelplockplex
+"
+Rank 6b.5 | "
+The Barrelplockina
+"
+Rank 6b.6 | "
+The Barrelplockinaguian
+"
+Rank 6b.7 | "
+Barrelplazia
+"
+Rank 6b.8 | "
+The Barrelplaka
+"
+Rank 6b.9 | "
+The Barrelplakania
+"
+Rank 6b.10 | "
+The Barrelocha
+"
+Rank 6b.11 | "
+Barrelverse
+"
+Rank 6b.12 | "
+Prime Barrel
+"
+Rank 6b.13 | "
+Barrel Container
+"
+Rank 6b.14 | "
+Hyper-Space
+"
+Rank 6b.15 | "
+Boxial Core
+" | <7>

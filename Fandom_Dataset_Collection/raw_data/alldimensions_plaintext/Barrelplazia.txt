@@ -1,0 +1,30 @@
+Barrelplazia
+Natural Position
+Contained by
+The Barrelplaka
+Contains
+The Barrelplockinaguian
+Scale
+Dimensionality
+ω+2
+Diameter
+330^^1000 Barrelplockinaguians
+Kardashev Scale
+ω+8
+Barrelplazia is the set of
+Barrelplockinaguianas
+. This is the only barrel in the series that can change colour via a function.
+The Barrelplazia is divided into objects the size of a square millimeter, called Daniels. Every time Barrelplazia is touched by an object, every Daniel of its surface follows the following convention:
+Take the current colour of the Daniel's hex code, and convert it to binary.
+Take the binary code of any neighbouring Daniel and apply the NAND operator with it to receive a new binary code.
+Convert the binary code back to hex, and then convert it to an RGB value (from 0 to 255).
+Set the R value to 255 - R.
+Set the G value to 255 - G.
+Set the B value to 255 - B.
+Convert the value back to hex, and then to binary.
+Pick any other neighbouring Daniel and use the XOR operator with it.
+Convert the resulting binary code back to hex, and make that the Daniel's new colour.
+Origin
+[
+]
+When alpha god mega doodle OOOOOO (Bongus, but pretending to be a different god) created this, he put a set of crap cards in it for people to find. However, they yeeted themselves out and turned into barrelblockinaguianas. The existing barrelplockinaguians also happened to be in it.

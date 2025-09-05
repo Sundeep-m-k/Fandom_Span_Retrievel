@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45721,1,EUSI,101,105,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+45721,1,Finality Index,113,127,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+45721,1,FOEI,135,139,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+45721,3,Transcendentem Continuum,263,287,internal,https://alldimensions.fandom.com/wiki/Transcendentem_Continuum,"{""Transcendentem Continuum"": 1}",1
+45721,3,Transcendentem,263,277,internal,https://alldimensions.fandom.com/wiki/Transcendentem,"{""Transcendentem"": 1}",1
+45721,3,Beyond,309,315,internal,https://alldimensions.fandom.com/wiki/Beyond,"{""Beyond"": 1}",1

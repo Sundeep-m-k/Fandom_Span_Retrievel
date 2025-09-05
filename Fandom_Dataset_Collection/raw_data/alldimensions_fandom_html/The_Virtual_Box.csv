@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48651,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/59/TheVirtualBox.jpeg/revision/latest?cb=20250122223412,"{""\n\n"": 1}",1
+48651,1,The true host,55,68,internal,https://alldimensions.fandom.com/wiki/The_true_host,"{""The true host"": 1}",1
+48651,1,The Cubed Virtual Machine,80,105,internal,https://alldimensions.fandom.com/wiki/The_Cubed_Virtual_Machine,"{""The Cubed Virtual Machine"": 1}",1
+48651,2,The Cubed Virtual Machine,104,129,internal,https://alldimensions.fandom.com/wiki/The_Cubed_Virtual_Machine,"{""The Cubed Virtual Machine"": 1}",1
+48651,3,The Box,77,84,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+48651,3,It is self-contained for and it is virtually impossible to even reach TVB. I,85,161,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""It is self-contained for and it is virtually impossible to even reach TVB. I"": 1}",1
+48651,5,The Virtual Machines,119,139,internal,https://alldimensions.fandom.com/wiki/The_Virtual_Machine,"{""The Virtual Machines"": 1}",1
+48651,5,TVMs,204,208,internal,https://alldimensions.fandom.com/wiki/The_Virtual_Machine,"{""TVMs"": 1}",1
+48651,5,The Cubed Virtual Machine,248,273,internal,https://alldimensions.fandom.com/wiki/The_Cubed_Virtual_Machine,"{""The Cubed Virtual Machine"": 1}",1
+48651,5,The true host,299,312,internal,https://alldimensions.fandom.com/wiki/The_true_host,"{""The true host"": 1}",1

@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42849,1,void,5,9,internal,https://alldimensions.fandom.com/wiki/The_Void,"{""void"": 1}",1
+42849,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b7/Void.jpg/revision/latest?cb=20170912013146,"{""\n\n"": 1}",1
+42849,2,Outcodes,257,265,internal,https://alldimensions.fandom.com/wiki/Outcode....,"{""Outcodes"": 1}",1
+42849,2,The Voids,278,287,internal,https://alldimensions.fandom.com/wiki/The_Void,"{""The Voids"": 1}",1
+42849,5,THIS,110,114,external,https://undertaleoc.fandom.com/wiki/Error!Sans,"{""THIS"": 1}",1

@@ -1,0 +1,17 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+21212,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/37/The_box.png/revision/latest?cb=20200701021321,"{""\n\n"": 1}",1
+21212,1,Blueboxes,61,70,internal,https://alldimensions.fandom.com/wiki/Bluebox,"{""Blueboxes"": 1}",1
+21212,1,The Higher Boxes,82,98,internal,https://alldimensions.fandom.com/wiki/The_Higher_Box,"{""The Higher Boxes"": 1}",1
+21212,1,Higher Box,86,96,internal,https://alldimensions.fandom.com/wiki/The_Higher_Box,"{""Higher Box"": 1}",1
+21212,2,void,16,20,internal,https://alldimensions.fandom.com/wiki/Void,"{""void"": 1}",1
+21212,2,Box,2,5,internal,https://alldimensions.fandom.com/wiki/Category:Box,"{""Box"": 1}",1
+21212,2,Higher Box,185,195,internal,https://alldimensions.fandom.com/wiki/The_Higher_Box,"{""Higher Box"": 1}",1
+21212,3,verse,72,77,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+21212,4,sentient,59,67,internal,https://alldimensions.fandom.com/wiki/Category:Sentient_Verse,"{""sentient"": 1}",1
+21212,4,Boxes,68,73,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Boxes"": 1}",1
+21212,4,first class,91,102,internal,https://alldimensions.fandom.com/wiki/Category:1st-class,"{""first class"": 1}",1
+21212,4,civilization,116,128,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilization"": 1}",1
+21212,6,materials,208,217,internal,https://alldimensions.fandom.com/wiki/Category:Material,"{""materials"": 1}",1
+21212,6,2nd-class,350,359,internal,https://alldimensions.fandom.com/wiki/Category:2nd-class,"{""2nd-class"": 1}",1

@@ -1,0 +1,12 @@
+Russellverse
+EUSI
+'"`UNIQ--postMath-00000001-QINU`"'
+Contained by
+Itself sometimes
+Contains
+every verse that does not
+contain themselves
+The Russellverse contains every verse that does not contain themselves. It is a prime example of the
+Russell Paradox
+.
+The paradox stems from the fact that if it contains all verses that do not contain themselves, and does not contain itself, it will have to contain itself. This means that it does contain itself and therefor, cannot contain itself. Thus creating a paradox. it only contains outside of its paradox, and out of it.

@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23229,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a7/Screen_Shot_2020-03-29_at_11.37.22_AM.png/revision/latest?cb=20200329183746,"{""\n\n"": 1}",1
+23229,1,"If you try to escape, you will glitch. Ok?",270,312,internal,"https://alldimensions.fandom.com/wiki/If_you_try_to_escape,_you_will_glitch._Ok%3F","{""If you try to escape, you will glitch. Ok?"": 1}",1
+23229,3,Endless Walmart,90,105,internal,https://alldimensions.fandom.com/wiki/Endless_Walmart,"{""Endless Walmart"": 1}",1
+23229,3,Glitchonicite,139,152,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+23229,3,The Seeker,154,164,internal,https://alldimensions.fandom.com/wiki/The_Seeker,"{""The Seeker"": 1}",1
+23229,3,The Too Big,263,274,internal,https://alldimensions.fandom.com/wiki/The_Too_Big,"{""The Too Big"": 1}",1
+23229,4,The Nested Infinity,80,99,internal,https://alldimensions.fandom.com/wiki/The_Nested_Infinity,"{""The Nested Infinity"": 1}",1
+23229,5,Omni-God,301,309,internal,https://alldimensions.fandom.com/wiki/Omni-God,"{""Omni-God"": 1}",1

@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+39650,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/92/Scissors.png/revision/latest?cb=20211008160845,"{""\n\n"": 1}",1
+39650,1,Pencil,50,56,internal,https://alldimensions.fandom.com/wiki/The_Pencil,"{""Pencil"": 1}",1
+39650,1,The Tables,201,211,internal,https://alldimensions.fandom.com/wiki/The_Table,"{""The Tables"": 1}",1
+39650,3,structures,32,42,internal,https://alldimensions.fandom.com/wiki/Category:Structure,"{""structures"": 1}",1
+39650,3,Papers,76,82,internal,https://alldimensions.fandom.com/wiki/The_Paper,"{""Papers"": 1}",1
+39650,3,higher class,146,158,internal,https://alldimensions.fandom.com/wiki/Category:8th-class,"{""higher class"": 1}",1
+39650,3,Tables,178,184,internal,https://alldimensions.fandom.com/wiki/The_Table,"{""Tables"": 1}",1
+39650,3,Papers,76,82,internal,https://alldimensions.fandom.com/wiki/The_Paper,"{""Papers"": 1}",1
+39650,3,Apples,205,211,internal,https://alldimensions.fandom.com/wiki/The_Apple,"{""Apples"": 1}",1
+39650,3,Erasers,213,220,internal,https://alldimensions.fandom.com/wiki/The_Eraser,"{""Erasers"": 1}",1
+39650,3,Pencils,225,232,internal,https://alldimensions.fandom.com/wiki/The_Pencil,"{""Pencils"": 1}",1
+39650,5,the Rocks,85,94,internal,https://alldimensions.fandom.com/wiki/The_Rock,"{""the Rocks"": 1}",1
+39650,5,[1],260,263,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1

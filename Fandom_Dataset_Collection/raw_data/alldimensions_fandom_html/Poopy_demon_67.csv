@@ -1,0 +1,3 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50902,1,Tom,596,599,internal,"https://alldimensions.fandom.com/wiki/Tom,_the_psycho","{""Tom"": 1}",1
+50902,1,QQDS,620,624,internal,https://alldimensions.fandom.com/wiki/The_Jamie_secret_alliance,"{""QQDS"": 1}",1

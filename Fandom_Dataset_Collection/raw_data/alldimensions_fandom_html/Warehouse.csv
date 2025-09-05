@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42435,1,the other warehouse,25,44,internal,https://alldimensions.fandom.com/wiki/The_Warehouse,"{""the other warehouse"": 1}",1
+42435,1,"
+
+",46,48,external,https://static.wikia.nocookie.net/alldimensions/images/9/9f/Warehouse.jpeg/revision/latest?cb=20221015060344,"{""\n\n"": 1}",1
+42435,1,Voidtowns,95,104,internal,https://alldimensions.fandom.com/wiki/Voidtown,"{""Voidtowns"": 1}",1
+42435,1,The Final'er Containers,116,139,internal,https://alldimensions.fandom.com/wiki/The_Final%27er_Container,"{""The Final'er Containers"": 1}",1
+42435,2,Containers,34,44,internal,https://alldimensions.fandom.com/wiki/Category:Container_Chain,"{""Containers"": 1}",1
+42435,3,Final'er Containers,54,73,internal,https://alldimensions.fandom.com/wiki/The_Final%27er_Container,"{""Final'er Containers"": 1}",1
+42435,4,Everything numerology,10,31,internal,https://alldimensions.fandom.com/wiki/Everything_numerology,"{""Everything numerology"": 1}",1

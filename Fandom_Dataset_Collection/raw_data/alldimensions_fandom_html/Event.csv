@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+6843,1,The Timeline,46,58,internal,https://alldimensions.fandom.com/wiki/The_Timeline,"{""The Timeline"": 1}",1
+6843,9,https://plato.stanford.edu/entries/time/?PHPSESSID=ad5527e56f00a449c7aa07259d449a2a#TheBThe,0,91,external,https://plato.stanford.edu/entries/time/?PHPSESSID=ad5527e56f00a449c7aa07259d449a2a#TheBThe,"{""https://plato.stanford.edu/entries/time/?PHPSESSID=ad5527e56f00a449c7aa07259d449a2a#TheBThe"": 1}",1
+6843,10,https://en.wikipedia.org/wiki/B-theory_of_time,0,46,external,https://en.wikipedia.org/wiki/B-theory_of_time,"{""https://en.wikipedia.org/wiki/B-theory_of_time"": 1}",1

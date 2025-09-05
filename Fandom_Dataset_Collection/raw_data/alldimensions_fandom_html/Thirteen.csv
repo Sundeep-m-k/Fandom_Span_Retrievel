@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+33336,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b4/Screen_Shot_2020-07-12_at_1.32.44_PM.png/revision/latest?cb=20200712203258,"{""\n\n"": 1}",1
+33336,1,Fourteen,113,121,internal,https://alldimensions.fandom.com/wiki/Fourteen,"{""Fourteen"": 1}",1
+33336,1,Twelve,134,140,internal,https://alldimensions.fandom.com/wiki/Twelve,"{""Twelve"": 1}",1
+33336,2,The Pencil Language,22,41,internal,https://alldimensions.fandom.com/wiki/The_Pencil_Language,"{""The Pencil Language"": 1}",1
+33336,2,Twelve,95,101,internal,https://alldimensions.fandom.com/wiki/Twelve,"{""Twelve"": 1}",1
+33336,4,Protoverse,212,222,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""Protoverse"": 1}",1

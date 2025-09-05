@@ -1,0 +1,40 @@
+Do the steps below to get my number.
+f(0)n = n+1.
+f(1)n = n*2
+f(2)n = n^2
+f(3)n = n^^2.
+f(4)n = n^^^2.
+overall, f(x)n is equal to n{x-1}n, except for f(1)n and f(2)n.
+f(0,2)x(n) = f(x)n
+f(1,2)x(n) = f(f(x)n))n
+f(y,2)x(n) = f(f(f(f(f......y+1 layers of f(#)n.........f(x)n)n)n)n.......n)n
+f(0,3)x(n) = f(x,2)x(n)
+f(1,3)x(n) = f(f(0,2)x(n),2)x(n)
+f(y,3)x(n) = f(f(f(f.....y+1 f's....f(0,2)x(n))x(n))x(n))....x(n))x(n))x(n)),2)x(n)
+f(y,z)x(n) = f(f(f(f(f.........y+1 f's.......f(0,z-1)x(n))x(n))x(n)).....x(n))x(n)),2)x(n)
+f(y,z,m)x(n) = f(f(f(f......y+1 f's.........f(0,0,m-1)x(n))x(n)).....x(n))x(n)),0,m-1)x(n)
+f(0,0,2) = f(0,x)n
+pretty much repeats for each added part of the sequence.
+g(0)n = f(n,n,n,n,n..............n,n,n,n,n)n(n) with n n's.
+g(1)n = f(n,n,n,n,n........,n,n,n))n(n) with (f(n,n,n,n,n..............n,n,n,n,n)n(n) with n n's) n's.
+g(x)n = f(n,n,n,n,n..............n,n,n,n,n)n(n) with f(n,n,n,n,n..............n,n,n,n,n)n(n) with f(n,n,n,n,n..............n,n,n,n,n)n(n) with f(n,n,n,n,n..............n,n,n,n,n)n(n) with f(n,n,n,n,n..............n,n,n,n,n)n(n) with........... x layers of "with "g(x-1) n's" n's........f(n,n,n,n,n..............n,n,n,n,n)n(n) with n n's) n's) n's)......n's) n's.
+from there on, g has the same pattern f does.
+h(x)n = g(n,n,n,n,n..............n,n,n,n,n)n(n) with g(n,n,n,n,n..............n,n,n,n,n)n(n) with g(n,n,n,n,n..............n,n,n,n,n)n(n) with g(n,n,n,n,n..............n,n,n,n,n)n(n) with f(n,n,n,n,n..............n,n,n,n,n)n(n) with........... x layers of "with h(x-1) n's" n's........f(n,n,n,n,n..............n,n,n,n,n)n(n) with n n's) n's) n's)......n's) n's.
+and all the letters after h repeat the same way.
+now take VOID(0)x(n)y = f(n,n,n,n,n,n,n,n.......y n's.......n,n)x(n)
+VOID(1)x(n)y = g(n,n,n,n,n,n,n,n.......y n's.......n,n)x(n)
+VOID(2)x(n)y = h(n,n,n,n,n,n,n,n.......y n's.......n,n)x(n)
+VOID(3)x(n)y = i(n,n,n,n,n,n,n,n.......y n's.......n,n)x(n)
+and so on.
+VOID(z)x(n)y is the z-th letter of the alphabet. if its after z(#)#, then it loops to a all the way to e. after e(#)# we ignore it as who cares if it can have a letter before it? we can just write 27(#)# and move on.
+now do VOOID(m)z(x)n(y) = VOID(VOID(VOID......m layers....VOID(VOID(z)x(n)y))x(n)y))x(n)y))....x(n)y))x(n)y))
+and VOOOID(h)m(z)x(n)y = VOOID(VOOID(.....h layers...VOOID(m)z(x)n(y))m(z)x(n)y))m(z)x(n)y)).....m(z)x(n)y))m(z)x(n)y))
+VOOOOID does the same thing to VOOOID as VOOOID does to VOOID, etc.
+overall the pattern repeats.
+VO^xID(#)# represents VOOOOO...x o's....OOOOID(#)#.
+VOID'S EPIC NUMBER IS EQUAL TO...
+*epic drumroll*
+VO^(666)ID(letter)#
+(
+VoidSansXD
+'s epic number is more like a range of numbers, really. the #'s means anything can go there.)

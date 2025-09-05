@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42604,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cb/Genoverse.png/revision/latest?cb=20221217050811,"{""\n\n"": 1}",1
+42604,2,Multiverse,238,248,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+42604,8,Universe,91,99,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+42604,10,galaxy,131,137,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxy"": 1}",1

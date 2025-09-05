@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42658,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/db/Crossverses.jpg/revision/latest?cb=20221122210418,"{""\n\n"": 1}",1
+42658,1,EUSI,37,41,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42658,1,MetaXule,244,252,internal,https://alldimensions.fandom.com/wiki/MetaXule,"{""MetaXule"": 1}",1
+42658,1,UniXules,265,273,internal,https://alldimensions.fandom.com/wiki/UniXule,"{""UniXules"": 1}",1
+42658,3,The Xicohtlxul,102,116,internal,https://alldimensions.fandom.com/wiki/Xicohtlxul,"{""The Xicohtlxul"": 1}",1

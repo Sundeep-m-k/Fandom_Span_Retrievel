@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43881,1,Dunkey Kong,207,218,internal,https://alldimensions.fandom.com/wiki/Dunkey_kong,"{""Dunkey Kong"": 1}",1
+43881,1,verse,347,357,internal,https://alldimensions.fandom.com/wiki/%C2%89%C2%9A%C2%8D%C2%8C%C2%9Averse,"{""verse"": 1}",1
+43881,2,Alphasm,18,25,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""Alphasm"": 1}",1

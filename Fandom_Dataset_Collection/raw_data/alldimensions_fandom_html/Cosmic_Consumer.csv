@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23507,2,Universe,222,230,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+23507,2,Multiverse,253,263,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+23507,2,The Cosmological Recycler,368,393,internal,https://alldimensions.fandom.com/wiki/The_Cosmological_Recycler,"{""The Cosmological Recycler"": 1}",1

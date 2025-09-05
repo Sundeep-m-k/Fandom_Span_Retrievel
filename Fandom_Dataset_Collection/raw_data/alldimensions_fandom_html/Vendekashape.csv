@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+15470,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c1/Space_lights_and_white_lines_of_shape.png/revision/latest?cb=20191030181328,"{""\n\n"": 1}",1
+15470,3,Multiverse,29,39,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+15470,3,Universe,78,86,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+15470,4,Xenoverses,190,200,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverses"": 1}",1
+15470,4,Hyperverses,202,213,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""Hyperverses"": 1}",1
+15470,4,Omniverses,223,233,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverses"": 1}",1

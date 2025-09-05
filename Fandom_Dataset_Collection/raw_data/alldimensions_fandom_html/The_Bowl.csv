@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+19095,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/bb/The_Bowl.png/revision/latest?cb=20200101201356,"{""\n\n"": 1}",1
+19095,1,The Cabinet,48,59,internal,https://alldimensions.fandom.com/wiki/The_Cabinet,"{""The Cabinet"": 1}",1
+19095,1,The Charm,71,80,internal,https://alldimensions.fandom.com/wiki/The_Charm,"{""The Charm"": 1}",1
+19095,1,The Charms,154,164,internal,https://alldimensions.fandom.com/wiki/The_Charm,"{""The Charms"": 1}",1
+19095,2,Zamabsoverses,125,138,internal,https://alldimensions.fandom.com/wiki/Zamabsoverse,"{""Zamabsoverses"": 1}",1

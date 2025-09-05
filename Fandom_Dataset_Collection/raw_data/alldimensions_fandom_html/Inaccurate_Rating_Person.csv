@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+38986,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d2/HeyHuman.png/revision/latest?cb=20210706160338,"{""\n\n"": 1}",1
+38986,1,The Box,248,255,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+38986,4,Bob,21,24,internal,https://alldimensions.fandom.com/wiki/Bob,"{""Bob"": 1}",1
+38986,8,The Box,352,359,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+38986,10,Negationverse,83,96,internal,https://alldimensions.fandom.com/wiki/Negationverse,"{""Negationverse"": 1}",1
+38986,10,QuirkVerse,455,465,internal,https://alldimensions.fandom.com/wiki/QuirkVerse,"{""QuirkVerse"": 1}",1
+38986,11,Physical Realm,121,135,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Physical Realm"": 1}",1

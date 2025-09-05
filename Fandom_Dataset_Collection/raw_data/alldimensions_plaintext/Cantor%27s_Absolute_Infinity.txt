@@ -1,0 +1,57 @@
+Cantor's Absolute Infinity
+was an infinity proposed by Cantor that made up the collection of all ordinals. Due to the requirement of ordinals to be well-ordered, this is not itself an ordinal.
+It is commonly denoted with the symbol
+Ω
+{\displaystyle \Omega}
+.
+Proof
+Ω
+{\displaystyle \Omega}
+is not an Ordinal
+[
+]
+Suppose
+Ω
+{\displaystyle \Omega}
+is an ordinal. Then
+Ω
+{\displaystyle \Omega}
+has an ordinal successor
+Ω
++
+{\displaystyle \Omega^+}
+and
+Ω
+∈
+Ω
++
+{\displaystyle \Omega \in \Omega^+}
+. But
+Ω
++
+{\displaystyle \Omega^+}
+is an ordinal, so
+Ω
++
+∈
+Ω
+{\displaystyle \Omega^+ \in \Omega}
+. Since ordinals are well-ordered by
+∈
+{\displaystyle \in}
+,
+Ω
++
+∈
+Ω
++
+{\displaystyle \Omega^+ \in \Omega^+}
+, but this violates the requirement for a well-ordering to be well-founded, so, by contradiction,
+Ω
+{\displaystyle \Omega}
+is not an ordinal.
+Other uses
+[
+]
+Voidsecond
+- Is the time equivalent to the reciprocal of Cantor's Absolute Infinity. Too short to be useful in any practical cases.

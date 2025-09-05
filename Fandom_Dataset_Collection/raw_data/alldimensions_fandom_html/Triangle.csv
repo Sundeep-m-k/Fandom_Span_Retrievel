@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2105,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fc/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpeg/revision/latest?cb=20120628104600,"{""\n\n"": 1}",1
+2105,1,points,124,130,internal,https://alldimensions.fandom.com/wiki/Point,"{""points"": 1}",1
+2105,1,line segments,141,154,internal,https://alldimensions.fandom.com/wiki/Line_Segment,"{""line segments"": 1}",1
+2105,10,sphere,100,106,internal,https://alldimensions.fandom.com/wiki/Sphere,"{""sphere"": 1}",1

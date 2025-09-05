@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+9149,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/60/Scutoid.jpg/revision/latest?cb=20180802185840,"{""\n\n"": 1}",1
+9149,4,Frustum,51,58,external,https://en.wikipedia.org/wiki/Frustum,"{""Frustum"": 1}",1
+9149,4,Prismatoid,63,73,external,https://en.wikipedia.org/wiki/Prismatoid,"{""Prismatoid"": 1}",1

@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35745,2,Universes,0,9,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
+35745,2,Hyperverses,125,136,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""Hyperverses"": 1}",1
+35745,2,Archverses,164,174,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""Archverses"": 1}",1
+35745,2,Multiverse,336,346,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1

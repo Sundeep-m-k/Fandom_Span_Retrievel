@@ -1,0 +1,137 @@
+(Note: when measurements in size use "Universes", they refer to 93 billion light-years, the diameter of the
+observable Universe
+)
+Terminal Sphere
+Natural Position
+Contained by
+Multiverse
+,
+Imaginary Tetrahedron
+Contains
+Universes
+,
+The Rantrorenverses
+Scale
+Dimensionality
+3
+Diameter
+(Located in article)
+Kardashev Scale
+4.5
+A
+Terminal Sphere
+is a 3 dimensional
+non-existant
+sphere that is located in the center of a
+cluster
+of 3 or more
+Universes
+.
+Universes alone by themselves don't attract each other, but if three enter each others vacinity, they can slowly pull themselves together, and upon mutual contact, create a Terminal Sphere. A group of Universes may only be stable, if every single one is completely submerged inside of the Terminal Sphere.
+The size of a Terminal Sphere is very accurately approximate to
+∑
+n
+=
+0
+11
+11
+n
+2
+−
+(
+2
+n
+−
+11
+)
+3
+(
+m
+−
+9
+n
+3
+3
+n
+)
+2
++
+n
+−
+0.6
+n
++
+1
+{\displaystyle \sum_{n=0}^{11}\frac{11n^2-(2n-11)^3}{(\frac{m-9n^3}{3\sqrt{n}})^2+\frac{n-0.6}{n+1}}}
+times bigger than a normal Universe, with m = number of Universes in the group.
+If graphed, one can clearly see that a group of 9 Universes creates the largest Terminal Sphere, that being 344.28 trillion light years in diameter, making it accurately
+1
+27
+{\displaystyle \frac{1}{27}}
+th the width of a
+Multiverse
+(it becomes hopefully obvious, that the image in the infobox does not depict a Terminal Sphere to scale).
+There are so called "islands" of stability (not to be confused with the island of stability in the period table), in which the Terminal Sphere is large enough for the group to be stable, even if optimal sphere-in-sphere packing is required. A table of stabilities and instabilities is down below.
+By the 9,183th Universe, the terminal sphere becomes smaller than a singular Universe.
+By the 32,926th Universe, the inverse size of such a terminal sphere would become larger than the largest possible terminal sphere.
+And, by the 423.33 trillionth Universe, the terminal sphere becomes smaller than a meter across.
+Stable or unstable
+Unstable
+Stable
+Unstable
+Stable
+Unstable
+Stable
+Unstable
+Stable
+Unstable
+Stable
+Unstable
+Stable
+Instable
+Stable
+Instable
+Stable
+Instable
+Stable
+Instable
+Number of Universes
+0 - 2
+3 - 110
+111 - 212
+213 - 272
+273 - 547
+548 - 602
+603 - 1,092
+1,093 - 1,156
+1,157 - 1,907
+1,908 - 1,980
+1,981 - 3,045
+3,046 - 3,127
+3,128 - 4,563
+4,564 - 4,651
+4,652 - 6,518
+6,519 - 6,602
+6,603 - 8,966
+8.967 - 9,033
+9,034+
+Peak (in)stability
+0
+9
+192
+243
+409
+576
+830
+1,125
+1,500
+1,944
+2,478
+3,087
+3,818
+4,608
+5,581
+6,561
+7,855
+9,000
+Infinity

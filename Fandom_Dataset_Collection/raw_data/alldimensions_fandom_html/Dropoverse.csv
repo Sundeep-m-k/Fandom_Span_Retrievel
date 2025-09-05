@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36119,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/dc/Dropoverse.png/revision/latest?cb=20201212222818,"{""\n\n"": 1}",1
+36119,1,SAVs,50,54,internal,https://alldimensions.fandom.com/wiki/Strong_Axiomatic_Verse,"{""SAVs"": 1}",1
+36119,1,The Dropoffs,66,78,internal,https://alldimensions.fandom.com/wiki/The_Dropoff,"{""The Dropoffs"": 1}",1
+36119,1,class 4,179,186,internal,https://alldimensions.fandom.com/wiki/Category:4th-class,"{""class 4"": 1}",1
+36119,2,verse,9,14,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+36119,2,Dropoffs,97,105,internal,https://alldimensions.fandom.com/wiki/The_Dropoff,"{""Dropoffs"": 1}",1
+36119,2,chain,238,243,internal,https://alldimensions.fandom.com/wiki/Category:Chain,"{""chain"": 1}",1
+36119,3,number,174,180,internal,https://alldimensions.fandom.com/wiki/Category:Number,"{""number"": 1}",1
+36119,3,saladlike,557,566,external,https://googology.fandom.com/wiki/Salad_number,"{""saladlike"": 1}",1

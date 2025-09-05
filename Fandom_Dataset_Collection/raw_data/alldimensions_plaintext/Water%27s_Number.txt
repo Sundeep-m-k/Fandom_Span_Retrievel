@@ -1,0 +1,196 @@
+For this number, we are going to develop an extension of Ackermann numbers.
+Now we know that the regular Ackermann numbers are
+A
+(
+n
+)
+=
+n
+↑
+↑
+.
+.
+.
+↑
+↑
+⏟
+n
+n
+{\displaystyle A(n) = n\underbrace{\uparrow\uparrow...\uparrow\uparrow}_nn}
+however nesting it makes it much more overpowered.
+A
+(
+A
+(
+n
+)
+)
+{\displaystyle A(A(n))}
+To make it shorter,
+A
+2
+(
+n
+)
+{\displaystyle A^2(n)}
+will equal
+A
+(
+A
+(
+n
+)
+)
+{\displaystyle A(A(n))}
+This will also be important later, where we will be defining the number.
+"But Water, you've already shown how overpowered nesting can be, what's the point of going any further?" - Good question, but I'm still going to do it.
+We can also use
+A
+(
+n
+)
+{\displaystyle A(n)}
+for the exponent itself. An example is
+A
+[
+A
+(
+x
+)
+]
+(
+y
+)
+{\displaystyle A^{[A
+
+(x)]}(y)}
+where x is the hyperexponent.
+"Water, what are the square brackets for?" - That, my friend, is what will define the number. The equations in square brackets are for the A-equation (that is what we will call it from now on).
+Using multiple square brackets is allowed and I will even use it for this number.
+Now that we have developed the extension, we are now on step 2 of defining this god-forsaken number.
+A
+[
+A
+2
+(
+x
+)
+]
+(
+y
+)
+{\displaystyle A^{[A^2(x)]}(y)}
+brings us another step closer, because we use exponents for the A-equation.
+"You did mention we were going to use multiple square brackets, right?" - Yes, correct, and I will do it right now.
+A
+[
+A
+2
+(
+A
+[
+A
+2
+(
+A
+(
+x
+)
+]
+]
+(
+y
+)
+{\displaystyle A^{[A^{2(A^{[A^{2(A(x)]]}}}}(y)}
+Now you may notice that it's getting a little messy and long, and that it goes from
+A
+2
+(
+A
+[
+.
+.
+.
+{\displaystyle A^{2(A[...}}
+. That's why I made a shorter version,
+A
+[
+[
+A
+2
+,
+1
+(
+x
+)
+]
+]
+(
+y
+)
+{\displaystyle A^{[[A^{2,1}
+
+(x)]]}(y)}
+, with 2,1 indicating the chain. If the chain is too large, then it's possible to shorten it as well, for example,
+10
+100
+−
+1
+{\displaystyle 10^{100}-1}
+, indicating that the chain is from a googol to 1, going down by 1 every chain level.
+This is where the extension ends, with
+[
+2
+=
+[
+[
+{\displaystyle [^2 = [[}
+. This is where I will define the number.
+With this, I define my number as...
+A
+[
+10
+7
+3
+,
+001
+,
+000
+,
+000
+−
+1
+A
+10
+↑
+3
+10
+(
+10
+10
+100
+)
+]
+(
+10
+3
+6
+34
+1000
+)
+{\displaystyle A^{[^{10^{7^{3,001,000,000}-1 A^{10 \uparrow^3 10}(10^{10^{100}})]}}}(10^{3^{6^
+
+{34^{1000}}}})}
+It certainly isn't the biggest number ever, or the biggest number that you can make with this extension, but it exists. And people can use it, if they want. The symbol is
+ℏ
+(
+n
+)
+{\displaystyle \hbar(n)}
+, with n being how many times you want it to repeat.
+ℏ
+(
+1
+)
+{\displaystyle \hbar(1)}
+is default. You can also nest it if you really want, but that concludes Water's Number!

@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36134,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/19/Kardaparticle.png/revision/latest?cb=20201214134720,"{""\n\n"": 1}",1
+36134,1,Kappa Particle,85,99,internal,https://alldimensions.fandom.com/wiki/Kappa_Particle,"{""Kappa Particle"": 1}",1
+36134,1,Opaparticle,111,122,internal,https://alldimensions.fandom.com/wiki/Opaparticle,"{""Opaparticle"": 1}",1
+36134,1,Apoparticle,124,135,internal,https://alldimensions.fandom.com/wiki/Apoparticle,"{""Apoparticle"": 1}",1
+36134,2,Kappa Particles,68,83,internal,https://alldimensions.fandom.com/wiki/Kappa_Particle,"{""Kappa Particles"": 1}",1

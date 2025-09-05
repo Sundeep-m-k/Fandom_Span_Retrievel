@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43280,1,THH,19,22,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""THH"": 1}",1
+43280,1,hierarchy,80,89,internal,https://alldimensions.fandom.com/wiki/Category:Hierarchy,"{""hierarchy"": 1}",1
+43280,2,Meta-Hierarchy,46,60,internal,https://alldimensions.fandom.com/wiki/The_Meta-Hierarchy,"{""Meta-Hierarchy"": 1}",1

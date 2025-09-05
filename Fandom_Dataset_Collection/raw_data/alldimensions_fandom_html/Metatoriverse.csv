@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35683,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/12/Metatoriverse.png/revision/latest?cb=20201101212544,"{""\n\n"": 1}",1
+35683,1,Torubarrier,53,64,internal,https://alldimensions.fandom.com/wiki/Torubarrier,"{""Torubarrier"": 1}",1
+35683,1,Metatoriverse,2,15,internal,https://alldimensions.fandom.com/wiki/Metatoriverse,"{""Metatoriverse"": 1}",1
+35683,1,Toruku Chain,91,103,internal,https://alldimensions.fandom.com/wiki/The_Toruku_Chain,"{""Toruku Chain"": 1}",1
+35683,1,Toruchain,105,114,internal,https://alldimensions.fandom.com/wiki/Toruchain,"{""Toruchain"": 1}",1
+35683,2,Möbiverse hyperchain,44,64,internal,https://alldimensions.fandom.com/wiki/M%C3%B6biverse_Hyperchain,"{""Möbiverse hyperchain"": 1}",1
+35683,2,The Box,101,108,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+35683,2,moquarks,204,212,internal,https://alldimensions.fandom.com/wiki/Moquark,"{""moquarks"": 1}",1
+35683,2,Toriverses,217,227,internal,https://alldimensions.fandom.com/wiki/Toriverse,"{""Toriverses"": 1}",1
+35683,5,forustars,262,271,internal,https://alldimensions.fandom.com/wiki/Forustar,"{""forustars"": 1}",1

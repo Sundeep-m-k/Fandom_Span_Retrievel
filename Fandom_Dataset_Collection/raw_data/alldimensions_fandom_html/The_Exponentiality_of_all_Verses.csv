@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43553,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1f/ThurizasHD.jpg/revision/latest?cb=20230127041027,"{""\n\n"": 1}",1
+43553,1,EUSI,120,124,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+43553,1,Finality Index,140,154,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+43553,1,FOEI,202,206,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+43553,1,True Nothing,424,436,internal,https://alldimensions.fandom.com/wiki/True_Nothing,"{""True Nothing"": 1}",1
+43553,1,The Impassibility of all Verses,604,635,internal,https://alldimensions.fandom.com/wiki/The_Impassibility_of_all_Verses,"{""The Impassibility of all Verses"": 1}",1
+43553,1,The Fluidality of all Verses,648,676,internal,https://alldimensions.fandom.com/wiki/The_Fluidality_of_all_Verses,"{""The Fluidality of all Verses"": 1}",1
+43553,2,TFLOAV,225,231,internal,https://alldimensions.fandom.com/wiki/The_Fluidality_of_all_Verses,"{""TFLOAV"": 1}",1
+43553,3,TIOAV,200,205,internal,https://alldimensions.fandom.com/wiki/The_Impassibility_of_all_Verses,"{""TIOAV"": 1}",1
+43553,3,True Nothing,504,516,internal,https://alldimensions.fandom.com/wiki/True_Nothing,"{""True Nothing"": 1}",1

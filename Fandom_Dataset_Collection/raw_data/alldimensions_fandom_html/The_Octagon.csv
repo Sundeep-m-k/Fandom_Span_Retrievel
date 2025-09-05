@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+11300,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/3e/The_Octagon.png/revision/latest?cb=20181213161853,"{""\n\n"": 1}",1
+11300,1,The Alternate,51,64,internal,https://alldimensions.fandom.com/wiki/The_Alternate,"{""The Alternate"": 1}",1
+11300,1,The Alternate,51,64,internal,https://alldimensions.fandom.com/wiki/The_Alternate,"{""The Alternate"": 1}",1
+11300,3,OYC,70,73,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+11300,6,OD,110,112,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OD"": 1}",1
+11300,10,Universe,48,56,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

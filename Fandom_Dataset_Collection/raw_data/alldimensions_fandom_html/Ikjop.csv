@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35865,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/54/Ikjop.jpg/revision/latest?cb=20201121163709,"{""\n\n"": 1}",1
+35865,1,The Sea,31,38,internal,https://alldimensions.fandom.com/wiki/The_Sea,"{""The Sea"": 1}",1
+35865,1,OYC,68,71,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+35865,2,Ontological Museum,196,214,internal,https://alldimensions.fandom.com/wiki/Ontological_Museum,"{""Ontological Museum"": 1}",1
+35865,4,Yetmmud,79,86,internal,https://alldimensions.fandom.com/wiki/Yetmmud,"{""Yetmmud"": 1}",1
+35865,4,Ontological Museum,130,148,internal,https://alldimensions.fandom.com/wiki/Ontological_Museum,"{""Ontological Museum"": 1}",1
+35865,4,Yetmmud,79,86,internal,https://alldimensions.fandom.com/wiki/Yetmmud,"{""Yetmmud"": 1}",1

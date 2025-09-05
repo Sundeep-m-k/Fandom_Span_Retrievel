@@ -1,0 +1,130 @@
+Down Quark
+Properties
+Mass
+4.8±0.4 MeV/c
+2
+Charge
+-
+1
+/
+3
+e
+Spin
+1
+/
+2
+Color Charge?
+Yes
+Antimatter, matter, or other
+Matter
+, has antimatter form
+Section Header
+Commonly found in
+Hadrons
+such as
+Protons
+and
+Neutrons
+, Neutrally charged Kaon K
+0
+(down +
+strange
+antiquark
+), and antimatter form: K
+-0
+, (down
+antiquark
++
+Strange Quark
+, in
+pions
+and more.
+Useful for
+Existing and making cool stuff
+Composition Tier
+5
+The
+down quark
+or
+d quark
+(symbol: d) is the second-lightest of all
+quarks
+, a type of
+elementary particle
+, and a major constituent of
+matter
+. Together with the
+up quark
+, it forms the
+neutrons
+(one up quark, two down quarks) and
+protons
+(two up quarks, one down quark) of
+atomic nuclei
+. It is part of the first generation of matter, has an electric charge of −1/3 e and a
+bare mass
+of 4.8±0.4 MeV.
+Like all
+quarks
+, the down quark is an
+elementary
+fermion with spin 1/2, and experiences all four fundamental interactions:
+gravitation
+,
+electromagnetism
+, weak interactions, and strong interactions. The
+antiparticle
+of the down quark is the
+down antiquark
+(sometimes called antidown quark or simply antidown), which differs from it only in that some of its properties have equal magnitude but opposite sign.
+Its existence (along with that of the
+up
+and
+strange quarks
+) was postulated in 1964 by Murray Gell-Mann and George Zweig to explain the Eightfold Way classification scheme of
+hadrons
+. The down quark was first observed by experiments at the Stanford Linear Accelerator Center in 1968.
+The down quark contains a
+String
+.
+Down antiquark
+[
+]
+The Anti-Down Quark, Down Antiquark or just Antidown is the exact same thing as an Down Quark, except the charge is negative, so the Anti-Down Quark just has a charge of +
+1
+/
+3
+e instead of -
+1
+/
+3
+e. When an Anti-Down quark meets an down quark, they annihilate and form a virtual photon, a particle that is incredibly short lived. Shortly after, it turns into some number of
+electrons
+and
+positrons
+.
+A down quark decays into an
+Up Quark
+and a
+W
+-
+Boson
+, which is short lived, and decays into an
+electron
+and an
+Electron antineutrino
+. An example of this decay is the
+neutron
+. The
+neutron
+lives on average, about 900 seconds. When it decays, it forms a
+proton
+. The down quark subsequently decays into a
+W
+-
+Boson
+, which becomes an
+electron
+and an
+Electron antineutrino
+.

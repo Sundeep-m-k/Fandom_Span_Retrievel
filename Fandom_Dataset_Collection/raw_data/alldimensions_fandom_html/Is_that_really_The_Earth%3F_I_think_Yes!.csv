@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42837,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/36/Earth.jpg/revision/latest?cb=20200103172944,"{""\n\n"": 1}",1
+42837,1,Earth,21,26,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,1,Earth,21,26,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,1,Earth,21,26,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,1,Earth,21,26,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,1,Earth,21,26,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,1,Earth,21,26,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,1,Earth,21,26,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,1,Solar System,344,356,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar System"": 1}",1
+42837,1,Moon,408,412,internal,https://alldimensions.fandom.com/wiki/Moon,"{""Moon"": 1}",1
+42837,2,Earth,64,69,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+42837,2,Perfect Copy Paradox,198,218,internal,https://alldimensions.fandom.com/wiki/Perfect_Copy_Paradox,"{""Perfect Copy Paradox"": 1}",1

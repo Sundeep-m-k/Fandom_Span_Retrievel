@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35343,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/8e/Epicness.png/revision/latest?cb=20200819031039,"{""\n\n"": 1}",1
+35343,1,Planets,31,38,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+35343,1,Human,112,117,internal,https://alldimensions.fandom.com/wiki/Human,"{""Human"": 1}",1
+35343,1,untities,348,356,internal,https://alldimensions.fandom.com/wiki/Untity,"{""untities"": 1}",1
+35343,1,Spiral Arms,630,641,internal,https://alldimensions.fandom.com/wiki/Spiral_Arm,"{""Spiral Arms"": 1}",1
+35343,2,Aquarius,116,124,internal,https://alldimensions.fandom.com/wiki/Aquarius,"{""Aquarius"": 1}",1
+35343,2,Flarius,129,136,internal,https://alldimensions.fandom.com/wiki/Flarius,"{""Flarius"": 1}",1

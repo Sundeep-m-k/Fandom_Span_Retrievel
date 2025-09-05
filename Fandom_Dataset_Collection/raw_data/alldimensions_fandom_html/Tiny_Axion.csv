@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41850,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/73/S.png.jpg/revision/latest?cb=20241012190025,"{""\n\n"": 1}",1
+41850,1,H(-5),86,91,internal,https://alldimensions.fandom.com/wiki/Hyperdimensions,"{""H(-5)"": 1}",1
+41850,1,H(-5),86,91,internal,https://alldimensions.fandom.com/wiki/Hyperdimensions,"{""H(-5)"": 1}",1
+41850,1,Axions,159,165,internal,https://alldimensions.fandom.com/wiki/Axion,"{""Axions"": 1}",1
+41850,1,Small Axions,167,179,internal,https://alldimensions.fandom.com/wiki/Small_Axion,"{""Small Axions"": 1}",1
+41850,1,Micro-Axions,192,204,internal,https://alldimensions.fandom.com/wiki/User:Googleaarex/Micro-Axion,"{""Micro-Axions"": 1}",1
+41850,1,Nothing Axions,206,220,internal,https://alldimensions.fandom.com/wiki/User:Googleaarex/Nothing_Axion,"{""Nothing Axions"": 1}",1
+41850,2,Axions,5,11,internal,https://alldimensions.fandom.com/wiki/Axion,"{""Axions"": 1}",1
+41850,5,Micro-Axions,232,244,internal,https://alldimensions.fandom.com/wiki/User:Googleaarex/Micro-Axion,"{""Micro-Axions"": 1}",1
+41850,7,Mathon,231,237,internal,https://alldimensions.fandom.com/wiki/Mathon,"{""Mathon"": 1}",1
+41850,8,Small Axions,190,202,internal,https://alldimensions.fandom.com/wiki/Small_Axion,"{""Small Axions"": 1}",1

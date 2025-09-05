@@ -1,0 +1,31 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43805,1,Froot Tree,28,38,internal,https://alldimensions.fandom.com/wiki/Froot_tree,"{""Froot Tree"": 1}",1
+43805,1,Tree,34,38,internal,https://alldimensions.fandom.com/wiki/The_Tree,"{""Tree"": 1}",1
+43805,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/03/Powertree.png/revision/latest?cb=20221221234937,"{""\n\n"": 1}",1
+43805,2,EUSI,66,70,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+43805,2,Finality Index,76,90,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+43805,2,FOEI,96,100,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+43805,2,Piy,375,378,internal,https://alldimensions.fandom.com/wiki/Piy,"{""Piy"": 1}",1
+43805,2,Hyperpiy,383,391,internal,https://alldimensions.fandom.com/wiki/Hyperpiy,"{""Hyperpiy"": 1}",1
+43805,5,[1],26,29,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+43805,5,Piy,102,105,internal,https://alldimensions.fandom.com/wiki/Piy,"{""Piy"": 1}",1
+43805,5,[2],881,884,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1
+43805,5,[3],1896,1899,anchor,https://alldimensions.fandom.com#cite_note-3,"{""[3]"": 1}",1
+43805,5,[4],1910,1913,anchor,https://alldimensions.fandom.com#cite_note-4,"{""[4]"": 1}",1
+43805,5,[5],2043,2046,anchor,https://alldimensions.fandom.com#cite_note-5,"{""[5]"": 1}",1
+43805,5,[6],2214,2217,anchor,https://alldimensions.fandom.com#cite_note-6,"{""[6]"": 1}",1
+43805,5,[7],2231,2234,anchor,https://alldimensions.fandom.com#cite_note-7,"{""[7]"": 1}",1
+43805,5,[8],2276,2279,anchor,https://alldimensions.fandom.com#cite_note-8,"{""[8]"": 1}",1
+43805,5,[9],2361,2364,anchor,https://alldimensions.fandom.com#cite_note-9,"{""[9]"": 1}",1
+43805,5,[10],2439,2443,anchor,https://alldimensions.fandom.com#cite_note-10,"{""[10]"": 1}",1
+43805,5,[11],2471,2475,anchor,https://alldimensions.fandom.com#cite_note-11,"{""[11]"": 1}",1
+43805,5,[12],3081,3085,anchor,https://alldimensions.fandom.com#cite_note-12,"{""[12]"": 1}",1
+43805,7,Piy,15,18,internal,https://alldimensions.fandom.com/wiki/Piy,"{""Piy"": 1}",1
+43805,7,Piy Supercluster,56,72,internal,https://alldimensions.fandom.com/wiki/Piy,"{""Piy Supercluster"": 1}",1
+43805,7,Hyperpiy,179,187,internal,https://alldimensions.fandom.com/wiki/Hyperpiy,"{""Hyperpiy"": 1}",1
+43805,8,Piy’s,46,51,internal,https://alldimensions.fandom.com/wiki/Piy,"{""Piy’s"": 1}",1
+43805,8,Hyperpiy,106,114,internal,https://alldimensions.fandom.com/wiki/Hyperpiy,"{""Hyperpiy"": 1}",1
+43805,8,Hyperpiy,106,114,internal,https://alldimensions.fandom.com/wiki/Hyperpiy,"{""Hyperpiy"": 1}",1
+43805,8,Piy.,155,159,internal,https://alldimensions.fandom.com/wiki/Piy,"{""Piy."": 1}",1

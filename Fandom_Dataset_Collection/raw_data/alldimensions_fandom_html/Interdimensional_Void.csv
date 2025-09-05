@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+6109,1,multiverse,96,106,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+6109,1,universes,256,265,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+6109,1,the Outside,319,330,internal,https://alldimensions.fandom.com/wiki/The_Outside,"{""the Outside"": 1}",1
+6109,1,Beyond,372,378,internal,https://alldimensions.fandom.com/wiki/Beyond,"{""Beyond"": 1}",1

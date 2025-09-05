@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48858,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a1/Distorial_cube.png/revision/latest?cb=20250217194734,"{""\n\n"": 1}",1
+48858,1,Sarpagon,47,55,internal,https://alldimensions.fandom.com/wiki/Sarpagon,"{""Sarpagon"": 1}",1
+48858,1,The revived ends,67,83,internal,https://alldimensions.fandom.com/wiki/The_revived_end,"{""The revived ends"": 1}",1
+48858,3,revived end,73,84,internal,https://alldimensions.fandom.com/wiki/The_revived_end,"{""revived end"": 1}",1

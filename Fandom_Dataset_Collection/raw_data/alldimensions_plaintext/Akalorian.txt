@@ -1,0 +1,75 @@
+Akalorian
+is the main language of
+Akalor
+and is spoken by 126 septillion people in
+Akalor
+and 282 septillion people in
+Terabithia
+.
+Phonology
+[
+]
+A Phonetical Extension Module.
+Akalorian uses Oxelarian phonemes, so they are typically not able to be created by other species. To compensate for this, members of other species have a Phonetical Extension Module (PEM) implanted in them that allows them to speak Akalorian and other alien languages.
+List of phonemes:
+Front
+Front-Middle
+Back-Middle
+Back
+/⚖/
+/⬖/
+/⛿/
+/⥻/
+/⛿/, /✑/
+/⇎/
+/ⶮ/
+/ⰱ/
+/≪/, /♠/
+/⣼/
+/⺸/
+/⋇/
+/⚝/
+/✱/, /♼/
+/ⶤ/, /⍣/
+/♕/
+Romanisation:
+Front
+Front-Middle
+Back-Middle
+Back
+p
+t
+k
+q
+m, ḿ
+n
+ń
+ñ
+s, ś
+zh
+sh
+ç
+a
+e, ë
+i, y
+uo
+Dictionary
+[
+]
+Numbers
+[
+]
+Akalorian uses a base 9 system.
+Duzo - 0
+Kalaq - 1
+Nadqye - 2
+Atruo - 3
+Ñadpo - 4
+Qilit - 5
+Gaśad - 6
+Dalap - 7
+Ogandrë - 8
+Malńe - 9 (10 in base 9)
+Prefix for 9s place - Ion (example: Ionkalaq for 10, Ionadqye for 11, until Ionogandra for 18)
+Prefix for 18s place - Dran (ex. Drandalap for 25)
+Prefix for 27s place - Ńy (ex. Ńyagaśad for 33)

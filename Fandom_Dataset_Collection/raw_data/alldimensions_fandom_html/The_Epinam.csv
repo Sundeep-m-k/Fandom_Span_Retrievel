@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36742,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b3/19DBD7E4-CAB2-4405-9D36-64AB2B647A34.jpeg/revision/latest?cb=20210207225149,"{""\n\n"": 1}",1
+36742,1,Universe,186,194,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+36742,2,Our Universe,52,64,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Our Universe"": 1}",1

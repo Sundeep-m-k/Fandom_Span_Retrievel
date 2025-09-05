@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+32579,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/51/Thething.png/revision/latest?cb=20200629022225,"{""\n\n"": 1}",1
+32579,1,The Tower,46,55,internal,https://alldimensions.fandom.com/wiki/The_Tower,"{""The Tower"": 1}",1
+32579,1,galaxy,132,138,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxy"": 1}",1
+32579,1,The Tower,46,55,internal,https://alldimensions.fandom.com/wiki/The_Tower,"{""The Tower"": 1}",1
+32579,5,Energyverse,203,214,internal,https://alldimensions.fandom.com/wiki/Energyverse,"{""Energyverse"": 1}",1
+32579,5,Matterverse,219,230,internal,https://alldimensions.fandom.com/wiki/Matterverse,"{""Matterverse"": 1}",1
+32579,6,OYC,10,13,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+32579,6,The Tower,113,122,internal,https://alldimensions.fandom.com/wiki/The_Tower,"{""The Tower"": 1}",1
+32579,10,Glitchonicite,162,175,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+32579,12,The Glitch Space,260,276,internal,https://alldimensions.fandom.com/wiki/The_Glitch_Space,"{""The Glitch Space"": 1}",1

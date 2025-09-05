@@ -1,0 +1,3 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45481,1,planets,44,51,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+45481,1,Tuhis,4,9,internal,https://alldimensions.fandom.com/wiki/Tuhis,"{""Tuhis"": 1}",1

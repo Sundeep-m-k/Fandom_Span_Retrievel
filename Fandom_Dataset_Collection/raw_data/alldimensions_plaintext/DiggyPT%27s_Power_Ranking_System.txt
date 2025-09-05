@@ -1,0 +1,11 @@
+Welcome to the DPRS! This is a system for determining values that measure the power of entities and beings.
+Here are some basic laws:
+If two things with the same power value fight, there is an equal (50 / 50) chance of either of them winning.
+If two things with different power values fight, it isn't certain that the one with more power will win, just that it has a bigger chance at winning. This chance is the ratio between the powers (so if thing A has 2 power and thing B has 1 power thing A has a 66% chance of winning).
+If various things all fight together as a team, then the power value of the whole team is the sum of the power values of all of the teammates, and the team behaves as a single entity in relation to power value equations (so if a team with 9 power fights a being with 1 power the whole team has a 90% chance of sucess).
+Pow
+[
+]
+The basic unit for measuring power in this system is called a pow, being abbreviated as p. 1p = the power of a regular human.
+This means that, if being A has 1,000p, then if they took on 1,000 humans at once then it would be a fair fight.
+Obviously, a regular human has 1 pow.

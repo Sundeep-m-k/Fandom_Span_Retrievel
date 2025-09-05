@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+44773,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/3d/TIC_constantly_charging.png/revision/latest?cb=20231020041804,"{""\n\n"": 1}",1
+44773,1,The Core,215,223,internal,https://alldimensions.fandom.com/wiki/The_Core,"{""The Core"": 1}",1
+44773,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/34/TIC_losing_energy.png/revision/latest?cb=20231020043440,"{""\n\n"": 1}",1
+44773,3,T.C,185,188,internal,https://alldimensions.fandom.com/wiki/The_Core,"{""T.C"": 1}",1
+44773,9,OYC,49,52,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

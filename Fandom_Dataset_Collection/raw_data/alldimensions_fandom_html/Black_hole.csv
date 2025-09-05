@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2687,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ab/Blackhole.png/revision/latest?cb=20180909151636,"{""\n\n"": 1}",1
+2687,1,The Tre,60,67,internal,https://alldimensions.fandom.com/wiki/The_Tre,"{""The Tre"": 1}",1
+2687,4,star,30,34,internal,https://alldimensions.fandom.com/wiki/Star,"{""star"": 1}",1
+2687,5,created artificially,27,47,internal,https://alldimensions.fandom.com/wiki/Category:Manmade,"{""created artificially"": 1}",1
+2687,5,civilizations,60,73,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilizations"": 1}",1
+2687,5,our,85,88,internal,https://alldimensions.fandom.com/wiki/Our_Universe,"{""our"": 1}",1
+2687,5,Universe,89,97,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+2687,5,matter,127,133,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1

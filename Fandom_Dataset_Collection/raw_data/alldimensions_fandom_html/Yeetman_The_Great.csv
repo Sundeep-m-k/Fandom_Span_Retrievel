@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+16244,1,atom,35,39,internal,https://alldimensions.fandom.com/wiki/THE_atom,"{""atom"": 1}",1
+16244,1,Atom,308,312,internal,https://alldimensions.fandom.com/wiki/THE_atom,"{""Atom"": 1}",1
+16244,1,Bhatsuperverse,379,393,internal,https://alldimensions.fandom.com/wiki/Bhatsuperverse,"{""Bhatsuperverse"": 1}",1
+16244,5,Knathsuperverse,222,237,internal,https://alldimensions.fandom.com/wiki/Knathsuperverse,"{""Knathsuperverse"": 1}",1

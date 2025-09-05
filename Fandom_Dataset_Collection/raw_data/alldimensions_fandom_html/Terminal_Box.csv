@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20409,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/02/The_Box_V2.png/revision/latest?cb=20171226162931,"{""\n\n"": 1}",1
+20409,1,True Box,86,94,internal,https://alldimensions.fandom.com/wiki/The_True_Box,"{""True Box"": 1}",1
+20409,1,"Pure ""Voids""",191,203,internal,https://alldimensions.fandom.com/wiki/PURE_VOID.,"{""Pure \""Voids\"""": 1}",1
+20409,1,True Box,86,94,internal,https://alldimensions.fandom.com/wiki/The_True_Box,"{""True Box"": 1}",1
+20409,2,First Realms,67,79,internal,https://alldimensions.fandom.com/wiki/The_First_Realm,"{""First Realms"": 1}",1
+20409,2,Alternate Omnipyramids,148,170,internal,https://alldimensions.fandom.com/wiki/Alternate_Omnipyramid,"{""Alternate Omnipyramids"": 1}",1
+20409,2,Second Realms,198,211,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Second Realms"": 1}",1
+20409,2,Yetmmud,316,323,internal,https://alldimensions.fandom.com/wiki/Yetmmud,"{""Yetmmud"": 1}",1
+20409,3,True Box,149,157,internal,https://alldimensions.fandom.com/wiki/The_True_Box,"{""True Box"": 1}",1

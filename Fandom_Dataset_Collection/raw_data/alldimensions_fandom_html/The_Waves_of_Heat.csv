@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23936,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c8/Lava.jpg/revision/latest?cb=20200408205445,"{""\n\n"": 1}",1
+23936,1,Ovens,64,69,internal,https://alldimensions.fandom.com/wiki/The_Oven,"{""Ovens"": 1}",1
+23936,1,The Omni-Cave,298,311,internal,https://alldimensions.fandom.com/wiki/The_Omni-Cave,"{""The Omni-Cave"": 1}",1
+23936,1,The Loop,324,332,internal,https://alldimensions.fandom.com/wiki/The_Loop,"{""The Loop"": 1}",1
+23936,1,The Oven,334,342,internal,https://alldimensions.fandom.com/wiki/The_Oven,"{""The Oven"": 1}",1
+23936,2,The Omni-Cave,107,120,internal,https://alldimensions.fandom.com/wiki/The_Omni-Cave,"{""The Omni-Cave"": 1}",1
+23936,3,The Oven,71,79,internal,https://alldimensions.fandom.com/wiki/The_Oven,"{""The Oven"": 1}",1
+23936,3,Omni-Rocks,119,129,internal,https://alldimensions.fandom.com/wiki/Omni-Rocks,"{""Omni-Rocks"": 1}",1
+23936,3,The Omni-Cave,202,215,internal,https://alldimensions.fandom.com/wiki/The_Omni-Cave,"{""The Omni-Cave"": 1}",1
+23936,4,Dave,150,154,internal,https://alldimensions.fandom.com/wiki/Dave,"{""Dave"": 1}",1
+23936,5,Omni-Rocks,44,54,internal,https://alldimensions.fandom.com/wiki/Omni-Rocks,"{""Omni-Rocks"": 1}",1
+23936,6,The Oven,18,26,internal,https://alldimensions.fandom.com/wiki/The_Oven,"{""The Oven"": 1}",1
+23936,6,Omni-Gods,144,153,internal,https://alldimensions.fandom.com/wiki/Omni-God,"{""Omni-Gods"": 1}",1

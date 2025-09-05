@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40065,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b3/Octoverse.png/revision/latest?cb=20211209192553,"{""\n\n"": 1}",1
+40065,1,yottaverse,49,59,internal,https://alldimensions.fandom.com/wiki/Yottaverse,"{""yottaverse"": 1}",1
+40065,1,Octo set,61,69,internal,https://alldimensions.fandom.com/wiki/Octo_set,"{""Octo set"": 1}",1
+40065,2,Yottaverse,40,50,internal,https://alldimensions.fandom.com/wiki/Yottaverse,"{""Yottaverse"": 1}",1
+40065,23,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/92/Octoauripax.jpg/revision/latest?cb=20211210104744,"{""\n\n"": 1}",1

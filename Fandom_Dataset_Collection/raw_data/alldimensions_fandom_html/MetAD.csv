@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36341,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6b/Rethen_Portal.jpg/revision/latest?cb=20180725092137,"{""\n\n"": 1}",1
+36341,1,Wikiverse,126,135,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
+36341,1,Universe,241,249,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+36341,4,Universe,143,151,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+36341,4,Earth,160,165,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+36341,5,Omniverse,327,336,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+36341,5,Timelineverse,354,367,internal,https://alldimensions.fandom.com/wiki/Timelineverse,"{""Timelineverse"": 1}",1
+36341,6,Cetaverse,193,202,internal,https://alldimensions.fandom.com/wiki/Cetaverse,"{""Cetaverse"": 1}",1
+36341,6,Red Ring,217,225,internal,https://alldimensions.fandom.com/wiki/Red_Ring,"{""Red Ring"": 1}",1

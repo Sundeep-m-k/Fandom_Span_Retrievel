@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+24291,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/09/Cube-with-blender.png/revision/latest?cb=20200427011426,"{""\n\n"": 1}",1
+24291,1,EUSI,36,40,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+24291,1,Finality Index,47,61,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+24291,1,FOEI,66,70,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1

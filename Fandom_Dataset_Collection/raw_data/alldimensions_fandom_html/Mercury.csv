@@ -1,0 +1,28 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+8286,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c5/Mercury.jpg/revision/latest?cb=20200102110944,"{""\n\n"": 1}",1
+8286,1,Solar System,572,584,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar System"": 1}",1
+8286,4,Solar System,49,61,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar System"": 1}",1
+8286,4,Venus,189,194,internal,https://alldimensions.fandom.com/wiki/Venus,"{""Venus"": 1}",1
+8286,4,greenhouse effect,223,240,external,https://en.wikipedia.org/wiki/Greenhouse_effect,"{""greenhouse effect"": 1}",1
+8286,4,[1],296,299,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+8286,5,[2],224,227,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1
+8286,7,Sun,139,142,internal,https://alldimensions.fandom.com/wiki/Sun,"{""Sun"": 1}",1
+8286,7,Mars,199,203,internal,https://alldimensions.fandom.com/wiki/Mars,"{""Mars"": 1}",1
+8286,7,[3],243,246,anchor,https://alldimensions.fandom.com#cite_note-3,"{""[3]"": 1}",1
+8286,7,Sun,139,142,internal,https://alldimensions.fandom.com/wiki/Sun,"{""Sun"": 1}",1
+8286,7,[4],444,447,anchor,https://alldimensions.fandom.com#cite_note-4,"{""[4]"": 1}",1
+8286,8,Jupiter,130,137,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
+8286,8,Jupiter,130,137,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
+8286,8,Sun,294,297,internal,https://alldimensions.fandom.com/wiki/Sun,"{""Sun"": 1}",1
+8286,8,Saturn,318,324,internal,https://alldimensions.fandom.com/wiki/Saturn,"{""Saturn"": 1}",1
+8286,9,Mars,393,397,internal,https://alldimensions.fandom.com/wiki/Mars,"{""Mars"": 1}",1
+8286,11,Earth,456,461,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+8286,12,Earth,137,142,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+8286,12,[5],143,146,anchor,https://alldimensions.fandom.com#cite_note-5,"{""[5]"": 1}",1
+8286,16,[6],348,351,anchor,https://alldimensions.fandom.com#cite_note-6,"{""[6]"": 1}",1
+8286,19,Moon,363,367,internal,https://alldimensions.fandom.com/wiki/The_Moon,"{""Moon"": 1}",1
+8286,20,Caloris Planitia,108,124,external,https://en.wikipedia.org/wiki/Caloris_Planitia,"{""Caloris Planitia"": 1}",1
+8286,20,[7],207,210,anchor,https://alldimensions.fandom.com#cite_note-7,"{""[7]"": 1}",1
+8286,21,User blog:A86475342/Mercury,11,38,internal,https://alldimensions.fandom.com/wiki/User_blog:A86475342/Mercury,"{""User blog:A86475342/Mercury"": 1}",1

@@ -1,0 +1,3 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35448,2,simplex,31,38,internal,https://alldimensions.fandom.com/wiki/Simplex,"{""simplex"": 1}",1
+35448,3,cross polytope,147,161,internal,https://alldimensions.fandom.com/wiki/Cross_polytope,"{""cross polytope"": 1}",1

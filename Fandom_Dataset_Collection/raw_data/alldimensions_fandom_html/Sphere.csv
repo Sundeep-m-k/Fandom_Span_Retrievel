@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2136,1,3D,95,97,internal,https://alldimensions.fandom.com/wiki/Space,"{""3D"": 1}",1
+2136,1,hypersphere,98,109,internal,https://alldimensions.fandom.com/wiki/Hypersphere,"{""hypersphere"": 1}",1
+2136,1,point,161,166,internal,https://alldimensions.fandom.com/wiki/Point,"{""point"": 1}",1
+2136,1,space,230,235,internal,https://alldimensions.fandom.com/wiki/Space,"{""space"": 1}",1

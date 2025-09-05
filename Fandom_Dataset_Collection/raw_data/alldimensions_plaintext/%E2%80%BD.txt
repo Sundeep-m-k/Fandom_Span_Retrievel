@@ -1,0 +1,28 @@
+‽ or Banígerafinity is a colossal, outrageous, gigantic omeganumber transfinitely larger than any number that could possibly exist.
+Definition
+[
+]
+First, we define the function L(x), where L(x) = L(x-1){L(x-1)}L(x-1) and L(0) = Ħ
+This function's values will be as follows:
+L(1) = Ħ{Ħ}Ħ = Ħ
+1
+L(2) = Ħ
+1
+{Ħ
+1
+}Ħ
+1
+= Ħ
+2
+L(3) = Ħ
+2
+{Ħ
+2
+}Ħ
+2
+= Ħ
+3
+Etc.
+With this function, ‽ is defined as Ħ
+Ħ
+(L(Ħ)). This means it is the product of infinite infinite operations, which, if you haven't noticed already, means it is really really big.

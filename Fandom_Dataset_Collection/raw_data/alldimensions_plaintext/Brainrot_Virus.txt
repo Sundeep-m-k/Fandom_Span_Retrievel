@@ -1,0 +1,59 @@
+Contents
+1
+Description
+2
+Stages
+2.1
+Stage 1
+2.2
+Stage 2
+3
+Endocytosis and Viral Replication
+4
+Medication
+Description
+[
+]
+Brainrot Virus
+3 microscopic images of the Brainrot Virus
+n of cases
+unknown
+spreadiness from 1-10 with 1 being hard to spread and 10 being very easy to spread.
+8
+vaccinated? Y/N
+No vaccine available currently
+The Brainrot Virus (BV) is a deadly type of girus (Gñgiant
+virus
+) in symbiosis with the
+brainrot fungi
+and
+brainrot parasite
+. This virus's job in the parasite is to kill brainrot fungi in the brainrot parasites so they don't outright kill the latters.
+This virus can actually change it's shape, as shown in the template image. This virus can also infect
+beings
+such as
+humans
+, pigs and pigeons.
+Stages
+[
+]
+This virus has several stages of infection
+Stage 1
+[
+]
+Stage 1 occurs about 5 minutes after infection. The virus first infects tracheal epithelial
+cells
+to cause havoc. Then, when macrophages arrive, the virus infects them and seems to die, but they are really just hiding in the macrophages. Then they spread into the bloodstream and they infect the brain quietly.
+Stage 2
+[
+]
+WIP
+Endocytosis and Viral Replication
+[
+]
+Carpet-virus, similar to a variety of other viruses primarily recognize the N-acetylneuraminic (sialic) acid, a nine carbon monosaccharide commonly found at the termini of several glycoconjugates. Viral glycoprotein primarily binds to the a-2,3 or a-2,6 linkages, which are formed through the binding of the sialic acid terminal’s carbon-2 with galactose’s carbon-3 or 6. A-2,6 linkages are normally most common in the tracheal epithelial cells, whilst 2-3 linkages are normally more common in the gut epithelium. Following glycoprotein attachment, a low pH catalyzes a conformal change within the glycoprotein, exposing a fusion peptide which mediates the merge, thus opening a hole and releasing viral contents inside via endocytosis.
+Once liberated from the virion, viral Ribonucleic proteins are transported to the host cell’s nucleus by means of viral protein’s NLS. The RNA-dependent RNA polymerase, an aspect of the imported viral nucleic proteins, uses a negative sense vRNA to create two positive sense RNA; mRNA for transcription and cRNA to be used as an intermediate from which the polymerase to transcribe more copies of negative-sense vRNA. Once mRNA from the carpet-virus is polyadenylated and successfully capped, transcription begins the same way a normal host cell’s mRNA would be transcribed through the ribosome and golgi complexes.
+Medication
+[
+]
+Medications that inhibit the release of arachidonic acid via blocking the Phospholipase A2 terminal prevent synthesis of Prostaglandin within the cyclooxyrgenase 1 and 2 enzymes, thus relieving the patient of a variety of symptoms mentioned above. However, due to genome structure of the virus permitting antigenic shift and antigenic drift, long term efforts to produce vaccines/cures have not been successful. The Red Cross is continuously watching for mutations within the virus, and is currently researching a more permanent solution regarding the virus

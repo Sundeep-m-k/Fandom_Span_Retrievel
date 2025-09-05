@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23068,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e0/76yiqc1g3ec11.png/revision/latest?cb=20200328121112,"{""\n\n"": 1}",1
+23068,2,Omniverse,50,59,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+23068,2,Britverse,592,601,internal,https://alldimensions.fandom.com/wiki/Britverse,"{""Britverse"": 1}",1
+23068,2,Petoria,602,609,internal,https://alldimensions.fandom.com/wiki/Petoria,"{""Petoria"": 1}",1
+23068,2,Canadiaverse,681,693,internal,https://alldimensions.fandom.com/wiki/Canadiaverse,"{""Canadiaverse"": 1}",1

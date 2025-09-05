@@ -1,0 +1,18 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42251,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.png/revision/latest?cb=20210913102758,"{""\n\n"": 1}",1
+42251,1,The Last Voids,117,131,internal,https://alldimensions.fandom.com/wiki/The_Last_Void,"{""The Last Voids"": 1}",1
+42251,1,Atoms,198,203,internal,https://alldimensions.fandom.com/wiki/Atom,"{""Atoms"": 1}",1
+42251,1,Planets,205,212,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+42251,1,Stars,218,223,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+42251,1,Atoms,198,203,internal,https://alldimensions.fandom.com/wiki/Atom,"{""Atoms"": 1}",1
+42251,1,Void,126,130,internal,https://alldimensions.fandom.com/wiki/Void,"{""Void"": 1}",1
+42251,2,Alpha Hub,9,18,internal,https://alldimensions.fandom.com/wiki/Alpha_Hub,"{""Alpha Hub"": 1}",1
+42251,5,Electrons,51,60,internal,https://alldimensions.fandom.com/wiki/Electron,"{""Electrons"": 1}",1
+42251,5,Protons,62,69,internal,https://alldimensions.fandom.com/wiki/Proton,"{""Protons"": 1}",1
+42251,5,Quarks,79,85,internal,https://alldimensions.fandom.com/wiki/Quark,"{""Quarks"": 1}",1
+42251,5,Atoms,136,141,internal,https://alldimensions.fandom.com/wiki/Atom,"{""Atoms"": 1}",1
+42251,5,Planets,143,150,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+42251,5,Stars,156,161,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
+42251,6,Atom,73,77,internal,https://alldimensions.fandom.com/wiki/Atom,"{""Atom"": 1}",1

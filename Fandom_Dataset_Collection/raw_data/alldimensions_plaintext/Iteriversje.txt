@@ -1,0 +1,64 @@
+An iteriversje (iteration + verse (container) + je (small)) is a versje made up of joined stacked
+altiversjes
+.
+Like all metaversjes, it is an abstraction of reality and not actually a thing.
+Iteriversje
+Size
+x(0^-height)
+Containment
+Contained by
+It is contained in
+The True Waterfall
+Contains
+Altiversje
+Emergent properties
+Small scale
+Infinite
+micraltiversjes
+Medium scale
+Center
+altiversje
+Large scale
+Finite
+macraltiversjes
+Contents
+1
+Properties
+1.1
+Center
+1.2
+Height
+1.3
+Size
+Properties
+[
+]
+Center
+[
+]
+All iteriversjes have a central
+altiversje
+that is used to determine its height and size.
+Height
+[
+]
+The height of an iteriversje is the amount of layers of
+macraltiversjes
+going up. The depth is the amount of layers of
+micraltiversjes
+going down. A height of 0 means that there are no
+altiversjes
+beyond the one in the center, and the height will always be 0 or higher as a negative height implies its center doesnt exist.
+Sometimes a
+macraltiversje
+is not available for various reasons, which is why the height can be finite. The depth will always be infinite.
+Size
+[
+]
+Any
+macraltiversje
+contains a ±infinite number of
+altiversjes
+. An iteriversje of any height higher than 0 will therefore be ±infinite in size. The depth is not used as it measures the amount of
+micraltiversjes
+which have no size relative to the center.

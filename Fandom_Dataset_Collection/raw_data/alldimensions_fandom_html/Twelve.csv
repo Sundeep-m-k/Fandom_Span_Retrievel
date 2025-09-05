@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+33269,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/30/Screen_Shot_2020-07-11_at_6.14.21_PM.png/revision/latest?cb=20200712011731,"{""\n\n"": 1}",1
+33269,1,Thirteen,119,127,internal,https://alldimensions.fandom.com/wiki/Thirteen,"{""Thirteen"": 1}",1
+33269,1,Eleven,140,146,internal,https://alldimensions.fandom.com/wiki/Eleven,"{""Eleven"": 1}",1
+33269,2,The Pencil Language,19,38,internal,https://alldimensions.fandom.com/wiki/The_Pencil_Language,"{""The Pencil Language"": 1}",1
+33269,2,Elevens,118,125,internal,https://alldimensions.fandom.com/wiki/Eleven,"{""Elevens"": 1}",1

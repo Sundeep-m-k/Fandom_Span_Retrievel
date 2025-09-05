@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+2339,1,Triangular Prism,0,16,internal,https://alldimensions.fandom.com/wiki/Triangular_Prism,"{""Triangular Prism"": 1}",1
+2339,2,List of Polyhedra by Type,13,38,internal,https://alldimensions.fandom.com/wiki/List_of_Polyhedra_By_Type,"{""List of Polyhedra by Type"": 1}",1
+2339,3,polygon,43,50,internal,https://alldimensions.fandom.com/wiki/Polygon,"{""polygon"": 1}",1
+2339,3,three-dimensional space,56,79,internal,https://alldimensions.fandom.com/wiki/Space,"{""three-dimensional space"": 1}",1
+2339,3,line segment,177,189,internal,https://alldimensions.fandom.com/wiki/Line_Segment,"{""line segment"": 1}",1
+2339,3,polygons,99,107,internal,https://alldimensions.fandom.com/wiki/Polygon,"{""polygons"": 1}",1
+2339,3,Schläfli symbols,369,385,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""Schläfli symbols"": 1}",1
+2339,4,henagon,2,9,internal,https://alldimensions.fandom.com/wiki/Henagon,"{""henagon"": 1}",1
+2339,6,digon,4,9,internal,https://alldimensions.fandom.com/wiki/Digon,"{""digon"": 1}",1
+2339,8,squares,2,9,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1
+2339,9,triangle,37,45,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangle"": 1}",1
+2339,10,squares,2,9,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1
+2339,12,pentagon,2,10,internal,https://alldimensions.fandom.com/wiki/Pentagon,"{""pentagon"": 1}",1
+2339,13,squares,2,9,internal,https://alldimensions.fandom.com/wiki/Square,"{""squares"": 1}",1

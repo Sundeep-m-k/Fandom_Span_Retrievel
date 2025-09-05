@@ -1,0 +1,23 @@
+Wallstone
+Scale
+Size
+12-60 LY
+Dimensionality
+5
+Position
+Contained by:
+Brown wall
+,
+Red wall
+,
+Blue wall
+,
+Green wall
+Wallstones are large, 5 dimensional asteroid like rocks that make up the large walls, they vary in color and are composed of mostly uranium, quartz and gallium. The size of these does not change between larger walls, there are just more wallstones.
+The space-bending of the large walls might be caused by wallstones, but this has yet to be confirmed.
+Gallery
+[
+]
+4 individual wallstones from the
+brown wall
+.

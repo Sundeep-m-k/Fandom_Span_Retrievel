@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20005,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f4/In_silico.jpeg/revision/latest?cb=20200116231918,"{""\n\n"": 1}",1
+20005,1,in Silico,30,39,internal,https://alldimensions.fandom.com/wiki/In_Silico,"{""in Silico"": 1}",1
+20005,1,In Silico,65,74,internal,https://alldimensions.fandom.com/wiki/In_Silico,"{""In Silico"": 1}",1
+20005,1,The Orb,133,140,internal,https://alldimensions.fandom.com/wiki/The_Orb,"{""The Orb"": 1}",1
+20005,1,in Silico,30,39,internal,https://alldimensions.fandom.com/wiki/In_Silico,"{""in Silico"": 1}",1
+20005,2,in Silico,70,79,internal,https://alldimensions.fandom.com/wiki/In_Silico,"{""in Silico"": 1}",1

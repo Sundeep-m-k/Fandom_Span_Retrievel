@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48839,1,Totum,69,74,internal,https://alldimensions.fandom.com/wiki/Totum,"{""Totum"": 1}",1
+48839,2,🐉,34,35,internal,https://alldimensions.fandom.com/wiki/%F0%9F%90%89,"{""🐉"": 1}",1
+48839,2,Up arrow notation,46,63,external,https://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation,"{""Up arrow notation"": 1}",1

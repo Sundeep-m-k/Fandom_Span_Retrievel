@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36614,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f7/The_smaller_Field.png/revision/latest?cb=20210128004759,"{""\n\n"": 1}",1
+36614,1,Orbi,99,103,internal,https://alldimensions.fandom.com/wiki/Orbi,"{""Orbi"": 1}",1
+36614,1,Skies,161,166,internal,https://alldimensions.fandom.com/wiki/Sky,"{""Skies"": 1}",1
+36614,1,The Spires,178,188,internal,https://alldimensions.fandom.com/wiki/The_Spire,"{""The Spires"": 1}",1
+36614,1,Orbis,190,195,internal,https://alldimensions.fandom.com/wiki/Orbi,"{""Orbis"": 1}",1
+36614,2,blueprint particles,69,88,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""blueprint particles"": 1}",1
+36614,2,Spires,141,147,internal,https://alldimensions.fandom.com/wiki/The_Spire,"{""Spires"": 1}",1
+36614,2,Orbis,278,283,internal,https://alldimensions.fandom.com/wiki/Orbi,"{""Orbis"": 1}",1
+36614,3,sky,227,230,internal,https://alldimensions.fandom.com/wiki/Sky,"{""sky"": 1}",1
+36614,3,sky,227,230,internal,https://alldimensions.fandom.com/wiki/Sky,"{""sky"": 1}",1

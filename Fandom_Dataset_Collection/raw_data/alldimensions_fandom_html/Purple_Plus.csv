@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41086,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cf/Purpleplus.png/revision/latest?cb=20220221013442,"{""\n\n"": 1}",1
+41086,1,Infinibook,83,93,internal,https://alldimensions.fandom.com/wiki/Infinibook,"{""Infinibook"": 1}",1
+41086,1,Mandelbroth,234,245,internal,https://alldimensions.fandom.com/wiki/Mandelbroth,"{""Mandelbroth"": 1}",1
+41086,1,The Garage,258,268,internal,https://alldimensions.fandom.com/wiki/The_Garage,"{""The Garage"": 1}",1
+41086,2,the Garage,48,58,internal,https://alldimensions.fandom.com/wiki/The_Garage,"{""the Garage"": 1}",1
+41086,2,Mandelbroth,79,90,internal,https://alldimensions.fandom.com/wiki/Mandelbroth,"{""Mandelbroth"": 1}",1
+41086,10,Wrathful Elevator,473,490,internal,https://alldimensions.fandom.com/wiki/The_Garage,"{""Wrathful Elevator"": 1}",1
+41086,12,The Garage,0,10,internal,https://alldimensions.fandom.com/wiki/The_Garage,"{""The Garage"": 1}",1

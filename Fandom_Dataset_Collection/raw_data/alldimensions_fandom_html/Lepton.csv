@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41148,1,Atoms,175,180,internal,https://alldimensions.fandom.com/wiki/Atoms,"{""Atoms"": 1}",1
+41148,1,Preons,192,198,internal,https://alldimensions.fandom.com/wiki/Preon,"{""Preons"": 1}",1
+41148,3,gluons,100,106,internal,https://alldimensions.fandom.com/wiki/Gluon,"{""gluons"": 1}",1

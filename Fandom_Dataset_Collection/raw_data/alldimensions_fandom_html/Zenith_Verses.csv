@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42399,3,Blue Ring,4,13,internal,https://alldimensions.fandom.com/wiki/Blue_Ring,"{""Blue Ring"": 1}",1
+42399,5,All Dimensions Wiki,79,98,internal,https://alldimensions.fandom.com/wiki/All_Dimensions_Wiki,"{""All Dimensions Wiki"": 1}",1
+42399,5,Red Ring,146,154,internal,https://alldimensions.fandom.com/wiki/Red_Ring,"{""Red Ring"": 1}",1

@@ -1,0 +1,393 @@
+A
+Schläfli Symbol
+is a notation to define regular
+polytopes
+and
+tilings
+. They appear in the form
+{
+a
+,
+b
+,
+c
+,
+⋯
+}
+{\displaystyle \{ a, b, c, \cdots \} }
+.
+The first
+X-1
+entries define a
+polytope
+, and the
+X
+th entry defines how many are around each
+X-2
+-dimensional subfacet.
+For example,
+{
+3
+,
+4
+}
+{\displaystyle \{3, 4\}}
+defines a polytope where there are four
+triangles
+(schläfli symbol
+{
+3
+}
+{\displaystyle \{3\}}
+) around each
+vertex
+; in this case, an
+octahedron
+. As another example,
+{
+3
+,
+3
+,
+4
+}
+{\displaystyle \{3, 3, 4\}}
+defines a polytope where there are four
+tetrahedra
+(schläfli symbol
+{
+3
+,
+3
+}
+{\displaystyle \{3, 3\}}
+) around each
+edge
+; in this case, a
+tetrarss
+.
+Regular
+polygons
+of
+X
+sides have the schläfli symbol
+{
+X
+}
+{\displaystyle \{X\}}
+.
+An
+X
+-dimensional
+polytope
+will always have a schläfli symbol with
+X-1
+entries, though not all schläfli symbols with
+X-1
+entries define an
+X
+-dimensional
+polytope
+; this is because
+tilings
+in
+X
+dimensions have
+X
+entries in their schläfli symbols.
+To find the
+dual
+of a regular
+polytope
+, simply reverse its schläfli symbol. For example, the
+dual
+of the
+tesseract
+(
+{
+4
+,
+3
+,
+3
+}
+{\displaystyle \{4, 3, 3\}}
+) is the
+tetrarss
+(
+{
+3
+,
+3
+,
+4
+}
+{\displaystyle \{3, 3, 4\}}
+). This also means that
+polytopes
+with palindromic schläfli symbols, such as the
+tetrahedron
+, are self-dual.
+Contents
+1
+List of Shapes By Schläfi Symbol
+1.1
+<0-Entry
+1.2
+0-Entry
+1.3
+1-Entry
+1.4
+2-Entry
+List of Shapes By Schläfi Symbol
+[
+]
+Arranged by size order, with the final entry taking precedence.
+<0-Entry
+[
+]
+(
+)
+{\displaystyle ()}
+-
+Point
+0-Entry
+[
+]
+{
+}
+{\displaystyle \{\}}
+-
+Line Segment
+1-Entry
+[
+]
+{
+1
+}
+{\displaystyle \{1\}}
+-
+Henagon
+{
+2
+}
+{\displaystyle \{2\}}
+-
+Digon
+{
+3
+}
+{\displaystyle \{3\}}
+-
+Triangle
+{
+4
+}
+{\displaystyle \{4\}}
+-
+Square
+{
+5
+/
+2
+}
+{\displaystyle \{5/2\}  }
+-
+Pentagram
+{
+5
+}
+{\displaystyle \{5\}}
+-
+Pentagon
+{
+6
+}
+{\displaystyle \{6\}}
+-
+Hexagon
+{
+a
+}
+{\displaystyle \{a\} }
+-
+Polygon
+{
+ℵ
+0
+}
+{\displaystyle \{{ \aleph  }_{ 0 }\} }
+-
+Apeirogon
+2-Entry
+[
+]
+{
+1
+,
+1
+}
+{\displaystyle \{1, 1\} }
+-
+Henagonal Henahedron
+{
+2
+,
+1
+}
+{\displaystyle \{2,1\}}
+-
+Henagonal Hosahedron
+{
+1
+,
+2
+}
+{\displaystyle \{1,2\}}
+-
+Henagonal Dihedron
+{
+a
+,
+2
+}
+{\displaystyle \{a, 2\} }
+-
+Polygonal Dihedron
+{
+3
+,
+3
+}
+{\displaystyle \{3, 3\}}
+-
+Tetrahedron
+{
+4
+,
+3
+}
+{\displaystyle \{4,3\}}
+-
+Cube
+{
+5
+/
+2
+,
+3
+}
+{\displaystyle \{5/2, 3\}}
+-
+Great Stellated Dodecahedron
+{
+5
+,
+3
+}
+{\displaystyle \{5, 3\}}
+-
+Dodecahedron
+{
+6
+,
+3
+}
+{\displaystyle \{6,3\}}
+-
+Hexagonal Tiling
+{
+3
+,
+4
+}
+{\displaystyle \{3, 4\}}
+-
+Octahedron
+{
+5
+,
+4
+}
+{\displaystyle \{5,4\}}
+-
+Dodecadodecahedron
+{
+3
+,
+5
+/
+2
+}
+{\displaystyle \{3, 5/2\}}
+-
+Great Icosahedron
+{
+5
+,
+5
+/
+2
+}
+{\displaystyle \{5, 5/2\}}
+-
+Great Dodecahedron
+{
+3
+,
+5
+}
+{\displaystyle \{3, 5\}}
+-
+Icosahedron
+{
+4
+,
+5
+}
+{\displaystyle \{4,5\}}
+-
+Medial Rhombic Triacontahedron
+{
+5
+/
+2
+,
+5
+}
+{\displaystyle \{5/2, 5\}}
+-
+Small Stellated Dodecahedron
+{
+6
+,
+5
+}
+{\displaystyle \{6,5\}}
+-
+Medial Triambic Icosahedron
+{
+5
+,
+6
+}
+{\displaystyle \{5,6\}}
+-
+Ditrigonal Dodecadodecahedron
+{
+6
+,
+6
+}
+{\displaystyle \{6,6\}}
+-
+Excavated Dodecahedron
+{
+2
+,
+b
+}
+{\displaystyle \{2, b\} }
+-
+Polygonal Hosohedron
+This symbol broke math and led to the creation of this page to defend itself against critics.

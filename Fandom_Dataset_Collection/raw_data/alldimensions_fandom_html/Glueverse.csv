@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+30023,1,,0,0,external,https://static.wikia.nocookie.net/alldimensions/images/d/d2/GLUE.jpg/revision/latest?cb=20200520173343,"{"""": 1}",1
+30023,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d2/GLUE.jpg/revision/latest?cb=20200520173343,"{""\n\n"": 1}",1
+30023,1,Pasteverse,40,50,internal,https://alldimensions.fandom.com/wiki/Pasteverse,"{""Pasteverse"": 1}",1
+30023,1,Grand Ultimaverse,62,79,internal,https://alldimensions.fandom.com/wiki/Grand_Ultimaverse,"{""Grand Ultimaverse"": 1}",1
+30023,1,Grand Ultimaverse,62,79,internal,https://alldimensions.fandom.com/wiki/Grand_Ultimaverse,"{""Grand Ultimaverse"": 1}",1
+30023,1,Gluometers,153,163,internal,https://alldimensions.fandom.com/wiki/Gluometer,"{""Gluometers"": 1}",1
+30023,2,Grand Ultimaverses,102,120,internal,https://alldimensions.fandom.com/wiki/Grand_Ultimaverse,"{""Grand Ultimaverses"": 1}",1

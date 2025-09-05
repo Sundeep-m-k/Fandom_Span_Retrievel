@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+37438,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b2/The_Great_Dimensihedron.jpeg/revision/latest?cb=20210327051901,"{""\n\n"": 1}",1
+37438,1,Elementary Hexahedron,414,435,internal,https://alldimensions.fandom.com/wiki/Elementary_Hexahedron,"{""Elementary Hexahedron"": 1}",1
+37438,5,elementary hexahedrons,127,149,internal,https://alldimensions.fandom.com/wiki/Elementary_Hexahedron,"{""elementary hexahedrons"": 1}",1
+37438,5,Probabilistical The Box Supercluster,185,221,internal,https://alldimensions.fandom.com/wiki/Probabilistic_The_Box_Supercluster,"{""Probabilistical The Box Supercluster"": 1}",1
+37438,5,Hypercluster,225,237,internal,https://alldimensions.fandom.com/wiki/Probabilistic_The_Box_Hypercluster,"{""Hypercluster"": 1}",1
+37438,6,The Particles,75,88,internal,https://alldimensions.fandom.com/wiki/The_Particle,"{""The Particles"": 1}",1

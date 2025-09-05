@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45262,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/82/Accumulator.png/revision/latest?cb=20240113153627,"{""\n\n"": 1}",1
+45262,1,,0,0,external,https://static.wikia.nocookie.net/alldimensions/images/7/71/Metagear.png/revision/latest?cb=20240113150240,"{"""": 1}",1
+45262,1,ɢ,72,73,internal,https://alldimensions.fandom.com/wiki/Metagear,"{""ɢ"": 1}",1
+45262,3,Automate Industries,38,57,internal,https://alldimensions.fandom.com/wiki/Category:Automate_Industries,"{""Automate Industries"": 1}",1
+45262,3,joules,229,235,external,https://en.wikipedia.org/wiki/Joule,"{""joules"": 1}",1
+45262,3,metagears,258,267,internal,https://alldimensions.fandom.com/wiki/Metagear,"{""metagears"": 1}",1
+45262,5,The Really Cool Reviewing Cosmic Corporation,0,44,internal,https://alldimensions.fandom.com/wiki/The_Really_Cool_Reviewing_Cosmic_Corporation,"{""The Really Cool Reviewing Cosmic Corporation"": 1}",1

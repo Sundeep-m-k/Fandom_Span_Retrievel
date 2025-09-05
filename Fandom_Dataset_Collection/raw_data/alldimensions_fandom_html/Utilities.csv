@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35415,1,ruling,22,28,internal,https://alldimensions.fandom.com/wiki/Category:Rulers,"{""ruling"": 1}",1
+35415,1,entities,29,37,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entities"": 1}",1
+35415,2,multiverses,85,96,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverses"": 1}",1
+35415,2,civilizations,331,344,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilizations"": 1}",1
+35415,3,xenoverse,51,60,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""xenoverse"": 1}",1
+35415,3,mesaversal APIs,87,102,internal,https://alldimensions.fandom.com/wiki/Mesaversal_APIs,"{""mesaversal APIs"": 1}",1

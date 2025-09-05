@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34911,4,universe,353,361,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+34911,4,uber realm,381,391,internal,https://alldimensions.fandom.com/wiki/Uber_Realm,"{""uber realm"": 1}",1
+34911,4,Gerald,461,467,internal,https://alldimensions.fandom.com/wiki/Gerald,"{""Gerald"": 1}",1
+34911,4,dunkey kong,469,480,internal,https://alldimensions.fandom.com/wiki/Dunkey_Kong,"{""dunkey kong"": 1}",1
+34911,4,alphasm,482,489,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""alphasm"": 1}",1

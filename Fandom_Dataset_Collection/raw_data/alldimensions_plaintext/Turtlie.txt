@@ -1,0 +1,251 @@
+Turtlie
+Scale
+Size
+Depends
+EUSI
+Depends
+Finality Index
+Depends
+FOEI
+Depends
+Dimensionality
+Depends
+Kardashev Scale
+Depends
+Properties
+Temperature
+Depends
+Class
+Depends, they also depends on hierarchies.
+Life Percentage
+Depends
+Shape
+Depends
+Density (Void Percentage)
+Depends
+Position
+Contained by:
+Star Systems
+,
+Galaxies
+,
+Universes
+,
+Multiverses
+, and more.
+Contains:
+Planets
+,
+Star Systems
+,
+Galaxies
+,
+Universes
+,
+Multiverses
+, and more.
+(minor objects) See below.
+Turtlies
+are any number of cosmological objects, vastly ranging in size from sub-universal to universal, based on the famous saying, "it's turtles all the way down". They can a collection of lower-level
+Turtlies
+, being made of even smaller ones and so on, except if they are the lowest-level
+Turtlie
+, the
+Planet
+. Higher-level
+Turtlies
+are always made of the previous level, except if they are a Planet.
+There is also a measurement system used by many civilizations within The Infinite Cosmology that starts with T-0 (Planet), T-1 (Star System), etc. This is a set of values corresponding with their objects:
+Pre-Normal Turtlies
+[
+]
+These turtlies is class 0 or lower classes, so they is not big. At orders, they are reversed (highest is -1, lowest is -ω).
+Turtlie Tier
+Standard Naming
+Size
+Note
+Tier -1
+Moon
+500Km - 5,000Km
+The variants of moons. They orbit not every turtlies tier 0 (planet)s.
+Tier -2
+Continent
+100Km - 500Km
+They not apper on every planets.
+Tier -3
+Country
+5Km - 100Km
+Contries may be over 100Km, meaning they is at size of tier -2, tier -1.
+Tier -4
+Town
+1Km - 5Km
+They may not appear in every Contries.
+...
+...
+...
+...
+Tier -ω
+Protoverse
+/
+SMOLverse
+0m
+They can be found in
+uqraek fibers
+.
+Normal Turtlies
+[
+]
+These turtlies is high class 0 objects. They even class 1 objects.
+Turtlie Tier
+Standard Naming
+Size
+Note
+T-0
+Planet
+5,000Km - 100,000Km
+This is where we live in, until the far future. (around 2500s - 3000s).
+T-1
+Star System
+100Gm - 50Tm
+Star System can have any amount of stars, up to 3 rarely!
+T-2
+Galaxy
+5,000 LY - 10,000,000 LY
+Type 3 civilizations can control over this entire system.
+T-3
+Galaxy Cluster
+50,000,000 LY - 200,000,000 LY
+This may be the limit of our civilization, no matter how far you go.
+T-4
+Galaxy Supercluster
+250,000,000 LY - 1,000,000,000 LY
+Galaxy clusters are grouped with other clusters in superclusters.
+T-5
+Hypercluster
+/
+Supercluster Complex
+/
+Galaxy Filament
+1,500,000,000 LY - 10,000,000,000 LY
+This is only the observed level where there are some unique types.
+T-6
+Tublaxa
+50,000,000,000 LY - 500,000,000,000 LY
+The common universes can't have
+Tublaxas
+because they're not big enough to fit one. Only "bigger universes" can.
+T-7
+Tublaxa
+Cluster
+1.00*10
+12
+LY - 1.50*10
+13
+LY
+Yeah... It's a generic cluster of
+Tublaxas
+. Nothing's special.
+T-7
+Tublaxa
+Supercluster
+5.00*10
+14
+LY - 3.00*10
+15
+LY
+Nothing special, it's just a generic cluster of
+Tublaxa
+Clusters.
+T-8
+Tublaxa
+Hypercluster/
+Tublaxa
+Supercluster Complex/
+Tublaxa
+Filament
+7.50*10
+15
+LY - 5.00*10
+16
+LY
+Very big universe or multiverses can contain it only.
+T-9
+Universal Tublaxa
+2.75*10
+17
+LY - 9.00*10
+17
+LY
+Universes can't contain this, but
+multiveres
+can contain it.
+T-10
+Universal Tublaxa
+Group
+1.00*10
+18
+LY - 5.00*10
+18
+LY
+Bigger Multiverses can contain it.
+T-11
+Universal Tublaxa
+Cluster
+6.40*10
+19
+LY - 2.05*10
+20
+LY
+There very low odds that Multiverses can contain it, so Megaverses commonly contain it.
+T-12
+Universal Tublaxa
+Supercluster
+1.75*10
+21
+LY - 1.40*10
+22
+LY
+Megaverse can contain it.
+...
+...
+...
+...
+T-∞
+Ultraverse
+/
+Infinityverse
+∞ LY
+Omniverses or Higher can contain it. Sometimes
+archverses
+or
+infinityverses
+contain it.
+...
+...
+...
+...
+T-ω (Limit)
+Universe
+/
+Erkesik
+ω LY
+Omniverses
+and
+allomniverses
+can contain it. This is also included to
+the outside
+or higher.
+The Turtlie
+ranking system is has the same essence as the EUSI, the differences being, that the
+Turtlie
+counts the amount of nested systems, instead of physical containments, and doesn't include an array as its input.
+The Turtlie
+rank should theoretically begin with T-0 being a moon, but not all planets have moons, and if we include moons, there is nothing stopping moons from also having moons, and triple nested moons, and so on. This could theoretically be described as
+T
+−
+(
+−
+ω
+)
+{\displaystyle T-(-\omega)}
+, but the author didn't intend for this originally, so it is unofficial yet.

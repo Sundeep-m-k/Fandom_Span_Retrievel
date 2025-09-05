@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48926,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/51/Supercore.jpeg/revision/latest?cb=20250302185117,"{""\n\n"": 1}",1
+48926,1,The Core,104,112,internal,https://alldimensions.fandom.com/wiki/The_Core,"{""The Core"": 1}",1
+48926,1,EUSI,153,157,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+48926,1,The Megacore,393,405,internal,https://alldimensions.fandom.com/wiki/The_Megacore,"{""The Megacore"": 1}",1
+48926,1,The Core,104,112,internal,https://alldimensions.fandom.com/wiki/The_Core,"{""The Core"": 1}",1
+48926,3,core,9,13,internal,https://alldimensions.fandom.com/wiki/The_Core,"{""core"": 1}",1
+48926,3,[1],160,163,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+48926,3,megacores,409,418,internal,https://alldimensions.fandom.com/wiki/The_Megacore,"{""megacores"": 1}",1
+48926,4,[2],295,298,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1

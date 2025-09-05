@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36056,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/10/3.png/revision/latest?cb=20191013105211,"{""\n\n"": 1}",1
+36056,1,1234abcd,81,89,internal,https://alldimensions.fandom.com/wiki/1234abcd,"{""1234abcd"": 1}",1
+36056,1,1234abcd,81,89,internal,https://alldimensions.fandom.com/wiki/1234abcd,"{""1234abcd"": 1}",1
+36056,1,۝,222,223,internal,https://alldimensions.fandom.com/wiki/%DB%9D,"{""۝"": 1}",1
+36056,1,Divine Broth,297,309,internal,https://alldimensions.fandom.com/wiki/Divine_Broth,"{""Divine Broth"": 1}",1
+36056,1,verse,260,265,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+36056,1,Official Hierarchy,468,486,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""Official Hierarchy"": 1}",1
+36056,2,۝,28,29,internal,https://alldimensions.fandom.com/wiki/%DB%9D,"{""۝"": 1}",1

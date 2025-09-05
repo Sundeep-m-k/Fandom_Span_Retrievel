@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35262,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e9/Alternate-kaoverse.png/revision/latest?cb=20200921222631,"{""\n\n"": 1}",1
+35262,1,Chargeverse,149,160,internal,https://alldimensions.fandom.com/wiki/Chargeverse,"{""Chargeverse"": 1}",1
+35262,1,Thegatusverse,211,224,internal,https://alldimensions.fandom.com/wiki/Thegatusverse,"{""Thegatusverse"": 1}",1
+35262,3,Anchorverse,37,48,internal,https://alldimensions.fandom.com/wiki/Anchorverse,"{""Anchorverse"": 1}",1
+35262,3,Kaoverse,53,61,internal,https://alldimensions.fandom.com/wiki/Kaoverse,"{""Kaoverse"": 1}",1

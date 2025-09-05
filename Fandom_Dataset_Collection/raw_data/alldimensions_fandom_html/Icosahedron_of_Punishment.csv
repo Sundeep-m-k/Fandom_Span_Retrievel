@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36889,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d0/Icosahedon.png/revision/latest?cb=20181012235207,"{""\n\n"": 1}",1
+36889,1,EUSI,85,89,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+36889,1,Finality Index,129,143,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+36889,3,Alphasm,80,87,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""Alphasm"": 1}",1

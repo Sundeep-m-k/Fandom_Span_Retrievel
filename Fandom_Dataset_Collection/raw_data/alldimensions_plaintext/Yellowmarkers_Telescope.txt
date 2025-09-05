@@ -1,0 +1,47 @@
+The
+Yellowmarkers Telescope
+is one of the most powerful telescopes ever created.
+Contents
+1
+Appearance
+2
+How the YM Telescope Works
+2.1
+The Lens
+2.2
+The Launcher
+2.3
+The Guider
+2.4
+The Generator
+2.5
+The Cameras
+Appearance
+[
+]
+A depiction of the Yellowmarkers Telescope
+The Yellowmarkers Telescope appears to be a yellow and gray-colored colored telescope which has a structure and appearance similar to an EXPO marker. The main body of the body of the YM telescope is yellowish, while the "cap" of the telescope is gray-colored.
+How the YM Telescope Works
+[
+]
+The YM Telescope is actually very complicated even though it seems to be an ordinary telescope. There are 5 parts to the telescope.
+The Lens
+[
+]
+The 1st part of the YM telescope, the lens, is by far the most useless part. It does absolutely nothing except make the telescope look more normal. The lens is actually not transparent, and instead projects a simulated image of what you would see if you looked through a completely opaque piece of plastic.
+The Launcher
+[
+]
+The Launcher is the 2nd part of the YM telescope, and fires the 4th part, The Generator, at a ridiculous speed to the place where the Guider tells the Launcher to.
+The Guider
+[
+]
+The Guider is the 3rd part of the YM telescope. You use it to tell The Launcher where to fire The Generator at. The Guider is also used to control The Generator.
+The Generator
+[
+]
+The 4th part of the YM telescope, the generator, is the most important part. It is launched by The Launcher. The Generator, once it lands or is stopped by The Guider, will fire out hundreds of Cameras (the 5th part) to map out the surrounding areas.
+The Cameras
+[
+]
+The Cameras are small cameras used to map out the surrounding areas where The Generator is at. The way these cameras are created is unknown. Each of these cameras will then transmit the information they got back to the user of the telescope.

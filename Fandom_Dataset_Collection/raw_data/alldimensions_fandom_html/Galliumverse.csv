@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+39777,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b1/Solid_gallium_%28Ga%29.jpg/revision/latest?cb=20240823015426,"{""\n\n"": 1}",1
+39777,1,Omniverse,133,142,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+39777,2,Verse,23,28,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verse"": 1}",1
+39777,4,Universe,35,43,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+39777,4,Planet,105,111,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planet"": 1}",1
+39777,7,Black hole,64,74,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""Black hole"": 1}",1

@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+23227,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/08/The_True_Waterfall.png/revision/latest?cb=20210201231541,"{""\n\n"": 1}",1
+23227,1,The Rocks,53,62,internal,https://alldimensions.fandom.com/wiki/The_Rock,"{""The Rocks"": 1}",1
+23227,1,The Too Bigs,74,86,internal,https://alldimensions.fandom.com/wiki/The_Too_Big,"{""The Too Bigs"": 1}",1
+23227,1,Too Big,78,85,internal,https://alldimensions.fandom.com/wiki/The_Too_Big,"{""Too Big"": 1}",1
+23227,2,Too Bigs,55,63,internal,https://alldimensions.fandom.com/wiki/The_Too_Big,"{""Too Bigs"": 1}",1
+23227,2,substance,186,195,internal,https://alldimensions.fandom.com/wiki/Category:Substance,"{""substance"": 1}",1
+23227,2,verses,226,232,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+23227,4,Space,236,241,internal,https://alldimensions.fandom.com/wiki/The_Space,"{""Space"": 1}",1
+23227,5,User:08dravennew,46,62,internal,https://alldimensions.fandom.com/wiki/User:08dravennew,"{""User:08dravennew"": 1}",1

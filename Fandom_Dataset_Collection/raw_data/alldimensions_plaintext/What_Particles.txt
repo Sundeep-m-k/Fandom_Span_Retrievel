@@ -1,0 +1,147 @@
+What Particles are a group of extremely peculiar and special particles that each represent one of the 4 basic operations of math and a few common operations of binary: addition, subtraction, multiplication, division, NOT, AND, OR, XOR, and a couple others such as factorials and exponents.
+Contents
+1
+Naming Scheme
+2
+Basic What Particles
+2.1
+Addition Particle (Addidon)
+2.2
+Subtraction Particle (Subtractdon)
+2.3
+Multiplication Particle (Multidon)
+2.4
+Division Particle (Dividon)
+2.4.1
+Bigger Number Dividons
+2.4.2
+Smaller Number Dividons
+3
+Special What Particles
+3.1
+Factorial Particle (Factorion)
+3.2
+Exponent Particle (Exponon)
+3.3
+Tetration Particle (Tetradon) and all higher hyperoperation Particles
+3.4
+Randomness Particle (Randomdon)
+3.5
+Square Root Particle (Sqrtons)
+3.6
+Logarithm Particles (Logarons)
+3.6.1
+10-Logarons
+3.6.2
+e
+-Logarons / Natural Logarons
+3.7
+Complex Number Particles (Complexons)
+3.8
+Non Combining Particles (Noncombons)
+3.9
+NOT Particle (Lonoton)
+Naming Scheme
+[
+]
+Each What Particle has a very basic naming scheme. For example, if the What Particle represents addition, you take the first 2 syllables of "addition" and add "don" to the end or it (result is addidon). You can do this to every other What Particle, so the What particle that represents multiplication will be named "Multidon", the one that represents division would be named "dividon", and the one that represents subtraction would be "Subtractdon".
+If a word has ony one syllable, then you add "Io" to the beginning of the word.
+Basic What Particles
+[
+]
+Addition Particle (Addidon)
+[
+]
+Addidons are the most common basic math What Particle, and represent addition. If you put 2 or more groups of at least 1 particle inside an Addidon, it will "add" those particles up and spit back the result (such as 3 + 2 = 5 particles). However, due to the properties of addition, even if you complete the procedure, you would just get
+A image of an Addidon
+the same number of particles as you had before. However, Addidons can be used to cancel out the effects of Subtractdons (down below).
+Subtraction Particle (Subtractdon)
+[
+]
+Subtractdons are about as common as Addidons, and represent subtraction. If you put at most 2 groups of at least 1 particle and put them inside a Subtractdon, the Subtractdon will "subtract" the particles and return the particles (such as 9 - 7 = 2). If you try to get negative values with a Subtractdon, such as subtracting 10 particles from 3 particles, the Subtractdon will not let you and will
+An image of a Subtractdon
+instead swap the groups (in this case, 10 - 3). If you force a Subtractdon to create negative values using omnipotence, the Subtractdon will just glitch to
+Existence Rank
+0 to allow negative-sized particles.
+Massive clumps of Subtractdons have been used as cosmic trash cans before by powerful civilizations.
+Multiplication Particle (Multidon)
+[
+]
+Multidons are rarer than both Addidons and Subtractdons, and represent multiplication. If you put 2 or more groups of at least 1 particle and put them inside a Multidon, it will "multiply" both groups together and give back the result (for example, 3 x 5 = 15). Multidons can act like Subtractdons and remove matter, such as
+An image of a Multidon
+when you do 1 x 1, which you will only receive 1 particle. Multidons have been utilized before to create huge matter duplication machines before.
+Division Particle (Dividon)
+[
+]
+Dividons are extremely rare, and are even rarer than Multidons. Dividons represent division, and there are 2 types of Dividons. Both types of Dividons act differently, but both cannot take in more than 2 groups of particles.
+Bigger Number Dividons
+[
+]
+Bigger Number Dividons, when fed 2 groups of particles, will always divide the bigger group by the smaller group (such as 10 ÷ 5 = 2). Bigger Number Dividons cannot produce fractions due to this property. However,
+An image of a Dividon. Bigger and Smaller Number Dividons look roughly the same.
+Bigger Number Dividons are able to produce transcendental numbers if under the right circumstances.
+Smaller Number Dividons
+[
+]
+Smaller Number Dividons, when fed 2 groups of particles, will always divide the smaller group by the bigger group. This allows for fractions. Smaller Number Dividons are not able to produce ε, and also cannot divide by an infinite group of particles. Smaller Number Dividons are ridiculously precise at getting just the right fraction, and have been utilized by civilizations to make atom cutters.
+Special What Particles
+[
+]
+Other than the 4 basic What Particles, there are also many special ones, most of which are fusions of basic What Particles. These Special What Particles also represent an operation, such as factorials, exponents, and tetration. The naming scheme of Special What Particles are also slightly different.
+Factorial Particle (Factorion)
+[
+]
+Factorions are a fusion of Addidons and Multidons, and represent factorials. Unlike all the previous What Particles, Factorions only need one input of particles, in which then it will output the factorial of that number
+An image of a Factorion. Exponons look roughly the same.
+(such as 10 particles becomes 10! particles (3628800). Factorions are extremely good for duplicating matter, but will not accept groups of particles bigger than 50 due to the sheer number of particles.
+Exponent Particle (Exponon)
+[
+]
+Exponons are a fusion of at least 2 Multidons. Exponons represent exponents, and can only take in 2 groups of particles. When the particle groups are inside an Exponon, the Exponon will calculate the power of those 2 numbers in a random order (such as 3^2 = 9 or 2^3 = 8). Unlike Factorions, Exponons are less reliable due to the randomness of it.
+Tetration Particle (Tetradon) and all higher hyperoperation Particles
+[
+]
+Tetradons are a fusion of 2 Exponons, and represent tetration, basically the next hyperoperation after exponentation. Tetradons, can only take in 2 groups of particles, which then it will tetrate the number of
+An image of a hyperoperation particle
+particles together randomly.
+Two Tetradons will make one Pentadon, which represents pentation; 2 Pentadons will make one Hexadon, which represents hexation, and so on.
+Randomness Particle (Randomdon)
+[
+]
+Randomdons are special What Particles that don't represent any specific operation. Randomdons can only take in at most 2 groups of particles. Randomdons will then change into a random What Particle and use its
+An image of a Randomdon
+operation on the groups. Randomdons don't seem to be a fusion of any What Particle, and don't seem to be artificial either, so many times, Randomdons are classed as a Basic What Particle.
+Square Root Particle (Sqrtons)
+[
+]
+Sqrtons are particles that represent square roots. Sqrtons will only take in 1 group of particles, then get their square root. Sqrtons are very good at getting irrational values, such as √2 and √5.
+Logarithm Particles (Logarons)
+[
+]
+Logarons, What Particles that represent logarithm, take two groups of particles and take the base (number of one group of particles) logarithm of (number of other group of particles)
+10-Logarons
+[
+]
+Special type of logarons, takes one group of particles and takes the base 10 logarithm of it.
+e
+-Logarons / Natural Logarons
+[
+]
+Special type of logarons, takes one group of particles and takes the natural logarithm of it.
+Complex Number Particles (Complexons)
+[
+]
+Complexons are particles that represent all forms of complex numbers and square roots of complex numbers, as well as imaginary roots and imaginary towers, as well as hypercomplex numbers, like imaginary roots of imaginary numbers, such as the i-th root of i. Technically these are still complex numbers but we're calling them hypercomplex numbers because that sounds cooler.
+Once two, three, or any other real, imaginary, etc amount of complexons group, they will either do a random function (similar to a randomdon) or just completely disappear. There has not been any known way to photograph these particles, as they are likely not even real.
+These are likely the most complicated of any what particle as they do not have any photographic evidence and their mathematical formula's for combination is even more complicated than the randomdon.
+Non Combining Particles (Noncombons)
+[
+]
+Noncombons are particles that can not physically interact with each other.  This is mainly the case with Dividons, as if there's a 1 and 0 and they combine to make 1/0, they just won't interact.  There are many more complicated combinations of particles that will make this particle, but they're too long to name and I'm definitely not just lazy.
+Noncombons are just any particles similar to the ones shown above.
+NOT Particle (Lonoton)
+[
+]
+Lonotons turn the biggest group of nothingness around/within an object into existence, and vice versa. This also makes the Lonoton itself not exist, making them very rare in their existing and functional form. However, the Lonoton can easily destroy verses, making it a powerful weapon to destroy
+The Box
+. However, the much more common variant only affects some of the nothingness/existence with specific filters that prevent The Box from being destroyed.

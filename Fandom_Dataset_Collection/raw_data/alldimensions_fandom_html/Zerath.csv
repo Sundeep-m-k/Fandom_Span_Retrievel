@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34472,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f2/B6F4B3C7-79D9-4FB9-AA68-44B24BBFA09E.png/revision/latest?cb=20200726194316,"{""\n\n"": 1}",1
+34472,1,Earth,116,121,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+34472,1,planet,127,133,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
+34472,1,continent,196,205,internal,https://alldimensions.fandom.com/wiki/Continent,"{""continent"": 1}",1
+34472,1,lifeforms,229,238,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""lifeforms"": 1}",1
+34472,1,animals,271,278,internal,https://alldimensions.fandom.com/wiki/Category:Animal,"{""animals"": 1}",1
+34472,1,humans,290,296,internal,https://alldimensions.fandom.com/wiki/Human,"{""humans"": 1}",1
+34472,2,gods,165,169,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""gods"": 1}",1
+34472,4,galaxy,24,30,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxy"": 1}",1
+34472,22,type of god that nobody knows about,49,84,internal,https://alldimensions.fandom.com/wiki/Transcendent_Omni-God,"{""type of god that nobody knows about"": 1}",1
+34472,22,Omniverse,118,127,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+34472,28,civilizations,79,92,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilizations"": 1}",1

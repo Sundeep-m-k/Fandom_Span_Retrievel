@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35725,2,planets,60,67,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+35725,2,verses,75,81,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+35725,3,Stickverse,56,66,internal,https://alldimensions.fandom.com/wiki/Stickverse,"{""Stickverse"": 1}",1
+35725,3,The Verse Trap,142,156,internal,https://alldimensions.fandom.com/wiki/The_Verse_Trap,"{""The Verse Trap"": 1}",1
+35725,3,Thegatus,316,324,internal,https://alldimensions.fandom.com/wiki/Thegatus,"{""Thegatus"": 1}",1
+35725,6,"""Solid Light""",14,27,internal,https://alldimensions.fandom.com/wiki/%22Solid_Light%22,"{""\""Solid Light\"""": 1}",1

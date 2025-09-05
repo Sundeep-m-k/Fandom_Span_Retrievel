@@ -1,0 +1,43 @@
+There are
+Universes
+in our
+Multiverse
+,
+Hyperverses
+in our
+Omniverse
+, and so on. So far so good, but what if we want to describe a collision between verses. How do we do that?
+Contents
+1
+Step 1: Define a function
+2
+Step 2: Numerically writing verses
+3
+Step 3: Define the function
+4
+Confession
+Step 1: Define a function
+[
+]
+We will define a function,
+c(x, y)
+. This function will take in two verses, x any y, and output the verse that would result if those verses collided. We have got our function down, what do we do next? Next, we must define a numeric way of representing a verse? How do we do that?
+Step 2: Numerically writing
+verses
+[
+]
+How will we write our Universes numerically? What we can do is something clever. We will write a matrix. Every row is a different force, and every column is where the force takes you. A force should be thought of as a vector like this: [x, y, z]. These are the coordinates the object will go to if the force is applied on the object. If n forces are applied on an object, just add the vectors. The more columns a verse has, the more dimensions it has.
+Step 3: Define the function
+[
+]
+The function,
+c(x, y)
+is now ready to be defined. To define the function, you just add the matrices. There are some things that need to be worth mentioning.
+Any cell position that is not in the other matrix will be added into the new matrix
+To complete the rectangle, the extra cells with be numbered with zeros, of course
+Confession
+[
+]
+This function only shows how the verse behaves. A more well defined function would contain the size of the output as another matrix. But hey,
+Universes
+come in all different shapes and sizes. So the size of the verse is only useful in very particular cases, of course.

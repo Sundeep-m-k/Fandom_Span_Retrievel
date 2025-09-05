@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42634,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/ea/Infinitesimal_speck.jpg/revision/latest?cb=20221121130642,"{""\n\n"": 1}",1
+42634,1,EUSI,57,61,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42634,1,Xicohtlxul,62,72,internal,https://alldimensions.fandom.com/wiki/Xicohtlxul,"{""Xicohtlxul"": 1}",1
+42634,1,The Deadzone,207,219,internal,https://alldimensions.fandom.com/wiki/The_Deadzone,"{""The Deadzone"": 1}",1
+42634,1,Xicohtlxul,62,72,internal,https://alldimensions.fandom.com/wiki/Xicohtlxul,"{""Xicohtlxul"": 1}",1
+42634,2,Omniverse,116,125,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+42634,2,The Outside,135,146,internal,https://alldimensions.fandom.com/wiki/The_Outside,"{""The Outside"": 1}",1

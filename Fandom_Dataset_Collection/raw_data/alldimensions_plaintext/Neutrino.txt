@@ -1,0 +1,24 @@
+A neutrino is a very small object, or an elementary particle, around 10
+-25
+meters in size. Neutrinos are split into three different types: muon neutrinos, tau neutrinos, and electron neutrinos. Each type also has an antimatter opposite.
+Neutrino
+Label
+Class 0
+Label
+Preclass
+Neutrino
+Neutrino
+Size
+10^-25m
+Overview
+[
+]
+A neutrino (v) is a fermion that only interacts via weak interaction and gravity. Weak interactions create three different leptonic flavors of neutrino: muon neutrinos (v
+u
+), tau neutrinos (v
+t
+), and electron neutrinos (v
+e
+). A neutrino's mass (< 2.14 × 10
+−37
+kg) is so small that it was once thought to be zero. Neutrinos are created via radioactive decay, such as: beta decay of atomic nuclei, or via supernova. For each neutrino there is also an antineutrino. The first detection of the neutrino was in 1956.

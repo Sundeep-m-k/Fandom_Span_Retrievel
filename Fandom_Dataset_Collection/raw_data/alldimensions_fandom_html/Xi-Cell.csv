@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42655,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/bf/Mandelbulb_720.jpg/revision/latest?cb=20221120071350,"{""\n\n"": 1}",1
+42655,1,EUSI,84,88,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42655,1,Xi-Module,313,322,internal,https://alldimensions.fandom.com/wiki/Xi-Module,"{""Xi-Module"": 1}",1
+42655,4,The Xul,86,93,internal,https://alldimensions.fandom.com/wiki/Xicohtlxul,"{""The Xul"": 1}",1
+42655,4,The Deadzone,161,173,internal,https://alldimensions.fandom.com/wiki/The_Deadzone,"{""The Deadzone"": 1}",1

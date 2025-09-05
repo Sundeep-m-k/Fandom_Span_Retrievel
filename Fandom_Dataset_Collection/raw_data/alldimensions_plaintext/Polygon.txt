@@ -1,0 +1,531 @@
+A polygon is a 2D shape that obeys these rules:
+It must have 0+ sides
+It must have line segments as edges
+It must be closed
+It must not have any shapes in shapes
+It must not have any cross-overs
+It's sides must be straight and not curved.
+An example of this is a
+square
+. It has an area of
+l
+2
+{\displaystyle l^2}
+and each side is equal.
+Some exotic polygons, such as the
+henagon
+and the
+digon
+, do not obey the above rules. However, they only exist properly in non-euclidean geometries, and are hence not usually counted among the real polygons.
+Other name of polygon is Polysquaron. (By Googleaarex)
+Contents
+1
+Types
+1.1
+Rotatopic Polygons
+1.2
+Regular Polygons
+1.2.1
+Convex Polygons
+1.2.2
+Star Polygons
+2
+List
+2.1
+Henagon
+2.2
+Digon
+2.3
+Triangle
+2.4
+Square
+2.5
+Rectangle
+2.6
+Pentagon
+2.7
+Hexagon
+2.8
+Heptagon
+2.9
+Octagon
+2.10
+Hendecagon
+2.11
+Dodecagon
+2.12
+Icosagon
+2.13
+Hectogon
+2.14
+Chilliagon
+2.15
+Myriagon
+2.16
+Hexakismyriapentakischilliapentacositriacontakaipentagon
+2.17
+Hunthagon
+2.18
+Megagon
+2.19
+Gigagon
+2.20
+Teragon
+2.21
+Googolgon
+2.22
+Googolplexgon
+2.23
+Apeirogon
+Types
+[
+]
+Rotatopic Polygons
+[
+]
+The following is a list of the two
+rotatatopic polygons
+, which are polygons formed from the product of multiple hyperspheres, listed along with their constituent hyperspheres (using
+Bowers' Rotatope Notation
+).
+Square
+|
+|
+{\displaystyle ||}
+Circle
+(
+)
+{\displaystyle ()}
+Regular Polygons
+[
+]
+A regular polygon is a
+polygon
+in which all
+edges
+are the same
+length
+and all
+angles
+are the same size.
+Convex Polygons
+[
+]
+Henagon
+{
+1
+}
+{\displaystyle \{1\}}
+Digon
+{
+2
+}
+{\displaystyle \{2\}}
+Equilateral
+Triangle
+{
+3
+}
+{\displaystyle \{3\}}
+Square
+{
+4
+}
+{\displaystyle \{4\}}
+Pentagon
+{
+5
+}
+{\displaystyle \{5\}}
+Hexagon
+{
+6
+}
+{\displaystyle \{6\}}
+Heptagon
+{
+7
+}
+{\displaystyle \{7\}}
+Octagon
+{
+8
+}
+{\displaystyle \{8\}}
+Star Polygons
+[
+]
+Pentagram
+{
+5
+/
+2
+}
+{\displaystyle \{5/2\}  }
+List
+[
+]
+Henagon
+[
+]
+A
+henagon
+is a polygon that has 1
+edge
+. In Euclidean geometry, this is impossible, because one edge extends to infinity. However, in spherical geometry, you can draw a henagon by drawing a
+point
+on the edge of a
+circle
+. It has a
+Schläfli symbol
+of as a henagon has only 1 edge and only 1
+angle
+.
+Digon
+[
+]
+A
+digon
+is a polygon with two edges. It is degenerate in normal euclidean space, though in some geometries, such as on the surface of a
+sphere
+, it can exist.
+Draw two points on a
+sphere
+. Then, draw a
+line
+going from the first point to the second, then continuing around the sphere back to the first. This act puts two vertices on the surface of the sphere, two edges, and divides the sphere into two sections - the "inside" and "outside" of the digon.
+A Digon
+Triangle
+[
+]
+Triangle
+A Triangle
+Square
+[
+]
+Square
+A Square
+Rectangle
+[
+]
+A rectangle is a four-sided polygon with all four angles being right angles. The square is a special case of the rectangle.
+It is the product of two
+line segments
+.
+Properties
+Schläfli Symbol
+Vertices
+Edges
+Edges Length
+Surface Area
+{
+}
+2
+{\displaystyle \{\}^2}
+4
+4
+2
+(
+l
++
+w
+)
+{\displaystyle 2(l+w)}
+l
+w
+{\displaystyle lw}
+Pentagon
+[
+]
+A
+pentagon
+is a 5-sided polygon.
+The structure of a pentagon will be described through the order in which the vertices are connected.
+A regular
+pentagon
+is the most commonly encountered type. It has edges in the pattern 12345.
+A
+star
+pentagon (also known as a
+pentagram
+) is the simplest star polygon. Its edges are in the pattern 13524.
+Properties
+Schläfli Symbol
+Vertices
+Edges
+Edges Length
+Surface Area
+{
+5
+}
+{\displaystyle \{5\}}
+5
+5
+5
+l
+{\displaystyle 5l}
+5
+(
+5
++
+2
+5
+)
+4
+l
+2
+{\displaystyle \frac{\sqrt{5(5+2\sqrt{5})}}{4}l^2}
+A Pentagon
+Hexagon
+[
+]
+A hexagon is a polygon that has 6 edges. A hexagon has angles that add up to 120 (deg). There are convex hexagons and some are concave hexagons.
+Properties
+Schläfli Symbol
+Vertices
+Edges
+Edges Length
+Surface Area
+{
+6
+}
+{\displaystyle \{6\}}
+6
+6
+6
+l
+{\displaystyle 6l}
+3
+3
+2
+l
+2
+{\displaystyle \frac{3\sqrt{3}}{2}l^2}
+Heptagon
+[
+]
+A heptagon is a polygon that has 7 edges. A heptagon has angles that add up to 128.571... degrees.
+Octagon
+[
+]
+An
+octagon
+is a polygon with eight edges. The internal angles of an octagon add to 1080 degrees.
+Properties
+Schläfli Symbol
+Vertices
+Edges
+Edges Length
+Surface Area
+{
+8
+}
+{\displaystyle \{8\}}
+8
+8
+8
+l
+{\displaystyle 8l}
+2
+(
+1
++
+2
+)
+l
+2
+{\displaystyle 2(1+\sqrt{2})l^2}
+Hendecagon
+[
+]
+A hendecagon is a polygon with 11 sides and 11 straight edges, it's internal angle is 147.273 degrees.
+The Canadian dollar coin, the loonie, is similar to, but not exactly, a regular hendecagonal prism.
+The cross section of a loonie is a Reuleaux hendecagon.
+Dodecagon
+[
+]
+A dodecagon is a polygon with 12 sides, it's internal angle is 150 degrees.
+Archimedes approxmated pi with a dodecagon, along with a hexagon, icositetragon, tetracontaoctagon and enneacontahexagon.
+Icosagon
+[
+]
+An
+Icosagon
+is a polygon with 20 sides and 20 edges, it's internal angle is 162 degrees.
+A Hectogon
+Hectogon
+[
+]
+A hectogon, or hectagon, is a polygon with 100 sides, one internal angle of a hectogon is 176.4 degrees.
+It is almost indistinguishable from a circle unless viewed closely.
+Chilliagon
+[
+]
+A chilliagon is a polygon with 1,000 sides, it looks like a circle, it's most common number for it is white.
+Chilliagon
+Myriagon
+[
+]
+A
+myriagon
+is a polygon with 10,000 sides, it has a Schläfli symbol
+{
+10
+4
+}
+{\displaystyle \{10^4\}}
+, one internal angle = 179.964 degrees.
+It is not visually distinguishable from a circle and the perimeter differs from circumference of a circle by 40 parts per billion.
+Like the Chiliagon illustrated by Rene Descartes, the Myriagon has been used as an illustration of a well-defined concept that cannot be imagined.
+Hexakismyriapentakischilliapentacositriacontakaipentagon
+[
+]
+Hexakismyriapentakischilliapentacositriacontakaipentagon
+Hunthagon
+[
+]
+A
+hunthagon
+is a polygon with 100,000 sides, it has a Schläfli symbol
+{
+10
+5
+}
+{\displaystyle \{10^5\}}
+.
+It is not visually distinguishable from a circle and it's perimeter differs from the circumference of the circle by 4 parts per billion.
+Polygons with very high vertex counts look visually like a circle
+Megagon
+[
+]
+A
+megagon
+is a polygon with 1,000,000 sides. It has a Schläfli symbol
+{
+10
+6
+}
+{\displaystyle \{10^6\}}
+.
+To an unaided observer, it resembles a circle, a megagon with a radius equal to that of
+Earth
+'s equatorial radius means each side would be 40.075 meters long and it's perimeter would differ from the circumference of a circle by only 1/16 mm.
+Gigagon
+[
+]
+A
+gigagon
+is a two-dimensional polygon with one billion sides. It has the Schläfli symbol
+{
+10
+9
+}
+{\displaystyle \{10^9\}}
+(using Bowers' arrays).
+To an unaided observer, a gigagon resembles a circle. A gigagon with a radius of 1 ly (approximately the size of 100 solar systems) would have its
+edge length
+differ from a circle by only 9.78 cm.
+Properties
+Schläfli Symbol
+Vertices
+Edges
+Edges Length
+Surface Area
+{
+10
+9
+}
+{\displaystyle \{10^9\}}
+10
+9
+{\displaystyle 10^9}
+10
+9
+{\displaystyle 10^9}
+10
+9
+l
+{\displaystyle 10^9l}
+10
+9
+4
+tan
+⁡
+π
+10
+9
+{\displaystyle \frac{10^9}{4\tan\frac{\pi}{10^9}}}
+Teragon
+[
+]
+A
+teragon
+is a polygon with 1 trillion sides, it has a Schläfli symbol
+{
+10
+18
+}
+{\displaystyle \{10^{18}\}}
+.
+Like the megagon and gigagon, a teragon would appear as a circle to an observer and if blown up to a radius of 1000 ly (1/100 the size of the Milky Way Galaxy), its edge length would differ from a circle by 9.78 cm, and if shrunk to 1 ly in radius, its edge length would differ from a circle by 9.78 µm.
+Googolgon
+[
+]
+A
+googolgon
+is a polygon with googol sides, It has a Schläfli symbol
+{
+10
+100
+}
+{\displaystyle \{10^{100}\}}
+.
+If a googolgon was drawn to 1e+27 times the radius of the observable universe, it would differ from a circle by a Planck length.
+Googolplexgon
+[
+]
+A
+googolplexagon
+is a polygon with googolplex sides, it is the largest finite number of sides measured on a polygon, and if drawn to 1e+27 times the radius of the observable universe, it would differ from a circle by 1 googol of a Planck length.
+Apeirogon
+[
+]
+An
+apeirogon
+is a polygon with an infinite number of edges and vertices. It has the Schläfli symbol
+{
+ℵ
+0
+}
+{\displaystyle \{\aleph_0\}}
+. It is also the tiling of the
+line
+by an infinite number of
+line segments
+; in other words, it is the 1-dimensional hypercubic honeycomb.
+Properties
+Schläfli Symbol
+Vertices
+Edges
+Edges Length
+Surface Area
+{
+ℵ
+0
+}
+{\displaystyle \{\aleph_0\}}
+ℵ
+0
+{\displaystyle \aleph_0}
+ℵ
+0
+{\displaystyle \aleph_0}
+ℵ
+0
+l
+{\displaystyle \aleph_0 l}
+ℵ
+0
+l
+2
+{\displaystyle \aleph_0 l^2}

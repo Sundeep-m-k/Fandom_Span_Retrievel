@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45237,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a5/Cheese.png/revision/latest?cb=20240110220323,"{""\n\n"": 1}",1
+45237,1,EUSI,37,41,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+45237,1,Cheeseverse,52,63,internal,https://alldimensions.fandom.com/wiki/Cheeseverse,"{""Cheeseverse"": 1}",1
+45237,1,Finality Index,75,89,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+45237,1,FOEI,94,98,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+45237,1,Cetaverse,332,341,internal,https://alldimensions.fandom.com/wiki/Cetaverse,"{""Cetaverse"": 1}",1
+45237,1,Cheeseverses,354,366,internal,https://alldimensions.fandom.com/wiki/Cheeseverse,"{""Cheeseverses"": 1}",1
+45237,3,cheeseverses,38,50,internal,https://alldimensions.fandom.com/wiki/Cheeseverse,"{""cheeseverses"": 1}",1
+45237,3,"omniverse,",109,119,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverse,"": 1}",1

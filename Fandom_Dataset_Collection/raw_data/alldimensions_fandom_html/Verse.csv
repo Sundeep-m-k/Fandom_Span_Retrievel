@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+3197,2,hypercosmology,56,70,internal,https://alldimensions.fandom.com/wiki/Hypercosmology,"{""hypercosmology"": 1}",1
+3197,2,laws,98,102,internal,https://alldimensions.fandom.com/wiki/Laws,"{""laws"": 1}",1
+3197,2,contains,136,144,internal,https://alldimensions.fandom.com/wiki/Containment,"{""contains"": 1}",1
+3197,2,particles,171,180,internal,https://alldimensions.fandom.com/wiki/Elementary_particles,"{""particles"": 1}",1
+3197,3,Universe,186,194,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

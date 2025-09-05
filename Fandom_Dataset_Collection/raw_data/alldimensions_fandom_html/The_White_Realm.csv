@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34811,4,TPL,35,38,internal,https://alldimensions.fandom.com/wiki/The_Pencil_Language,"{""TPL"": 1}",1
+34811,4,Realm,10,15,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Realm"": 1}",1
+34811,4,a counterpart,230,243,internal,https://alldimensions.fandom.com/wiki/The_Black_Realm,"{""a counterpart"": 1}",1
+34811,6,The Chasms,118,128,internal,https://alldimensions.fandom.com/wiki/The_Chasms,"{""The Chasms"": 1}",1

@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47649,4,No,0,2,internal,https://alldimensions.fandom.com/wiki/Life,"{""No"": 1}",1
+47649,4,one,3,6,internal,https://alldimensions.fandom.com/wiki/%E3%80%8CGod%E3%80%8D,"{""one"": 1}",1
+47649,4,NO,11,13,internal,https://alldimensions.fandom.com/wiki/The_Extended_Hierarchy,"{""NO"": 1}",1
+47649,4,ONE,14,17,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""ONE"": 1}",1

@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+46133,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fb/Black_hole-verse_1.jpeg/revision/latest?cb=20240514031601,"{""\n\n"": 1}",1
+46133,1,EUSI,78,82,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+46133,1,Finality Index,90,104,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+46133,1,FOEI,111,115,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+46133,1,Galaxies,310,318,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxies"": 1}",1
+46133,1,Protoverses,331,342,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""Protoverses"": 1}",1
+46133,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/41/Black_hole-verse_2.jpeg/revision/latest?cb=20240514031601,"{""\n\n"": 1}",1
+46133,3,black holes,78,89,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black holes"": 1}",1
+46133,3,Protoverses,174,185,internal,https://alldimensions.fandom.com/wiki/Protoverse,"{""Protoverses"": 1}",1
+46133,4,mass,58,62,internal,https://alldimensions.fandom.com/wiki/Mass,"{""mass"": 1}",1
+46133,4,galaxies,140,148,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxies"": 1}",1

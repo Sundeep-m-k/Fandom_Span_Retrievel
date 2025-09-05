@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42453,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b8/Cell.png/revision/latest?cb=20221017143629,"{""\n\n"": 1}",1
+42453,1,Humans,44,50,internal,https://alldimensions.fandom.com/wiki/Human,"{""Humans"": 1}",1
+42453,1,Molecules,93,102,internal,https://alldimensions.fandom.com/wiki/Molecule,"{""Molecules"": 1}",1
+42453,1,human,268,273,internal,https://alldimensions.fandom.com/wiki/Human,"{""human"": 1}",1
+42453,3,Kardashev scale,41,56,internal,https://alldimensions.fandom.com/wiki/Kardashev_Scale,"{""Kardashev scale"": 1}",1
+42453,13,Universal,4,13,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universal"": 1}",1
+42453,13,Verses,14,20,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verses"": 1}",1
+42453,26,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

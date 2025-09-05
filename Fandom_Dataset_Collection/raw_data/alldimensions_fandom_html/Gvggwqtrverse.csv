@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34637,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c3/Scribbles.png/revision/latest?cb=20200802032619,"{""\n\n"": 1}",1
+34637,1,Alphasm,141,148,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""Alphasm"": 1}",1
+34637,1,Downtown Fricksville,166,186,internal,https://alldimensions.fandom.com/wiki/Downtown_Fricksville,"{""Downtown Fricksville"": 1}",1
+34637,3,verse,12,17,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+34637,3,Alphasm's,86,95,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""Alphasm's"": 1}",1
+34637,3,Bean Man,162,170,internal,https://alldimensions.fandom.com/wiki/Bean_Man,"{""Bean Man"": 1}",1
+34637,7,Primordium Particles,106,126,internal,https://alldimensions.fandom.com/wiki/Category:The_First_Particles,"{""Primordium Particles"": 1}",1
+34637,13,Dave,179,183,internal,https://alldimensions.fandom.com/wiki/Dave,"{""Dave"": 1}",1

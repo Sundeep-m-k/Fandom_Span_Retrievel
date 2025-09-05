@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42638,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/8b/Map_Outside.png/revision/latest?cb=20221121140319,"{""\n\n"": 1}",1
+42638,1,The Outside,274,285,internal,https://alldimensions.fandom.com/wiki/The_Outside,"{""The Outside"": 1}",1

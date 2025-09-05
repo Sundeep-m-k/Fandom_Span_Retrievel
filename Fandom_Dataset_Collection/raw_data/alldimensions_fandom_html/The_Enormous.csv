@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22865,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/91/Screen_Shot_2020-03-25_at_11.46.06_AM.png/revision/latest?cb=20200325184631,"{""\n\n"": 1}",1
+22865,1,...,33,36,internal,https://alldimensions.fandom.com/wiki/...,"{""..."": 1}",1
+22865,1,Not,47,50,internal,https://alldimensions.fandom.com/wiki/Not,"{""Not"": 1}",1
+22865,1,So,53,55,internal,https://alldimensions.fandom.com/wiki/So,"{""So"": 1}",1
+22865,1,The Big,199,206,internal,https://alldimensions.fandom.com/wiki/The_Big,"{""The Big"": 1}",1
+22865,1,The Bigger,211,221,internal,https://alldimensions.fandom.com/wiki/The_Bigger,"{""The Bigger"": 1}",1
+22865,1,The Never-Ending Void of Darkness,249,282,internal,https://alldimensions.fandom.com/wiki/The_Never-Ending_Void_of_Darkness,"{""The Never-Ending Void of Darkness"": 1}",1
+22865,1,So,53,55,internal,https://alldimensions.fandom.com/wiki/So,"{""So"": 1}",1
+22865,1,Not,47,50,internal,https://alldimensions.fandom.com/wiki/Not,"{""Not"": 1}",1
+22865,2,The Big,32,39,internal,https://alldimensions.fandom.com/wiki/The_Big,"{""The Big"": 1}",1
+22865,2,The Bigger,44,54,internal,https://alldimensions.fandom.com/wiki/The_Bigger,"{""The Bigger"": 1}",1
+22865,2,Nots,308,312,internal,https://alldimensions.fandom.com/wiki/Not,"{""Nots"": 1}",1

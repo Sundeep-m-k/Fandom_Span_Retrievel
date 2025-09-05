@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35702,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6c/Cherry_Xray.png/revision/latest?cb=20201105223832,"{""\n\n"": 1}",1
+35702,1,The Ice Creams,50,64,internal,https://alldimensions.fandom.com/wiki/The_Ice_Cream,"{""The Ice Creams"": 1}",1
+35702,1,The Pits,76,84,internal,https://alldimensions.fandom.com/wiki/The_Pit,"{""The Pits"": 1}",1
+35702,1,the Pits,194,202,internal,https://alldimensions.fandom.com/wiki/The_Pit,"{""the Pits"": 1}",1
+35702,1,Ice Cream,54,63,internal,https://alldimensions.fandom.com/wiki/The_Ice_Cream,"{""Ice Cream"": 1}",1
+35702,2,The Pits,287,295,internal,https://alldimensions.fandom.com/wiki/The_Pit,"{""The Pits"": 1}",1
+35702,2,Everything Layer,526,542,internal,https://alldimensions.fandom.com/wiki/Everything_Layer,"{""Everything Layer"": 1}",1

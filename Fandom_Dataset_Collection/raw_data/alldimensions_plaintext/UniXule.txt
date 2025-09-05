@@ -1,0 +1,273 @@
+UniXule
+3D cross-section of an UniXule reveals disconnected cubic regions arranged in a grid like pattern.
+Scale
+Size
+Contains:
+(3
+27
+)
+(3
+27
+)
+Modules
+Approx. 10
+10
+14
+Length:
+3
+3
+3
+3
+x Spacing Parameter
+Approx. 10
+10
+12
+light-years across
+EUSI
+0
+Dimensionality
+27+i
+Kardashev Scale
+4.0 (By Definition)
+Properties
+Temperature
+1.5087x10
+-346
+°K
+Class
+1
+Life Percentage
+0%
+Shape
+icosahepteract
+(27D Hypercube)
+Density (Void Percentage)
+100x(1-1/3
+27
+2
+)%
+~ 99.999999 ... 999999% w/346 9s after decimal point
+Position
+Contained by:
+A
+MultiXule
+Contains:
+Xi-Modules
+Contents
+1
+Introduction
+2
+Universe designation
+3
+Dimensionality
+3.1
+Parallel UniXules
+3.2
+Perpendicular UniXules
+3.3
+Unixules lattices' amount
+4
+Structure
+5
+Expansion
+6
+Growth
+7
+Creation
+8
+Wrap-Around
+9
+Size
+9.1
+Maximal Size
+Introduction
+[
+]
+An
+UniXule
+is a special type of
+artificial
+uni
+verse
+that only exists inside
+Xicohtlxuls
+. Despite the namesake, and their designation as universes, they're vastly larger than any naturally occurring universe,
+multiverse
+,
+metaverse
+,
+xenoverse
+, or even
+hyperverse
+! It is worth noting, however, that despite being humanly impossible to visualize their vastness, they're still, none the less of finite size and dimensions.
+Universe designation
+[
+]
+Their designation as a type of universe is for two reasons:
+They represent a contiguous region of space (2). They do not contain any sub-spaces that are themselves verses, thus ranking them with an
+EUSI-Value
+of 0.
+UniXule's are incredibly plentiful within Xicohtlxuls, and have the ability to expand, grow, and "segment", thus rapidly growing and multiplying in size and number. UniXule's make up an essential component of their Xicohtlxuls, acting as vast independently operated CPUs within their Xicohtlxul's computing structure.
+Dimensionality
+[
+]
+An UniXule is a 27-dimensional space whose boundary is an icosahepteract (27D
+hypercube
+). It exists along 27 specially chosen orthogonal axes that are selected from the higher 54-dimensional space from which it is embedded. Such a selection of orthogonal axes, out of a larger set of fixed orthogonal axes, is called a
+Xi-Lattice
+, or simply a
+lattice
+. While within a Xi-Lattice one is restricted to movement only along combinations of the lattice's orthogonal axes. This means that while in an UniXule it will always appear 27-Dimensional, despite being embedded in a 54-dimensional space, itself embedded in a yet larger dimensional space, and so on, ad infinitum.
+An UniXule always exists within the 54D Lattice of it's parent MultiXule, and all UniXule's in a MultiXule share the same 54D Lattice with the
+MultiXules
+themselves. This is analogous to the way all Universes in a Multiverse share the same basic
+laws
+of physics. Recall however that an UniXule will only occupy one specific sub-lattice within it's parent multiXule (selection of 27 out of the choice of 54 dimensions).
+Parallel UniXules
+[
+]
+If two UniXule's share the same lattice they are said to be parallel UniXule's. It is helpful to imagine UniXule's as literal planes in this case, which may be parallel with each other but nowhere coterminus. This image is however misleading, as in fact parallel UniXule's can differ in their coordinates by up to 27 dimensions!
+Perpendicular UniXules
+[
+]
+If Two UniXule's do not share the same lattice then they are said to be perpendicular UniXule's. In this case the two UniXule's can share anywhere from 0 to a total of 26 dimensions. They can not share all 27 or else they would simply be parallel again. The dimensions they do not have in common are the dimensions that point outside of the space of the other UniXule.
+Unixules lattices' amount
+[
+]
+The total number of lattices an UniXule can occupy within a MultiXule can be computed by the following formula:
+54
+!
+27
+!
+×
+27
+!
+{\textstyle \frac{54!}{27! ~ \times ~ 27!}}
+Calculating this yields that there are exactly 1,946,939,425,648,112 (1.946939x10
+15
+) possible spatial orientations for an UniXule to occupy within a MultiXule. That is, approximately 1.9 quadrillion lattice types. And this is not even counting all the parallel UniXule's.
+In addition to this, after the 27-dimensions are chosen, each UniXule receives one additional special temporal dimension, together forming a 28-dimensional minkowski spacetime of 1 time-dimension. This is represented by the dimensionality of 27+i.
+Despite it's extremely large artificial size, latency is a very minor issue within it due to relativistic effects being vastly altered, with a "speed of light" (transmission rate of information) many trillions of orders of magnitude larger than what is typical of naturally occurring universes.
+Structure
+[
+]
+Within an UniXule many "Modules" (called Xi-Modules) are arrayed with appreciable distance from each other. Each one acts as a massive "space station" of sorts, managing data internally, then transmitting relevant information along invisible data lines, in all 54-orthogonal directions to it's neighbors. The data lines are vast, being as large as 1/3rd of the Modules side-length. This allows for so much data to flow from Module to Module it is possible to overwrite a Module is another's data in a very small amount of time.
+The orthogonal distance between the centers of neighboring Modules is called the Spacing Parameter. Each UniXule has it's own unique spacing parameter. The only hard rule is it must be greater than the edge length of it's Module size. Typically though the Spacing Parameter is a power of 3 times the Module's Edge length. Some common values of 3,9,27, and 3
+27
+(approx 7.625 trillion), with 3
+27
+often being the most common. This leads to an UniXule of mostly empty space with the distance between Modules being so great that it's similar to the distances of stars to each other relative to their size, only worse.
+Expansion
+[
+]
+UniXules can expand to make room for additional data. This often happens by creating 3^27-1 copies of the contents of an UniXule, and then placing them in 3^27-1 27D layers in the parent MultiXule. The space then expands by a factor of 3 creating 3^27-1 vacancies which are then filled in by the 3^27-1 layers being sandwiched back together. In this way it's size increases by 3 every time even the tiniest piece of data needs to be copied. This may seem incredibly wasteful, but the Xicohtlxuls doesn't seem the least concerned by just wastefulness and reduncancy. Even the copying of a single
+tern
+(smallest unit of information in a Xicohtlxul) can trigger this event!
+The appearance of this process to any 3-dimensional being who should be inside the UniXule at the time is remarkably tame. It simply appears that the fabric of space expands by a factor of 3, causing the distance of every Module to increase by a factor of 3, and then moments later, new Modules materialize from the higher dimensions to fill in the vacancies created. Due to the parameters set for the way matter and space interacts, anyone inside the UniXule will not be torn apart. The Modules are completely unaffected by this expansion. The physical mechanics of this are not completely understood, but it's not because the force of attraction between molecules is particularly strong for the Modules.
+Growth
+[
+]
+UniXules must begin with at least a single Module, which then gets multiplied by a factor of 3^27 each time it needs to expand. As such the exact number of Modules in an UniXule at any time is always a power of 3^27. The size of the space is a power of 3 of it's spacing parameter.
+Although UniXules can manage their own growth, they are not capable of duplicating themselves. This must be handled by The HyperXule Control Center of it's Domain.
+Creation
+[
+]
+UniXules have never been observed being built from scratch. In some form of UniXule-evolution, every new UniXule is just a clone of a pre-existing one, including all data currently stored during the time of being copied. Modifications are then run as necessary according to instructions from the HyperXule Control Center. Very often the instruction reads red-red-red, a single tern-triplet that is believed to be the equivalent of "do nothing". "Evolution" consequently happens very very gradually. Not too much is understood about this process. Like everything regarding the Xicohtlxuls, it is an alien artifact which theorists have had to study closely to gather information on and develop theories of it's design and operation. Despite some aspects of it which are extremely primitive, it is none the less an engineering marvel that has never been completely understood.
+Wrap-Around
+[
+]
+When in an UniXule, 27D space will wrap around, making it appear infinite from the inside. Wrap around occurs when one exceeds the limit of ternary precision of the UniXule. Provided it is not too large, a Modules position in an UniXule is stored as a tern-sequence within it. Unusually the sequence is made of "Coords", which are groups of 27 terns. Despite the name, Instead of representing a single coordinate, as might be expected, it contains just one tern component from each of the 27 dimensions. The number of groups in the sequence is the depth of the UniXule. To read the a single dimension one reads the same tern position in all of the coords in the sequence.
+As an example take the sequence (012010...)(021021...)(102021...)
+The first coordinate would be 001, the second coordinate 120, the third coordinate 212, and so on. Note the number of coords in the sequence tells us the size of the UniXule. The number of coords, tells us that this UniXule would have (3^27)^3 Modules, and would have a wrap-around distance of 3^3 or 27 times the spacing parameter (the constant distance between centers of modules along orthogonal directions). Make no mistake, even this seemingly tame example would be extremely vast. (3^27)^3 is 443,426,488,243,037,769,948,249,630,619,149,892,803 (443 undecillion or 4.434x10
+38
+) Modules!
+Size
+[
+]
+To calculate their size, we have to recall that a Xi-Cell is 7.1669 km across. A typical Module is of the Stage 27 variety, meaning it contains 3
+27
+or 3
+3
+3
+Xi-Cells edges to it's edge. The common spacing parameter is 3
+27
+or 3
+3
+3
+. Lastly there are a maximum of 3
+3
+3
+3
+spacing parameters to the edge of the UniXule.
+This gives us the following:
+7.1669 km x 3
+3
+3
+x 3
+3
+3
+x 3
+3
+3
+3
+To convert this more easily into light-years we can first compute 7.1669 km x 3
+3
+3
+= 5.465189x10
+13
+km. This is the edge of a typical Module. Converting this into light-years we obtain: 5.7767 light-years. So to find the number of light-years we compute:
+5.7767 light-years x 3
+3
+3
+x 3
+3
+3
+3
+To make this easier to compute we express 5.7767 as a power of 3:
+3
+1.5964
+x 3
+3
+3
+x 3
+3
+3
+3
+We then simply add up the powers of 3 to obtain:
+3
+(1.5964 + 27 + 7,625,597,484,987)
+= 3
+7,625,597,485,015.5964
+Next we convert this to a power of 10:
+10
+3,638,334,640,037.743636
+Taking the log (base 10) we obtain the second exponent:
+12.5609
+Thus, a typical UniXule is 10
+10
+12.56
+light-years across. About the size of Andrei Linde's Inflationary Universe. This puts it way way above the vendekaverse level, but somewhere within the
+Udekaverses
+range... while still only being a universe. It does however exceed the dimensionality of Udekaverses, and in fact exceeds the dimensionality of even rintaverses, again while still just being a universe.
+Maximal Size
+[
+]
+It is in fact possible for an UniXule to be larger still... vastly larger, in fact. However, there is a strict limit to how large it can get. This is because each module contained within it must contain it's address in it's memory. When a data packet is sent between Modules, a destination address is required. This address can be given as a relative coordinate, telling it how many Modules to pass along each of the 27-dimensional axes. The data packet must contain this address. The Module has to have enough information to store this data packet in the first place. So in order to find this limit we need only calculate the maximum number of Terns or Trits that a Module can contain. For a Stage 729 Module, the largest possible, this amounts to (3
+81
+*3
+729
+)
+27
+terns, or 3
+21,870
+. The total number of states this can be in is 3
+3
+21,870
+. This is the most positions that could be stored as movement instructions. This gives us the maximum number of Modules in an UniXule. To find the edge length we take the 27th root of this. Converting this to base 10 then yields 10
+10
+10,432
+light-years. So the maximal length for an UniXule is actually around a googolplexitoll light-years. YIKES!
+This is still within the Udekaverse range, which goes up to about 10
+10
+10,000,000
+, but it's still frightfully larger than the nominal size of a typical UniXule. No UniXule this size has actually been observed. It is merely theoretical. In actuality the Xicohtlxuls probably are designed to prevent the size getting that large, as it wouldn't have any memory left over to send any actual useful information. Thus it would be necessary for this address to be quite a bit smaller to be at all practical. It is known that UniXules do eventually stop growing when they hit a certain "kill switch", that prevents the expansion from happening. At this point further expansion triggers the creation of new UniXule's instead, with the older UniXule going into a state of dormancy.

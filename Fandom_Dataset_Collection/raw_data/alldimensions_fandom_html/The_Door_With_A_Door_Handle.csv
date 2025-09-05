@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22684,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fc/The_Door.png/revision/latest?cb=20250526055226,"{""\n\n"": 1}",1
+22684,1,The Room,89,97,internal,https://alldimensions.fandom.com/wiki/The_Room,"{""The Room"": 1}",1
+22684,1,The Table,118,127,internal,https://alldimensions.fandom.com/wiki/The_Table,"{""The Table"": 1}",1
+22684,1,The Building,230,242,internal,https://alldimensions.fandom.com/wiki/The_Building,"{""The Building"": 1}",1
+22684,2,The Room,97,105,internal,https://alldimensions.fandom.com/wiki/The_Room,"{""The Room"": 1}",1
+22684,3,The Building,51,63,internal,https://alldimensions.fandom.com/wiki/The_Building,"{""The Building"": 1}",1

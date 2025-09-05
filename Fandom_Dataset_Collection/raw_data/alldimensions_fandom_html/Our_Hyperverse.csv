@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50607,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d7/The_Hyperverse.png/revision/latest?cb=20241225045528,"{""\n\n"": 1}",1
+50607,1,Xenoverses,101,111,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverses"": 1}",1
+50607,1,our Xenoverse,113,126,internal,https://alldimensions.fandom.com/wiki/Our_Xenoverse,"{""our Xenoverse"": 1}",1
+50607,1,Hyperverse,6,16,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""Hyperverse"": 1}",1
+50607,1,Xenoverses,101,111,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""Xenoverses"": 1}",1
+50607,1,one of them,289,300,internal,https://alldimensions.fandom.com/wiki/Our_Xenoverse,"{""one of them"": 1}",1
+50607,1,we,315,317,internal,https://alldimensions.fandom.com/wiki/Human,"{""we"": 1}",1

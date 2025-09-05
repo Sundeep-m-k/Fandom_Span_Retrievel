@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22792,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6a/Screen_Shot_2020-03-24_at_9.35.41_AM.png/revision/latest?cb=20200324163557,"{""\n\n"": 1}",1
+22792,1,The Building,42,54,internal,https://alldimensions.fandom.com/wiki/The_Building,"{""The Building"": 1}",1
+22792,1,Always,234,240,internal,https://alldimensions.fandom.com/wiki/Always,"{""Always"": 1}",1
+22792,1,The Building,42,54,internal,https://alldimensions.fandom.com/wiki/The_Building,"{""The Building"": 1}",1
+22792,1,Small pockets of matter and stuff,267,300,internal,https://alldimensions.fandom.com/wiki/Small_pockets_of_matter_and_stuff,"{""Small pockets of matter and stuff"": 1}",1
+22792,2,The Building,31,43,internal,https://alldimensions.fandom.com/wiki/The_Building,"{""The Building"": 1}",1
+22792,2,class 2,249,256,internal,https://alldimensions.fandom.com/wiki/Category:2nd-class,"{""class 2"": 1}",1
+22792,3,Glitchonicite,102,115,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+22792,4,The Building,94,106,internal,https://alldimensions.fandom.com/wiki/The_Building,"{""The Building"": 1}",1
+22792,5,The Building,32,44,internal,https://alldimensions.fandom.com/wiki/The_Building,"{""The Building"": 1}",1
+22792,5,The Room,120,128,internal,https://alldimensions.fandom.com/wiki/The_Room,"{""The Room"": 1}",1
+22792,6,Glitchonicite,193,206,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
+22792,6,The Street,306,316,internal,https://alldimensions.fandom.com/wiki/The_Street,"{""The Street"": 1}",1

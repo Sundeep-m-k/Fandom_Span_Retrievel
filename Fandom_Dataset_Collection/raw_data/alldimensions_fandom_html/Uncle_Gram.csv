@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41995,3,[1],436,439,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+41995,21,karma,4,9,external,http://karma.com/,"{""karma"": 1}",1
+41995,22, carl man,2,11,internal,https://alldimensions.fandom.com/wiki/User:N00dlez801/Carl_man,"{"" carl man"": 1}",1
+41995,22,uncle gram's car,15,31,external,https://app.inferkit.com/demo,"{""uncle gram's car"": 1}",1
+41995,22,uncle gram's ai,35,50,external,https://www.toyota.com/avalon/compare/summary/71518952022/78714072022/71104312022,"{""uncle gram's ai"": 1}",1

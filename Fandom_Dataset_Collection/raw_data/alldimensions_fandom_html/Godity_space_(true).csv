@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43458,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/92/%21%21%21%21%21real_godity_space.jpg/revision/latest?cb=20230117151545,"{""\n\n"": 1}",1
+43458,1,Blanks,175,181,internal,https://alldimensions.fandom.com/wiki/Blank,"{""Blanks"": 1}",1
+43458,1,Basic spaces,194,206,internal,https://alldimensions.fandom.com/wiki/Basic_space,"{""Basic spaces"": 1}",1
+43458,1,virvis,208,214,internal,https://alldimensions.fandom.com/wiki/Virvis,"{""virvis"": 1}",1
+43458,3,blanks,115,121,internal,https://alldimensions.fandom.com/wiki/Blank,"{""blanks"": 1}",1
+43458,4,stars,150,155,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+43458,4,planets,245,252,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+43458,4,black holes,378,389,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black holes"": 1}",1

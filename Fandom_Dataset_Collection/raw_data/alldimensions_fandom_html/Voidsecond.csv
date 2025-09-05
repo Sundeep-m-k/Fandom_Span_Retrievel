@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+26823,1,time,44,48,internal,https://alldimensions.fandom.com/wiki/Time,"{""time"": 1}",1
+26823,1,Cantor's Absolute Infinity,103,129,internal,https://alldimensions.fandom.com/wiki/Absolute_Infinity,"{""Cantor's Absolute Infinity"": 1}",1
+26823,2,this,22,26,internal,https://alldimensions.fandom.com/wiki/All_dimensions_Wiki,"{""this"": 1}",1
+26823,2,wiki,27,31,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""wiki"": 1}",1

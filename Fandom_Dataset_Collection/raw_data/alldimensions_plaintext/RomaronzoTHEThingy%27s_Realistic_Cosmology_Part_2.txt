@@ -1,0 +1,59 @@
+It did something weird so I have to make a second page.
+Teraverse
+[
+]
+The Teraverse contains infinite Gigaverses and is the 5th verse in the Archverse chain. Teraversal spacetime is 8D, and a normal inter-gigaversal object would be 7D.
+Teraverse
+Scale
+Size
+'"`UNIQ--postMath-00000001-QINU`"'
+EUSI
+4
+Dimensionality
+8
+Kardashev Scale
+8
+Position
+Contained by:
+Petaverse
+Contains:
+Gigaverse
+RomaronzoTHEThingy's Realistic Cosmology
+Petaverse
+[
+]
+The Petaverse contains infinite Teraverses and is the 6th verse in the Archverse chain. Petaversal spacetime is 9D, and a normal inter-teraversal object would be 8D.
+Petaverse
+Scale
+Size
+'"`UNIQ--postMath-00000002-QINU`"'
+EUSI
+6
+Dimensionality
+9
+Kardashev Scale
+6
+Position
+Contained by:
+Exaverse
+Contains:
+Teraverse
+Exaverse
+[
+]
+The Exaverse contains infinite Petaverses and is the 7th verse in the Archverse chain. Exaversal spacetime is 10D, and a normal inter-petaversal object would be 9D.
+Exaverse
+Scale
+Size
+'"`UNIQ--postMath-00000003-QINU`"'
+EUSI
+7
+Dimensionality
+10
+Kardashev Scale
+7
+Position
+Contained by:
+Zettaverse
+Contains:
+Petaverse

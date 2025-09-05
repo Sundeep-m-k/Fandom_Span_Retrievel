@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22849,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1f/170612-multiverse-mn-1515_266eac1decce12ae64fed27574746675.fit-760w.jpg/revision/latest?cb=20200325143511,"{""\n\n"": 1}",1
+22849,1,Metaverse,58,67,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1
+22849,1,Megaverse,69,78,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverse"": 1}",1
+22849,1,Kiloverse,80,89,internal,https://alldimensions.fandom.com/wiki/Kiloverse,"{""Kiloverse"": 1}",1
+22849,1,multiverse,195,205,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+22849,1,universes,312,321,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1

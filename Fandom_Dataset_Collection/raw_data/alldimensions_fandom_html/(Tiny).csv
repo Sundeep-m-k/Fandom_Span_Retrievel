@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41427,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/52/-Tiny-.jpg/revision/latest?cb=20220419130816,"{""\n\n"": 1}",1
+41427,1,Unedions,46,54,internal,https://alldimensions.fandom.com/wiki/Unedion,"{""Unedions"": 1}",1
+41427,1,-s,66,68,internal,https://alldimensions.fandom.com/wiki/-,"{""-s"": 1}",1
+41427,2,Unedions,124,132,internal,https://alldimensions.fandom.com/wiki/Unedion,"{""Unedions"": 1}",1
+41427,2,-s,311,313,internal,https://alldimensions.fandom.com/wiki/-,"{""-s"": 1}",1
+41427,4,existence rank,10,24,internal,https://alldimensions.fandom.com/wiki/Existence_Rank,"{""existence rank"": 1}",1
+41427,4,Portal,283,289,internal,https://alldimensions.fandom.com/wiki/The_Portal,"{""Portal"": 1}",1
+41427,6,Universe,71,79,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+41427,6,Observable Universe,96,115,internal,https://alldimensions.fandom.com/wiki/Observable_Universe,"{""Observable Universe"": 1}",1
+41427,7,Balls,268,273,internal,https://alldimensions.fandom.com/wiki/The_Ball,"{""Balls"": 1}",1

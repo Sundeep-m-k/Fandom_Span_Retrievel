@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47448,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/67/Gogomni.png.jpg/revision/latest?cb=20241110164524,"{""\n\n"": 1}",1
+47448,5,Omniverse,296,305,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+47448,5,Earth,624,629,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+47448,5,the universe,725,737,internal,https://alldimensions.fandom.com/wiki/Universe,"{""the universe"": 1}",1
+47448,5,universe,729,737,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
+47448,5,multiverse,826,836,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+47448,5,metaverse,837,846,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""metaverse"": 1}",1
+47448,5,megaverse,847,856,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""megaverse"": 1}",1
+47448,5,gigaverse,857,866,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""gigaverse"": 1}",1
+47448,5,teraverse,867,876,internal,https://alldimensions.fandom.com/wiki/Teraverse,"{""teraverse"": 1}",1
+47448,5,exaverse,877,885,internal,https://alldimensions.fandom.com/wiki/Exaverse,"{""exaverse"": 1}",1
+47448,5,omniverse,925,934,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverse"": 1}",1
+47448,11,Omniverses,26,36,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverses"": 1}",1

@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45451,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e5/Tiny_Compact_Machine.png/revision/latest?cb=20240214134053,"{""\n\n"": 1}",1
+45451,2,thuons,57,63,internal,https://alldimensions.fandom.com/wiki/Thuon,"{""thuons"": 1}",1
+45451,5,entities,133,141,internal,https://alldimensions.fandom.com/wiki/Category:Entity,"{""entities"": 1}",1
+45451,5,this video,271,281,external,https://www.youtube.com/watch?v=1--z9A-E240,"{""this video"": 1}",1

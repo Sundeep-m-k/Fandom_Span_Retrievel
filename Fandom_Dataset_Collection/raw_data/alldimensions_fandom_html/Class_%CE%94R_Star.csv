@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47540,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cd/Screenshot_2024-12-04_170014.png/revision/latest?cb=20241204220043,"{""\n\n"": 1}",1
+47540,2,Yottagiants,136,147,internal,https://alldimensions.fandom.com/wiki/Class_%CE%94Y_Star,"{""Yottagiants"": 1}",1
+47540,2,Quettagiants,170,182,internal,https://alldimensions.fandom.com/wiki/Purple_Quettagiant,"{""Quettagiants"": 1}",1
+47540,2,Ochaverses,562,572,internal,https://alldimensions.fandom.com/wiki/Ochaverse,"{""Ochaverses"": 1}",1
+47540,2,Mingaverses,609,620,internal,https://alldimensions.fandom.com/wiki/Mingaverse,"{""Mingaverses"": 1}",1
+47540,3,Geraldson 9-21,124,138,internal,https://alldimensions.fandom.com/wiki/Geraldson_9-21_System,"{""Geraldson 9-21"": 1}",1

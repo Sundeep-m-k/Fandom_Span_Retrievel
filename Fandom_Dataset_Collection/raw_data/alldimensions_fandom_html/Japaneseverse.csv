@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+38989,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fc/Japan.png/revision/latest?cb=20210706165529,"{""\n\n"": 1}",1
+38989,1,The Box,53,60,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+38989,2,The Box,163,170,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+38989,3,Not scoot,53,62,internal,https://alldimensions.fandom.com/wiki/User:Not_scoot,"{""Not scoot"": 1}",1
+38989,8,laboratory,58,68,internal,https://alldimensions.fandom.com/wiki/The_Calculator,"{""laboratory"": 1}",1

@@ -1,0 +1,46 @@
+ℾ
+(Called "Gath") is a post
+ƒ
+number, lets say we have this function called the "Gatin' function":
+Γ(x) = x ∗ ʃₓ
+So,
+-  Γ(1) = 1 ∗
+ʃ
+₁ =
+ʃ
+-  Γ(2) = 2 ∗
+ʃ
+₂ =
+ɼ
+₂
+-  Γ(3) = 3 ∗
+ʃ
+₃ =
+ɭ
+₃
+-  Γ(
+∞
+) =
+∞
+∗
+ʃ
+∞
+=
+ʃ
+(₂∗
+∞)
+ℾ is equal to:
+[
+]
+ℾ
+=
+Γ(ƒ)
+=
+ƒ ∗ ʃ
+ƒ
+=
+ƒ ∗ ƒ₂
+=
+ƒ
+2
+₂

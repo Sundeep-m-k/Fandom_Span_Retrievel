@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22302,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a9/TWPII.jpg/revision/latest?cb=20180207153152,"{""\n\n"": 1}",1
+22302,1,not yet,102,109,internal,https://alldimensions.fandom.com/wiki/Not_yet,"{""not yet"": 1}",1
+22302,1,Primordialverse,320,335,internal,https://alldimensions.fandom.com/wiki/Primordialverse,"{""Primordialverse"": 1}",1
+22302,1,Not yets,348,356,internal,https://alldimensions.fandom.com/wiki/Not_yet,"{""Not yets"": 1}",1
+22302,4,not yets,70,78,internal,https://alldimensions.fandom.com/wiki/Not_yet,"{""not yets"": 1}",1
+22302,7,Elon Musks,117,127,internal,https://alldimensions.fandom.com/wiki/Elon_Musks,"{""Elon Musks"": 1}",1
+22302,8,verse,17,22,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+22302,8,entities,59,67,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entities"": 1}",1
+22302,8,Eye on the Wall,85,100,internal,https://alldimensions.fandom.com/wiki/Eye_on_the_Wall,"{""Eye on the Wall"": 1}",1

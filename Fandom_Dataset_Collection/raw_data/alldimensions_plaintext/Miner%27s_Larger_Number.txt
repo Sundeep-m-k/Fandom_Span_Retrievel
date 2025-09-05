@@ -1,0 +1,80 @@
+Miner's Larger Number is the estimative of
+1
+ℜ
+2
+{\displaystyle {\frac {1}{\Re ^{2}}}}
+of the size of the Omniverse (if number is in light milleniums)
+The number's formula is:
+M
+l
+1
+=
+M
+120
+{\displaystyle Ml_{1}=M_{120}}
+M
+l
+2
+=
+M
+M
+120
+{\displaystyle Ml_{2}=M_{M_{120}}}
+M
+l
+3
+=
+M
+M
+M
+120
+{\displaystyle Ml_{3}=M_{M_{M_{120}}}}
+...
+M
+l
+118
+=
+M
+M
+.
+.
+.
+120
+{\displaystyle Ml_{118}=M_{M_{..._{120}}}}
+M
+l
+119
+=
+M
+M
+.
+.
+.
+120
+{\displaystyle Ml_{119}=M_{M_{..._{120}}}}
+M
+l
+120
+=
+M
+M
+.
+.
+.
+120
+{\displaystyle Ml_{120}=M_{M_{..._{120}}}}
+Conclusion: Miner's Larger Number =
+M
+l
+120
+=
+M
+.
+.
+.
+120
+{\displaystyle Ml_{120}=M_{..._{120}}}
+(Theese dots represent 119 M's.)
+NOTE
+If you didnt understand this, go to
+Miner's Number

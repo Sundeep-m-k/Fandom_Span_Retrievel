@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+44846,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/16/Wallpaperverse.jpg/revision/latest?cb=20231119070941,"{""\n\n"": 1}",1
+44846,1,Omniverse,103,112,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+44846,2,Omniverse,95,104,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1

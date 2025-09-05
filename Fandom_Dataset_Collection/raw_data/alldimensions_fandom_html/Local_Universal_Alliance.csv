@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45436,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/85/Local_Universal_Alliance_flag.png/revision/latest?cb=20240212221229,"{""\n\n"": 1}",1
+45436,3,our universe group,87,105,internal,https://alldimensions.fandom.com/wiki/Local_Universe_Group,"{""our universe group"": 1}",1
+45436,5,Humanity,0,8,internal,https://alldimensions.fandom.com/wiki/Human,"{""Humanity"": 1}",1
+45436,5,Tuhis,119,124,internal,https://alldimensions.fandom.com/wiki/Tuhis,"{""Tuhis"": 1}",1
+45436,5,humanity,182,190,internal,https://alldimensions.fandom.com/wiki/Human,"{""humanity"": 1}",1
+45436,10,OYC,178,181,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+45436,13,Alternate,63,72,internal,https://alldimensions.fandom.com/wiki/The_Alternate,"{""Alternate"": 1}",1

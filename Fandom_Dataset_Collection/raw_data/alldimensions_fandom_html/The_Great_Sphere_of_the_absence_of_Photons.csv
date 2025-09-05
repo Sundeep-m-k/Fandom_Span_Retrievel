@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40232,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/04/Gsaop.png/revision/latest?cb=20211222065714,"{""\n\n"": 1}",1
+40232,1,TMTUs,115,120,internal,https://alldimensions.fandom.com/wiki/The_Trans-Maximum_of_The_Trans-Universes,"{""TMTUs"": 1}",1
+40232,1,.....s,201,207,internal,https://alldimensions.fandom.com/wiki/.....,"{"".....s"": 1}",1
+40232,1,The Trans-Maximums of The Trans-Universes,219,260,internal,https://alldimensions.fandom.com/wiki/The_Trans-Maximum_of_The_Trans-Universes,"{""The Trans-Maximums of The Trans-Universes"": 1}",1
+40232,1,TMTUs,115,120,internal,https://alldimensions.fandom.com/wiki/The_Trans-Maximum_of_The_Trans-Universes,"{""TMTUs"": 1}",1
+40232,2,void second,244,255,internal,https://alldimensions.fandom.com/wiki/Voidsecond,"{""void second"": 1}",1

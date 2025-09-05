@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+39422,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f7/Liminal_Reality.jpeg/revision/latest?cb=20210907143914,"{""\n\n"": 1}",1
+39422,1,Omniverse,55,64,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+39422,1,our Universe,143,155,internal,https://alldimensions.fandom.com/wiki/Universe,"{""our Universe"": 1}",1
+39422,2,reality,21,28,internal,https://alldimensions.fandom.com/wiki/Reality,"{""reality"": 1}",1
+39422,3,Earth,59,64,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1

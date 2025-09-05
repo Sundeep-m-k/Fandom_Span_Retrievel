@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34751,1,Primordialverse,159,174,internal,https://alldimensions.fandom.com/wiki/Primordialverse,"{""Primordialverse"": 1}",1
+34751,3,The Pencil Language,31,50,internal,https://alldimensions.fandom.com/wiki/The_Pencil_Language,"{""The Pencil Language"": 1}",1
+34751,3,The Entrigeri,77,90,internal,https://alldimensions.fandom.com/wiki/The_Entrigeri,"{""The Entrigeri"": 1}",1
+34751,3,Zoid,109,113,internal,https://alldimensions.fandom.com/wiki/Zoid,"{""Zoid"": 1}",1

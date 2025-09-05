@@ -1,0 +1,80 @@
+(This page is still being worked on. You can also just add whatever you want in this page.)
+(This page is made by Endoram.)
+Contents
+1
+Info
+2
+Commands
+2.1
+Normal Commands
+2.2
+Other Commands
+2.3
+DEL + STOP
+2.4
+Extra Useless Commands
+3
+/ Characters (Or ''\C/'' for short)
+Info
+[
+]
+UALx86 (or User Assembly Line 32Bit) is a CMD-like user interface used by many new computers in the
+Omniverse
+today. It can be used by low-spec computers, and even mobile devices. UALx86 is always getting updates every week that allow for more swift control over the system.
+Commands
+[
+]
+Commands are the things that allow terminals to work, and are the base core of every terminal. Commands in terminals can very differently. Such as CMD, Bash etc.
+Normal Commands
+[
+]
+DISC : The ''DISC'' command is like if ''Dir'' and ''CD'' were combine into one command.
+CHK : ''CHK'' checks the computers specs, battery and age. This can be very useful, as there is no GUI (Graphical User Interface) for the user to check their battery or other things in their computer
+CHK COM : The ''CHK COM'' command checks for and damaged or corrupt system files. It doesn't repair them, as you would need to use the ''REP COM'' to do so.
+REP COM : The ''REP COM'' command repairs corrupted or damaged system files. This command is here because UALx86 can sometimes break.
+SHUTDOWN : Shuts down the computer. Make sure to save un-saved progress by using the ''SAVE'' command. You cant accsess the Boot Menu, as you would need the ''LÆ'' command for it to work.
+LAE : Shuts off the computer entirely. You can choose diffrent Opreateing Systems while the computer is shut down with the ''LAE'' command.
+SAVE : Saves what you are doing on the computer. It puts the saved files into a folder called ''SAVE''. You can easily access this folder by using the ''DISC'' command on it, and start where you left off. Any kind of game or program you save will have its own special folder you can access.
+Other Commands
+[
+]
+SEND : Sends a test folder to a server. If it successfully worked, it will give a little text that says ''SUCCSESS''
+CRTE : Creates a folder you can do whatever you want with.
+CRTE 2 : Creates a file instead of a folder.
+CHNG : Changes a file to a .TXT file.
+CHNG 2 : Changes a file to a .BAT file.
+CHNG 3 : Changes a file into a .exe file.
+COMPRS : Compresses files or folders. This makes folders or files take up less space.
+PING : Connects the user to a internet connection.
+PING 2 :
+PASWRD : Creates a password for a folder. Note that you must enter in the right password, or it will not open the file. Also note that If you guess the password wrong 5 times, it will kick you out of the folder.
+LOCK : Locks a folder. You cant open it, and the only way to open it is if it detects that you are one who locked that file.
+HID FOL : Hides a folder. You can un-hide certain folders if you use the ''UN-HID FOL'' command.
+UN-HID FOL: Un-hides a folder. Note that you have to write the correct password, and then paste it inside of the SAVE folder. It will delete the pasted password, and then show the hidden folder.
+PACKET-S : This command sends a package to another user. Type in the username of the person that you want to send the package to. Note that trying to send malware or viruses will get rid of this feature on your computer, so you don't cause more damage.
+DEL + STOP
+[
+]
+STOP : The ''STOP'' command closes a single .exe.
+STOP 2 : Stops every copy of a .exe from running.
+STOP 3 : Stops every .exe file from running except system files.
+STOP 4 : Forcefully shuts down a running .exe file instantly.
+STOP 404 : This ''STOP'' command will shut down everything that is running forcefully. Even system files. The user will have to wait over 1 hour just to be able to run programs again.
+DEL : The ''DEL'' command deletes folders that you want to delete. Note it cant delete sub-folders.
+DEL 2 : It works just like the ''DEL'' command, but it instead can delete sub-folders. Note you cant use this command on folders. Only sub-folders.
+DEL 3 : This command can delete both folders and sub-folders that you want gone, but you cant erase locked files and hidden files. The only different thing it can do is that it can delete system files, so using this command is not advised. Use at your own risk.
+DEL 4 : This is the final DEL command. It can absolutely delete anything on the system, and can erase just about anything. It can erase locked files and hidden files. It is know to be the most dangerous command in UALx86.
+Extra Useless Commands
+[
+]
+LOCE : Tells you what your address is.
+COU-Y : Tells you what country you are in.
+CLOC : Tells you what time it its.
+/ Characters (Or ''\C/'' for short)
+[
+]
+\C/ are complex commands that can change some commands all together. More \C/ listed below.
+/X : this \C/ can be used to backup the entire system when used with LAE and SHUTDOWN. LAE and SHUTDOWN still work the same, but they save a copy of the system. The copyed system will have everything free to the user. System files can be copyied in the copy of Operateing system. Everything is shown to the user very clearly, and the user is now an Administrator in the copy of UALx86.
+/!Z!/!Z!/!Z/ : This \C/ can only be used on its own. This command can change absalutely everything in the computer, so the user is now a ''Owner''. It can change the date, the age, their name, their job and the dream job of the user. It can give more accsessability to the user then an accual Administrator. The user can change the Operateing systems name, the options, the key-binds, the brightness, the screen width and lengh and the name of Operateing System files. They now can modify the OS to their hearts content.
+Fun Fact: There are fan-made versions of UALx86 that add more features to the OS.
+(I will continue this page.)

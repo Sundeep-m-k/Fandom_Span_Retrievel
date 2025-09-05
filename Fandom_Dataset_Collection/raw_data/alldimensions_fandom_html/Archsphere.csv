@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48531,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0b/Archverse.jpg/revision/latest?cb=20220102200250,"{""\n\n"": 1}",1
+48531,1,EUSI,98,102,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+48531,1,Hendaverse,233,243,internal,https://alldimensions.fandom.com/wiki/Hendaverse,"{""Hendaverse"": 1}",1
+48531,1,Feeshverse,256,266,internal,https://alldimensions.fandom.com/wiki/Feeshverse,"{""Feeshverse"": 1}",1
+48531,3,Feeshverse,190,200,internal,https://alldimensions.fandom.com/wiki/Feeshverse,"{""Feeshverse"": 1}",1
+48531,3,Hendaverse,374,384,internal,https://alldimensions.fandom.com/wiki/Hendaverse,"{""Hendaverse"": 1}",1
+48531,3,AO,478,480,internal,https://alldimensions.fandom.com/wiki/Metaarchverse#Archverse_Ordinal,"{""AO"": 1}",1

@@ -1,0 +1,119 @@
+Tetrahedron
+Geometry
+Dimensionality
+3
+Schläfli Symbol
+'"`UNIQ--postMath-00000005-QINU`"'
+Subfacets
+Vertices
+4
+points
+Edges
+6
+line segments
+Faces
+4
+triangles
+Cells
+1 tetrahedron
+Hypervolumes
+Vertex Count
+'"`UNIQ--postMath-00000001-QINU`"'
+Edges Length
+'"`UNIQ--postMath-00000002-QINU`"'
+Surface Area
+'"`UNIQ--postMath-00000003-QINU`"'
+Surcell Volume
+'"`UNIQ--postMath-00000004-QINU`"'
+A tetrahedron is a 3-dimensional simplex. Its Bowers acronym is "tet".
+Contents
+1
+Variants
+2
+Properties
+3
+Structure
+4
+See also
+Variants
+[
+]
+The tetrahedron can be seen as a
+triangle
+pyramid where all the sides are equal. It is also a line
+antiprism
+.
+Properties
+[
+]
+Two tetrahedra can be inscribed in a
+cube
+such that no vetex is used twice.
+Structure
+[
+]
+As a triangular pyramid, the tetrahedron is composed of a point that grows into a triangle. It has 3
+triangles
+around each vertex.
+See also
+[
+]
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

@@ -1,0 +1,24 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42854,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/ff/Fractal_spiral_by_silencefreedom.png/revision/latest?cb=20180607075035,"{""\n\n"": 1}",1
+42854,1,Looptima-Infinity,255,272,internal,https://alldimensions.fandom.com/wiki/Looptimas#Looptima-Infinity,"{""Looptima-Infinity"": 1}",1
+42854,1,The True Multiverse,274,293,internal,https://alldimensions.fandom.com/wiki/The_True_Multiverse,"{""The True Multiverse"": 1}",1
+42854,1,All other lower loops,317,338,internal,https://alldimensions.fandom.com/wiki/The_infinite_loops_theory,"{""All other lower loops"": 1}",1
+42854,1,Superlooped Earth,340,357,internal,https://alldimensions.fandom.com/wiki/Superlooped_Earth,"{""Superlooped Earth"": 1}",1
+42854,2,[1],28,31,anchor,https://alldimensions.fandom.com#cite_note-:1-1,"{""[1]"": 1}",1
+42854,2,[2],253,256,anchor,https://alldimensions.fandom.com#cite_note-:0-2,"{""[2]"": 1}",1
+42854,3,Hyperloops,46,56,internal,https://alldimensions.fandom.com/wiki/Hyperloops,"{""Hyperloops"": 1}",1
+42854,3,[3],66,69,anchor,https://alldimensions.fandom.com#cite_note-3,"{""[3]"": 1}",1
+42854,3,[1],160,163,anchor,https://alldimensions.fandom.com#cite_note-:1-1,"{""[1]"": 1}",1
+42854,3,[4],271,274,anchor,https://alldimensions.fandom.com#cite_note-4,"{""[4]"": 1}",1
+42854,3,Hyperloop,46,55,internal,https://alldimensions.fandom.com/wiki/Hyperloops,"{""Hyperloop"": 1}",1
+42854,4,[2],61,64,anchor,https://alldimensions.fandom.com#cite_note-:0-2,"{""[2]"": 1}",1
+42854,4,[5],225,228,anchor,https://alldimensions.fandom.com#cite_note-identifier-5,"{""[5]"": 1}",1
+42854,4,[5],225,228,anchor,https://alldimensions.fandom.com#cite_note-identifier-5,"{""[5]"": 1}",1
+42854,5,The infinite loops theory,0,25,internal,https://alldimensions.fandom.com/wiki/The_infinite_loops_theory,"{""The infinite loops theory"": 1}",1
+42854,6,Superlooped Earth,0,17,internal,https://alldimensions.fandom.com/wiki/Superlooped_Earth,"{""Superlooped Earth"": 1}",1
+42854,7,We reached the Earth... again...,0,32,internal,https://alldimensions.fandom.com/wiki/We_reached_the_Earth..._again...,"{""We reached the Earth... again..."": 1}",1
+42854,8,We reached the Solar System... again...,0,39,internal,https://alldimensions.fandom.com/wiki/We_reached_the_Solar_System..._again...,"{""We reached the Solar System... again..."": 1}",1
+42854,9,We reached the Galaxy... again...,0,33,internal,https://alldimensions.fandom.com/wiki/We_reached_the_Galaxy..._again...,"{""We reached the Galaxy... again..."": 1}",1
+42854,10,We reached every other Verse up to the first loop... again...,0,61,internal,https://alldimensions.fandom.com/wiki/We_reached_every_other_Verse_up_to_the_first_loop..._again...,"{""We reached every other Verse up to the first loop... again..."": 1}",1

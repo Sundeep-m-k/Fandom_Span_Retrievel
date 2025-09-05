@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+46776,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4d/Big_John.png/revision/latest?cb=20240827111945,"{""\n\n"": 1}",1
+46776,2,Big Bang,70,78,internal,https://alldimensions.fandom.com/wiki/Big_Bang,"{""Big Bang"": 1}",1
+46776,2,Our Universe,82,94,internal,https://alldimensions.fandom.com/wiki/Our_Universe,"{""Our Universe"": 1}",1
+46776,2,our Multiverse,148,162,internal,https://alldimensions.fandom.com/wiki/Our_Multiverse,"{""our Multiverse"": 1}",1
+46776,5,pows,44,48,internal,https://alldimensions.fandom.com/wiki/DiggyPT%27s_Power_Ranking_System,"{""pows"": 1}",1

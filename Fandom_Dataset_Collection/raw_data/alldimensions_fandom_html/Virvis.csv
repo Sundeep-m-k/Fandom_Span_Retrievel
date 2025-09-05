@@ -1,0 +1,12 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42718,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/ec/FinalGateway.gif/revision/latest?cb=20220817174643,"{""\n\n"": 1}",1
+42718,1,BS,59,61,internal,https://alldimensions.fandom.com/wiki/Basic_space,"{""BS"": 1}",1
+42718,1,EUSI,64,68,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42718,1,Finality Index,74,88,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+42718,1,FOEI,94,98,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+42718,1,greater / true godity spaces,341,369,internal,https://alldimensions.fandom.com/wiki/Godity_space_(true),"{""greater / true godity spaces"": 1}",1
+42718,1,BS,59,61,internal,https://alldimensions.fandom.com/wiki/Basic_space,"{""BS"": 1}",1
+42718,2,Basic Space,60,71,internal,https://alldimensions.fandom.com/wiki/Basic_space,"{""Basic Space"": 1}",1
+42718,5,MIPS,136,140,internal,https://alldimensions.fandom.com/wiki/User_blog:Randomuser66/Mips_rabbit,"{""MIPS"": 1}",1

@@ -1,0 +1,19 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+39028,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/60/SFdkbdefTaog6XKV3wyqJ7-320-80.jpg/revision/latest?cb=20200516181053,"{""\n\n"": 1}",1
+39028,1,Box,67,70,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+39028,1,The giant eggs,82,96,internal,https://alldimensions.fandom.com/wiki/The_giant_egg,"{""The giant eggs"": 1}",1
+39028,2,giant eggs,85,95,internal,https://alldimensions.fandom.com/wiki/The_giant_egg,"{""giant eggs"": 1}",1
+39028,23,Metrium,210,217,internal,https://alldimensions.fandom.com/wiki/Metrium,"{""Metrium"": 1}",1
+39028,24,The Box,109,116,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+39028,26,The Terrifying Purple and Chartreuse Fractal Creature,447,500,internal,https://alldimensions.fandom.com/wiki/The_Terrifying_Purple_and_Chartreuse_Fractal_Creature,"{""The Terrifying Purple and Chartreuse Fractal Creature"": 1}",1
+39028,34,The giant egg,247,260,internal,https://alldimensions.fandom.com/wiki/The_giant_egg,"{""The giant egg"": 1}",1
+39028,34,The big egg,263,274,internal,https://alldimensions.fandom.com/wiki/The_big_egg,"{""The big egg"": 1}",1
+39028,34,The medium sized egg,277,297,internal,https://alldimensions.fandom.com/wiki/The_medium_sized_egg,"{""The medium sized egg"": 1}",1
+39028,34,The small egg,300,313,internal,https://alldimensions.fandom.com/wiki/The_small_egg,"{""The small egg"": 1}",1
+39028,34,The tiny egg,319,331,internal,https://alldimensions.fandom.com/wiki/The_tiny_egg,"{""The tiny egg"": 1}",1
+39028,45,big eggs,72,80,internal,https://alldimensions.fandom.com/wiki/The_big_egg,"{""big eggs"": 1}",1
+39028,45,medium sized eggs,82,99,internal,https://alldimensions.fandom.com/wiki/The_medium_sized_egg,"{""medium sized eggs"": 1}",1
+39028,45,small eggs,101,111,internal,https://alldimensions.fandom.com/wiki/The_small_egg,"{""small eggs"": 1}",1
+39028,45,tiny eggs,116,125,internal,https://alldimensions.fandom.com/wiki/The_tiny_egg,"{""tiny eggs"": 1}",1

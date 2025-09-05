@@ -1,0 +1,18 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+46163,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4d/Flatlands.jpeg/revision/latest?cb=20240517001622,"{""\n\n"": 1}",1
+46163,1,EUSI,70,74,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+46163,1,Finality Index,99,113,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+46163,1,FOEI,137,141,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+46163,1,Farlands,342,350,internal,https://alldimensions.fandom.com/wiki/Farlands,"{""Farlands"": 1}",1
+46163,1,Endless farms,363,376,internal,https://alldimensions.fandom.com/wiki/Endless_farm,"{""Endless farms"": 1}",1
+46163,1,Streets,378,385,internal,https://alldimensions.fandom.com/wiki/The_Street,"{""Streets"": 1}",1
+46163,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/ec/Path.jpeg/revision/latest?cb=20240517001623,"{""\n\n"": 1}",1
+46163,2,Streets,46,53,internal,https://alldimensions.fandom.com/wiki/The_Street,"{""Streets"": 1}",1
+46163,2,Farlands,195,203,internal,https://alldimensions.fandom.com/wiki/Farlands,"{""Farlands"": 1}",1
+46163,3,Hwagoanoids,6,17,internal,https://alldimensions.fandom.com/wiki/Hwagoanoid,"{""Hwagoanoids"": 1}",1
+46163,5,Void,0,4,internal,https://alldimensions.fandom.com/wiki/User:KingVoidDragon11,"{""Void"": 1}",1
+46163,40,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

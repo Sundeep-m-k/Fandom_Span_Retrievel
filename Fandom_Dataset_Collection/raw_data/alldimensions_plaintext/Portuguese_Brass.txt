@@ -1,0 +1,281 @@
+Picture of an ingot of Portuguese Brass
+Portuguese Brass
+(Latão-à-portuguesa in Portuguese; Also known as LaP)
+is a highly advanced alloy that is used by universal civilisations. It has a 17.2 on the Mohs Scale, which is a lot harder than diamond. Portuguese Brass has a chemical formula of
+SbK
+9
+Ca
+(
+P
+3
+hE
+Y
+7
+)
+4
+(
+U
+M
+Np
+7
+M
+H
+2
+)
+3
+(
+CoSn
+hEIV
+C
+9
+)
+5
+(
+Sn
+hEII
+Fe
+2
+S
+9
+O
+2
+hE
+P
+)
+6
+{\displaystyle {\ce {SbK9Ca(P^{hE}3Y7)4(U^{M}Np^{M}7H2)3(CoSn^{hEIV}C9)5(Sn^{hEII}Fe2S9O^{hE}2P)6}}}
+(In unicode: SbK₉Ca(Pʰᴱ₃Y₇)₄(UᴹNpᴹ₇H₂)₃(CoSnʰᴱᴵⱽC₉)₅(SnʰᴱᴵᴵFe₂S₉Oʰᴱ}₂P)₆)
+.
+Contents
+1
+Processing
+1.1
+Kilanumi'i
+1.1.1
+Hyperphosphoryttrite
+1.2
+Radiaplex
+1.3
+Bronzecarbide-hEIV
+1.4
+Bi-hyperenergized Sulferrite
+2
+History
+3
+Uses
+Processing
+[
+]
+The creation of portuguese brass is very convoluted and requires a lot of steps. To alloy all of the components together (kilanumi'i, radiaplex, bronzecarbide-hEIV & bi-hyperenergized sulferrite) a chemical hyperalloy machine (ChAM) is used, preferably type-Y3H.
+Kilanumi'i
+[
+]
+Kilanumi'i (
+SbK
+9
+Ca
+(
+P
+3
+hE
+Y
+7
+)
+4
+{\displaystyle {\ce {SbK9Ca(P^{hE}3Y7)4}}}
+) is one of the constituents of Portuguese Brass. It is a compound composed of arsenic, potassium, calcium and hyperphosphoryttrite (
+P
+3
+hE
+Y
+7
+{\displaystyle {\ce {P^{hE}3Y7}}}
+). To create it, arsenic dust, potassium dust, calcium dust and hyperphosphoryttrite dust (all in the appropriate quantities) are mixed together in an LCRU (Large Chemical Reaction Unit).
+Hyperphosphoryttrite
+[
+]
+Hyperphosphoryttrite is composed of hyperenergised triphosphorus (
+P
+3
+hE
+{\displaystyle {\ce {P^{hE}3}}}
+) and yttrium. The regular first step is to extract phosphorus from any phosphorus-rich planets (preferably not a habitable planet). The next step is to use a centrifuge to purify the phosphorus to a 99.998% purity, which is necessary for conventional hyperenergizers to work. Then, the phosphorus is placed into a T-8 hyperenergizer to make it hyperenergised phosphorus. The hyperenergised phosphorus is very reactive and will naturally react to create hyperenergized triphosphorus.
+3
+P
+→
+h
+y
+p
+e
+r
+e
+n
+e
+r
+g
+i
+s
+a
+t
+i
+o
+n
+3
+P
+hE
+⟶
+P
+3
+hE
+{\displaystyle {\ce {3 P ->[hyperenergisation] 3 P^{hE}-> P^{hE}3}}}
+To get yttrium, it is normally simply extracted from rocky planets or moons or fused in high-fusion reaction chambers.
+Then, the hyperenergised pottasium and yttrium are mixed in a hyperadvanced alloying industrial machine to create hyperphosphoryttrite.
+Radiaplex
+[
+]
+Radiaplex (
+U
+M
+Np
+7
+M
+H
+2
+{\displaystyle {\ce {U^{M}Np^{M}7H2}}}
+) is one of the components of portuguese brass. It has mutated uranium, mutated neptunium and dihydrogen.
+First, uranium and neptunium are extracted from old metric-prefix
+stars
+(Class
+ΔK
+-
+Q
+). They are then run through a fine-tuned
+blueprint particle
+beam to become
+mutated
+. Hydrogen is extracted from regular stars or gas giants and chemically reacted to make hydride. Then, they are fused in a LCRU.
+Bronzecarbide-hEIV
+[
+]
+Bronzecarbide-hEIV (
+CoSn
+hEIV
+C
+9
+{\displaystyle {\ce {CoSn^{hEIV}C9}}}
+) is one of components of portuguese brass. It is a relatively high-quality alloy by itself, being composed of copper, IV-hyperenergized tin and carbon.
+First, copper and tin are extracted from rocky planets / moons while diamond is extracted from gas giants. The tin is hyperenergised to the 4th degree in T-22 hyperenergizer chains, and alloyed with copper to make a very reactive variant of bronze called IV-hyperenergized bronze. Then, the IV-hyperenergised bronze is alloyed with the carbon with superalloying machines.
+Bi-hyperenergized Sulferrite
+[
+]
+Bi-hyperenergized Sulferrite (
+Sn
+hEII
+Fe
+2
+S
+9
+O
+2
+hE
+P
+{\displaystyle {\ce {Sn^{hEII}Fe2S9O^{hE}2P}}}
+) is the last component and the one of which you need the largest amount of (9 moles for a mole of LaP). It is composed of II-hyperenergized tin, iron, sulfur, hyperenergized dioxide and phosphorus.
+First, tin, iron and phosphorus are extracted from rocky planets or supernovae and dioxide and sulphur are extracted from atmospheres of other rocky planets. The tin is hyperenergised to the 2nd degree in T-11 hyperenergiser chains:
+Sn
+→
+h
+y
+p
+e
+r
+n
+e
+n
+e
+r
+g
+i
+s
+a
+t
+i
+o
+n
+Sn
+hE
+→
+h
+y
+p
+e
+r
+e
+n
+e
+r
+g
+i
+s
+a
+t
+i
+o
+n
+Sn
+hEII
+{\displaystyle {\ce {Sn ->[hypernenergisation] Sn^{hE}->[hyperenergisation] Sn^{hEII}}}}
+And the oxide is dissassociated, hyperenergised, and joined again with a T-SH hyperenergisation assembly line machine:
+O
+2
+→
+t
+e
+m
+p
+e
+r
+a
+t
+u
+r
+e
+2
+O
+→
+h
+y
+p
+e
+r
+e
+n
+e
+r
+g
+i
+s
+a
+t
+i
+o
+n
+2
+O
+hE
+⟶
+O
+2
+hE
+{\displaystyle {\ce {O2 ->[temperature] 2 O ->[hyperenergisation] 2 O^{hE}-> O^{hE}2}}}
+Finally, all of the compounds are brought together in a megaindustrial alloying complex to make Bi-hyperenergised sulferrite.
+History
+[
+]
+The first Portuguese Brass was made in the year 2648, when the portuguese scientist Paulo Ferreira theorised that kilanumi'i, radiaplex, bronzecarbide-hEIV and bi-hyperenergized sulferrite would be able to react together into a very strong alloy. One year later, in 2649, he made the first portuguese brass, which was able to smash diamond. LaP rapidly spread throuought
+our Multiverse
+.
+Uses
+[
+]
+Portuguese Brass has lots of uses. It is very hard, which means it is used in military vehicles and objects, and it is also a tachyconductor, where electricity can travel through it at 4,124,100x of the speed of light, so it is used a lot in interplanetary and interstellar power lines.

@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42992,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/66/Primition.jpg/revision/latest?cb=20230101012313,"{""\n\n"": 1}",1
+42992,1,Anti Logics,84,95,internal,https://alldimensions.fandom.com/wiki/Anti_Logic,"{""Anti Logics"": 1}",1
+42992,1,true Nothings,124,137,internal,https://alldimensions.fandom.com/wiki/True_Nothing,"{""true Nothings"": 1}",1
+42992,2,[1],16,19,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+42992,2,class -3,60,68,internal,https://alldimensions.fandom.com/wiki/Category:Class_-3,"{""class -3"": 1}",1
+42992,2,metafinities,376,388,internal,https://alldimensions.fandom.com/wiki/Metafinities,"{""metafinities"": 1}",1
+42992,2,[2],388,391,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1

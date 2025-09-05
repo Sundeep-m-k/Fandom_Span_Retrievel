@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+39603,1,Absolute Computing Engine,125,150,internal,https://alldimensions.fandom.com/wiki/Absolute_Computing_Engine,"{""Absolute Computing Engine"": 1}",1
+39603,1,Wikibox Cluster,162,177,internal,https://alldimensions.fandom.com/wiki/Wikibox_Cluster,"{""Wikibox Cluster"": 1}",1
+39603,2,wikibox cluster,50,65,internal,https://alldimensions.fandom.com/wiki/Wikibox_Cluster,"{""wikibox cluster"": 1}",1

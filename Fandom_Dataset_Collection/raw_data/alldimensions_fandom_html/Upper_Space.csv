@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+39593,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/75/Upperspace.jpg/revision/latest?cb=20210929212548,"{""\n\n"": 1}",1
+39593,1,Deep Blues,39,49,internal,https://alldimensions.fandom.com/wiki/The_Deep_Blue,"{""Deep Blues"": 1}",1
+39593,1,Unique Locations,65,81,internal,https://alldimensions.fandom.com/wiki/The_Unique_Location,"{""Unique Locations"": 1}",1
+39593,2,Deep Blue,204,213,internal,https://alldimensions.fandom.com/wiki/The_Deep_Blue,"{""Deep Blue"": 1}",1
+39593,2,Unique Location,229,244,internal,https://alldimensions.fandom.com/wiki/The_Unique_Location,"{""Unique Location"": 1}",1
+39593,3,OYC,95,98,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

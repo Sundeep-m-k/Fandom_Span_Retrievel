@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41421,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/97/Microest.png.jpg/revision/latest?cb=20240822174959,"{""\n\n"": 1}",1
+41421,1,Tiniests,109,117,internal,https://alldimensions.fandom.com/wiki/Tiniest,"{""Tiniests"": 1}",1
+41421,1,Infinitesimals,129,143,internal,https://alldimensions.fandom.com/wiki/Infinitesimal,"{""Infinitesimals"": 1}",1
+41421,1,Tiniest,109,116,internal,https://alldimensions.fandom.com/wiki/Tiniest,"{""Tiniest"": 1}",1
+41421,1,Tiniest,109,116,internal,https://alldimensions.fandom.com/wiki/Tiniest,"{""Tiniest"": 1}",1
+41421,3,Tinything,55,64,internal,https://alldimensions.fandom.com/wiki/Tiniest#Tinythings,"{""Tinything"": 1}",1

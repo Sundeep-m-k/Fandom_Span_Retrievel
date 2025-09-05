@@ -1,0 +1,170 @@
+Planet Nine
+Picture of Planet Nine (Triton Space Telescope)
+Designations
+Semi-major axis
+552AU
+Orbital period
+20 000 years
+Physical characteristics
+Diameter
+3.01 earth diameters
+Mass
+6.20 Earth masses
+Rotation period
+3.05 Earth days
+Composition
+Mainly water (H
+2
+O)
+Surface temperature
+-262ºC
+Position
+Superior system
+Our Solar System
+Planet Nine is an ice giant in the
+Solar System
+, and, as the name suggests, is the 9th planet from the
+Sun
+. It has two moons, Hera and Trogdor. It has a perihelion of 853 AU, an aphelion of 251 AU and an eccentricity of 0.545. It has a surface gravity 6.71 m/s
+2
+and an escape velocity of 16.1 m/s.
+Contents
+1
+Formation
+2
+Composition
+2.1
+Atmosphere
+2.2
+Mantle
+2.3
+Core
+3
+History
+4
+Moons
+Formation
+[
+]
+Planet Nine is believed to have formed around 30 million years before Earth (20 million years after Jupiter), and it would have formed at around 30 AU from the Sun. Planet Nine's core accumulated a lot of gas, and its mass ejected a few dwarf planets in the Kuiper Belt into its orbit, becoming moons. Planet Nine was thought to have a nearer orbit around the Sun in its infancy (4.6 to 4.4 billion years ago), until Jupiter and Saturn's mass ejected it into the furthest reaches of the Solar System.
+Composition
+[
+]
+(Mass is measured in Moon masses - 7.35*10
+22
+kg)
+Atmosphere
+[
+]
+Hydrogen (H
+2
+) - 5.04 M
+☾
+Mantle
+[
+]
+Water (H
+2
+O) - 353 M
+☾
+Hydrogen (H
+2
+) - 20.2 M
+☾
+Core
+[
+]
+Iron - 25.2 M
+☾
+Silicate - 101 M
+☾
+History
+[
+]
+Planet Nine was unknown to humans for most of their history until the launch of the Triton Space Telescope. Planet Nine was making its closest approach to Neptune, and 16 years after TST went in orbit it captured Planet Nine's first image - a blurry dot. Astronomers at the time were convinced it was just a comet, until its radius and rough composition was estimated, convincing them that it truly was a planet.
+Moons
+[
+]
+Hera
+Trogdor
+Hera
+Picture of Hera (Triton Space Telescope)
+Designations
+Semi-major axis
+292,854km
+Orbital period
+7.31 days
+Physical characteristics
+Diameter
+4186km
+Mass
+3.24 Moon masses
+Rotation period
+13.5 Earth days
+Composition
+Rocky, mainly iron
+Surface temperature
+-262ºC
+Position
+Superior system
+Planet Nine's system
+Picture of Hera's surface and clouds
+Hera is the closest and biggest of Planet Nine's known moons. Hera has a lot of similarities with Titan, Saturn's moon, like the existence of liquid oceans on its surface and the presence of a thick atmosphere. Hera also has a thin ring system.
+Atmosphere
+[
+]
+Hera's atmosphere is mainly composed of sulphur dioxide, also containing trace amounts of ammonia, nitrogen, helium and methane (in descending order of amount). There is a lot of storms, and the sulphur dioxide from the oceans evaporates to form sulphur dioxide clouds, which rain down as sulphur dioxide rain.
+Oceans
+[
+]
+Hera has oceans composed of liquid sulphur dioxide, which is constantly being evaporated into the atmosphere and rained down.
+Origins
+[
+]
+The most widely accepted theory about Hera's origins is that it was a dwarf planet from the Kuiper Belt that was caught in Planet Nine's orbit. There is evidence that Hera's ring system was a lot larger, but Planet Nine's gravitational influence stripped the outer layers of Hera's rings when it caught the moon.
+Expeditions
+[
+]
+There have been lots of expeditions to Hera.
+Here's the first expedition's logs
+.
+Trogdor
+Picture of Trogdor (Triton Space Telescope)
+Designations
+Semi-major axis
+846,294km
+Orbital period
+36 days
+Physical characteristics
+Diameter
+3172km
+Mass
+1.08 Moon masses
+Rotation period
+17.3  Earth days
+Composition
+Rocky, mainly iron
+Surface temperature
+-262ºC
+Position
+Superior system
+Planet Nine's system
+Trogdor is the smallest and farthest of Planet Nine's moons. It has a nigh-negligible atmosphere, most rich in helium but also containing trace amounts of nitrogen, carbon dioxide and sulfur dioxide. Trogdor's most interesting features lie in the northern hemisphere in a region called Valles Sulphorum, where there are extensive valleys and mountains, as well as sulfur dioxide (in orange) and carbon dioxide ice deposits (in white).
+Map of Trogdor, with Valles Sulphorum labeled (top left)
+Atmosphere
+[
+]
+Trogdor's atmosphere is rich in helium, also having N
+2
+, CO
+2
+and SO
+2
+. The gas pressure is around 6Pa in most places, but in the region of Valles Sulphorum the gas pressure can be to 54% of Earth's atmosphere, and being able to reach 1.08 Earth atmospheres in some scarce areas of the region! This is due to the intense evaporating of the minerals in the ice deposits.
+Aerial view of Valles Sulphorum (Trogdor Imaging Satellite)
+Geography
+[
+]
+Elevation map of Trogdor (Deepest valley is 0m in this case)
+Trogdor has a simple geography. Mountains are formed by large asteroid impacts, with the highest ones being ~1500 meters tall (short compared to Earth's mountains, the highest ones being almost 9km tall). However, Trogdor has some impressive valleys, the deepest being 1150 meters deep. The lowest valleys are all around the south pole, with a minor canyon at the equator.
+(Planet pictures and planet information by Universe Sandbox)

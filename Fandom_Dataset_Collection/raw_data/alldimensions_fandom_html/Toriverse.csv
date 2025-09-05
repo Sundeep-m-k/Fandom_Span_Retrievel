@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35655,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a4/Toriverse.png/revision/latest?cb=20210104211346,"{""\n\n"": 1}",1
+35655,1,Hencentroverse,49,63,internal,https://alldimensions.fandom.com/wiki/Hencentroverse,"{""Hencentroverse"": 1}",1
+35655,1,Kleinverse,75,85,internal,https://alldimensions.fandom.com/wiki/Kleinverse,"{""Kleinverse"": 1}",1
+35655,1,Forustars,87,96,internal,https://alldimensions.fandom.com/wiki/Forustar,"{""Forustars"": 1}",1
+35655,1,Möbiverse,98,107,internal,https://alldimensions.fandom.com/wiki/M%C3%B6biverse,"{""Möbiverse"": 1}",1
+35655,2,torus,45,50,external,https://en.m.wikipedia.org/wiki/Torus,"{""torus"": 1}",1
+35655,4,forustars,106,115,internal,https://alldimensions.fandom.com/wiki/Forustar,"{""forustars"": 1}",1
+35655,5,Kleinverses,62,73,internal,https://alldimensions.fandom.com/wiki/Kleinverse,"{""Kleinverses"": 1}",1
+35655,6,moquarks,77,85,internal,https://alldimensions.fandom.com/wiki/Moquark,"{""moquarks"": 1}",1
+35655,6,Möbiverses,125,135,internal,https://alldimensions.fandom.com/wiki/M%C3%B6biverse,"{""Möbiverses"": 1}",1

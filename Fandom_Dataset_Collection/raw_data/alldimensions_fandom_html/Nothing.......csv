@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42433,1,nothing,34,41,internal,https://alldimensions.fandom.com/wiki/User_blog:Newderv/Nothing,"{""nothing"": 1}",1
+42433,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/30/Download-2.jpg/revision/latest?cb=20190917140107,"{""\n\n"": 1}",1
+42433,2,Finality Index,91,105,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+42433,2,FOEI,116,120,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+42433,2,true axioms,433,444,internal,https://alldimensions.fandom.com/wiki/True_axiom,"{""true axioms"": 1}",1
+42433,2,conceptual black holes,466,488,internal,https://alldimensions.fandom.com/wiki/Conceptual_black_hole,"{""conceptual black holes"": 1}",1
+42433,5,conceptual rank,10,25,internal,https://alldimensions.fandom.com/wiki/Conceptual_rank,"{""conceptual rank"": 1}",1

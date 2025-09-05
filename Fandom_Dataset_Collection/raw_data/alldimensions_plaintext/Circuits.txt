@@ -1,0 +1,38 @@
+“
+If you break your machine they'd be there. Please don't do that though we spent a long time making these...
+”
+— Automate Industries
+Circuits
+are machine parts that are part of most machines. They have the device's programming, and without them the machine probably wouldn't work.
+Contents
+1
+Automate Industries
+1.1
+Electronic Circuits
+1.2
+Advanced Circuits
+1.3
+Processing Units
+Automate Industries
+[
+]
+These are the circuits
+Automate Industries
+makes and uses for their machines.
+Electronic Circuits
+[
+]
+Electronic circuits are the first tier of circuit. They are used in machines that don't need a lot of programming to do the task at hand. One of them costs 5d
+ɢ
+. They're made from iron and copper wiring.
+Picture of an electronic circuit (Factorio icon)
+Advanced Circuits
+[
+]
+Advanced circuits are the second tier of circuit. Machines that have them have a medium amount of programming in them, and an advanced circuit costs 1ɢ. They're made from electronic circuits, copper wiring and plastic.
+Picture of an advanced circuit (Factorio icon)
+Processing Units
+[
+]
+Processing units are the last tier of circuit. They are normally only used in machines that do very complex tasks. A processing unit costs 15dɢ. They're made from electronic circuits, advanced circuits and sulfuric acid.
+Picture of a processing unit (Factorio icon)

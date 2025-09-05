@@ -1,0 +1,17 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+37421,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9e/VirtualOmniverse.jpg/revision/latest?cb=20210325114920,"{""\n\n"": 1}",1
+37421,1,Virtual boxes,178,191,internal,https://alldimensions.fandom.com/wiki/Virtual_box,"{""Virtual boxes"": 1}",1
+37421,1,Xanmeverses,193,204,internal,https://alldimensions.fandom.com/wiki/Xanmeverse,"{""Xanmeverses"": 1}",1
+37421,1,Metaverses,209,219,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverses"": 1}",1
+37421,2,verse,16,21,internal,https://alldimensions.fandom.com/wiki/Category:Verse,"{""verse"": 1}",1
+37421,2,virtual,4,11,internal,https://alldimensions.fandom.com/wiki/Category:Virtual_Chain,"{""virtual"": 1}",1
+37421,2,chain,72,77,internal,https://alldimensions.fandom.com/wiki/Category:Chain,"{""chain"": 1}",1
+37421,2,non-existing,101,113,internal,https://alldimensions.fandom.com/wiki/Existence_Rank,"{""non-existing"": 1}",1
+37421,2,particles,122,131,internal,https://alldimensions.fandom.com/wiki/Category:Particle,"{""particles"": 1}",1
+37421,2,Xanmeverses,168,179,internal,https://alldimensions.fandom.com/wiki/Xanmeverse,"{""Xanmeverses"": 1}",1
+37421,2,voids,210,215,internal,https://alldimensions.fandom.com/wiki/Void,"{""voids"": 1}",1
+37421,2,Mandelbrothverses,236,253,internal,https://alldimensions.fandom.com/wiki/Mandelbrothverse,"{""Mandelbrothverses"": 1}",1
+37421,4,Universe,258,266,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+37421,5,Metaverse,38,47,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""Metaverse"": 1}",1

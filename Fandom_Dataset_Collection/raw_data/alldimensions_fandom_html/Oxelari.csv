@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45789,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/56/Oxelari.png/revision/latest?cb=20240401141106,"{""\n\n"": 1}",1
+45789,1,Planets,154,161,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+45789,1,Monyui,183,189,internal,https://alldimensions.fandom.com/wiki/Geraldson_9-21_System,"{""Monyui"": 1}",1
+45789,2,Geraldson 9-21 system,64,85,internal,https://alldimensions.fandom.com/wiki/Geraldson_9-21_System,"{""Geraldson 9-21 system"": 1}",1
+45789,2,planets,269,276,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+45789,2,Akalor,344,350,internal,https://alldimensions.fandom.com/wiki/Akalor,"{""Akalor"": 1}",1
+45789,8,humans,5,11,internal,https://alldimensions.fandom.com/wiki/Human,"{""humans"": 1}",1

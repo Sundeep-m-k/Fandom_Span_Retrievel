@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41840,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c3/Megacontainer.jpg/revision/latest?cb=20230120104152,"{""\n\n"": 1}",1
+41840,1,the Giga Containers,92,111,internal,https://alldimensions.fandom.com/wiki/The_Giga_Container,"{""the Giga Containers"": 1}",1
+41840,1,The Super Containers,123,143,internal,https://alldimensions.fandom.com/wiki/The_Super_Container,"{""The Super Containers"": 1}",1
+41840,1,hyperradioactive Elements,188,213,internal,https://alldimensions.fandom.com/wiki/Hyperradioactive_Elements,"{""hyperradioactive Elements"": 1}",1
+41840,2,Super Container,38,53,internal,https://alldimensions.fandom.com/wiki/The_Super_Container,"{""Super Container"": 1}",1
+41840,2,Nonexistence,205,217,internal,https://alldimensions.fandom.com/wiki/Unexistence,"{""Nonexistence"": 1}",1
+41840,3,Hyperradioactive Elements,59,84,internal,https://alldimensions.fandom.com/wiki/Hyperradioactive_Elements,"{""Hyperradioactive Elements"": 1}",1
+41840,3,Super Container,116,131,internal,https://alldimensions.fandom.com/wiki/The_Super_Container,"{""Super Container"": 1}",1

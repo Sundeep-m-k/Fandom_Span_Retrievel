@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43985,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a4/Universe696969.jpg/revision/latest?cb=20230503174917,"{""\n\n"": 1}",1
+43985,1,Multiverse,156,166,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+43985,1,Galaxies,205,213,internal,https://alldimensions.fandom.com/wiki/Galaxies,"{""Galaxies"": 1}",1
+43985,2,universe,20,28,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1

@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+28121,1,verse,11,16,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+28121,1,matter,56,62,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1
+28121,1,stars,155,160,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+28121,1,"
+
+",271,273,external,https://static.wikia.nocookie.net/alldimensions/images/8/80/Screen_Shot_2020-05-13_at_11.22.17_AM.png/revision/latest?cb=20200513182357,"{""\n\n"": 1}",1
+28121,1,Box,554,557,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+28121,1,stars,155,160,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+28121,7,Box,120,123,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+28121,8,black holes,5,16,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black holes"": 1}",1
+28121,10,Planets,0,7,internal,https://alldimensions.fandom.com/wiki/Planet,"{""Planets"": 1}",1
+28121,10,life,109,113,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""life"": 1}",1
+28121,15,species,48,55,internal,https://alldimensions.fandom.com/wiki/Category:Species,"{""species"": 1}",1
+28121,15,spheres,67,74,internal,https://alldimensions.fandom.com/wiki/Sphere,"{""spheres"": 1}",1

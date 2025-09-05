@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+46687,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/84/The_%E2%84%9D_Test.png/revision/latest?cb=20240813054649,"{""\n\n"": 1}",1
+46687,1,EUSI,68,72,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+46687,1,Finality Index,79,93,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+46687,1,FOEI,100,104,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
+46687,3,[1],179,182,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+46687,3,[2],667,670,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1

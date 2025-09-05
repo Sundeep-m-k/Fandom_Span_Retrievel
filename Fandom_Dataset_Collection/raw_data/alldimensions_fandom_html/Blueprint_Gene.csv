@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+45527,1,up quark,21,29,internal,https://alldimensions.fandom.com/wiki/Up_Quark,"{""up quark"": 1}",1
+45527,2,blueprint particles,28,47,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""blueprint particles"": 1}",1
+45527,2,elementary particles,76,96,internal,https://alldimensions.fandom.com/wiki/Elementary_particles,"{""elementary particles"": 1}",1
+45527,2,Preprimordium Particles,528,551,internal,https://alldimensions.fandom.com/wiki/Preprimordium_Particles,"{""Preprimordium Particles"": 1}",1
+45527,3,Mutated particles,125,142,internal,https://alldimensions.fandom.com/wiki/Mutated_Particle,"{""Mutated particles"": 1}",1

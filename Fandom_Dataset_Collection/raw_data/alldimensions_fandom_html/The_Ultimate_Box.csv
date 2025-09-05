@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20399,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c0/D4h5loz-54107cca-8358-472b-9036-63c2f8cca9cb.jpg/revision/latest?cb=20200123235901,"{""\n\n"": 1}",1
+20399,1,Higher Boxes,56,68,internal,https://alldimensions.fandom.com/wiki/The_Higher_Box,"{""Higher Boxes"": 1}",1
+20399,1,True Boxes,73,83,internal,https://alldimensions.fandom.com/wiki/The_True_Box,"{""True Boxes"": 1}",1
+20399,1,Trueverses,95,105,internal,https://alldimensions.fandom.com/wiki/Trueverse,"{""Trueverses"": 1}",1
+20399,1,Trueverse,95,104,internal,https://alldimensions.fandom.com/wiki/Trueverse,"{""Trueverse"": 1}",1
+20399,2,Boxes,13,18,internal,https://alldimensions.fandom.com/wiki/Category:Box,"{""Boxes"": 1}",1
+20399,2,[1],81,84,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
+20399,2,Trueverses,103,113,internal,https://alldimensions.fandom.com/wiki/Trueverse,"{""Trueverses"": 1}",1
+20399,2,Higher,139,145,internal,https://alldimensions.fandom.com/wiki/The_Higher_Box,"{""Higher"": 1}",1
+20399,2,True,103,107,internal,https://alldimensions.fandom.com/wiki/The_True_Box,"{""True"": 1}",1
+20399,3,Vs,56,58,internal,https://alldimensions.fandom.com/wiki/V,"{""Vs"": 1}",1
+20399,3,Box,135,138,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1

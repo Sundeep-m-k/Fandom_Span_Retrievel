@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22628,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/92/Chaos_Entity.png/revision/latest?cb=20200321051943,"{""\n\n"": 1}",1
+22628,1,Glitchyverse,89,101,internal,https://alldimensions.fandom.com/wiki/Glitchyverse,"{""Glitchyverse"": 1}",1
+22628,3,beings,19,25,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""beings"": 1}",1
+22628,3,Glitchyverse,72,84,internal,https://alldimensions.fandom.com/wiki/Glitchyverse,"{""Glitchyverse"": 1}",1
+22628,3,Glitch Matter,111,124,internal,https://alldimensions.fandom.com/wiki/Glitch_Matter,"{""Glitch Matter"": 1}",1
+22628,4,quarks,76,82,internal,https://alldimensions.fandom.com/wiki/Quark,"{""quarks"": 1}",1
+22628,5,civilization,145,157,internal,https://alldimensions.fandom.com/wiki/Category:Civilization,"{""civilization"": 1}",1

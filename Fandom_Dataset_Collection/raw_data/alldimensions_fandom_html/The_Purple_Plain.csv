@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+40326,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c9/The_Purple_Plain.png/revision/latest?cb=20211230224227,"{""\n\n"": 1}",1
+40326,1,the Blue Plains,55,70,internal,https://alldimensions.fandom.com/wiki/The_Blue_Plain,"{""the Blue Plains"": 1}",1
+40326,1,The Rainbow Plains,120,138,internal,https://alldimensions.fandom.com/wiki/The_Rainbow_Plain,"{""The Rainbow Plains"": 1}",1
+40326,1,The Blue Plains,150,165,internal,https://alldimensions.fandom.com/wiki/The_Blue_Plain,"{""The Blue Plains"": 1}",1
+40326,3,verse,38,43,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+40326,3,Color Plain,51,62,internal,https://alldimensions.fandom.com/wiki/Category:Color_Plain_chain,"{""Color Plain"": 1}",1
+40326,3,chain,63,68,internal,https://alldimensions.fandom.com/wiki/Category:Chain,"{""chain"": 1}",1
+40326,4,substance,136,145,internal,https://alldimensions.fandom.com/wiki/Category:Substance,"{""substance"": 1}",1
+40326,4,Earth,202,207,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+40326,5,Le Jorino areas,88,103,internal,https://alldimensions.fandom.com/wiki/Le_Jorino_Area,"{""Le Jorino areas"": 1}",1
+40326,5,Red Plains,154,164,internal,https://alldimensions.fandom.com/wiki/The_Red_Plain,"{""Red Plains"": 1}",1
+40326,5,lifeforms,256,265,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""lifeforms"": 1}",1
+40326,5,Blue Plains,308,319,internal,https://alldimensions.fandom.com/wiki/The_Blue_Plain,"{""Blue Plains"": 1}",1

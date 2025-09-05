@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+12922,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/dd/Lanternfly_z-1-.jpg/revision/latest?cb=20190525235047,"{""\n\n"": 1}",1
+12922,2,alphasm,33,40,internal,https://alldimensions.fandom.com/wiki/Alphasm,"{""alphasm"": 1}",1

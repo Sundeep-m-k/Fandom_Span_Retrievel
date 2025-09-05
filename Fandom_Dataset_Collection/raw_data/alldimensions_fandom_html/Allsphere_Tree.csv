@@ -1,0 +1,15 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48203,2,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/15/Allsphere_Tree_V2.png/revision/latest?cb=20250118223825,"{""\n\n"": 1}",1
+48203,2,Allsphere,2,11,internal,https://alldimensions.fandom.com/wiki/Allsphere,"{""Allsphere"": 1}",1
+48203,2,Hierarchies,83,94,internal,https://alldimensions.fandom.com/wiki/List_of_hierarchical_articles,"{""Hierarchies"": 1}",1
+48203,2,Alovereign,96,106,internal,https://alldimensions.fandom.com/wiki/Alovereign,"{""Alovereign"": 1}",1
+48203,2,Aevosum,108,115,internal,https://alldimensions.fandom.com/wiki/Aevosum,"{""Aevosum"": 1}",1
+48203,2,Real life,117,126,internal,https://alldimensions.fandom.com/wiki/Real_life,"{""Real life"": 1}",1
+48203,2,Allsphere Leaves,128,144,internal,https://alldimensions.fandom.com/wiki/Allsphere_Leaves,"{""Allsphere Leaves"": 1}",1
+48203,3,Hierarchies,142,153,internal,https://alldimensions.fandom.com/wiki/List_of_hierarchical_articles,"{""Hierarchies"": 1}",1
+48203,3,Everything and More,652,671,internal,"https://alldimensions.fandom.com/wiki/Time,_Reality,_and..._The_Other_Thing","{""Everything and More"": 1}",1
+48203,4,rules,304,309,internal,https://alldimensions.fandom.com/wiki/Something_Higher,"{""rules"": 1}",1
+48203,4,Allsphere,659,668,internal,https://alldimensions.fandom.com/wiki/Allsphere,"{""Allsphere"": 1}",1
+48203,5,Allsphere,81,90,internal,https://alldimensions.fandom.com/wiki/Allsphere,"{""Allsphere"": 1}",1

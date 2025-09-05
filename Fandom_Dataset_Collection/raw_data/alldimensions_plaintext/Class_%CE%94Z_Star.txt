@@ -1,0 +1,174 @@
+Zettagiant
+3C 909, a ΔZ0 star
+Class
+0
+Mass
+1.7×10^41 - 10^75 solar masses
+Radius
+7.35 - 150 light years
+Luminosity
+3.4x10^64 - 2.8x10^100 solar luminosities
+Temperature
+5×10^43 - 3x10^71 K
+Lifetime
+About a trillion years on average
+Class ΔZ stars
+(also known as Zettagiants), are much more massive than
+Exagiants
+, yet dwarf in size to yottagiants. They are commonly found in
+Petaverses
+and
+Exaverses
+, with the largest ΔZ stars being found in
+Udekaverses.
+The closest ΔZ star is Pectoris, at 2.5x10^56 light years. 3C 909, the star in the image to the right, is the only ΔZ0 star detected(the largest type of ΔZ stars), at about 1.6x10^101 light years away (16 googol). ΔZ stars appear white, but they have a very faint pink glow that is only detectable with special filters.
+Contents
+1
+Summary
+2
+Lifetime
+3
+Rarity
+4
+Habitability
+Summary
+[
+]
+Class ΔZ Stars are extremely massive, ranging from 1.7x10^41 to 10^75 Solar Masses. Their sizes range from 7.35 to 150 ly. They fuse many
+Hyperradioactive Elements
+, the heaviest of which is Bitrium at the 8192nd element of the periodic table.
+Lifetime
+[
+]
+Despite their immense size, ΔZ stars are insanely dense. This gives the much more fuel to burn, allowing them to live for around a trillion years, which rival the lifespans of red dwarves.
+Rarity
+[
+]
+On average, 1 in 10^98 stars (one percent of a googol) are ΔZ stars. Currently, 30 ΔZ stars have been found and confirmed, but there are likely countless more that are still undiscovered.
+Habitability
+[
+]
+The habitable zone for ΔZ stars range from ≈10^34 up to 10^70 light years.
+Properties of typical class ΔZ stars
+Spectral Type
+Mass
+Luminosity
+Radius
+Temperature
+ΔZ0
+10^75
+2.8x10^100
+150
+3x10^71
+ΔZ1
+6.1x10^72
+9.7x10^97
+125
+9x10^69
+ΔZ2
+4x10^70
+6x10^94
+100
+2x10^68
+ΔZ3
+2.9x10^68
+2x10^91
+70
+5x10^65
+ΔZ4
+8.5x10^65
+4.9x10^87
+50
+10^62
+ΔZ5
+1.2x10^61
+8x10^83
+35
+7x10^58
+ΔZ6
+5x10^57
+3.9x10^78
+29
+3x10^54
+ΔZ7
+8.7x10^49
+1.2x10^74
+20
+8x10^50
+ΔZ8
+3x10^45
+5x10^70
+12.4
+2x10^46
+ΔZ9
+1.7x10^41
+3.4x10^64
+7.35
+5x10^43
+NOTE: 1 ly ≈ 13.6 million solar radius
+Star
+Classes
+Main Sequence
+Y
+-
+T
+-
+L
+-
+M
+-
+K
+-
+G
+-
+F
+-
+A
+-
+B
+-
+O
+-
+Z
+-
+Ξ
+-
+ΔK
+-
+ΔM
+-
+ΔG
+-
+ΔT
+-
+ΔP
+-
+ΔE
+-
+ΔZ
+-
+ΔY
+-
+ΔR
+-
+Q
+-
+ω
+Dwarves
+D
+-
+Θ
+Holes
+Ω
+Other
+?
+-
+σ
+-
+þ
+-
+φ
+-
+R
+-
+Gs

@@ -1,0 +1,19 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42643,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b4/Mengerspace.jpg/revision/latest?cb=20221121193501,"{""\n\n"": 1}",1
+42643,1,EUSI,235,239,internal,https://alldimensions.fandom.com/wiki/Extended_Universe_Size_Index,"{""EUSI"": 1}",1
+42643,1,MultiXule,539,548,internal,https://alldimensions.fandom.com/wiki/MultiXule,"{""MultiXule"": 1}",1
+42643,1,Xi-Modules,561,571,internal,https://alldimensions.fandom.com/wiki/Xi-Module,"{""Xi-Modules"": 1}",1
+42643,6,artificial,32,42,internal,https://alldimensions.fandom.com/wiki/Category:Manmade,"{""artificial"": 1}",1
+42643,6,uni,43,46,internal,https://alldimensions.fandom.com/wiki/Universe,"{""uni"": 1}",1
+42643,6,verse,46,51,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+42643,6,Xicohtlxuls,76,87,internal,https://alldimensions.fandom.com/wiki/Xicohtlxul,"{""Xicohtlxuls"": 1}",1
+42643,6,multiverse,208,218,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
+42643,6,metaverse,220,229,internal,https://alldimensions.fandom.com/wiki/Metaverse,"{""metaverse"": 1}",1
+42643,6,xenoverse,231,240,internal,https://alldimensions.fandom.com/wiki/Xenoverse,"{""xenoverse"": 1}",1
+42643,6,hyperverse,250,260,internal,https://alldimensions.fandom.com/wiki/Hyperverse,"{""hyperverse"": 1}",1
+42643,8,hypercube,78,87,internal,https://alldimensions.fandom.com/wiki/Tesseract,"{""hypercube"": 1}",1
+42643,9,MultiXules,143,153,internal,https://alldimensions.fandom.com/wiki/MultiXule,"{""MultiXules"": 1}",1
+42643,9,laws,246,250,internal,https://alldimensions.fandom.com/wiki/Laws,"{""laws"": 1}",1
+42643,39,Udekaverses,189,200,internal,https://alldimensions.fandom.com/wiki/Udekaverse,"{""Udekaverses"": 1}",1

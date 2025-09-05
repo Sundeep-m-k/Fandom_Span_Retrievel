@@ -1,0 +1,147 @@
+Black Hole
+Natural Position
+Contained by
+A -verse,
+The Tre
+Contains
+The Singularity
+. Some black holes contain
+Subverses
+while others are wormhole-like and lead to another area in the cosmos
+Scale
+Dimensionality
+Varies
+Diameter
+Varies a lot
+Kardashev Scale
+0
+Black holes
+are rips in space-time where gravity is so strong that even light cannot escape them, making them appear to be large spheres. In reality, the surface of the sphere is just the point at which light cannot escape, so it appears to be black. This surface of the black hole is called the
+event horizon
+.
+The center of a black hole is an infinitely small and infinitely dense point within spacetime, usually called a
+singularity
+. Increasing the mass of the singularity effects the curvature of spacetime and causes the black hole's event horizon to grow in size.
+A non-moving black hole can be described by only it's mass, electric charge, and angular momentum. In other words, two black holes with the same mass, electric charge, and angular momentum would be physically indistinguishable from each other besides their position.
+Formation
+[
+]
+Black holes are formed when a
+star
+burns out and has enough gravity, in which it will then collapse in onto itself, usually creating a supernova. The density inside the center of the star while it collapses becomes enough that a singularity forms, and so a black hole is created.
+Black holes have also been
+created artificially
+by advanced
+civilizations
+outside of
+our
+Universe
+by squishing huge amounts of
+matter
+in one spot.
+Evaporation
+[
+]
+Main article:
+Hawking radiation
+In 1974, Hawking predicted that black holes are not entirely black but emit small amounts of thermal radiation at a temperature ℏ
+c
+3
+/(8π
+GMk
+B
+); this effect has become known as
+Hawking radiation
+. By applying
+quantum field theory
+to a static black hole background, he determined that a black hole should emit particles that display a perfect black body spectrum. Since Hawking's publication, many others have verified the result through various approaches. If Hawking's theory of black hole radiation is correct, then black holes are expected to shrink and evaporate over time as they lose mass by the emission of photons and other particles. The temperature of this thermal spectrum (Hawking temperature) is proportional to the surface gravity of the black hole, which, for a Schwarzschild black hole, is inversely proportional to the mass. Hence, large black holes emit less radiation than small black holes.
+A stellar black hole of 1
+M
+☉
+has a Hawking temperature of 62 nanokelvins. This is far less than the 2.7 K temperature of the cosmic microwave background radiation. Stellar-mass or larger black holes receive more mass from the cosmic microwave background than they emit through Hawking radiation and thus will grow instead of shrinking. To have a Hawking temperature larger than 2.7 K (and be able to evaporate), a black hole would need a mass less than the Moon. Such a black hole would have a diameter of less than a tenth of a millimeter.
+If a black hole is very small, the radiation effects are expected to become very strong. A black hole with the mass of a car would have a diameter of about 10
+−24
+m
+and take a nanosecond to evaporate, during which time it would briefly have a luminosity of more than 200 times that of the Sun. Lower-mass black holes are expected to evaporate even faster; for example, a black hole of mass 1 TeV/
+c
+2
+would take less than 10
+−88
+second
+s to evaporate completely. For such a small black hole, quantum gravity effects are expected to play an important role and could hypothetically make such a small black hole stable, although current developments in quantum gravity do not indicate this is the case.
+If black holes evaporate via Hawking radiation, a solar mass black hole will evaporate (beginning once the temperature of the cosmic microwave background drops below that of the black hole) over a period of 10
+64
+years. A supermassive black hole with a mass of 10
+11
+M
+☉
+will evaporate in around 2×
+10
+100
+years.
+Star
+Classes
+Main Sequence
+Y
+-
+T
+-
+L
+-
+M
+-
+K
+-
+G
+-
+F
+-
+A
+-
+B
+-
+O
+-
+Z
+-
+Ξ
+-
+ΔK
+-
+ΔM
+-
+ΔG
+-
+ΔT
+-
+ΔP
+-
+ΔE
+-
+ΔZ
+-
+ΔY
+-
+ΔR
+-
+Q
+-
+ω
+Dwarves
+D
+-
+Θ
+Holes
+Ω
+Other
+?
+-
+σ
+-
+þ
+-
+φ
+-
+R
+-
+Gs

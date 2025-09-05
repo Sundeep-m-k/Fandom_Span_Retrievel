@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+46746,2,Universe Classification,19,42,internal,https://alldimensions.fandom.com/wiki/Universe_Classification,"{""Universe Classification"": 1}",1
+46746,5,Verse,92,97,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verse"": 1}",1
+46746,9,Our Universe,0,12,internal,https://alldimensions.fandom.com/wiki/Our_Universe,"{""Our Universe"": 1}",1
+46746,9,Reality,35,42,internal,https://alldimensions.fandom.com/wiki/Reality,"{""Reality"": 1}",1

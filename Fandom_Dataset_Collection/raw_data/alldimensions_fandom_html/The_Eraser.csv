@@ -1,0 +1,11 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22644,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c6/Screen_Shot_2020-03-23_at_2.07.02_PM.png/revision/latest?cb=20200323210722,"{""\n\n"": 1}",1
+22644,1,The Pencils,422,433,internal,https://alldimensions.fandom.com/wiki/The_Pencil,"{""The Pencils"": 1}",1
+22644,1,the Tables,435,445,internal,https://alldimensions.fandom.com/wiki/The_Table,"{""the Tables"": 1}",1
+22644,1,Metareality-Webs,80,96,internal,https://alldimensions.fandom.com/wiki/Metareality-Web,"{""Metareality-Webs"": 1}",1
+22644,2,Metareality-Webs,72,88,internal,https://alldimensions.fandom.com/wiki/Metareality-Web,"{""Metareality-Webs"": 1}",1
+22644,2,Pencils,120,127,internal,https://alldimensions.fandom.com/wiki/The_Pencil,"{""Pencils"": 1}",1
+22644,2,verses,267,273,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+22644,5,Tables,462,468,internal,https://alldimensions.fandom.com/wiki/The_Table,"{""Tables"": 1}",1

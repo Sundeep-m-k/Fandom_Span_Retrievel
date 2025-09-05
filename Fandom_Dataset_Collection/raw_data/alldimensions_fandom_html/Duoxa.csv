@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50965,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/16/Duo.jpg/revision/latest?cb=20250829041726,"{""\n\n"": 1}",1
+50965,1,Trixa,270,275,internal,https://alldimensions.fandom.com/wiki/Trixa,"{""Trixa"": 1}",1
+50965,1,Unixa,287,292,internal,https://alldimensions.fandom.com/wiki/Unixa,"{""Unixa"": 1}",1
+50965,1,Universe,294,302,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+24223,1,Bongus,94,100,internal,https://alldimensions.fandom.com/wiki/Bongus,"{""Bongus"": 1}",1
+24223,1,Terpreme Exsistor,133,150,internal,https://alldimensions.fandom.com/wiki/Terpreme_Existor,"{""Terpreme Exsistor"": 1}",1
+24223,1,Panomni-Gods,311,323,internal,https://alldimensions.fandom.com/wiki/The_Nested_Infinity,"{""Panomni-Gods"": 1}",1
+24223,1,Gerald,451,457,internal,https://alldimensions.fandom.com/wiki/Gerald,"{""Gerald"": 1}",1

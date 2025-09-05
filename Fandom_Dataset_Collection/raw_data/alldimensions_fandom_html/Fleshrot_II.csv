@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50202,4,Blueprint Particles,23,42,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint Particles"": 1}",1
+50202,11,Cosmic Zaaaaaaaap,68,85,internal,https://alldimensions.fandom.com/wiki/Cosmic_Zaaaaaaaap,"{""Cosmic Zaaaaaaaap"": 1}",1
+50202,392,Levlupper,3,12,internal,https://alldimensions.fandom.com/wiki/Levlupper,"{""Levlupper"": 1}",1
+50202,540,planets,8,15,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
+50202,540,stars,17,22,internal,https://alldimensions.fandom.com/wiki/Star,"{""stars"": 1}",1
+50202,540,galaxies,24,32,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxies"": 1}",1

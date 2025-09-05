@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+32712,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/4b/Cell_of_Greatness.png/revision/latest?cb=20240713212821,"{""\n\n"": 1}",1
+32712,1,(?),48,51,internal,https://alldimensions.fandom.com/wiki/(%3F),"{""(?)"": 1}",1
+32712,1,Plant of Greatness,323,341,internal,https://alldimensions.fandom.com/wiki/Plant_of_Greatness,"{""Plant of Greatness"": 1}",1
+32712,1,(?),48,51,internal,https://alldimensions.fandom.com/wiki/(%3F),"{""(?)"": 1}",1
+32712,3,Plant of Greatness,58,76,internal,https://alldimensions.fandom.com/wiki/Plant_of_Greatness,"{""Plant of Greatness"": 1}",1
+32712,3,(?),134,137,internal,https://alldimensions.fandom.com/wiki/(%3F),"{""(?)"": 1}",1
+32712,5,Unnamedverses,151,164,internal,https://alldimensions.fandom.com/wiki/Unnamedverse,"{""Unnamedverses"": 1}",1
+32712,6,Plantet of Greatness,222,242,internal,https://alldimensions.fandom.com/wiki/Plantet_of_Greatness,"{""Plantet of Greatness"": 1}",1
+32712,9,Unnamed Hierarchy,304,321,internal,https://alldimensions.fandom.com/wiki/Unnamed_Hierarchy,"{""Unnamed Hierarchy"": 1}",1
+32712,9,The Official Hierarchy,371,393,internal,https://alldimensions.fandom.com/wiki/The_Official_Hierarchy,"{""The Official Hierarchy"": 1}",1

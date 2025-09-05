@@ -1,0 +1,14 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35532,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b9/Fishie_f2ish.png/revision/latest?cb=20191012190145,"{""\n\n"": 1}",1
+35532,1,Universe,28,36,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+35532,2,Bintity,46,53,internal,https://alldimensions.fandom.com/wiki/Bintity,"{""Bintity"": 1}",1
+35532,2,universes,102,111,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universes"": 1}",1
+35532,2,Bintities,290,299,internal,https://alldimensions.fandom.com/wiki/Bintity,"{""Bintities"": 1}",1
+35532,3,Thegatus,37,45,internal,https://alldimensions.fandom.com/wiki/Thegatus,"{""Thegatus"": 1}",1
+35532,4,The Machine,33,44,internal,https://alldimensions.fandom.com/wiki/The_Machine,"{""The Machine"": 1}",1
+35532,5,The Machine,27,38,internal,https://alldimensions.fandom.com/wiki/The_Machine,"{""The Machine"": 1}",1
+35532,6,"""Era""_septendecuple_star_system",27,58,internal,https://alldimensions.fandom.com/wiki/%22Era%22_septendecuple_star_system,"{""\""Era\""_septendecuple_star_system"": 1}",1
+35532,10,The Machine,73,84,internal,https://alldimensions.fandom.com/wiki/The_Machine,"{""The Machine"": 1}",1
+35532,11,OYC,71,74,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

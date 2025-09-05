@@ -1,0 +1,106 @@
+Line Segment
+Geometry
+Dimensionality
+1
+Schläfli Symbol
+'"`UNIQ--postMath-00000001-QINU`"'
+Subfacets
+Vertices
+2
+points
+Edges
+1 line segment
+Hypervolumes
+Vertex Count
+'"`UNIQ--postMath-00000002-QINU`"'
+Edges Length
+'"`UNIQ--postMath-00000003-QINU`"'
+A
+line segment
+(sometimes also referred to as a line, though technically "line" refers to a 1-dimensional space of infinite extent) is 2 connected
+points
+. It can also be thought of as the set of all
+points
+the same distance from another in one-dimensional space; thinking about it this way, it is the 1D
+hypersphere
+.
+Hypervolumes
+[
+]
+vertex count
+=
+2
+{\displaystyle 2}
+edge length
+=
+l
+{\displaystyle l}
+Subfacets
+[
+]
+2
+points
+(0D)
+See also
+[
+]
+First Dimension
+Zeroth
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Eighth
+Ninth
+Tenth
+Simplex
+Point
+Line
+Triangle
+Tetrahedron
+Pentachoron
+Hexateron
+Heptapeton
+Octaexon
+Enneazetton
+Decayotton
+Hendecaxennon
+Hypercube
+Point
+Line
+Square
+Cube
+Tesseract
+Penteract
+Hexeract
+Hepteract
+Octeract
+Enneract
+Dekeract
+Cross
+Point
+Line
+Square
+Octahedron
+Hexadecachoron
+Pentarss
+Hexarss
+Heptarss
+Octarss
+Ennearss
+Decarss
+Hypersphere
+Point
+Line
+Circle
+Sphere
+Glome
+Hyperglome
+Hexaphere
+Heptaphere
+Octaphere
+Enneaphere
+Decaphere

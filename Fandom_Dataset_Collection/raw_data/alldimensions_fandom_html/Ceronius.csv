@@ -1,0 +1,5 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+42099,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9e/Planet_1_3_1.jpg/revision/latest?cb=20220702171625,"{""\n\n"": 1}",1
+42099,2,Superplanets,92,104,internal,https://alldimensions.fandom.com/wiki/Superplanet,"{""Superplanets"": 1}",1

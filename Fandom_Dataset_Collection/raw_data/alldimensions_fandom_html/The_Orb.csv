@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20011,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/02/The_orb_but_better.jpg/revision/latest?cb=20200117203306,"{""\n\n"": 1}",1
+20011,1,Silicos,37,44,internal,https://alldimensions.fandom.com/wiki/Silico,"{""Silicos"": 1}",1
+20011,1,Uncannyverse,72,84,internal,https://alldimensions.fandom.com/wiki/Uncannyverse,"{""Uncannyverse"": 1}",1
+20011,1,Silico,37,43,internal,https://alldimensions.fandom.com/wiki/Silico,"{""Silico"": 1}",1
+20011,2,Uncannyverse,42,54,internal,https://alldimensions.fandom.com/wiki/Uncannyverse,"{""Uncannyverse"": 1}",1

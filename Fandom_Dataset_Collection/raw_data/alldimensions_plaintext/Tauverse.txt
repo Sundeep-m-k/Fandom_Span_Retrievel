@@ -1,0 +1,437 @@
+Tauverse
+Natural Position
+Contained by
+T(10
+100
+), and T(10
+100
+) is contained by
+Omniverse
+Contains
+The same as our universe + civilization-made creations
+Scale
+Dimensionality
+3
+Kardashev Scale
+n
+A
+Tauverse
+is a single verse of a
+large
+set of
+Tauverses
+. Each Tauverse is labled with T(n), where
+n
+gets larger as the set goes on.
+The diameter of each
+Tauverse
+, is:
+∑
+x
+=
+1
+n
+e
+sinh
+⁡
+e
+ζ
+(
+−
+x
+)
+!
+{\displaystyle  \sum_{x=1}^n e^{\sinh{e^{\zeta(-x)!}}} }
+The Kardashev scale is also
+n
+, so the larger the verse, the more advanced the civilization.
+The set stops at T(10
+100
+), also known as
+The Ultimate Tauverse
+.
+The "civilizations" on each
+Tauverse
+, while seemingly more advanced, are only just
+cellular automata with 33n + 28 states
+, which create fractal structures that can be as large as the entire
+Tauverse
+(spanning from the top to the bottom),
+all the way down to the Taulength, which is the smallest possible length in a
+Tauverse
+, and is equal to the inverse of the
+Tauverse
+'s size.
+Below is a list of some sizes.
+T(n)
+Diameter
+Similar in size to:
+T(1)
+6,778 ly + 61,040 au + 32 million km
+Small Magelanic Cloud (6,500 ly)
+T(2)
+8,668 ly + 37,734 au + 54 million km
+Sextans Dwarf Spheroidal Galaxy (8,400 ly)
+T(3)
+10,383 ly + 8,185 au + 39 million km
+Sagittarius Dwarf Spheroidal Galaxy (10,000 ly)
+T(4)
+12,272 ly + 48,120 au + 73 million km
+Paper folded 80 times (12,800 ly)
+T(5)
+14,255 ly + 8,174 au + 149 million km
+Large Magellanic Cloud (14,000 ly)
+T(6)
+16,144 ly + 48,110 au + 34 million km
+Messier 110 (17,000 ly)
+T(7)
+17,943 ly + 44,648 au + 105 million km
+T(8)
+19,833 ly + 21,342 au + 127 million km
+T(9)
+21,905 ly + 55,893 au + 63 million km
+Andromeda XIX (22,200 ly)
+T(10)
+23,795 ly + 32,587 au + 85 million km
+NGC 5195 (25,000 ly)
+T(11)
+25,285 ly + 19,038 au + 274,231 km
+T(12)
+27,174 ly + 58,973 au + 34 million km
+SWEEPS-11 (27,710 ly)
+T(13)
+33,953 ly + 56,772 au + 54 million km
+Shkadov thruster after a billion years (34,000 ly)
+T(14)
+35,843 ly + 33,466 au + 76 million km
+Cigar Galaxy (37,000 ly)
+T(15)
+36,115 ly + 32,249 au + 35 million km
+T(16)
+38,005 ly + 8,943 au + 57 million km
+T(17)
+38,006 ly + 8,952 au + 62 million km
+T(18)
+39,895 ly + 48,887 au + 95 million km
+T(19)
+T
+(
+18
+)
++
+10
+10
+10
+10
+26.89441
+{\displaystyle T(18) + 10^{10^{10^{10^{26.89441}}}}}
+ly
+Hotolillion
+(
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+26
++
+3
+)
+{\displaystyle \left(10^{3\times10^{3\times10^{3\times10^{26}}}+3}\right)}
+T(20)
+T(19) + 1,889 ly + 39,935 au + 34 million km
+T(21)
+T(19) + 1,892 ly + 55,036 au + 127 million km
+T(22)
+T(19) + 3,782 ly + 31,730 au + 149 million km
+T(23)
+T
+(
+22
+)
++
+10
+10
+10
+10
+11
+,
+267.75753
+{\displaystyle T(22) + 10^{10^{10^{10^{11,267.75753}}}}}
+ly
+Googoltriplexitoll
+(
+10
+10
+10
+10
+10
+,
+000
+)
+{\displaystyle \left(10^{10^{10^{10^{10,000}}}}\right)}
+T(27)
+T
+(
+26
+)
++
+10
+10
+10
+10
+10
+6.73364
+{\displaystyle T(26) + 10^{10^{10^{10^{10^{6.73364}}}}}}
+ly
+Millionquadriplex
+(
+10
+10
+10
+10
+10
+6
+)
+{\displaystyle \left(10^{10^{10^{10^{10^6}}}}\right)}
+T(31)
+T
+(
+30
+)
++
+10
+10
+10
+10
+10
+9.590223
+{\displaystyle T(30) + 10^{10^{10^{10^{10^{9.590223}}}}}}
+ly
+Hutarillion
+(
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+8
++
+3
+)
+{\displaystyle \left(10^{3\times10^{3\times10^{3\times10^{3\times10^8}}}+3}\right)}
+T(35)
+T
+(
+34
+)
++
+10
+10
+10
+10
+10
+12.62792
+{\displaystyle T(34) + 10^{10^{10^{10^{10^{12.62792}}}}}}
+ly
+Janaprillion
+(
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+11
++
+3
+)
+{\displaystyle \left(10^{3\times10^{3\times10^{3\times10^{3\times10^{11}}}}+3}\right)}
+T(39)
+T
+(
+38
+)
++
+10
+10
+10
+10
+10
+15.8372
+{\displaystyle T(38) + 10^{10^{10^{10^{10^{15.8372}}}}}}
+ly
+Janayllion
+(
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+14
++
+3
+)
+{\displaystyle \left(10^{3\times10^{3\times10^{3\times10^{3\times10^{14}}}}+3}\right)}
+T(100)
+T
+(
+98
+)
++
+10
+10
+10
+10
+10
+78.33396
+{\displaystyle T(98) + 10^{10^{10^{10^{10^{78.33396}}}}}}
+ly
+Icosembillion
+(
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+3
+×
+10
+60
++
+3
+)
+{\displaystyle \left(10^{3\times10^{3\times10^{3\times10^{3\times10^{60}}}}+3}\right)}
+T(1,000)
+T
+(
+998
+)
++
+10
+10
+10
+10
+10
+1
+,
+769.97286
+{\displaystyle T(998) + 10^{10^{10^{10^{10^{1,769.97286}}}}}}
+ly
+Googolquadriplexichime
+(
+10
+10
+10
+10
+10
+1
+,
+000
+)
+{\displaystyle \left(10^{10^{10^{10^{10^{1,000}}}}}\right)}
+T(1,000,000)
+T
+(
+999
+,
+999
+)
++
+10
+10
+10
+10
+10
+10
+6.67829
+{\displaystyle T(999,999) + 10^{10^{10^{10^{10^{10^{6.67829}}}}}}}
+ly
+Millionquintiplex
+(
+10
+10
+10
+10
+10
+10
+6
+)
+{\displaystyle \left(10^{10^{10^{10^{10^{10^6}}}}}\right)}
+T(10
+100
+)
+10
+10
+10
+10
+10
+10
+100
+{\displaystyle 10^{10^{10^{10^{10^{10^{100}}}}}}}
+ly
+Googolquinplex
+(
+10
+10
+10
+10
+10
+10
+100
+)
+{\displaystyle \left(10^{10^{10^{10^{10^{10^{100}}}}}}\right)}
+T(n)
+≈
+10
+10
+10
+10
+10
+n
+{\displaystyle \approx10^{10^{10^{10^{10^{n}}}}}}
+ly
+⪆
+θ
+(
+n
+!
+)
+{\displaystyle \gtrapprox\theta(n!)}
+(
+Bop-counting function
++ factorial)
+The Tauverse size comparison, where n = 19, 20, 23

@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22417,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/5f/Thecoilofeverything-0.gif/revision/latest?cb=20180302074520,"{""\n\n"": 1}",1
+22417,1,The empty,51,60,internal,https://alldimensions.fandom.com/wiki/The_empty,"{""The empty"": 1}",1
+22417,1,The End of the Tunnel,72,93,internal,https://alldimensions.fandom.com/wiki/The_End_of_the_Tunnel,"{""The End of the Tunnel"": 1}",1
+22417,1,Elon Musks,404,414,internal,https://alldimensions.fandom.com/wiki/Elon_Musks,"{""Elon Musks"": 1}",1
+22417,1,Daves,416,421,internal,https://alldimensions.fandom.com/wiki/Dave,"{""Daves"": 1}",1
+22417,1,the empty,722,731,internal,https://alldimensions.fandom.com/wiki/The_empty,"{""the empty"": 1}",1

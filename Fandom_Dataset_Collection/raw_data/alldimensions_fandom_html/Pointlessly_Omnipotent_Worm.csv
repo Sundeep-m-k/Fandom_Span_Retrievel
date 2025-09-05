@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+27954,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d5/088AF74B-97B5-4C7D-A346-6D072D241FE3.jpeg/revision/latest?cb=20200512201126,"{""\n\n"": 1}",1
+27954,1,Box,174,177,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+27954,4,cosmic,37,43,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""cosmic"": 1}",1
+27954,4,deity,44,49,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""deity"": 1}",1
+27954,7,"""The Faith of The Omnipotent Worm""",134,168,internal,https://alldimensions.fandom.com/wiki/The_Faith_of_The_Omnipotent_Worm,"{""\""The Faith of The Omnipotent Worm\"""": 1}",1

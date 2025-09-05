@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36198,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/ae/GWall.png/revision/latest?cb=20201219203607,"{""\n\n"": 1}",1
+36198,1,The Outer Bubble,78,94,internal,https://alldimensions.fandom.com/wiki/The_Outer_Bubble,"{""The Outer Bubble"": 1}",1
+36198,1,Blue wall,107,116,internal,https://alldimensions.fandom.com/wiki/Blue_wall,"{""Blue wall"": 1}",1
+36198,1,Wallstone,118,127,internal,https://alldimensions.fandom.com/wiki/Wallstone,"{""Wallstone"": 1}",1
+36198,2,The Outer Bubble,52,68,internal,https://alldimensions.fandom.com/wiki/The_Outer_Bubble,"{""The Outer Bubble"": 1}",1
+36198,2,Blue wall,164,173,internal,https://alldimensions.fandom.com/wiki/Blue_wall,"{""Blue wall"": 1}",1

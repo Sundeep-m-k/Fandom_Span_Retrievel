@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+9818,1,verses,68,74,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
+9818,1,Imaginary-verses,85,101,internal,https://alldimensions.fandom.com/wiki/Imaginary-verse,"{""Imaginary-verses"": 1}",1
+9818,1,Box,137,140,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Box"": 1}",1
+9818,3,Existence Rank,51,65,internal,https://alldimensions.fandom.com/wiki/Existence_Rank,"{""Existence Rank"": 1}",1
+9818,3,OYC,206,209,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+20513,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/aa/Black_noun_002_03536.jpg/revision/latest?cb=20200129233044,"{""\n\n"": 1}",1
+20513,5,First Realm,99,110,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""First Realm"": 1}",1
+20513,7,Nothing,77,84,internal,https://alldimensions.fandom.com/wiki/Nothing,"{""Nothing"": 1}",1

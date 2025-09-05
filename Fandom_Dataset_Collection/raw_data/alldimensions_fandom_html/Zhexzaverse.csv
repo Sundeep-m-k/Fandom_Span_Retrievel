@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41269,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/98/Zhexzaverse.jpg/revision/latest?cb=20220317093722,"{""\n\n"": 1}",1
+41269,1,Zettaverse,51,61,internal,https://alldimensions.fandom.com/wiki/Zettaverse,"{""Zettaverse"": 1}",1
+41269,1,Zhezxs,73,79,anchor,https://alldimensions.fandom.com#Zhezxs,"{""Zhezxs"": 1}",1
+41269,2,Zettaverse,38,48,internal,https://alldimensions.fandom.com/wiki/Zettaverse,"{""Zettaverse"": 1}",1
+41269,2,Zhezxs,272,278,anchor,https://alldimensions.fandom.com#Zhezxs,"{""Zhezxs"": 1}",1
+41269,7,time and reality,320,336,internal,https://alldimensions.fandom.com/wiki/Time_and_reality,"{""time and reality"": 1}",1

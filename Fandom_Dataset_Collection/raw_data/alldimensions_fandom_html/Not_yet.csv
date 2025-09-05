@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22301,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/75/115E1E4B-805E-4815-B224-62BA982D0DEC.jpeg/revision/latest?cb=20200315001946,"{""\n\n"": 1}",1
+22301,1,s o m e t h I n g,50,67,internal,https://alldimensions.fandom.com/wiki/S_o_m_e_t_h_I_n_g,"{""s o m e t h I n g"": 1}",1
+22301,1,T   H   I   N   G   S   .,79,104,internal,https://alldimensions.fandom.com/wiki/T_H_I_N_G_S_.,"{""T   H   I   N   G   S   ."": 1}",1
+22301,4,The Foundation Of Everything,18,46,internal,https://alldimensions.fandom.com/wiki/The_Foundation_Of_Everything,"{""The Foundation Of Everything"": 1}",1
+22301,5,Superstones,29,40,internal,https://alldimensions.fandom.com/wiki/Superstones,"{""Superstones"": 1}",1
+22301,5,s o m e t h I n g,54,71,internal,https://alldimensions.fandom.com/wiki/S_o_m_e_t_h_I_n_g,"{""s o m e t h I n g"": 1}",1

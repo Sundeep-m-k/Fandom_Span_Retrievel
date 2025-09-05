@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22557,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6e/Empty-Set.png/revision/latest?cb=20240929152310,"{""\n\n"": 1}",1
+22557,1,Metareality-Web,205,220,internal,https://alldimensions.fandom.com/wiki/Metareality-Web,"{""Metareality-Web"": 1}",1
+22557,3,void,14,18,internal,https://alldimensions.fandom.com/wiki/Void,"{""void"": 1}",1
+22557,3,Metareality-Web,44,59,internal,https://alldimensions.fandom.com/wiki/Metareality-Web,"{""Metareality-Web"": 1}",1
+22557,4,creatures,3,12,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""creatures"": 1}",1
+22557,4,gods,21,25,internal,https://alldimensions.fandom.com/wiki/Category:God,"{""gods"": 1}",1
+22557,5,black hole,52,62,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black hole"": 1}",1

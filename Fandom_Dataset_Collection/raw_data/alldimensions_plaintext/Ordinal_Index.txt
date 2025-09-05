@@ -1,0 +1,40 @@
+An
+Ordinal Index
+is a system created by
+Fish
+, mainly for
+TAH
+. It may also be called OL, for Ordinal Level, but they are one and the same.
+They are similar to the
+EUSI
+or Soupcount (V&D) While OLs predominantly align with
+TAH
+, it should work with any hierarchy or verse. The concept is simple - each type of
+verse
+is assigned an ordinal, starting at 0 for
+Universes
+, 1 for
+Multiverses
+, etc.
+Unlike
+AO
+, if a verse has a finite number of layers its OL is finite. For any infinite set of verses, the OL of verse that contains them all will be the limit ordinal of that set's OL so an ω × ω verse will contain an ω verse (
+Omniverses
+), the ω × 2 verses (
+Diplomniverse
+), the ω × 3 verses (
+Veromniverse
+) ... all the way for every Omni layer. And as, such the
+Barrels
+have an OL of ω × ω.
+Some other examples is that
+Metaarchverses
+go from 10
+24
+to infinity, thus Omniverses have an OL of ω. The
+Barrelplexes
+contain all the
+Sublimes
+(see TAH), all of which represent a countable ordinal, thus the Barrelplexes have an OL of ω
+1
+.

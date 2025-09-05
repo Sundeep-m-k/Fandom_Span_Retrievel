@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+33734,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/e/e8/Alldimensions4.PNG/revision/latest?cb=20200722225329,"{""\n\n"": 1}",1
+33734,1,EUSI,96,100,internal,https://alldimensions.fandom.com/wiki/EUSI,"{""EUSI"": 1}",1
+33734,1,Finality Index,105,119,internal,https://alldimensions.fandom.com/wiki/Finality_Index,"{""Finality Index"": 1}",1
+33734,1,Existence Rank,124,138,internal,https://alldimensions.fandom.com/wiki/Existence_Rank,"{""Existence Rank"": 1}",1
+33734,1,Megaverse,402,411,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverse"": 1}",1
+33734,1,Multiverse,424,434,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+33734,1,Universe,436,444,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50589,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/3a/Twins.jpg/revision/latest?cb=20250808154054,"{""\n\n"": 1}",1
+50589,1,Twinspheres,359,370,anchor,https://alldimensions.fandom.com#Twinspheres,"{""Twinspheres"": 1}",1
+50589,2,Universe,45,53,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
+50589,2,Megaverse,55,64,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Megaverse"": 1}",1
+50589,2,Multiverse,541,551,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
+50589,2,Teraverse,559,568,internal,https://alldimensions.fandom.com/wiki/Teraverse,"{""Teraverse"": 1}",1

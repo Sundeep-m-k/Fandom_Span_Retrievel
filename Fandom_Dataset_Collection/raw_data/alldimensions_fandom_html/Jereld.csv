@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+48546,1,e,1,2,internal,https://alldimensions.fandom.com/wiki/Baby_Jerald,"{""e"": 1}",1
+48546,1,Jerald's,10,18,internal,https://alldimensions.fandom.com/wiki/Jerald,"{""Jerald's"": 1}",1
+48546,3,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/41/Jereld.webp/revision/latest?cb=20250115135524,"{""\n\n"": 1}",1
+48546,122,loops,11,16,internal,https://alldimensions.fandom.com/wiki/The_infinite_loops_theory,"{""loops"": 1}",1

@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+49804,1,verse,5,10,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+49804,2,Earth,61,66,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
+49804,4,Sentient Verses,138,153,internal,https://alldimensions.fandom.com/wiki/Sentient_Verse,"{""Sentient Verses"": 1}",1

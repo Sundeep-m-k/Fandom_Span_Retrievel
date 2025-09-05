@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+36450,1,wiki,67,71,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""wiki"": 1}",1
+36450,1,realm,96,101,internal,https://alldimensions.fandom.com/wiki/Realm,"{""realm"": 1}",1
+36450,1,verse,103,108,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
+36450,1,entity,110,116,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entity"": 1}",1
+36450,1,OYC,155,158,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+36450,1,Omniverse,214,223,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+36450,1,Earth,308,313,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1

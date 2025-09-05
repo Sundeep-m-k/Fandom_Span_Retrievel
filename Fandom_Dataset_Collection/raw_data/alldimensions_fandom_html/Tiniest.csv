@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+41409,1,(Tinies),28,36,internal,https://alldimensions.fandom.com/wiki/(Tiny),"{""(Tinies)"": 1}",1
+41409,1,"
+
+",37,39,external,https://static.wikia.nocookie.net/alldimensions/images/8/81/Woww.jpg/revision/latest?cb=20220418044227,"{""\n\n"": 1}",1
+41409,1,Smallestests,84,96,internal,https://alldimensions.fandom.com/wiki/Smallestest,"{""Smallestests"": 1}",1
+41409,1,Microests,108,117,internal,https://alldimensions.fandom.com/wiki/Microest,"{""Microests"": 1}",1
+41409,1,Smallestest,84,95,internal,https://alldimensions.fandom.com/wiki/Smallestest,"{""Smallestest"": 1}",1
+41409,2,Voidsecond,272,282,internal,https://alldimensions.fandom.com/wiki/Voidsecond,"{""Voidsecond"": 1}",1
+41409,2,Omniplasm,333,342,internal,https://alldimensions.fandom.com/wiki/Omniplasm,"{""Omniplasm"": 1}",1

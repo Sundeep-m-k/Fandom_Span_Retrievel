@@ -1,0 +1,8 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+43023,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c4/Garbage.jpg/revision/latest?cb=20230104102510,"{""\n\n"": 1}",1
+43023,4,Category: Bad article,174,195,internal,https://alldimensions.fandom.com/wiki/Category:Bad_article,"{""Category: Bad article"": 1}",1
+43023,4,Category: Stupid,197,213,internal,https://alldimensions.fandom.com/wiki/Category:Stupid,"{""Category: Stupid"": 1}",1
+43023,4,Category: Pages marked for deletion,215,250,internal,https://alldimensions.fandom.com/wiki/Category:Pages_proposed_for_deletion,"{""Category: Pages marked for deletion"": 1}",1
+43023,4,Category: Article for deletion,255,285,internal,https://alldimensions.fandom.com/wiki/Category:Articles_for_deletion,"{""Category: Article for deletion"": 1}",1

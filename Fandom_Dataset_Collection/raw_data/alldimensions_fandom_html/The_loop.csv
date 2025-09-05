@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+18830,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/b/b1/The_loop.jpg/revision/latest?cb=20191225174512,"{""\n\n"": 1}",1
+18830,1,The Box,48,55,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+18830,1,Heaa,67,71,internal,https://alldimensions.fandom.com/wiki/Heaa,"{""Heaa"": 1}",1
+18830,4,external theory,158,173,external,https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation,"{""external theory"": 1}",1
+18830,6,The Universe,83,95,internal,https://alldimensions.fandom.com/wiki/Universe,"{""The Universe"": 1}",1
+18830,6,matter,121,127,external,https://en.wikipedia.org/wiki/Matter,"{""matter"": 1}",1

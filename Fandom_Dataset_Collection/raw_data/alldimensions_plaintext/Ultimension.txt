@@ -1,0 +1,70 @@
+Ultimension
+Natural Position
+Contained by
+Higher level ultimensions
+Contains
+everything that is lower level
+Scale
+Dimensionality
+Absolute infinity
+Diameter
+Indescribable
+Kardashev Scale
+Absolute infinity
+An
+Ultimension
+is an everything. it does not contain all, but it is the all. everything on this wiki, unless stated otherwise, is in the same ultimension, ultimension alpha. if something is in a different ultimension than you, there is no way to get to it from your ultimension without kardashev scale level W
+1
+(uncountable infinite ordinal) technology. only the most powerful cosmic entities can move from one to another
+Contents
+1
+Higher level ultimensions
+2
+Tetrational level ultimensions?
+3
+INFINITY ULTIMENSIONS
+4
+THE FINAL ULTIMENSION (Omegabox thing)
+Higher level ultimensions
+[
+]
+All ultimensions are contained by order-2 ultimensions, where no other order-2s interact with it. all those order-2s are contained in a order-3, and so on.
+Tetrational level ultimensions?
+[
+]
+describe an order-x ultimension as u(x).
+there are ultimensions containing all orders of ultimensions:
+u(u(1)) or u
+2
+(1)
+and then we've got ultimensions containing all of those:
+u(u(2), u(u(3)), u(u(4))...
+ultimensions containing all of the above:
+u(u(u(1))) or u
+3
+(1)
+and we have this set of ultimensions
+u(1), u(u(1)), u(u(u(1))), u(u(u(u(1))))...
+which all are contained by an ultimension we have no way to describe.
+define u(1) as u^1, u(u(1)) as u^2, u(u(u(1))) as u^3
+now we can describe the previously undescribable ultimension:
+u^u or u^^2.
+now you have u^u^1, u^u^2, u^u^3, ...
+u^u^u contains all those above and can be written as u^^3
+ultiverse containing all the set u, u^u, u^u^u, u^u^u^u, u^u^u^u^u,...
+is described as u^^u
+continue with u^^u^2, u^^u^u, u^^u^u^u, u^^u^^u, u^^u^^u^^u, u^^^5,...
+and contain all above with u^^^u. you know where we're going: a ultimension containing all:
+u, u^u, u^^u, u^^^u, u{4}u, u{5}u,...
+which would be u{u}u or {u,u,u} using bowers arrays, or {u,2,1,2} also using bowers arrays.
+continuing on through all functions, we have...
+INFINITY ULTIMENSIONS
+[
+]
+omega-ultimensions, containing all those would be the omega+1s, omega+2s, and containing all the omega+somethings would be omega times 2, containing those is omega times 2 plus 1, supremum of those is omega times 3, keep on going to omega times 4, and set of those is contained by omega squared, keep going to omega cubed, omega to the fourth, until you get to omega to the omega, omega to the omega to the omega, or omega tetrated to 3, omega tetrated to 4, until you get to omega to the omega omega times, epsilon zero, then keep on going
+THE FINAL ULTIMENSION (
+Omegabox thing
+)
+[
+]
+this cannot be described, it contains all ultimensions, it has order type absolute infinity. it has size Maxywaxy's absolute infinity, and no cosmic entities, nothing on this wiki can leave it.

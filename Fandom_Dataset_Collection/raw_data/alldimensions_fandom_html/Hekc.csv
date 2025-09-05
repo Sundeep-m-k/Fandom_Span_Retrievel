@@ -1,0 +1,16 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+22284,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/6e/Empty-Set.png/revision/latest?cb=20240929152310,"{""\n\n"": 1}",1
+22284,1,dentist,100,107,internal,https://alldimensions.fandom.com/wiki/The_dentist,"{""dentist"": 1}",1
+22284,1,human,120,125,internal,https://alldimensions.fandom.com/wiki/Human,"{""human"": 1}",1
+22284,1,atom,128,132,internal,https://alldimensions.fandom.com/wiki/Atom,"{""atom"": 1}",1
+22284,1,Hevvs,182,187,internal,https://alldimensions.fandom.com/wiki/Hevv,"{""Hevvs"": 1}",1
+22284,1,ATSL atoms,199,209,internal,https://alldimensions.fandom.com/wiki/ATSL_atoms,"{""ATSL atoms"": 1}",1
+22284,3,atom,63,67,internal,https://alldimensions.fandom.com/wiki/Atom,"{""atom"": 1}",1
+22284,3,dentist,105,112,internal,https://alldimensions.fandom.com/wiki/The_dentist,"{""dentist"": 1}",1
+22284,4,Hevv,51,55,internal,https://alldimensions.fandom.com/wiki/Hevv,"{""Hevv"": 1}",1
+22284,6,absolutely tiny atoms,134,155,internal,https://alldimensions.fandom.com/wiki/Absolutely_tiny_atoms,"{""absolutely tiny atoms"": 1}",1
+22284,12,Universal,4,13,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universal"": 1}",1
+22284,12,Verses,14,20,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verses"": 1}",1
+22284,25,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

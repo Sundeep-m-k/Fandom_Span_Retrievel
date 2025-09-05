@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+9844,2,Omniverse,25,34,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+9844,2,The Box,36,43,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
+9844,2,The Outside,45,56,internal,https://alldimensions.fandom.com/wiki/The_Outside,"{""The Outside"": 1}",1
+9844,3,Omniverse,47,56,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+9844,3,The Outside,61,72,internal,https://alldimensions.fandom.com/wiki/The_Outside,"{""The Outside"": 1}",1

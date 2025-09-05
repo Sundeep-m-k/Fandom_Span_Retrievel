@@ -1,0 +1,6 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+17476,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0b/That_Exists.png/revision/latest?cb=20191212140504,"{""\n\n"": 1}",1
+17476,1,Omniverse,115,124,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
+17476,2,Everything,40,50,internal,https://alldimensions.fandom.com/wiki/Everything,"{""Everything"": 1}",1

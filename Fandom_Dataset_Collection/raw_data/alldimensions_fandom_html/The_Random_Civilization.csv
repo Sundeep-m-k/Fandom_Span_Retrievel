@@ -1,0 +1,10 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+35634,1,Policiahsewverse,84,100,internal,https://alldimensions.fandom.com/wiki/Policiahsewverse,"{""Policiahsewverse"": 1}",1
+35634,2,The Slate,47,56,internal,https://alldimensions.fandom.com/wiki/The_Slate,"{""The Slate"": 1}",1
+35634,2,Policiahsewverse,134,150,internal,https://alldimensions.fandom.com/wiki/Policiahsewverse,"{""Policiahsewverse"": 1}",1
+35634,4,The Table,79,88,internal,https://alldimensions.fandom.com/wiki/The_Table,"{""The Table"": 1}",1
+35634,4,The Shadow,182,192,internal,https://alldimensions.fandom.com/wiki/Shadow,"{""The Shadow"": 1}",1
+35634,4,OYC,255,258,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+35634,4,Policiahsewverse,305,321,internal,https://alldimensions.fandom.com/wiki/Policiahsewverse,"{""Policiahsewverse"": 1}",1
+35634,4,Chained Verse,552,565,internal,https://alldimensions.fandom.com/wiki/Chained_Verse,"{""Chained Verse"": 1}",1
+35634,8,Stealbot,202,210,internal,https://alldimensions.fandom.com/wiki/Stealbot,"{""Stealbot"": 1}",1

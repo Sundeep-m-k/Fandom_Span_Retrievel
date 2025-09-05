@@ -1,0 +1,4 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+50696,2,Humans,172,178,internal,https://alldimensions.fandom.com/wiki/Human,"{""Humans"": 1}",1
+50696,5,Real life,250,259,internal,https://alldimensions.fandom.com/wiki/Real_life,"{""Real life"": 1}",1
+50696,6,Real life,282,291,internal,https://alldimensions.fandom.com/wiki/Real_life,"{""Real life"": 1}",1

@@ -1,0 +1,7 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+34852,1,BoxBox,36,42,internal,https://alldimensions.fandom.com/wiki/BoxBox,"{""BoxBox"": 1}",1
+34852,1,BoxBox,36,42,internal,https://alldimensions.fandom.com/wiki/BoxBox,"{""BoxBox"": 1}",1
+34852,1,OYC,77,80,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
+34852,1,Vsaue,207,212,internal,https://alldimensions.fandom.com/wiki/Vsaue,"{""Vsaue"": 1}",1
+34852,1,BoxBox,36,42,internal,https://alldimensions.fandom.com/wiki/BoxBox,"{""BoxBox"": 1}",1
+34852,2,https://www.youtube.com/watch?v=bvx6LwVwVIE,91,134,external,https://www.youtube.com/watch?v=bvx6LwVwVIE,"{""https://www.youtube.com/watch?v=bvx6LwVwVIE"": 1}",1

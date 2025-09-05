@@ -1,0 +1,13 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+3048,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/17/Spiral_arm.png/revision/latest?cb=20240405215332,"{""\n\n"": 1}",1
+3048,1,Galaxy,50,56,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxy"": 1}",1
+3048,1,Star System,68,79,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Star System"": 1}",1
+3048,1,star,153,157,internal,https://alldimensions.fandom.com/wiki/Star,"{""star"": 1}",1
+3048,1,galaxy,184,190,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""galaxy"": 1}",1
+3048,2,milky way,17,26,internal,https://alldimensions.fandom.com/wiki/Milky_Way,"{""milky way"": 1}",1
+3048,2,star systems,237,249,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""star systems"": 1}",1
+3048,7,Universal,4,13,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universal"": 1}",1
+3048,7,Verses,14,20,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verses"": 1}",1
+3048,20,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

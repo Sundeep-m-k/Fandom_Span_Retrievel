@@ -1,0 +1,9 @@
+article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
+47387,1,"
+
+",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/67/909.jpeg/revision/latest?cb=20241118180531,"{""\n\n"": 1}",1
+47387,2,Exagiants,72,81,internal,https://alldimensions.fandom.com/wiki/Class_%CE%94E_Star,"{""Exagiants"": 1}",1
+47387,2,Petaverses,144,154,internal,https://alldimensions.fandom.com/wiki/Megaverse,"{""Petaverses"": 1}",1
+47387,2,Exaverses,159,168,internal,https://alldimensions.fandom.com/wiki/Exaverse,"{""Exaverses"": 1}",1
+47387,2,Udekaverses.,211,223,internal,https://alldimensions.fandom.com/wiki/Udekaverse,"{""Udekaverses."": 1}",1
+47387,3,Hyperradioactive Elements,138,163,internal,https://alldimensions.fandom.com/wiki/Hyperradioactive_Elements,"{""Hyperradioactive Elements"": 1}",1
