@@ -66,3 +66,22 @@ marvel_fandom_html/
 *.zip
 *.gz
 *.bz2
+
+# === Datasets ===
+/1.Fandom_Dataset_Collection/raw_data/
+/1.Fandom_Dataset_Collection/scripts/marvel_fandom_html/
+
+/2.Embeddings/embeddings/
+/2.Embeddings/embeddings_l6.pkl
+
+# === Common large/data file types ===
+*.csv
+*.tsv
+*.parquet
+*.npz
+*.npy
+*.pkl
+*.zip
+*.gz
+*.bz2
+*.log
