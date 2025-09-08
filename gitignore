@@ -1,8 +1,6 @@
 # -------------------------
-# Ignore dataset directories & files
+# Ignore datasets (anywhere in repo)
 # -------------------------
-dataset/
-data/
 *.csv
 *.tsv
 *.json
@@ -11,6 +9,12 @@ data/
 *.tar
 *.tar.gz
 *.7z
+*.html
+*.txt
+
+# Optionally also ignore dataset/ and data/ dirs completely
+dataset/
+data/
 
 # -------------------------
 # Ignore outputs, logs & checkpoints
