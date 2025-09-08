@@ -7,8 +7,8 @@ import os
 csv.field_size_limit(sys.maxsize)
 
 # --- Hard-coded paths (edit these if needed) ---
-INPUT_CSV = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/paragraphs/paragraphs.csv"
-OUTPUT_CSV = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/query/queries.csv"
+INPUT_CSV = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/paragraphs/paragraphs.csv"
+OUTPUT_CSV = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/query/queries.csv"
 # ------------------------------------------------
 
 def create_query_csv(input_csv, output_csv):

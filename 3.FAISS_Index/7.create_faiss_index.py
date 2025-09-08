@@ -9,12 +9,12 @@ import argparse
 # ========= Project config =========
 MODEL_CONFIGS = {
     "L12": {
-        "EMBEDDINGS_PKL": "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/embeddings/L12.pkl",
-        "INDEX_PATH":     "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/embeddings/L12.faiss"
+        "EMBEDDINGS_PKL": "/home/sundeep/Fandom-Span-Identification-and-Retrieval/2.Embeddings/embeddings/L12.pkl",
+        "INDEX_PATH":     "/home/sundeep/Fandom-Span-Identification-and-Retrieval/2.Embeddings/embeddings/L12.faiss"
     },
     "deepseek_70b": {
-        "EMBEDDINGS_PKL": "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/embeddings/deepseek.pkl",
-        "INDEX_PATH":     "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/embeddings/deepseek.faiss"
+        "EMBEDDINGS_PKL": "/home/sundeep/Fandom-Span-Identification-and-Retrieval/2.Embeddings/embeddings/deepseek.pkl",
+        "INDEX_PATH":     "/home/sundeep/Fandom-Span-Identification-and-Retrieval/2.Embeddings/embeddings/deepseek.faiss"
     },
     # add more if needed
 }

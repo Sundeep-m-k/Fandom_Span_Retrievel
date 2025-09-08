@@ -1,45 +1,24 @@
 #!/usr/bin/env python3
-from sentence_transformers import SentenceTransformer
-import ollama
-import numpy as np
-import pickle
 import csv
-import sys
 import logging
 import os
+import pickle
 import re
+import sys
 from urllib.parse import unquote, urlparse
-from bs4 import BeautifulSoup  # install if you want HTML fallback (pip install beautifulsoup4)
+import numpy as np
+from bs4 import BeautifulSoup  # pip install beautifulsoup4
 
-# =================== Config ===================
+# =============== Config ===============
 
-MODEL_CONFIGS = {
-    "L12": {
-        "MODEL_NAME": "sentence-transformers/all-MiniLM-L12-v2",
-        "EMBEDDINGS_DIR": "/home/sundeep/Fandom-Span-Identification-and-Retrieval/2.Embeddings/embeddings/L12.pkl"
-    },
-    "deepseek_70b": {
-        "MODEL_NAME": "deepseek-r1:70b",  # via Ollama
-        "EMBEDDINGS_DIR": "/home/sundeep/Fandom-Span-Identification-and-Retrieval/2.Embeddings/embeddings/deepseek.pkl"
-    }
-}
-
-# Folder with per-file CSVs (one CSV per article’s spans)
-CSV_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/raw_data/alldimensions_fandom_html"
-
-# Folder with plaintext files named {slug}.txt
-PLAINTEXT_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/raw_data/alldimensions_plaintext"
-
-# Folder with HTML files named {slug}.html (used as fallback)
-HTML_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/Fandom_Dataset_Collection/raw_data/alldimensions_fandom_html"
-
-# Toggle: embed only the first paragraph per article
+MODEL_CONFIGS="sentence-transformers/all-MiniLM-L12-v2"
+CSV_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/alldimensions_fandom_html"
+PLAINTEXT_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/alldimensions_plaintext"
+HTML_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/alldimensions_fandom_html"
 ONLY_FIRST_PARAGRAPH = False
-
-# Paragraph ID base in your CSVs (1 if IDs start at 1; set 0 if 0-based)
 PARAGRAPH_ID_BASE = 1
 
-# ==============================================
+# =============== Helpers ===============
 
 def get_article_name_from_url(resolved_url: str) -> tuple[str, str]:
     """Return (slug_for_filename, display_title_for_embedding)."""
@@ -76,7 +55,25 @@ def paragraphs_from_html(html_path: str) -> list[str]:
     except Exception:
         return []
 
-def create_paragraph_embeddings(model, csv_paths, plaintext_dir, output_embeddings_pkl):
+# =============== Embedding Routines ===============
+
+def st_embed_batch(st_model, texts: list[str]) -> np.ndarray:
+    """Embed a list of texts with a SentenceTransformer model (returns float32)."""
+    vecs = st_model.encode(texts, convert_to_tensor=False, show_progress_bar=False)
+    return np.asarray(vecs, dtype="float32")
+
+def ollama_embed_text(ollama_model_name: str, text: str) -> np.ndarray:
+    """Embed a single text with an Ollama embedding model (returns float32)."""
+    import ollama  # imported here to avoid dependency if not used
+    resp = ollama.embeddings(model=ollama_model_name, prompt=text)
+    emb = resp.get("embedding", None)
+    if emb is None:
+        raise RuntimeError("Ollama returned no 'embedding' field.")
+    return np.asarray(emb, dtype="float32")
+
+# =============== Core ===============
+
+def create_paragraph_embeddings(model_obj, model_cfg: dict, csv_paths: list[str], plaintext_dir: str, output_embeddings_pkl: str):
     """
     Creates one embedding per (article_id, paragraph_id).
     - Reads per-file span CSVs (article_id, paragraph_id, resolved_url)
@@ -84,11 +81,14 @@ def create_paragraph_embeddings(model, csv_paths, plaintext_dir, output_embeddin
     - Builds: "Article Name: {title}; Paragraph_text: {paragraph_text}"
     - Saves dict[(article_id, paragraph_id)] = vector
     """
-    embeddings_dict = {}
-    seen = set()  # to avoid duplicate (article_id, paragraph_id)
+    embeddings_dict: dict[tuple[int, int], np.ndarray] = {}
+    seen = set()  # avoid duplicate (article_id, paragraph_id)
 
     # allow very large CSV fields
-    csv.field_size_limit(2**31 - 1)
+    try:
+        csv.field_size_limit(2**31 - 1)
+    except Exception:
+        pass
 
     stats = {
         "csv_files": len(csv_paths),
@@ -102,9 +102,28 @@ def create_paragraph_embeddings(model, csv_paths, plaintext_dir, output_embeddin
         "ok": 0,
     }
 
-    for csv_file in csv_paths:
+    backend = model_cfg["BACKEND"]
+
+    # For SentenceTransformer, we’ll batch-encode
+    st_batch_keys: list[tuple[int, int]] = []
+    st_batch_texts: list[str] = []
+    st_batch_size = model_cfg.get("BATCH_SIZE", 64) if backend == "sentence_transformers" else None
+
+    def flush_st_batch():
+        """Flush the ST batch buffer into embeddings_dict."""
+        nonlocal st_batch_keys, st_batch_texts
+        if not st_batch_texts:
+            return
+        vecs = st_embed_batch(model_obj, st_batch_texts)
+        for k, v in zip(st_batch_keys, vecs):
+            embeddings_dict[k] = v
+        stats["ok"] += len(st_batch_keys)
+        st_batch_keys.clear()
+        st_batch_texts.clear()
+
+    for i, csv_file in enumerate(csv_paths, 1):
         if not os.path.isfile(csv_file):
-            print(f"⚠️  Skipping missing CSV: {csv_file}")
+            logging.warning(f"Skipping missing CSV: {csv_file}")
             continue
 
         with open(csv_file, "r", encoding="utf-8") as f:
@@ -115,7 +134,7 @@ def create_paragraph_embeddings(model, csv_paths, plaintext_dir, output_embeddin
                     article_id = int(row["article_id"])
                     paragraph_id = int(row["paragraph_id"])
                     resolved_url = row["resolved_url"]
-                except Exception as e:
+                except Exception:
                     # bad/incomplete row
                     continue
 
@@ -177,55 +196,83 @@ def create_paragraph_embeddings(model, csv_paths, plaintext_dir, output_embeddin
 
                 text_to_embed = f"Article Name: {display_title}; Paragraph_text: {paragraph_text}"
 
-                # encode
                 try:
-                    if isinstance(model, str) and model == "deepseek-r1:70b":
-                        resp = ollama.embeddings(model=model, prompt=text_to_embed)
-                        if "embedding" not in resp:
-                            continue
-                        embedding = np.asarray(resp["embedding"], dtype="float32")
+                    if backend == "ollama":
+                        # one-by-one for Ollama
+                        vec = ollama_embed_text(model_cfg["MODEL_NAME"], text_to_embed)
+                        embeddings_dict[key] = vec
+                        stats["ok"] += 1
                     else:
-                        vec = model.encode(text_to_embed, convert_to_tensor=False)
-                        embedding = np.asarray(vec, dtype="float32")
-                except Exception:
+                        # sentence_transformers → batch later
+                        st_batch_keys.append(key)
+                        st_batch_texts.append(text_to_embed)
+                        if len(st_batch_texts) >= st_batch_size:
+                            flush_st_batch()
+                except Exception as e:
+                    # skip problematic item but continue
+                    logging.debug(f"Embed error for {key}: {e}")
                     continue
 
-                embeddings_dict[key] = embedding
-                stats["ok"] += 1
+        # flush intermittently to keep memory steady for long runs
+        if backend == "sentence_transformers":
+            flush_st_batch()
+
+        if i % 50 == 0:
+            logging.info(f"[progress] processed {i}/{len(csv_paths)} CSVs, ok={stats['ok']}, rows={stats['rows']}")
+
+    # final flush (SentenceTransformer)
+    if backend == "sentence_transformers":
+        flush_st_batch()
 
     # ensure folder exists, save
     try:
         os.makedirs(os.path.dirname(output_embeddings_pkl) or ".", exist_ok=True)
         with open(output_embeddings_pkl, "wb") as out:
-            pickle.dump(embeddings_dict, out)
-        print(f"✅ Saved {len(embeddings_dict)} embeddings to {output_embeddings_pkl}")
+            pickle.dump(embeddings_dict, out, protocol=pickle.HIGHEST_PROTOCOL)
+        logging.info(f"✅ Saved {len(embeddings_dict)} embeddings → {output_embeddings_pkl}")
     except Exception as e:
-        print(f"❌ Failed to write embeddings pickle: {e}")
+        logging.error(f"❌ Failed to write embeddings pickle: {e}")
 
-    print("STATS:", stats)
+    logging.info(f"STATS: {stats}")
+    return stats
 
-if __name__ == "__main__":
+# =============== Main ===============
+
+def main():
     logging.basicConfig(level=logging.INFO, format="%(message)s")
 
     if len(sys.argv) < 2:
-        print("Usage: python3 create_embeddings.py <model_name>\n  e.g., python3 create_embeddings.py L12")
+        print(
+            "Usage: python3 create_embeddings.py <model_key>\n"
+            f"  where <model_key> ∈ {{{', '.join(MODEL_CONFIGS.keys())}}}\n"
+            "Examples:\n"
+            "  python3 create_embeddings.py L12\n"
+            "  python3 create_embeddings.py nomic_embed\n"
+        )
         sys.exit(1)
 
-    model_name = sys.argv[1]
-    if model_name not in MODEL_CONFIGS:
-        print(f"Unknown model '{model_name}'. Choose one of: {', '.join(MODEL_CONFIGS.keys())}")
+    model_key = sys.argv[1]
+    if model_key not in MODEL_CONFIGS:
+        print(f"Unknown model '{model_key}'. Choose one of: {', '.join(MODEL_CONFIGS.keys())}")
         sys.exit(1)
 
-    MODEL_CONFIG = MODEL_CONFIGS[model_name]
-    output_embeddings_pkl = MODEL_CONFIG["EMBEDDINGS_DIR"]
+    model_cfg = MODEL_CONFIGS[model_key]
+    output_embeddings_pkl = model_cfg["EMBEDDINGS_PKL"]
 
     # init model
-    if model_name == "deepseek_70b":
-        model = "deepseek-r1:70b"  # via Ollama
-    elif model_name in ("GTE_M_B", "jina-embeddings-v2-base-en"):
-        model = SentenceTransformer(MODEL_CONFIG["MODEL_NAME"], trust_remote_code=True)
+    backend = model_cfg["BACKEND"]
+    if backend == "sentence_transformers":
+        from sentence_transformers import SentenceTransformer
+        st_model = SentenceTransformer(model_cfg["MODEL_NAME"])
+        model_obj = st_model
+        logging.info(f"[info] Using SentenceTransformer: {model_cfg['MODEL_NAME']}")
+    elif backend == "ollama":
+        # defer import to runtime in embed function
+        model_obj = None
+        logging.info(f"[info] Using Ollama embedding model: {model_cfg['MODEL_NAME']}")
     else:
-        model = SentenceTransformer(MODEL_CONFIG["MODEL_NAME"])
+        print(f"Unsupported BACKEND '{backend}'.")
+        sys.exit(1)
 
     # collect CSVs
     import glob
@@ -233,9 +280,15 @@ if __name__ == "__main__":
     if not csv_paths:
         print(f"❌ No CSVs found in {CSV_DIR}. Set CSV_DIR to your per-file CSV folder.")
         sys.exit(1)
-    print(f"[info] Found {len(csv_paths)} CSV files in {CSV_DIR}")
+    logging.info(f"[info] Found {len(csv_paths)} CSV files in {CSV_DIR}")
 
     # run
-    create_paragraph_embeddings(model, csv_paths, PLAINTEXT_DIR, output_embeddings_pkl)
-    print(MODEL_CONFIG["MODEL_NAME"], output_embeddings_pkl)
-    print("Done.")
+    stats = create_paragraph_embeddings(model_obj, model_cfg, csv_paths, PLAINTEXT_DIR, output_embeddings_pkl)
+
+    logging.info(f"[done] {model_cfg['MODEL_NAME']} → {output_embeddings_pkl}")
+    logging.info(f"[summary] ok={stats['ok']} rows={stats['rows']} unique={stats['unique_keys']} "
+                 f"skip_seen={stats['skip_seen']} skip_non_article={stats['skip_non_article']} "
+                 f"skip_missing_txt={stats['skip_missing_txt']} skip_oor={stats['skip_oor']} skip_empty={stats['skip_empty']}")
+
+if __name__ == "__main__":
+    main()

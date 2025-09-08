@@ -1,0 +1,68 @@
+# -------------------------
+# Ignore datasets (anywhere in repo)
+# -------------------------
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.html
+*.txt
+
+# Optionally also ignore dataset/ and data/ dirs completely
+dataset/
+data/
+marvel_fandom_html/
+
+# -------------------------
+# Ignore outputs, logs & checkpoints
+# -------------------------
+outputs/
+logs/
+checkpoints/
+*.log
+*.out
+*.err
+*.tmp
+
+# -------------------------
+# Python specific ignores
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# -------------------------
+# OS / Editor specific
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore raw datasets
+raw_data/
+marvel_fandom_html/
+
+# Common dataset file types
+*.csv
+*.tsv
+*.parquet
+*.npz
+*.npy
+*.zip
+*.gz
+*.bz2
