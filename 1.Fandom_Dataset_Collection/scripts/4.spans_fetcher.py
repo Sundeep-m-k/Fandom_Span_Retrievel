@@ -1,73 +1,121 @@
-#4.spans_fetcher
+#4.spans_fetcher.py
 import re
 import csv
 import json
 import sys
+import glob
+import os
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
-import glob
 from net_log import make_logger, log_fetch_outcome, FetchResult
 import config
-domain = urlparse(config.BASE_URL).netloc  # e.g. alldimensions.fandom.com
-fandom_name = domain.split(".")[0]         # take "alldimensions"
-SCRIPT="spans_fetcher"
-logger=make_logger(f"{SCRIPT}_{fandom_name}")
 
+# ---------- PATH SETUP (match your project layout) ----------
+# Derive fandom name from BASE_URL in config
+domain = urlparse(config.BASE_URL).netloc  # e.g. marvel.fandom.com
+fandom_name = domain.split(".")[0]         # e.g. "marvel"
 
+# Base raw_data directory
+BASE_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data"
 
-# --- 1) Discover inputs (no hardcoded alldimensions) ---
+# Fandom-specific data dir created by script #1
+FANDOM_DATA_DIR = Path(BASE_DIR) / f"{fandom_name}_fandom_data"
+
+# Default HTML input dir (output of script #2)
+DEFAULT_HTML_DIR = FANDOM_DATA_DIR / f"{fandom_name}_fandom_html"
+
+# Spans output dir (this script)
+SPANS_DIR = FANDOM_DATA_DIR / f"{fandom_name}_fandom_spans"
+SPANS_DIR.mkdir(parents=True, exist_ok=True)
+
+# Master CSV path (kept in fandom data dir)
+MASTER_CSV = FANDOM_DATA_DIR / f"master_spans_{fandom_name}.csv"
+# ------------------------------------------------------------
+
+SCRIPT = "spans_fetcher"
+logger = make_logger(f"{SCRIPT}_{fandom_name}")
+
+# --- 1) Discover inputs (no hardcoded names) ---
 # Usage:
 #   python 4.spans_fetcher.py [html_dir] [base_url]
 #
 # If not provided:
-#  - html_dir: first folder matching "*_fandom_html"
-#  - base_url: sniffed from <link rel="canonical"> or internal links in the first HTML
+#  - html_dir: DEFAULT_HTML_DIR or first folder matching "*_fandom_html" under FANDOM_DATA_DIR
+#  - base_url: config.BASE_URL (preferred) else sniffed from <link rel="canonical"> or internal links
+
+def resolve_html_dir_from_arg(arg: str) -> Path | None:
+    """Try multiple ways to resolve the user-passed html_dir."""
+    p = Path(arg)
+    if p.exists() and p.is_dir():
+        return p
+
+    # Try resolving inside the fandom data dir
+    p2 = FANDOM_DATA_DIR / arg
+    if p2.exists() and p2.is_dir():
+        return p2
+
+    # If user passed a fandom name like "marvel", try "<name>_fandom_html" locally and under data dir
+    p3 = Path(f"{arg}_fandom_html")
+    if p3.exists() and p3.is_dir():
+        return p3
+    p4 = FANDOM_DATA_DIR / f"{arg}_fandom_html"
+    if p4.exists() and p4.is_dir():
+        return p4
+
+    return None
+
 if len(sys.argv) >= 2:
-    arg1 = sys.argv[1]
- # If user passed a fandom name like "alldimensions", resolve to "<name>_fandom_html"
-    candidate = Path(arg1)
-    if not candidate.exists():
-        candidate = Path(f"{arg1}_fandom_html")
+    candidate = resolve_html_dir_from_arg(sys.argv[1])
+    if candidate is None:
+        print(f"❌ Could not resolve HTML directory from argument: {sys.argv[1]}")
+        print(f"   Tried: '{sys.argv[1]}', '{FANDOM_DATA_DIR / sys.argv[1]}', "
+              f"'{sys.argv[1]}_fandom_html', '{FANDOM_DATA_DIR / (sys.argv[1] + '_fandom_html')}'")
+        sys.exit(1)
     HTML_DIR = candidate
 else:
+    # Prefer the default path; otherwise, first "*_fandom_html" under the fandom data dir
+    if DEFAULT_HTML_DIR.exists():
+        HTML_DIR = DEFAULT_HTML_DIR
+    else:
+        matches = sorted((str(p) for p in (FANDOM_DATA_DIR).glob("*_fandom_html")))
+        if not matches:
+            print(f"❌ No HTML directory found under {FANDOM_DATA_DIR} (expected something like *_fandom_html).")
+            sys.exit(1)
+        HTML_DIR = Path(matches[0])
 
-    matches = sorted(glob.glob("*_fandom_html"))
-    if not matches:
-        print("❌ No HTML directory found (expected something like *_fandom_html).")
-        sys.exit(1)
-    HTML_DIR = Path(matches[0])
-
-BASE_URL = None
-if len(sys.argv) >= 3:
+# --- 2) Determine BASE_URL ---
+if len(sys.argv) >= 3 and sys.argv[2].strip():
     BASE_URL = sys.argv[2].rstrip("/")
 else:
-    # Sniff from the first HTML file
-    sample_files = sorted(HTML_DIR.glob("*.html"))
-    if not sample_files:
-        print(f"❌ No .html files found in {HTML_DIR}")
-        sys.exit(1)
-    with open(sample_files[0], "r", encoding="utf-8", errors="ignore") as f:
-        soup = BeautifulSoup(f, "html.parser")
-    # Prefer canonical
-    can = soup.find("link", rel=lambda v: v and "canonical" in v.lower())
-    if can and can.get("href"):
-        parsed = urlparse(can["href"])
-        BASE_URL = f"{parsed.scheme}://{parsed.netloc}"
-    # Fallback: any internal link to *.fandom.com
+    # Prefer config
+    BASE_URL = getattr(config, "BASE_URL", "").rstrip("/")
     if not BASE_URL:
-        a = soup.find("a", href=True)
-        if a:
-            parsed = urlparse(urljoin("https://example.com", a["href"]))
-            if parsed.scheme and parsed.netloc:
-                BASE_URL = f"{parsed.scheme}://{parsed.netloc}"
-    if not BASE_URL:
-        print("❌ Could not infer BASE_URL from HTML. Pass it explicitly as argv[2].")
-        sys.exit(1)
+        # Sniff from the first HTML file
+        sample_files = sorted(HTML_DIR.glob("*.html"))
+        if not sample_files:
+            print(f"❌ No .html files found in {HTML_DIR}")
+            sys.exit(1)
+        with open(sample_files[0], "r", encoding="utf-8", errors="ignore") as f:
+            soup = BeautifulSoup(f, "html.parser")
+        # Prefer canonical
+        can = soup.find("link", rel=lambda v: v and "canonical" in v.lower())
+        if can and can.get("href"):
+            parsed = urlparse(can["href"])
+            BASE_URL = f"{parsed.scheme}://{parsed.netloc}"
+        # Fallback: any internal link
+        if not BASE_URL:
+            a = soup.find("a", href=True)
+            if a:
+                parsed = urlparse(urljoin("https://example.com", a["href"]))
+                if parsed.scheme and parsed.netloc:
+                    BASE_URL = f"{parsed.scheme}://{parsed.netloc}"
+        if not BASE_URL:
+            print("❌ Could not infer BASE_URL from HTML. Pass it explicitly as argv[2] or set config.BASE_URL.")
+            sys.exit(1)
 
-# fandom name from base URL, e.g. "https://marvel.fandom.com" -> "marvel"
+# fandom name from base URL (kept consistent if someone passed a different base)
 FANDOM_NAME = urlparse(BASE_URL).netloc.split(".")[0]
-MASTER_CSV = Path(f"master_spans_{FANDOM_NAME}.csv")
 
 def get_article_id_from_html(html_path: Path):
     with open(html_path, "r", encoding="utf-8", errors="ignore") as f:
@@ -126,8 +174,8 @@ def process_file(path: Path, master_writer):
         print(f"❌ Skipped {path.name} (parse error)")
         return
 
-    out_csv = path.with_suffix(".csv")
-    
+    # Write per-article CSV into SPANS_DIR (parallel to html dir)
+    out_csv = SPANS_DIR / f"{path.stem}.csv"
 
     with out_csv.open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
@@ -146,13 +194,12 @@ def process_file(path: Path, master_writer):
         log_fetch_outcome(logger, SCRIPT, str(path), result)
         print(f"⚠️  {out_csv.name}: 0 links (skipped)")
     else:
-        print(f"Saved {out_csv.name} with {len(rows)} links")
-    
+        print(f"💾 Saved {out_csv.name} with {len(rows)} links")
 
 def main():
     files = sorted([f for f in HTML_DIR.glob("*.html")])
     if not files:
-        print("No .html files found in", HTML_DIR)
+        print("❌ No .html files found in", HTML_DIR)
         return
 
     with MASTER_CSV.open("w", newline="", encoding="utf-8") as f:
@@ -166,7 +213,7 @@ def main():
         for fpath in files:
             process_file(fpath, master_writer)
 
-    print(f"\n✅ Master CSV written: {MASTER_CSV.name}")
+    print(f"\n✅ Master CSV written: {MASTER_CSV}")
 
 if __name__ == "__main__":
     main()

@@ -1,4 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-2443,1,multiplied,31,41,external,https://en.wikipedia.org/wiki/Cartesian_product,"{""multiplied"": 1}",1
-2443,1,Banach–Tarski paradox,358,379,external,https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox,"{""Banach–Tarski paradox"": 1}",1
-2443,7,Reality,0,7,internal,https://alldimensions.fandom.com/wiki/Physical_Realm,"{""Reality"": 1}",1

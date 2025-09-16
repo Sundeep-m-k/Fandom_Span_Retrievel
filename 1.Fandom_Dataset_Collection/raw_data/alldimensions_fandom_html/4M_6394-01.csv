@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-17889,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/64/Drawing_%2815%29.jpg/revision/latest?cb=20191209173704,"{""\n\n"": 1}",1
-17889,1,Multiverse,170,180,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-17889,1,Superclusters,193,206,internal,https://alldimensions.fandom.com/wiki/Supercluster,"{""Superclusters"": 1}",1
-17889,2,Universe,16,24,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-17889,3,Suns,176,180,internal,https://alldimensions.fandom.com/wiki/Sun,"{""Suns"": 1}",1
-17889,6,Superclusters,164,177,internal,https://alldimensions.fandom.com/wiki/Supercluster,"{""Superclusters"": 1}",1

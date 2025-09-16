@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-22761,1,String,24,30,internal,https://alldimensions.fandom.com/wiki/String,"{""String"": 1}",1
-22761,2,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/33/Green_string.png/revision/latest?cb=20200323204417,"{""\n\n"": 1}",1
-22761,2,O r b,342,347,internal,https://alldimensions.fandom.com/wiki/O_r_b,"{""O r b"": 1}",1

@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-2331,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/78/Dodecahedron.svg_%281%29.png/revision/latest?cb=20180211113458,"{""\n\n"": 1}",1
-2331,2,three-dimensional,48,65,internal,https://alldimensions.fandom.com/wiki/Space,"{""three-dimensional"": 1}",1
-2331,2,pentagonal,108,118,internal,https://alldimensions.fandom.com/wiki/Pentagon,"{""pentagonal"": 1}",1
-2331,2,faces,119,124,internal,https://alldimensions.fandom.com/wiki/Face,"{""faces"": 1}",1
-2331,2,schläfli symbol,135,150,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""schläfli symbol"": 1}",1
-2331,2,icosahedron,214,225,internal,https://alldimensions.fandom.com/wiki/Icosahedron,"{""icosahedron"": 1}",1

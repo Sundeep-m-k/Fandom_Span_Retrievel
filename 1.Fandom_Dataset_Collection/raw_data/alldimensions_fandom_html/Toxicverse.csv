@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-39961,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/74/Toxicverse.jpg/revision/latest?cb=20211119144527,"{""\n\n"": 1}",1
-39961,1,Omniverse,50,59,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
-39961,1,Toxicium,78,86,internal,https://alldimensions.fandom.com/wiki/Toxicium,"{""Toxicium"": 1}",1
-39961,2,omniverse,65,74,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""omniverse"": 1}",1
-39961,3,this,353,357,internal,https://alldimensions.fandom.com/wiki/Toxicium,"{""this"": 1}",1

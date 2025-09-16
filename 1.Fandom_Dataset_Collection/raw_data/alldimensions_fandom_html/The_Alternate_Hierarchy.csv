@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-41498,1,Fish,1,5,internal,https://alldimensions.fandom.com/wiki/User:Someone_who_owns_a_fish,"{""Fish"": 1}",1
-41498,1,CompactStar,10,21,internal,https://alldimensions.fandom.com/wiki/User:CompactStar,"{""CompactStar"": 1}",1
-41498,3,OL,51,53,internal,https://alldimensions.fandom.com/wiki/Ordinal_Index,"{""OL"": 1}",1
-41498,3,Omniverse,370,379,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
-41498,3,Barrel,500,506,internal,https://alldimensions.fandom.com/wiki/Barrel,"{""Barrel"": 1}",1
-41498,4,Shirroverses,91,103,internal,https://alldimensions.fandom.com/wiki/Shirroverse,"{""Shirroverses"": 1}",1

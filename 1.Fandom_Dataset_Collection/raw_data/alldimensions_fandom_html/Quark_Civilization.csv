@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42934,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/73/Quarks.jpg/revision/latest?cb=20191209123412,"{""\n\n"": 1}",1
-42934,1,Quark,2,7,internal,https://alldimensions.fandom.com/wiki/Quark,"{""Quark"": 1}",1
-42934,1,Universe,83,91,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-42934,1,String Ball,157,168,internal,https://alldimensions.fandom.com/wiki/String_Ball,"{""String Ball"": 1}",1
-42934,2,Kardashev Scale,446,461,internal,https://alldimensions.fandom.com/wiki/Kardashev_Scale,"{""Kardashev Scale"": 1}",1
-42934,3,String Ball,0,11,internal,https://alldimensions.fandom.com/wiki/String_Ball,"{""String Ball"": 1}",1

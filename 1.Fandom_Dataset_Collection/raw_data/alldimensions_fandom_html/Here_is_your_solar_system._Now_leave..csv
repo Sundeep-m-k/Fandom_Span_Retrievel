@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-35354,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/f4/Here_is_your_solar_system_now_leave.png/revision/latest?cb=20220119193313,"{""\n\n"": 1}",1
-35354,1,"You were expecting a solar system? Well, no.",83,127,internal,"https://alldimensions.fandom.com/wiki/You_were_expecting_a_solar_system%3F_Well,_no.","{""You were expecting a solar system? Well, no."": 1}",1
-35354,1,FOEI,132,136,internal,https://alldimensions.fandom.com/wiki/Fraction_of_Everything_Index,"{""FOEI"": 1}",1
-35354,1,The Server Room,521,536,internal,https://alldimensions.fandom.com/wiki/The_Server_Room,"{""The Server Room"": 1}",1
-35354,1,"You were expecting a solar system? Well, no.",83,127,internal,"https://alldimensions.fandom.com/wiki/You_were_expecting_a_solar_system%3F_Well,_no.","{""You were expecting a solar system? Well, no."": 1}",1
-35354,3,solar system,158,170,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""solar system"": 1}",1

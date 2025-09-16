@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42006,1,Smallestest,58,69,internal,https://alldimensions.fandom.com/wiki/Smallestest,"{""Smallestest"": 1}",1
-42006,1,Tiniest,103,110,internal,https://alldimensions.fandom.com/wiki/Tiniest,"{""Tiniest"": 1}",1
-42006,2,Small,4,9,internal,https://alldimensions.fandom.com/wiki/Small,"{""Small"": 1}",1
-42006,2,Smaller,246,253,internal,https://alldimensions.fandom.com/wiki/Smaller,"{""Smaller"": 1}",1
-42006,10,Universal,4,13,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universal"": 1}",1
-42006,10,Verses,14,20,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verses"": 1}",1
-42006,23,Hierarchy Family,0,16,internal,https://alldimensions.fandom.com/wiki/The_Hierarchy_Hierarchy,"{""Hierarchy Family"": 1}",1

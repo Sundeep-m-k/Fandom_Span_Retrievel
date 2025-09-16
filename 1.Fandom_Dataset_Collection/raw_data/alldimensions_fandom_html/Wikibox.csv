@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-39599,1,The Box,34,41,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""The Box"": 1}",1
-39599,1,Wikiverse Lab,60,73,internal,https://alldimensions.fandom.com/wiki/Wikiverse_Lab,"{""Wikiverse Lab"": 1}",1
-39599,2,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c7/D8E9AC7A-EC64-4FEF-BA14-D1B824F8CACB.jpg/revision/latest?cb=20210930000358,"{""\n\n"": 1}",1
-39599,2,Wikibox Cluster,163,178,internal,https://alldimensions.fandom.com/wiki/Wikibox_Cluster,"{""Wikibox Cluster"": 1}",1
-39599,2,Wikiverse Lab,95,108,internal,https://alldimensions.fandom.com/wiki/Wikiverse_Lab,"{""Wikiverse Lab"": 1}",1

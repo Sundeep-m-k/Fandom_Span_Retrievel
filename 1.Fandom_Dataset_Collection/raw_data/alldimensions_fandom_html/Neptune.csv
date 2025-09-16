@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-19246,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/15/Neptune.png/revision/latest?cb=20240307052955,"{""\n\n"": 1}",1
-19246,1,Solar System,447,459,internal,https://alldimensions.fandom.com/wiki/Solar_System,"{""Solar System"": 1}",1
-19246,5,Jupiter,319,326,internal,https://alldimensions.fandom.com/wiki/Jupiter,"{""Jupiter"": 1}",1
-19246,5,Saturn,330,336,internal,https://alldimensions.fandom.com/wiki/Saturn,"{""Saturn"": 1}",1
-19246,5,Uranus,22,28,internal,https://alldimensions.fandom.com/wiki/Uranus,"{""Uranus"": 1}",1
-19246,8,Uranus,109,115,internal,https://alldimensions.fandom.com/wiki/Uranus,"{""Uranus"": 1}",1

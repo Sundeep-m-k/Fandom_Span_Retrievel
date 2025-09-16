@@ -1,54 +1,68 @@
+#8.paragraph_text_extractor.py (no CLI)
 import os, re, sys, csv
+from pathlib import Path
+from urllib.parse import urlparse
 from bs4 import BeautifulSoup
+import config
 
 # -----------------------------
-# CONFIG – edit these paths to match your system
+# PATHS (derived from config.BASE_URL)
 # -----------------------------
-plain_dir = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/alldimensions_plaintext"
-html_dir  = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/alldimensions_fandom_html"
-links_dir = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/alldimensions_fandom_html"  # used only to read CSVs for article_id
-output_csv = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/paragraphs/paragraphs.csv"
+domain = urlparse(config.BASE_URL).netloc          # e.g. "marvel.fandom.com"
+fandom_name = domain.split(".")[0]                 # e.g. "marvel"
+
+BASE_DIR = Path("/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data")
+FANDOM_DATA_DIR = BASE_DIR / f"{fandom_name}_fandom_data"
+
+# Inputs
+plain_dir = FANDOM_DATA_DIR / f"{fandom_name}_fandom_plaintext"
+html_dir  = FANDOM_DATA_DIR / f"{fandom_name}_fandom_html"
+links_dir = FANDOM_DATA_DIR / f"{fandom_name}_fandom_spans"  # per-article spans CSVs with article_id
+
+# Output
+output_csv = FANDOM_DATA_DIR / f"paragraphs_{fandom_name}.csv"
 # -----------------------------
 
 PLAINTEXT_EXTS = {".txt", ".text", ".plaintext"}
 
-def split_plaintext(path):
-    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+def split_plaintext(path: Path):
+    with path.open("r", encoding="utf-8", errors="ignore") as f:
         t = f.read().replace("\r\n", "\n").replace("\r", "\n")
     return [p.strip() for p in re.split(r"\n\s*\n+", t) if p.strip()]
 
-def extract_html_paragraphs(path):
-    if not os.path.isfile(path): 
+def extract_html_paragraphs(path: Path):
+    if not path.is_file():
         return []
-    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+    with path.open("r", encoding="utf-8", errors="ignore") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
     container = soup.select_one("#mw-content-text .mw-parser-output") or soup
     ps = [p.get_text(" ", strip=True) for p in container.find_all("p")]
+    # collapse internal whitespace
     return [" ".join(s.split()) for s in ps if s]
 
-def list_plaintext_files(folder):
+def list_plaintext_files(folder: Path):
+    if not folder.is_dir():
+        return []
     return sorted(
-        fn for fn in os.listdir(folder) 
-        if os.path.splitext(fn)[1].lower() in PLAINTEXT_EXTS
+        fn for fn in os.listdir(folder)
+        if Path(fn).suffix.lower() in PLAINTEXT_EXTS
     )
 
-def ensure_output_parent(path):
-    parent = os.path.dirname(path)
-    if parent: 
-        os.makedirs(parent, exist_ok=True)
+def ensure_output_parent(path: Path):
+    path.parent.mkdir(parents=True, exist_ok=True)
 
-# --- Build a mapping from file title -> numeric article_id (from CSVs) ---
-def build_title_to_id_map(links_dir):
+# --- Build a mapping from file title -> numeric article_id (from per-article CSVs) ---
+def build_title_to_id_map(links_dir_path: Path):
     title_to_id_map = {}
-    if not os.path.isdir(links_dir): 
+    if not links_dir_path.is_dir():
         return title_to_id_map
-    
-    csv_files = sorted(fn for fn in os.listdir(links_dir) if fn.lower().endswith(".csv"))
+
+    csv_files = sorted(fn for fn in os.listdir(links_dir_path) if fn.lower().endswith(".csv"))
     for fn in csv_files:
-        title = os.path.splitext(fn)[0]
-        path = os.path.join(links_dir, fn)
+        title = Path(fn).stem
+        path = links_dir_path / fn
         try:
-            with open(path, "r", encoding="utf-8", newline="") as f:
+            with path.open("r", encoding="utf-8", newline="") as f:
                 reader = csv.DictReader(f)
                 if not reader.fieldnames:
                     continue
@@ -68,46 +82,51 @@ def build_title_to_id_map(links_dir):
     return title_to_id_map
 
 # --- Main: extract paragraphs and write only article_id, paragraph_id, paragraph_text ---
-def main(plaintext_dir, html_dir, output_csv_path, links_dir_path):
+def main():
     print("--- Starting Paragraph Extraction (article_id, paragraph_id, paragraph_text) ---", flush=True)
 
-    # Step 1: Build the title->ID map from CSVs
-    print("[1/2] Building title-to-ID mapping from CSVs...", flush=True)
-    title_to_id_map = build_title_to_id_map(links_dir_path)
+    # Step 0: sanity on directories
+    for pth, label in [(plain_dir, "plaintext dir"), (html_dir, "html dir"), (links_dir, "spans dir")]:
+        if not pth.exists():
+            print(f"[warn] {label} not found: {pth}")
+
+    # Step 1: Build the title->ID map from per-article span CSVs
+    print("[1/2] Building title-to-ID mapping from span CSVs...", flush=True)
+    title_to_id_map = build_title_to_id_map(links_dir)
     if not title_to_id_map:
-        print("[fatal] Could not build article_id mapping from CSVs. Check links_dir.", flush=True)
+        print("[fatal] Could not build article_id mapping from span CSVs. Check links_dir.", flush=True)
         sys.exit(1)
 
     # Step 2: Extract paragraphs and write output
     print("[2/2] Extracting paragraphs and writing output...", flush=True)
-    files = list_plaintext_files(plaintext_dir)
+    files = list_plaintext_files(plain_dir)
     if not files:
         print("[warn] no plaintext files found.", flush=True)
         sys.exit(0)
 
-    ensure_output_parent(output_csv_path)
+    ensure_output_parent(output_csv)
 
-    with open(output_csv_path, "w", encoding="utf-8", newline="") as out:
+    total_paras = 0
+    with output_csv.open("w", encoding="utf-8", newline="") as out:
         writer = csv.DictWriter(
-            out, 
-            fieldnames=["article_id", "paragraph_id", "paragraph_text"], 
+            out,
+            fieldnames=["article_id", "paragraph_id", "paragraph_text"],
             quoting=csv.QUOTE_ALL
         )
         writer.writeheader()
 
-        total_paras = 0
         for idx, fname in enumerate(files, 1):
-            title = os.path.splitext(fname)[0]
+            title = Path(fname).stem
             if title not in title_to_id_map:
-                print(f"[warn] No article_id found in CSVs for title '{title}'. Skipping.", flush=True)
+                print(f"[warn] No article_id found in spans CSVs for title '{title}'. Skipping.", flush=True)
                 continue
 
             article_id = title_to_id_map[title]
-            html_path = os.path.join(html_dir, f"{title}.html")
-            txt_path  = os.path.join(plaintext_dir, fname)
+            html_path = html_dir / f"{title}.html"
+            txt_path  = plain_dir / fname
 
             paras = extract_html_paragraphs(html_path)
-            if not paras and os.path.isfile(txt_path):
+            if not paras and txt_path.is_file():
                 paras = split_plaintext(txt_path)
 
             if not paras:
@@ -121,7 +140,7 @@ def main(plaintext_dir, html_dir, output_csv_path, links_dir_path):
             if idx % 100 == 0:
                 print(f"[info] {idx}/{len(files)} processed (last: {title})", flush=True)
 
-    print(f"\n[done] wrote {total_paras} paragraphs to: {output_csv_path}", flush=True)
+    print(f"\n[done] wrote {total_paras} paragraphs to: {output_csv}", flush=True)
 
 if __name__ == "__main__":
-    main(plain_dir, html_dir, output_csv, links_dir)
+    main()

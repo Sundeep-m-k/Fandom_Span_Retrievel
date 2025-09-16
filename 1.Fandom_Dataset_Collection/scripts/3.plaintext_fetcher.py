@@ -1,19 +1,32 @@
 #3.plaintext_fetcher.py
 import os
+import re
 import sys
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse 
+from urllib.parse import urlparse
 from net_log import make_logger, log_fetch_outcome, FetchResult
 import config
+# Example: BASE_URL = "https://marvel.fandom.com/"
+domain = urlparse(config.BASE_URL).netloc          # e.g. "marvel.fandom.com"
+fandom_name = domain.split(".")[0]                 # e.g. "marvel"
 
-domain = urlparse(config.BASE_URL).netloc  # e.g. alldimensions.fandom.com
-fandom_name = domain.split(".")[0]         # take "alldimensions"
-SCRIPT="plaintext_fetcher"
-logger=make_logger(f"{SCRIPT}_{fandom_name}")
+# Base location where raw_data lives
+BASE_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data"
+
+# The fandom-specific data folder created by script #1
+FANDOM_DATA_DIR = os.path.join(BASE_DIR, f"{fandom_name}_fandom_data")
+
+# Plaintext output folder lives INSIDE the data folder
+PLAINTEXT_DIR = os.path.join(FANDOM_DATA_DIR, f"{fandom_name}_fandom_plaintext")
+os.makedirs(PLAINTEXT_DIR, exist_ok=True)
+# ----------------------------------------------------------------
+
+SCRIPT = "plaintext_fetcher"
+logger = make_logger(f"{SCRIPT}_{fandom_name}")
 
 def fetch_plaintext(url: str) -> str:
-    """Fetch plain text from a wiki/fandom article URL."""
+    """Fetch plain text from a wiki/fandom article URL (content inside #mw-content-text)."""
     r = requests.get(url, timeout=30, headers={"User-Agent": "PlaintextFetcher/1.0"})
     r.raise_for_status()
 
@@ -23,30 +36,51 @@ def fetch_plaintext(url: str) -> str:
     if not content:
         return ""
 
+    # Keep line breaks for readability
     return content.get_text(separator="\n", strip=True)
 
-def save_articles():
-    # Determine fandom name from the links themselves or the file name
-    with open(ARTICLES_FILE, "r", encoding="utf-8") as f:
+def sanitize_filename(name: str) -> str:
+    """
+    Make a filesystem-safe filename.
+    - Replace path separators and illegal chars with underscores.
+    - Keep word chars, dots, dashes, and underscores.
+    """
+    # Strip any query/hash fragments if they slipped in
+    name = name.split("?")[0].split("#")[0]
+    # Replace anything not [A-Za-z0-9_.-] with underscore
+    name = re.sub(r"[^\w\.-]+", "_", name)
+    # Avoid empty names or names starting with a dot
+    if not name or name.startswith("."):
+        name = f"article"
+    return name
+
+def save_articles(articles_file: str):
+    # If a relative file was passed, resolve it inside the fandom data folder
+    links_path = articles_file
+    if not os.path.isabs(links_path):
+        links_path = os.path.join(FANDOM_DATA_DIR, links_path)
+
+    if not os.path.exists(links_path):
+        print(f"❌ Links file not found: {links_path}")
+        sys.exit(2)
+
+    # Read deduped list of links
+    with open(links_path, "r", encoding="utf-8") as f:
         links = [line.strip() for line in f if line.strip()]
+    # keep order but dedupe
+    seen = set()
+    ordered_links = []
+    for link in links:
+        if link not in seen:
+            seen.add(link)
+            ordered_links.append(link)
 
-    # Try from first URL’s domain (preferred)
-    fandom_name = None
-    if links:
-        netloc = urlparse(links[0]).netloc  # e.g. marvel.fandom.com
-        if netloc:
-            fandom_name = netloc.split(".")[0]
+    total = len(ordered_links)
+    print(f"📚 Found {total} links in {links_path}")
+    print(f"📝 Saving plaintext to: {PLAINTEXT_DIR}")
 
-    # Fallback: derive from file name (e.g., marvel_articles_list.txt → "marvel")
-    if not fandom_name:
-        fandom_name = os.path.basename(ARTICLES_FILE).split("_articles_list")[0]
-
-    folder_name = f"{fandom_name}_plaintext"
-    os.makedirs(folder_name, exist_ok=True)
-
-    total = len(links)
-    for i, link in enumerate(links, start=1):
-        print(f"📄 {i}/{total} pages — Fetching: {link}")
+    for i, link in enumerate(ordered_links, start=1):
+        print(f"📄 {i}/{total} — Fetching: {link}")
         try:
             text = fetch_plaintext(link)
         except requests.HTTPError as e:
@@ -69,24 +103,38 @@ def save_articles():
             log_fetch_outcome(logger, SCRIPT, link, result)
             print(f"❌ Skipped {link} (request_exception)")
             continue
-# Empty/missing content => treat as skipped (logged separately)
+
+        # Empty/missing content => treat as skipped (logged separately)
         if not text:
             result = FetchResult(False, None, None, "skipped", "Empty or missing #mw-content-text")
             log_fetch_outcome(logger, SCRIPT, link, result)
             print(f"❌ Skipped {link} (empty content)")
             continue
-        
-        article_name = link.split("/")[-1]
-        filename = os.path.join(folder_name, f"{article_name}.txt")
-        with open(filename, "w", encoding="utf-8") as out:
-            out.write(text)
 
+        # Derive filename from last path segment; fall back to page index
+        last_seg = link.rstrip("/").split("/")[-1] if "/" in link else link
+        base_name = sanitize_filename(last_seg) or f"page_{i}"
+        filename = os.path.join(PLAINTEXT_DIR, f"{base_name}.txt")
 
-if len(sys.argv) < 2:
-    print("❌ Usage: python plaintext_fetcher.py <articles_file>")
-    sys.exit(1)
+        try:
+            with open(filename, "w", encoding="utf-8") as out:
+                out.write(text)
+        except OSError as e:
+            # Log filesystem I/O errors similarly
+            io_result = FetchResult(False, None, None, "request_exception", f"I/O error: {e}")
+            log_fetch_outcome(logger, SCRIPT, link, io_result)
+            io_result.error_category = "skipped"
+            io_result.error_message = (io_result.error_message or "") + " (skipped)"
+            log_fetch_outcome(logger, SCRIPT, link, io_result)
+            print(f"❌ I/O error for {link}: {e} (skipped)")
+            continue
 
-ARTICLES_FILE = sys.argv[1]
+    print("✅ Done.")
 
 if __name__ == "__main__":
-    save_articles()
+    if len(sys.argv) < 2:
+        print("❌ Usage: python plaintext_fetcher.py <articles_file>")
+        sys.exit(1)
+
+    ARTICLES_FILE = sys.argv[1]
+    save_articles(ARTICLES_FILE)

@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-49546,3,type,16,20,internal,https://alldimensions.fandom.com/wiki/Category:Species,"{""type"": 1}",1
-49546,3,echinoderm,24,34,external,https://en.wikipedia.org/wiki/Echinoderm,"{""echinoderm"": 1}",1
-49546,3,things,64,70,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""things"": 1}",1
-49546,3,TREEverses,99,109,internal,https://alldimensions.fandom.com/wiki/TREEVERSE,"{""TREEverses"": 1}",1
-49546,5,pale garden,121,132,external,"https://minecraft.fandom.com/wiki/Pale_Garden#:~:text=The%20Pale%20Garden%20is%20a,addition%20of%20pale%20hanging%20moss.","{""pale garden"": 1}",1
-49546,5,Minecraft,142,151,external,https://minecraft.fandom.com/wiki/Minecraft_Wiki,"{""Minecraft"": 1}",1
-49546,10,material,50,58,internal,https://alldimensions.fandom.com/wiki/Category:Material,"{""material"": 1}",1
-49546,12,Cambrian period,37,52,external,https://en.wikipedia.org/wiki/Cambrian,"{""Cambrian period"": 1}",1

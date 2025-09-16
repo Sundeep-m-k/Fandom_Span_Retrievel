@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-39930,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/cd/Husky.jpg/revision/latest?cb=20211113112639,"{""\n\n"": 1}",1
-39930,1,Omniverse,104,113,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
-39930,1,The Pan,172,179,internal,https://alldimensions.fandom.com/wiki/The_Pan,"{""The Pan"": 1}",1
-39930,2,Dogy,16,20,internal,https://alldimensions.fandom.com/wiki/Dogy,"{""Dogy"": 1}",1
-39930,2,Cat,60,63,internal,https://alldimensions.fandom.com/wiki/Cat,"{""Cat"": 1}",1
-39930,5,Boxes,76,81,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""Boxes"": 1}",1

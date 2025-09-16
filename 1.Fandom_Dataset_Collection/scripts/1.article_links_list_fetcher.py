@@ -1,10 +1,12 @@
 #1.article_links_list_fetcher
 import time
+import os
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from urllib.parse import urlsplit, urlunsplit, unquote, urlparse
 import config
+from config import FANDOM_DATA_DIR
 
 def get_all_links(start_url=config.START_URL, sleep_s=0.6):
     session = requests.Session()
@@ -74,7 +76,10 @@ if __name__ == "__main__":
 
     # derive name from BASE_URL host (e.g., "marvel.fandom.com" → "marvel_articles.txt")
     domain = urlparse(config.BASE_URL).netloc.split(".")[0]
-    filename = f"{domain}_articles_list.txt"
-
+    base_dir = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data"
+    output_dir = f"{domain}_fandom_data"
+    os.makedirs(output_dir, exist_ok=True)  # create folder if it doesn’t exist
+    filename = FANDOM_DATA_DIR / f"{domain}_articles_list.txt"
     with open(filename, "w", encoding="utf-8") as f:
         f.write("\n".join(links))
+    print(f"📂 Saved to {filename}")

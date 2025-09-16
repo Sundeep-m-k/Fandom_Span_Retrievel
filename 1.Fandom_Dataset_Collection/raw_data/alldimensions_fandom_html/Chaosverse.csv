@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-46797,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c4/TemplateImageForWiki.jpg/revision/latest?cb=20240831235815,"{""\n\n"": 1}",1
-46797,1,Multiverse,164,174,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-46797,1,Molecular Clouds,186,202,external,https://en.wikipedia.org/wiki/Molecular_cloud,"{""Molecular Clouds"": 1}",1
-46797,2,Universe,31,39,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-46797,2,Uqraek fibers,527,540,internal,https://alldimensions.fandom.com/wiki/Uqraek_fiber,"{""Uqraek fibers"": 1}",1
-46797,2,(Graham's number),889,906,external,https://en.wikipedia.org/wiki/Graham%27s_number,"{""(Graham's number)"": 1}",1

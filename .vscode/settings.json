@@ -1,8 +1,8 @@
 {
-    "python.defaultInterpreterPath": "/home/sundeep/anaconda3/bin/python",
-    "python.condaPath": "/home/sundeep/anaconda3/bin/conda",
-    "python.analysis.extraPaths": [
-      "/home/sundeep/anaconda3/lib/python3.11/site-packages"
-    ]
-  }
-  
+  "python.defaultInterpreterPath": "/home/sundeep/anaconda3/bin/python",
+  "python.condaPath": "/home/sundeep/anaconda3/bin/conda",
+  "python.analysis.extraPaths": [
+    "/home/sundeep/anaconda3/lib/python3.11/site-packages",
+    "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/scripts"
+  ]
+}

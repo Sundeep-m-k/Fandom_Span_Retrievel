@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-41863,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0c/Screenshot_2022-06-08_5.58.21_PM.png/revision/latest?cb=20220608215936,"{""\n\n"": 1}",1
-41863,1,Multiverse,69,79,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-41863,7,Phoenix A,364,373,external,https://en.wikipedia.org/wiki/Phoenix_Cluster,"{""Phoenix A"": 1}",1
-41863,7,[1],375,378,external,https://en.wikipedia.org/wiki/Phoenix_Cluster,"{""[1]"": 1}",1

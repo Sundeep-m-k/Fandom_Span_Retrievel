@@ -1,4 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-37748,3,https://en.wikipedia.org/wiki/Transfinite_number,230,278,external,https://en.wikipedia.org/wiki/Transfinite_number,"{""https://en.wikipedia.org/wiki/Transfinite_number"": 1}",1
-37748,3,[1],278,281,external,https://en.wikipedia.org/wiki/Rank-into-rank,"{""[1]"": 1}",1
-37748,12,https://en.wikipedia.org/wiki/Veblen_function,129,174,external,https://en.wikipedia.org/wiki/Veblen_function,"{""https://en.wikipedia.org/wiki/Veblen_function"": 1}",1

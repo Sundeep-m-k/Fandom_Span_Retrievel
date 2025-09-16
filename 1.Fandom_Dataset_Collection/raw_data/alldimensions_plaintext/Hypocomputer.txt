@@ -1,6 +1,0 @@
-A
-hypocomputer
-is a computer made up of
-hypoverses
-, exploiting their ability to be programmed to replicated the behavior of other groups of hypoverses to first encode simple logic, then built up to more complicated structures, and then at their fullest realization performing infinite amounts of computation to simulate entire xeroverses.
-The most typical hypocomputer arrangement is a single specialized hypocomputer corresponding to a single xeroverse. Because of this, some entities use "hypocomputer" and "xeroverse" synonymously, choosing their word based on whether they want to emphasise the physical component or the computational component.

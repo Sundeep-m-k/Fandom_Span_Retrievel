@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-39744,1,Universe,363,371,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-39744,2,Universes,183,192,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universes"": 1}",1
-39744,2,Multiverses,194,205,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverses"": 1}",1
-39744,6,non-existent,65,77,internal,https://alldimensions.fandom.com/wiki/Existence_Rank,"{""non-existent"": 1}",1
-39744,9,Realm,173,178,internal,https://alldimensions.fandom.com/wiki/Realm,"{""Realm"": 1}",1
-39744,12,cetaverses.,232,243,internal,https://alldimensions.fandom.com/wiki/Cetaverse,"{""cetaverses."": 1}",1

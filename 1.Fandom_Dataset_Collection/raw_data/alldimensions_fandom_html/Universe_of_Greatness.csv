@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-33311,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/80/THE_OMNIVERSE.jpg/revision/latest?cb=20200712144200,"{""\n\n"": 1}",1
-33311,1,Frick,61,66,internal,https://alldimensions.fandom.com/wiki/Frick,"{""Frick"": 1}",1
-33311,1,Galaxy of Greatness,78,97,internal,https://alldimensions.fandom.com/wiki/Galaxy_of_Greatness,"{""Galaxy of Greatness"": 1}",1
-33311,1,Galaxies of Greatness,267,288,internal,https://alldimensions.fandom.com/wiki/Galaxy_of_Greatness,"{""Galaxies of Greatness"": 1}",1
-33311,2,CAI,263,266,internal,https://alldimensions.fandom.com/wiki/Cantor%27s_Absolute_Infinity,"{""CAI"": 1}",1

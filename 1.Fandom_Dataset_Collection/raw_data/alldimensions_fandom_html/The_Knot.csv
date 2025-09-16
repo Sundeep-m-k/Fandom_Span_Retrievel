@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-11280,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/73/The_Knot.jpeg/revision/latest?cb=20181213203224,"{""\n\n"": 1}",1
-11280,1,The Maze,56,64,internal,https://alldimensions.fandom.com/wiki/The_Maze,"{""The Maze"": 1}",1
-11280,1,the Mazes,223,232,internal,https://alldimensions.fandom.com/wiki/The_Maze,"{""the Mazes"": 1}",1
-11280,2,The Final Box,242,255,internal,https://alldimensions.fandom.com/wiki/The_Final_Box,"{""The Final Box"": 1}",1

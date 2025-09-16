@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-27208,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/d2/Screen_Shot_2020-05-07_at_9.13.41_AM.png/revision/latest?cb=20200507161355,"{""\n\n"": 1}",1
-27208,1,Threes,175,181,internal,https://alldimensions.fandom.com/wiki/Three,"{""Threes"": 1}",1
-27208,1,Ones,194,198,internal,https://alldimensions.fandom.com/wiki/One,"{""Ones"": 1}",1
-27208,2,The Pencil Language,13,32,internal,https://alldimensions.fandom.com/wiki/The_Pencil_Language,"{""The Pencil Language"": 1}",1
-27208,2,One,99,102,internal,https://alldimensions.fandom.com/wiki/One,"{""One"": 1}",1
-27208,2,Three,225,230,internal,https://alldimensions.fandom.com/wiki/Three,"{""Three"": 1}",1

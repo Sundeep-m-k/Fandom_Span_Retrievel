@@ -2,11 +2,29 @@
 import csv
 import os
 import ast
+import sys
+from pathlib import Path
 
-# ---- Hard-coded paths (edit) ----
-INPUT_CSV  = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/master_csv.csv"
-OUTPUT_CSV = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/query/queries.csv"
-# ---------------------------------
+# === Locate config.py (EDIT THIS PATH if your config lives elsewhere) ===
+CONFIG_DIR = Path("/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/scripts")
+sys.path.append(str(CONFIG_DIR))
+import config  # noqa: E402
+
+# ===== Config =====
+MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+# ==================
+
+# === Derive project paths from config ===
+PROJECT_ROOT = config.BASE_DIR.parents[1]  # ".../Fandom-Span-Identification-and-Retrieval"
+RAW_DATA_DIR = config.FANDOM_DATA_DIR      # ".../raw_data/<fandom>_fandom_data"
+QUERY_DIR    = PROJECT_ROOT / "4.Query"
+
+# Input master CSV
+INPUT_CSV  = RAW_DATA_DIR / f"master_csv_{config.fandom_name}.csv"
+
+# Output queries CSV with fandom + model in name
+model_short = MODEL_NAME.split("/")[-1]
+OUTPUT_CSV = QUERY_DIR / f"queries_{config.fandom_name}_{model_short}.csv"
 
 csv.field_size_limit(2**31 - 1)
 
@@ -24,10 +42,8 @@ def parse_py_list(cell):
     if cell is None:
         return []
     s = cell.strip()
-    if s == "" or s == "[]":
+    if s == "" or s == "[]" or s.lower() == "none":
         return []
-    # Common data uses Python literal style (e.g., ['a','b'])
-    # This will also handle numbers: [1, 2, 0, None]
     return ast.literal_eval(s)
 
 def is_missing_id(x):
@@ -38,14 +54,13 @@ def is_missing_id(x):
         return True
     return False
 
-def create_query_csv(input_csv, output_csv):
-    os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+def create_query_csv(input_csv: Path, output_csv: Path):
+    os.makedirs(output_csv.parent, exist_ok=True)
 
     with open(input_csv, "r", encoding="utf-8", newline="") as infile, \
          open(output_csv, "w", encoding="utf-8", newline="") as outfile:
 
         reader = csv.DictReader(infile, delimiter=",", quotechar='"')
-        # Sanity check headers
         if not reader.fieldnames or not REQUIRED_COLS.issubset(reader.fieldnames):
             missing = REQUIRED_COLS - set(reader.fieldnames or [])
             raise RuntimeError(f"Missing columns: {missing}. Found: {reader.fieldnames}")
@@ -67,10 +82,8 @@ def create_query_csv(input_csv, output_csv):
             try:
                 linked_words = parse_py_list(row.get("internal_links"))
                 correct_ids  = parse_py_list(row.get("article_id_of_internal_link"))
-            except Exception as e:
+            except Exception:
                 bad_parse += 1
-                # Uncomment to inspect:
-                # print("parse error:", e, "| internal_links:", row.get("internal_links"))
                 continue
 
             if not isinstance(linked_words, list) or not isinstance(correct_ids, list):
@@ -79,10 +92,6 @@ def create_query_csv(input_csv, output_csv):
 
             if len(linked_words) != len(correct_ids):
                 len_mismatch += 1
-                # Uncomment to inspect first few mismatches
-                # if len_mismatch <= 3:
-                #     print("len mismatch:", len(linked_words), len(correct_ids),
-                #           "\n  links:", linked_words[:3], "\n  ids:", correct_ids[:3])
                 continue
 
             for word, cid in zip(linked_words, correct_ids):
@@ -106,4 +115,6 @@ def create_query_csv(input_csv, output_csv):
         print(f"[stats] bad_parse={bad_parse}, len_mismatch={len_mismatch}")
 
 if __name__ == "__main__":
+    if not INPUT_CSV.exists():
+        raise FileNotFoundError(f"Input CSV not found: {INPUT_CSV}")
     create_query_csv(INPUT_CSV, OUTPUT_CSV)

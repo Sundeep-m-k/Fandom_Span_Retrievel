@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-43602,1,Universe,140,148,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-43602,1,Stars,161,166,internal,https://alldimensions.fandom.com/wiki/Star,"{""Stars"": 1}",1
-43602,3,Universe,54,62,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-43602,3,human,133,138,internal,https://alldimensions.fandom.com/wiki/Human,"{""human"": 1}",1
-43602,4,Multiverse,225,235,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-43602,5,OYC,140,143,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
-43602,5,Glitchonicite,475,488,internal,https://alldimensions.fandom.com/wiki/Glitchonicite,"{""Glitchonicite"": 1}",1
-43602,6,Unexistence,211,222,internal,https://alldimensions.fandom.com/wiki/Unexistence,"{""Unexistence"": 1}",1

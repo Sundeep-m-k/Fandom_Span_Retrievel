@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42416,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a7/Jfxc.png/revision/latest?cb=20221007120512,"{""\n\n"": 1}",1
-42416,3,Omniverse,86,95,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
-42416,3,Gigaverses,201,211,internal,https://alldimensions.fandom.com/wiki/Gigaverse,"{""Gigaverses"": 1}",1
-42416,3,Petaverse,247,256,internal,https://alldimensions.fandom.com/wiki/Petaverse,"{""Petaverse"": 1}",1

@@ -1,4 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-46196,1,verses,101,107,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
-46196,1,planets,331,338,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planets"": 1}",1
-46196,3,entities,164,172,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""entities"": 1}",1

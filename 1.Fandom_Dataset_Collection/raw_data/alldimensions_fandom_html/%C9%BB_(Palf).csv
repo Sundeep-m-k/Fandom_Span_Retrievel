@@ -1,4 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-40590,4,Bob,18,21,internal,https://alldimensions.fandom.com/wiki/Bob,"{""Bob"": 1}",1
-40590,5,👁,24,25,internal,https://alldimensions.fandom.com/wiki/%F0%9F%91%81_the_slapper,"{""👁"": 1}",1
-40590,6,Eye,0,3,internal,https://alldimensions.fandom.com/wiki/Eye,"{""Eye"": 1}",1

@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-35640,1,Verses,84,90,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verses"": 1}",1
-35640,2,.,11,12,internal,https://alldimensions.fandom.com/wiki/Category:Why_is_there_a_period_at_the_end,"{""."": 1}",1
-35640,2,verse,39,44,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
-35640,2,Wikiverse,118,127,internal,https://alldimensions.fandom.com/wiki/Wikiverse,"{""Wikiverse"": 1}",1
-35640,3,matter,73,79,internal,https://alldimensions.fandom.com/wiki/Matter,"{""matter"": 1}",1
-35640,4,Octagon,34,41,internal,https://alldimensions.fandom.com/wiki/Polygon#Octagon,"{""Octagon"": 1}",1

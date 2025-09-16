@@ -3,13 +3,41 @@ import csv
 import json
 import sys
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urlparse
 from net_log import make_logger, log_fetch_outcome, FetchResult
 import config
-domain = urlparse(config.BASE_URL).netloc  # e.g. alldimensions.fandom.com
-fandom_name = domain.split(".")[0]         # take "alldimensions"
-SCRIPT="add_probs_to_spans"
-logger=make_logger(f"{SCRIPT}_{fandom_name}")
+
+# -------- PATH SETUP (consistent with previous scripts) --------
+domain = urlparse(config.BASE_URL).netloc          # e.g. marvel.fandom.com
+fandom_name = domain.split(".")[0]                 # e.g. "marvel"
+
+BASE_DIR = Path("/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data")
+FANDOM_DATA_DIR = BASE_DIR / f"{fandom_name}_fandom_data"
+DEFAULT_MASTER = FANDOM_DATA_DIR / f"master_spans_{fandom_name}.csv"
+# ---------------------------------------------------------------
+
+SCRIPT = "add_probs_to_spans"
+logger = make_logger(f"{SCRIPT}_{fandom_name}")
+
+def resolve_input_path(arg: str | None) -> Path:
+    """
+    Resolve the input CSV path with these rules:
+      - None or "master" -> default master CSV in the fandom data dir
+      - Absolute path -> use as-is
+      - Relative path -> first try as given; if not found, try inside fandom data dir
+    """
+    if arg is None or arg.strip().lower() == "master":
+        return DEFAULT_MASTER
+
+    p = Path(arg)
+    if p.is_absolute():
+        return p
+    if p.exists():
+        return p
+
+    # Try inside the fandom data dir
+    candidate = FANDOM_DATA_DIR / p
+    return candidate
 
 def add_probs(input_csv: Path):
     if not input_csv.exists():
@@ -27,7 +55,7 @@ def add_probs(input_csv: Path):
 
     with input_csv.open("r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
-        for i, row in enumerate(reader, start=2):  # start=2 to account for header line = 1:
+        for i, row in enumerate(reader, start=2):  # start=2 accounting for header at line 1
             try:
                 start = int(row["start"])
                 end = int(row["end"])
@@ -37,14 +65,13 @@ def add_probs(input_csv: Path):
                     log_fetch_outcome(logger, SCRIPT, f"{input_csv}#L{i}", res)
                     continue
             except Exception as e:
-                 # parse failure -> request_exception, then skipped
-                 res = FetchResult(False, None, None, "request_exception", f"Parse error on line {i}: {e}")
-                 log_fetch_outcome(logger, SCRIPT, f"{input_csv}#L{i}", res)
-                 res.error_category = "skipped"
-                 res.error_message = (res.error_message or "") + " (skipped)"
-                 log_fetch_outcome(logger, SCRIPT, f"{input_csv}#L{i}", res)
-                 continue
-                   
+                # parse failure -> request_exception, then skipped
+                res = FetchResult(False, None, None, "request_exception", f"Parse error on line {i}: {e}")
+                log_fetch_outcome(logger, SCRIPT, f"{input_csv}#L{i}", res)
+                res.error_category = "skipped"
+                res.error_message = (res.error_message or "") + " (skipped)"
+                log_fetch_outcome(logger, SCRIPT, f"{input_csv}#L{i}", res)
+                continue
 
             # --- Probability (span-level)
             probability = {f"{start}-{end}": 1}
@@ -53,9 +80,9 @@ def add_probs(input_csv: Path):
             positions = list(range(start, end))
 
             # --- Position Probability (per character)
-            pos_prob = {str(i): 1 for i in positions}
+            pos_prob = {str(idx): 1 for idx in positions}
 
-            # Save back into the row
+            # Save back into the row (keep all original columns)
             row["probability"] = json.dumps(probability, ensure_ascii=False)
             row["positions"] = json.dumps(positions, ensure_ascii=False)
             row["position_probability"] = json.dumps(pos_prob, ensure_ascii=False)
@@ -79,7 +106,6 @@ def add_probs(input_csv: Path):
             log_fetch_outcome(logger, SCRIPT, str(output_csv), res)
             print(f"❌ Failed to write {output_csv} (skipped)")
             return None
-
     else:
         print("No valid rows found in input CSV.")
         # Log empty output as skipped for visibility
@@ -88,9 +114,8 @@ def add_probs(input_csv: Path):
         return None
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("❌ Usage: python add_probs.py <master_spans_csv>")
-        sys.exit(1)
-
-    input_file = Path(sys.argv[1])
+    # Optional arg: path to CSV. Omit or pass "master" to use the default master CSV.
+    arg = sys.argv[1] if len(sys.argv) >= 2 else None
+    input_file = resolve_input_path(arg)
+    print(f"📄 Input CSV: {input_file}")
     add_probs(input_file)

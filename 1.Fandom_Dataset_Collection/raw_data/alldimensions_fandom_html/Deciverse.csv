@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-48241,1,archverse,27,36,internal,https://alldimensions.fandom.com/wiki/Archverse,"{""archverse"": 1}",1
-48241,1,Universes,62,71,internal,https://alldimensions.fandom.com/wiki/Universes,"{""Universes"": 1}",1
-48241,2,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/9/9c/Deciverse.jpg/revision/latest?cb=20241220013558,"{""\n\n"": 1}",1
-48241,2,Universe,91,99,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-48241,2,Multiverse,101,111,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-48241,2,Milliverse,135,145,internal,https://alldimensions.fandom.com/wiki/Milliverse,"{""Milliverse"": 1}",1

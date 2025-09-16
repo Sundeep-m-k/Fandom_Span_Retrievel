@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-41736,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/46/MHD.jpg/revision/latest?cb=20250807054147,"{""\n\n"": 1}",1
-41736,2,verse,9,14,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verse"": 1}",1
-41736,5,page,26,30,internal,https://alldimensions.fandom.com/wiki/Pageverse,"{""page"": 1}",1
-41736,5,black hole,100,110,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black hole"": 1}",1

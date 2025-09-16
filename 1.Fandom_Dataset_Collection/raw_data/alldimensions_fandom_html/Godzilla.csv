@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-36328,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/f/fb/Godzilla_2014.jpg/revision/latest?cb=20210101045337,"{""\n\n"": 1}",1
-36328,2,universe,69,77,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
-36328,2,the Box,110,117,internal,https://alldimensions.fandom.com/wiki/The_Box,"{""the Box"": 1}",1

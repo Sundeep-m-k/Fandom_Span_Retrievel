@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-12665,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/43/Image_4675e-Neptune-Mass-Exoplanet.jpg/revision/latest?cb=20190426185732,"{""\n\n"": 1}",1
-12665,1,Multiverse,345,355,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-12665,3,Multiverse,56,66,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-12665,3,Universe,82,90,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-12665,3,planet,111,117,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1

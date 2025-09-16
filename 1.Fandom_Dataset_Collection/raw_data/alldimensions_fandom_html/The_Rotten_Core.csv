@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42913,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c7/The_rotten_core.jpg/revision/latest?cb=20221225081042,"{""\n\n"": 1}",1
-42913,1,Perdita,55,62,internal,https://alldimensions.fandom.com/wiki/Perdita,"{""Perdita"": 1}",1
-42913,1,Powertree,74,83,internal,https://alldimensions.fandom.com/wiki/Powertree,"{""Powertree"": 1}",1
-42913,2,Powertree,140,149,internal,https://alldimensions.fandom.com/wiki/Powertree,"{""Powertree"": 1}",1
-42913,2,Powertree,140,149,internal,https://alldimensions.fandom.com/wiki/Powertree,"{""Powertree"": 1}",1
-42913,2,Powertree,140,149,internal,https://alldimensions.fandom.com/wiki/Powertree,"{""Powertree"": 1}",1

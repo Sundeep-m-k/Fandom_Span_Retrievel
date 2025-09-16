@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42838,1,one,22,25,internal,https://alldimensions.fandom.com/wiki/Is_that_really_The_Earth%3F_I_think_Yes!,"{""one"": 1}",1
-42838,2,planet,49,55,internal,https://alldimensions.fandom.com/wiki/Is_that_really_The_Earth%3F_I_think_Yes!,"{""planet"": 1}",1
-42838,2,planet,49,55,internal,https://alldimensions.fandom.com/wiki/Is_that_really_The_Earth%3F_I_think_Yes!,"{""planet"": 1}",1
-42838,4,No Cloning theory,27,44,external,https://en.m.wikipedia.org/wiki/No-cloning_theorem,"{""No Cloning theory"": 1}",1
-42838,5,planet,99,105,internal,https://alldimensions.fandom.com/wiki/Is_that_really_The_Earth%3F_I_think_Yes!,"{""planet"": 1}",1
-42838,5,ours,124,128,internal,https://alldimensions.fandom.com/wiki/Earth,"{""ours"": 1}",1

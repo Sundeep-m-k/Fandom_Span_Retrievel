@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-41843,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/8/86/Yellow-Verse.png/revision/latest?cb=20220606192950,"{""\n\n"": 1}",1
-41843,3,Bob,426,429,internal,https://alldimensions.fandom.com/wiki/Bob,"{""Bob"": 1}",1
-41843,4,Blueprint Particle,152,170,internal,https://alldimensions.fandom.com/wiki/Blueprint_Particle,"{""Blueprint Particle"": 1}",1
-41843,4,Verse,324,329,internal,https://alldimensions.fandom.com/wiki/Verse,"{""Verse"": 1}",1

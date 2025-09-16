@@ -1,7 +1,0 @@
-Black energy is a form of dark energy that follows an exponential relationship between energy density and scale; that is,
-ρ
-∝
-e
-a
-{\displaystyle \rho \propto e^a}
-where a is a dimensionless scale factor of the universe. It can be considered as being a limit of phantom energy as it becomes infinitely less dilute. In a universe dominated by black energy, which will eventually happen if any universe with black energy and faster-diluting forms of energy grows sufficiently, the scale of the universe follows an inverse exponential integral growth. This means that the universe will reach infinite size in finite time, resulting in a big rip end for the universe.

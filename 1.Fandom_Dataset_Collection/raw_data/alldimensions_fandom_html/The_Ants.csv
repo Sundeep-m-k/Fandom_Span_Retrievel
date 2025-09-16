@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-23531,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/3/3f/48756292943_2064e91c2f_k.jpg/revision/latest?cb=20250319043051,"{""\n\n"": 1}",1
-23531,1,The Other Room,85,99,internal,https://alldimensions.fandom.com/wiki/The_Other_Room,"{""The Other Room"": 1}",1
-23531,1,Fried Egg,290,299,internal,https://alldimensions.fandom.com/wiki/The_Fried_Egg,"{""Fried Egg"": 1}",1
-23531,3,Fried Eggs,72,82,internal,https://alldimensions.fandom.com/wiki/The_Fried_Egg,"{""Fried Eggs"": 1}",1
-23531,3,Other Room,251,261,internal,https://alldimensions.fandom.com/wiki/The_Other_Room,"{""Other Room"": 1}",1

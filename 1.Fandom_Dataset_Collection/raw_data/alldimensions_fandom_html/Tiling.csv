@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-36752,3,plane,23,28,internal,https://alldimensions.fandom.com/wiki/Plane,"{""plane"": 1}",1
-36752,3,triangles,41,50,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangles"": 1}",1
-36752,3,Schläfli symbol,63,78,internal,https://alldimensions.fandom.com/wiki/Schl%C3%A4fli_symbol,"{""Schläfli symbol"": 1}",1
-36752,5,hexagons,104,112,internal,https://alldimensions.fandom.com/wiki/Hexagonal_tiling,"{""hexagons"": 1}",1
-36752,5,hexagons,104,112,internal,https://alldimensions.fandom.com/wiki/Hexagon,"{""hexagons"": 1}",1

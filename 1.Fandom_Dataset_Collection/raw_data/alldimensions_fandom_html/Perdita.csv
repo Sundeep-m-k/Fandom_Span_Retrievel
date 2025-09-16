@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42933,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a0/Prehistory2.jpg/revision/latest?cb=20221229005745,"{""\n\n"": 1}",1
-42933,1,The Meta-Box,213,225,internal,https://alldimensions.fandom.com/wiki/The_Meta-Box,"{""The Meta-Box"": 1}",1
-42933,1,The Rotten Core,237,252,internal,https://alldimensions.fandom.com/wiki/The_Rotten_Core,"{""The Rotten Core"": 1}",1
-42933,2,[1],413,416,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
-42933,3,[2],30,33,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1
-42933,4,Hoo Gatoo Gaa,191,204,internal,https://alldimensions.fandom.com/wiki/User_blog:Verseofficial91/Hooo_Gatoo_gaa,"{""Hoo Gatoo Gaa"": 1}",1

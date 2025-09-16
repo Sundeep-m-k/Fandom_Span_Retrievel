@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-44191,2,black holes,66,77,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black holes"": 1}",1
-44191,7,Ultimate,17,25,internal,https://alldimensions.fandom.com/wiki/The_Ultimate_Box,"{""Ultimate"": 1}",1
-44191,7,Cube,26,30,internal,https://alldimensions.fandom.com/wiki/The_Ultimate_Box,"{""Cube"": 1}",1
-44191,8,Omniverse,22,31,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
-44191,8,Plastic,38,45,internal,https://alldimensions.fandom.com/wiki/Plasticbox,"{""Plastic"": 1}",1
-44191,8,box,46,49,internal,https://alldimensions.fandom.com/wiki/Plasticbox,"{""box"": 1}",1

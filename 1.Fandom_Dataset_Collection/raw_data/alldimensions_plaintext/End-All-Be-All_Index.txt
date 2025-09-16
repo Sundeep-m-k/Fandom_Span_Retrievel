@@ -1,9 +1,0 @@
-An example of EABAI.
-The EABAI (End-All-Be-All Index) is an index for AD objects that rates them on how many measures they have for reaching an end-all-be-all aspect. If it's a verse, it's EABAI is based on how many measures there are for it to "contain everything". If it's a cosmic entity, its EABAI is based on how many measures for it to be "the strongest".
-EABAI does not count examples of other measures.
-If a verse were to contain everything that exists and doesn't exist, its EABAI would be 2. It works somewhat like the
-Finality Index
-, but with some differences. If it contains everything with possible and impossible
-Existence Ranks
-, it's EABAI would ALSO be 2.
-The EABAI of a verse can depend on the EABAIs of its contents, as shown in the image. If Verse A contains everything with the property A and also contains Verse B, which contains everything of Property B, Verse A would technically contain everything of Properties A and B, just in different places.

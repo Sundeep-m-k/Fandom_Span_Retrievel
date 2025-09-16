@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42379,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/5/50/P0fv7rhshol21.png/revision/latest?cb=20220915064843,"{""\n\n"": 1}",1
-42379,1,MLTI-577,136,144,internal,https://alldimensions.fandom.com/wiki/MLTI-577,"{""MLTI-577"": 1}",1
-42379,2,[1],24,27,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
-42379,2,Universe,62,70,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1
-42379,2,MLTI-577,84,92,internal,https://alldimensions.fandom.com/wiki/MLTI-577,"{""MLTI-577"": 1}",1

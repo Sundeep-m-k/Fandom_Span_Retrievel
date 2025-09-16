@@ -7,20 +7,32 @@ import config
 from pathlib import Path
 from net_log import make_logger, fetch_url_text, log_fetch_outcome, FetchResult
 
+# --- PATHS ---
 # Output folder is named after the fandom domain
 domain = urlparse(config.BASE_URL).netloc  # e.g. alldimensions.fandom.com
 fandom_name = domain.split(".")[0]         # take "alldimensions"
-OUTPUT_FOLDER = f"{fandom_name}_fandom_html"
+
+BASE_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data"
+FANDOM_DATA_DIR = os.path.join(BASE_DIR, f"{fandom_name}_fandom_data")
+# NEST html folder inside the step-1 directory:
+OUTPUT_FOLDER = os.path.join(FANDOM_DATA_DIR, f"{fandom_name}_fandom_html")
+
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+# If LINKS_FILE in config is relative, read it from the data folder
+links_file = config.LINKS_FILE
+if not os.path.isabs(links_file):
+    links_file = os.path.join(FANDOM_DATA_DIR, links_file)
+# --- END PATHS ---
 
 session = requests.Session()
 session.headers.update({"User-Agent": "SimpleFandomFetcher/1.0"})
-SCRIPT="html_fetcher"
-logger=make_logger(f"{SCRIPT}_{fandom_name}")
+SCRIPT = "html_fetcher"
+logger = make_logger(f"{SCRIPT}_{fandom_name}")
 
-# Read links from the text file
+# Read links from the text file (use resolved 'links_file')
 all_links = set()
-with open(config.LINKS_FILE, encoding="utf-8") as f:
+with open(links_file, encoding="utf-8") as f:
     for line in f:
         url = line.strip()
         if not url:
@@ -30,6 +42,7 @@ with open(config.LINKS_FILE, encoding="utf-8") as f:
         all_links.add(url)
 
 print(f"Found {len(all_links)} links.")
+print(f"Saving HTML to: {OUTPUT_FOLDER}")
 
 # Fetch and save each HTML
 for i, url in enumerate(sorted(all_links), start=1):
@@ -66,5 +79,3 @@ for i, url in enumerate(sorted(all_links), start=1):
         continue
 
     time.sleep(0.5)  # polite pause
-    
-

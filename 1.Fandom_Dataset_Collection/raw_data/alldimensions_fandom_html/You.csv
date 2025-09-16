@@ -1,5 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-44254,3,you,34,37,external,https://en.wiktionary.org/wiki/you,"{""you"": 1}",1
-44254,3,me,43,45,external,https://en.wikipedia.org/wiki/I_(pronoun),"{""me"": 1}",1
-44254,5,we can't prove anything,134,157,external,https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma,"{""we can't prove anything"": 1}",1
-44254,5,precepts that are merely asserted and not defended,181,231,external,https://en.wikipedia.org/wiki/Foundationalism,"{""precepts that are merely asserted and not defended"": 1}",1

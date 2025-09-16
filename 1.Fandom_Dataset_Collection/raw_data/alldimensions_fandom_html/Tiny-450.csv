@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-36382,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/2e/Tiny-450.png/revision/latest?cb=20211221163827,"{""\n\n"": 1}",1
-36382,1,MLTI-577,133,141,internal,https://alldimensions.fandom.com/wiki/MLTI-577,"{""MLTI-577"": 1}",1
-36382,1,Galaxy Clusters,153,168,internal,https://alldimensions.fandom.com/wiki/Galaxy_Cluster,"{""Galaxy Clusters"": 1}",1
-36382,1,Galaxies,170,178,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxies"": 1}",1
-36382,2,universe,40,48,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
-36382,2,OYC,295,298,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1

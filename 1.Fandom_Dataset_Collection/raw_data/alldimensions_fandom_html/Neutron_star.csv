@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-3273,1,star,10,14,internal,https://alldimensions.fandom.com/wiki/Star,"{""star"": 1}",1
-3273,1,mass,76,80,internal,https://alldimensions.fandom.com/wiki/Mass,"{""mass"": 1}",1
-3273,1,black hole,91,101,internal,https://alldimensions.fandom.com/wiki/Black_hole,"{""black hole"": 1}",1
-3273,1,mass,76,80,internal,https://alldimensions.fandom.com/wiki/Mass,"{""mass"": 1}",1
-3273,2,mass,12,16,internal,https://alldimensions.fandom.com/wiki/Mass,"{""mass"": 1}",1

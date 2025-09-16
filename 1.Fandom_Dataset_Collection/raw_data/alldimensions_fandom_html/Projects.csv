@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-42897,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/a/a9/Example.jpg/revision/latest?cb=20120428151757,"{""\n\n"": 1}",1
-42897,3,click here,27,37,internal,https://alldimensions.fandom.com/wiki/Category:Projects,"{""click here"": 1}",1
-42897,8,[1],160,163,anchor,https://alldimensions.fandom.com#cite_note-1,"{""[1]"": 1}",1
-42897,22,[2],125,128,anchor,https://alldimensions.fandom.com#cite_note-2,"{""[2]"": 1}",1

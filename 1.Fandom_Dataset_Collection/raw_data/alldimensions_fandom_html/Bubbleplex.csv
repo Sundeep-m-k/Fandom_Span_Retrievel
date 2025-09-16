@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-45956,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/1/1d/Bubbleplex.png/revision/latest?cb=20240423010535,"{""\n\n"": 1}",1
-45956,1,Duck,51,55,internal,https://alldimensions.fandom.com/wiki/Ducks,"{""Duck"": 1}",1
-45956,1,Quod Infinita,138,151,internal,https://alldimensions.fandom.com/wiki/Quod_Infinita,"{""Quod Infinita"": 1}",1
-45956,1,Ducks,164,169,internal,https://alldimensions.fandom.com/wiki/Ducks,"{""Ducks"": 1}",1
-45956,2,Quod Infinitas,38,52,internal,https://alldimensions.fandom.com/wiki/Quod_Infinita,"{""Quod Infinitas"": 1}",1
-45956,2,Ducks,148,153,internal,https://alldimensions.fandom.com/wiki/Ducks,"{""Ducks"": 1}",1

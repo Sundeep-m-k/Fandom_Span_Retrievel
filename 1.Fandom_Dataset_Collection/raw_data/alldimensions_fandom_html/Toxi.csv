@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-49844,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/40/Toxi.jpg/revision/latest?cb=20250526000158,"{""\n\n"": 1}",1
-49844,2,Toxicium,34,42,internal,https://alldimensions.fandom.com/wiki/Toxicium,"{""Toxicium"": 1}",1
-49844,5,mercury,40,47,internal,https://alldimensions.fandom.com/wiki/Mercury,"{""mercury"": 1}",1

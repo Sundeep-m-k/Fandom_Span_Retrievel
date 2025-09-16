@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-43739,1,Earth,78,83,internal,https://alldimensions.fandom.com/wiki/Earth,"{""Earth"": 1}",1
-43739,2,Loopptima Infinity,0,18,internal,https://alldimensions.fandom.com/wiki/Looptimas#Looptima-Infinity,"{""Loopptima Infinity"": 1}",1
-43739,3,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/2d/The_last_earth.jpg/revision/latest?cb=20230223103053,"{""\n\n"": 1}",1
-43739,3,Looptima Infinity,312,329,internal,https://alldimensions.fandom.com/wiki/Looptimas#Looptima-Infinity,"{""Looptima Infinity"": 1}",1
-43739,3,All loops,342,351,internal,https://alldimensions.fandom.com/wiki/The_infinite_loops_theory,"{""All loops"": 1}",1
-43739,3,Superloops,363,373,internal,https://alldimensions.fandom.com/wiki/Superloops,"{""Superloops"": 1}",1

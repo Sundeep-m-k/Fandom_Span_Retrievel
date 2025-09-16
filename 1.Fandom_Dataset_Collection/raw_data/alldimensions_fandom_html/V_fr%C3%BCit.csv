@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-36283,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0e/V_fr%C3%BCit.jpg/revision/latest?cb=20201223221154,"{""\n\n"": 1}",1
-36283,1,Omniverse,47,56,internal,https://alldimensions.fandom.com/wiki/Omniverse,"{""Omniverse"": 1}",1
-36283,1,M-E-Rs,68,74,internal,https://alldimensions.fandom.com/wiki/M-E-R,"{""M-E-Rs"": 1}",1
-36283,1,M-E-RS,199,205,internal,https://alldimensions.fandom.com/wiki/M-E-R,"{""M-E-RS"": 1}",1
-36283,4,Quark star,261,271,external,"https://en.wikipedia.org/wiki/Quark_star#:~:text=A%20quark%20star%20is%20a,matter%20consisting%20of%20free%20quarks.","{""Quark star"": 1}",1

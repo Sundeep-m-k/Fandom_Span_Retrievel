@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-45426,2,star,39,43,internal,https://alldimensions.fandom.com/wiki/Star,"{""star"": 1}",1
-45426,2,omnigiants,117,127,internal,https://alldimensions.fandom.com/wiki/Omnigiant,"{""omnigiants"": 1}",1
-45426,2,multiverses,457,468,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverses"": 1}",1
-45426,7,universe,63,71,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1
-45426,7,big crunch,82,92,internal,https://alldimensions.fandom.com/wiki/Big_Crunch,"{""big crunch"": 1}",1
-45426,8,hyperradioactive elements,64,89,internal,https://alldimensions.fandom.com/wiki/Hyperradioactive_Elements,"{""hyperradioactive elements"": 1}",1
-45426,8,strings,387,394,internal,https://alldimensions.fandom.com/wiki/String,"{""strings"": 1}",1

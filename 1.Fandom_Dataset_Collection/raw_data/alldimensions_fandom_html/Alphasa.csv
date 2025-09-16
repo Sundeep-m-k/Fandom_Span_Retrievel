@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-34290,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/6/68/Strange_planet_png_by_ravenmaddartwork-d2zau51.png/revision/latest?cb=20200724165432,"{""\n\n"": 1}",1
-34290,2,planet,28,34,internal,https://alldimensions.fandom.com/wiki/Planet,"{""planet"": 1}",1
-34290,2,Multiverse,57,67,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-34290,2,Universe,106,114,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

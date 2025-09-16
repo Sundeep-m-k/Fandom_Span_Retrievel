@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-2379,2,four-dimensional,14,30,internal,https://alldimensions.fandom.com/wiki/Flune,"{""four-dimensional"": 1}",1
-2379,2,polytopes,31,40,internal,https://alldimensions.fandom.com/wiki/Polytope,"{""polytopes"": 1}",1
-2379,2,vertices,52,60,internal,https://alldimensions.fandom.com/wiki/Vertices,"{""vertices"": 1}",1
-2379,2,edges,62,67,internal,https://alldimensions.fandom.com/wiki/Edge,"{""edges"": 1}",1
-2379,2,faces,69,74,internal,https://alldimensions.fandom.com/wiki/Face,"{""faces"": 1}",1
-2379,2,cells,76,81,internal,https://alldimensions.fandom.com/wiki/Cell,"{""cells"": 1}",1
-2379,3,Bowers' rotatope notation,190,215,internal,https://alldimensions.fandom.com/wiki/Bowers%27_rotatope_notation,"{""Bowers' rotatope notation"": 1}",1

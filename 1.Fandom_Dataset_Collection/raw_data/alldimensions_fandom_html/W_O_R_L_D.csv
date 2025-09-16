@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-31129,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/7/79/NKv1.gif/revision/latest?cb=20200608153021,"{""\n\n"": 1}",1
-31129,1,R E S T A U R A N T S,34,55,internal,https://alldimensions.fandom.com/wiki/R_E_S_T_A_U_R_A_N_T,"{""R E S T A U R A N T S"": 1}",1
-31129,1,K A P P A,160,169,internal,https://alldimensions.fandom.com/wiki/K_A_P_P_A,"{""K A P P A"": 1}",1
-31129,1,R E S T A U R A N T,34,53,internal,https://alldimensions.fandom.com/wiki/R_E_S_T_A_U_R_A_N_T,"{""R E S T A U R A N T"": 1}",1
-31129,2,R E S T A U R A N T,66,85,internal,https://alldimensions.fandom.com/wiki/R_E_S_T_A_U_R_A_N_T,"{""R E S T A U R A N T"": 1}",1
-31129,5,K A P P A,71,80,internal,https://alldimensions.fandom.com/wiki/K_A_P_P_A,"{""K A P P A"": 1}",1

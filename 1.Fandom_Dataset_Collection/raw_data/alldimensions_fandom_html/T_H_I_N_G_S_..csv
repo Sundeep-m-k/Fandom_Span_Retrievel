@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-22296,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0a/DB14016D-47C5-4C90-B1D8-75F6AFD9C51D.jpeg/revision/latest?cb=20200314235807,"{""\n\n"": 1}",1
-22296,1,not yet,156,163,internal,https://alldimensions.fandom.com/wiki/Not_yet,"{""not yet"": 1}",1
-22296,1,'thingy',179,187,internal,https://alldimensions.fandom.com/wiki/%27thingy%27,"{""'thingy'"": 1}",1
-22296,1,Ch04s,522,527,internal,https://alldimensions.fandom.com/wiki/Ch04s,"{""Ch04s"": 1}",1

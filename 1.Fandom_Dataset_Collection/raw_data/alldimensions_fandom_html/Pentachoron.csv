@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-2225,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/28/Pentachoron.gif/revision/latest?cb=20170428220158,"{""\n\n"": 1}",1
-2225,1,points,127,133,internal,https://alldimensions.fandom.com/wiki/Point,"{""points"": 1}",1
-2225,1,line segments,145,158,internal,https://alldimensions.fandom.com/wiki/Line_Segment,"{""line segments"": 1}",1
-2225,1,triangles,170,179,internal,https://alldimensions.fandom.com/wiki/Triangle,"{""triangles"": 1}",1
-2225,1,tetrahedra,190,200,internal,https://alldimensions.fandom.com/wiki/Tetrahedron,"{""tetrahedra"": 1}",1
-2225,3,tetrahedron,38,49,internal,https://alldimensions.fandom.com/wiki/Tetrahedron,"{""tetrahedron"": 1}",1

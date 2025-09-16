@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-44041,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/4/47/Omni_entity_i_gues.webp/revision/latest?cb=20230513142538,"{""\n\n"": 1}",1
-44041,1,OYC,68,71,internal,https://alldimensions.fandom.com/wiki/OYC,"{""OYC"": 1}",1
-44041,1,outside,152,159,internal,https://alldimensions.fandom.com/wiki/The_Outside,"{""outside"": 1}",1
-44041,3,entity,24,30,internal,https://alldimensions.fandom.com/wiki/The_Official_Cosmic_Entity_Hierarchy,"{""entity"": 1}",1

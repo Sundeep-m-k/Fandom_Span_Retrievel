@@ -1,7 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-11478,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/0c/Lifeverse.png/revision/latest?cb=20181227013212,"{""\n\n"": 1}",1
-11478,1,Multiverse,49,59,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverse"": 1}",1
-11478,1,Galaxies,71,79,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxies"": 1}",1
-11478,1,Universe,157,165,internal,https://alldimensions.fandom.com/wiki/Universe,"{""Universe"": 1}",1

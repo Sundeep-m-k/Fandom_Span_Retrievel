@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-22607,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/c/c0/51a65d7bce395f156c000000.png/revision/latest?cb=20200320141342,"{""\n\n"": 1}",1
-22607,1,Atoms,121,126,internal,https://alldimensions.fandom.com/wiki/Atoms,"{""Atoms"": 1}",1
-22607,1,Preons,138,144,internal,https://alldimensions.fandom.com/wiki/Preon,"{""Preons"": 1}",1
-22607,3,lepton,17,23,internal,https://alldimensions.fandom.com/wiki/Lepton,"{""lepton"": 1}",1
-22607,3,atoms,112,117,internal,https://alldimensions.fandom.com/wiki/Atom,"{""atoms"": 1}",1

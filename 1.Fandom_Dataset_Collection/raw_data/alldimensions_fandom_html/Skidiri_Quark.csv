@@ -1,9 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-46393,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/d/dd/Skidiri_Quark.png/revision/latest?cb=20240620085817,"{""\n\n"": 1}",1
-46393,3,strange quark,62,75,internal,https://alldimensions.fandom.com/wiki/Strange_Quark,"{""strange quark"": 1}",1
-46393,3,quark,70,75,internal,https://alldimensions.fandom.com/wiki/Quark,"{""quark"": 1}",1
-46393,3,our universe,125,137,internal,https://alldimensions.fandom.com/wiki/Our_Universe,"{""our universe"": 1}",1
-46393,3,mutated,218,225,internal,https://alldimensions.fandom.com/wiki/Mutated_Particle,"{""mutated"": 1}",1
-46393,7,preons,139,145,internal,https://alldimensions.fandom.com/wiki/Preon,"{""preons"": 1}",1

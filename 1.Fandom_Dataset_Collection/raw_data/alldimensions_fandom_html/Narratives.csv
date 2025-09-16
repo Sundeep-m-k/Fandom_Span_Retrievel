@@ -1,6 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-47524,1,verses,52,58,internal,https://alldimensions.fandom.com/wiki/Verse,"{""verses"": 1}",1
-47524,1,reality,130,137,internal,https://alldimensions.fandom.com/wiki/Real_life,"{""reality"": 1}",1
-47524,1,creatures,259,268,internal,https://alldimensions.fandom.com/wiki/Category:Cosmic_entity,"{""creatures"": 1}",1
-47524,1,concept,438,445,internal,https://alldimensions.fandom.com/wiki/Category:Concept,"{""concept"": 1}",1
-47524,2,WIP,0,3,internal,https://alldimensions.fandom.com/wiki/Category:WIP,"{""WIP"": 1}",1

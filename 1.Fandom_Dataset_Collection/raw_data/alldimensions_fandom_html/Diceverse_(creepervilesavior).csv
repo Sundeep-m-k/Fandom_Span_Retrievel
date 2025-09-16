@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-27433,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/2/2d/Dieverse.jpg/revision/latest?cb=20191208165038,"{""\n\n"": 1}",1
-27433,1,Multiverses,49,60,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""Multiverses"": 1}",1
-27433,1,Galaxies,78,86,internal,https://alldimensions.fandom.com/wiki/Galaxy,"{""Galaxies"": 1}",1
-27433,1,multiverse,207,217,internal,https://alldimensions.fandom.com/wiki/Multiverse,"{""multiverse"": 1}",1
-27433,1,universe,284,292,internal,https://alldimensions.fandom.com/wiki/Universe,"{""universe"": 1}",1

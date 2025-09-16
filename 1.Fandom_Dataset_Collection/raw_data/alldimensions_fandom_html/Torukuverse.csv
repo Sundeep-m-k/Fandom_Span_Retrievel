@@ -1,8 +1,0 @@
-article_id,paragraph_id,link_text,start,end,link_type,resolved_url,text_dict,support
-35670,1,"
-
-",0,2,external,https://static.wikia.nocookie.net/alldimensions/images/0/05/Torukuverse.png/revision/latest?cb=20201030154509,"{""\n\n"": 1}",1
-35670,1,Toruchain,51,60,internal,https://alldimensions.fandom.com/wiki/Toruchain,"{""Toruchain"": 1}",1
-35670,1,Torus Chain,90,101,internal,https://alldimensions.fandom.com/wiki/The_Torus_Chain,"{""Torus Chain"": 1}",1
-35670,2,Torus Chain,29,40,internal,https://alldimensions.fandom.com/wiki/The_Torus_Chain,"{""Torus Chain"": 1}",1
-35670,2,crosscap,91,99,external,https://en.wikipedia.org/wiki/Cross-cap,"{""crosscap"": 1}",1
