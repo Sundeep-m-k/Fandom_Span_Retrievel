@@ -4,26 +4,45 @@ import re
 import sys
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
-from net_log import make_logger, log_fetch_outcome, FetchResult
+from urllib.parse import urlparse, unquote
+from pathlib import Path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 import config
-# Example: BASE_URL = "https://marvel.fandom.com/"
-domain = urlparse(config.BASE_URL).netloc          # e.g. "marvel.fandom.com"
-fandom_name = domain.split(".")[0]                 # e.g. "marvel"
+import time
 
-# Base location where raw_data lives
-BASE_DIR = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data"
+# Assume net_log.py and config.py exist. Create placeholders if necessary.
+try:
+    from net_log import make_logger, log_fetch_outcome, FetchResult
+except ImportError:
+    print("Warning: net_log module not found. Using simple functions.")
+    def make_logger(name): return None
+    def log_fetch_outcome(logger, script, url, result):
+        if not result.ok:
+            print(f"[{script}] ❌ Failed to process {url}. Reason: {result.error_message}")
+    class FetchResult:
+        def __init__(self, ok, status_code, reason, error_category, error_message):
+            self.ok = ok
+            self.status_code = status_code
+            self.reason = reason
+            self.error_category = error_category
+            self.error_message = error_message
 
-# The fandom-specific data folder created by script #1
-FANDOM_DATA_DIR = os.path.join(BASE_DIR, f"{fandom_name}_fandom_data")
+# --- PATHS (now consistent using pathlib) ---
+try:
+    domain = urlparse(config.BASE_URL).netloc.split(".")[0]
+    # Use the FANDOM_DATA_DIR directly from config.py
+    FANDOM_DATA_DIR = Path(config.FANDOM_DATA_DIR)
+except AttributeError:
+    print("Error: Please ensure BASE_URL and FANDOM_DATA_DIR are set in config.py.")
+    sys.exit(1)
 
-# Plaintext output folder lives INSIDE the data folder
-PLAINTEXT_DIR = os.path.join(FANDOM_DATA_DIR, f"{fandom_name}_fandom_plaintext")
-os.makedirs(PLAINTEXT_DIR, exist_ok=True)
+PLAINTEXT_DIR = FANDOM_DATA_DIR / f"{domain}_fandom_plaintext"
+PLAINTEXT_DIR.mkdir(parents=True, exist_ok=True)
 # ----------------------------------------------------------------
 
 SCRIPT = "plaintext_fetcher"
-logger = make_logger(f"{SCRIPT}_{fandom_name}")
+logger = make_logger(f"{SCRIPT}_{domain}")
+
 
 def fetch_plaintext(url: str) -> str:
     """Fetch plain text from a wiki/fandom article URL (content inside #mw-content-text)."""

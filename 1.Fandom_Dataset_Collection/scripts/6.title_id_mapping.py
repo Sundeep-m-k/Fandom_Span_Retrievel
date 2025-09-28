@@ -1,13 +1,14 @@
 #6.title_id_mapping.py
-import os
 import re
 import csv
-import sys
+import json
 from pathlib import Path
 from urllib.parse import unquote, urlparse
+import sys,os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 import config
 
-# ---------- PATH SETUP (consistent with earlier scripts) ----------
+# ---------- PATH SETUP ----------
 domain = urlparse(config.BASE_URL).netloc          # e.g. "marvel.fandom.com"
 fandom_name = domain.split(".")[0]                 # e.g. "marvel"
 
@@ -18,13 +19,7 @@ DEFAULT_OUTPUT = FANDOM_DATA_DIR / f"title_to_id_mapping_{fandom_name}.csv"
 # ------------------------------------------------------------------
 
 def clean_title(raw_title: str) -> str:
-    """
-    Normalize the article title consistently:
-      - URL-decode
-      - lower-case
-      - spaces -> underscores
-      - keep [a-z0-9_.], drop others
-    """
+    """Normalize the article title consistently."""
     raw = unquote(raw_title)
     raw = raw.replace(" ", "_").lower()
     return re.sub(r"[^a-z0-9_.]", "", raw)
@@ -33,10 +28,7 @@ def build_title_to_id_mapping_and_save(
     data_folder: Path,
     output_path: Path
 ):
-    """
-    Build mapping: cleaned article title (from filename) -> article_id (from CSV contents).
-    Expects per-article CSVs produced by #4.spans_fetcher in `data_folder`.
-    """
+    """Build mapping: cleaned article title (from filename) -> article_id (from CSV)."""
     if not data_folder.is_dir():
         print(f"❌ Error: folder not found: {data_folder}")
         return
@@ -53,8 +45,7 @@ def build_title_to_id_mapping_and_save(
     print(f"--- Scanning {len(csv_files)} CSVs in {data_folder} ---")
 
     for fp in csv_files:
-        # Derive title from filename (stem)
-        stem = fp.stem  # e.g., "Iron_Man"
+        stem = fp.stem
         cleaned = clean_title(stem)
 
         try:
@@ -62,16 +53,9 @@ def build_title_to_id_mapping_and_save(
                 reader = csv.DictReader(f)
                 first_row = next(reader, None)
 
-            if not first_row:
-                # empty file
+            if not first_row or "article_id" not in first_row:
                 continue
 
-            if "article_id" not in first_row:
-                # Not a spans CSV? skip
-                continue
-
-            # Some files may contain multiple rows; article_id should be the same.
-            # Prefer the first row's id.
             article_id_str = first_row.get("article_id", "").strip()
             if not article_id_str:
                 continue
@@ -88,56 +72,33 @@ def build_title_to_id_mapping_and_save(
         print("\nNo mappings created. Check the input folder contents.")
         return
 
-    # Save mapping
+    # Save mapping (CSV + JSON)
     try:
         output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        # CSV
         with output_path.open("w", newline="", encoding="utf-8") as out:
             writer = csv.writer(out)
             writer.writerow(["cleaned_title", "article_id"])
             for title, aid in sorted(title_to_id.items()):
                 writer.writerow([title, aid])
+
+        # JSON
+        json_path = output_path.with_suffix(".json")
+        with json_path.open("w", encoding="utf-8") as jf:
+            json.dump(title_to_id, jf, ensure_ascii=False, indent=2)
+
         print(f"\n✅ Mapping saved: {output_path}")
+        print(f"🟢 JSON saved:   {json_path}")
         print(f"   Files processed: {processed}, errors: {errors}, total mappings: {len(title_to_id)}")
-        # Show a few examples
         print("\nExamples:")
         for i, (t, aid) in enumerate(list(title_to_id.items())[:5], start=1):
             print(f"  {i}. {t} -> {aid}")
+
     except Exception as e:
-        print(f"❌ Error saving mapping to '{output_path}': {e}")
-
-def resolve_paths_from_args():
-    """
-    Optional CLI:
-      python 6.title_id_mapping.py [input_dir] [output_csv]
-    - If no args: use DEFAULT_SPANS_DIR and DEFAULT_OUTPUT
-    - If input_dir is relative: resolve against FANDOM_DATA_DIR
-    - If output_csv is relative: resolve against FANDOM_DATA_DIR
-    """
-    # Input dir
-    if len(sys.argv) >= 2:
-        arg_in = Path(sys.argv[1])
-        if not arg_in.is_absolute():
-            # try as-given first, then under fandom data dir
-            if arg_in.exists():
-                input_dir = arg_in
-            else:
-                input_dir = FANDOM_DATA_DIR / arg_in
-        else:
-            input_dir = arg_in
-    else:
-        input_dir = DEFAULT_SPANS_DIR
-
-    # Output file
-    if len(sys.argv) >= 3:
-        arg_out = Path(sys.argv[2])
-        output_csv = arg_out if arg_out.is_absolute() else (FANDOM_DATA_DIR / arg_out)
-    else:
-        output_csv = DEFAULT_OUTPUT
-
-    return input_dir, output_csv
+        print(f"❌ Error saving mapping: {e}")
 
 if __name__ == "__main__":
-    input_dir, output_csv = resolve_paths_from_args()
-    print(f"📥 Input dir:  {input_dir}")
-    print(f"💾 Output CSV: {output_csv}")
-    build_title_to_id_mapping_and_save(input_dir, output_csv)
+    print(f"📥 Input dir:  {DEFAULT_SPANS_DIR}")
+    print(f"💾 Output CSV: {DEFAULT_OUTPUT}")
+    build_title_to_id_mapping_and_save(DEFAULT_SPANS_DIR, DEFAULT_OUTPUT)
