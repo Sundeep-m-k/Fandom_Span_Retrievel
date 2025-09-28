@@ -133,3 +133,13 @@ if __name__ == "__main__":
     setup_logging(log_path)
     
     train_and_evaluate_cross_encoder(args)
+    
+"""This script is used to train a cross-encoder model for reranking retrieval results. 
+It takes an input CSV that contains queries, documents, and binary labels (0/1 for relevance). 
+The dataset is split into training and validation sets with class balance preserved, and each row is converted into
+a training example pairing a query with a document. A cross-encoder model (default: ms-marco-MiniLM-L-6-v2) is loaded, 
+and training runs for a specified number of epochs with warmup steps, using binary classification evaluation on the validation set. 
+The model is trained to score query–document pairs so that relevant ones rank higher. 
+During training, checkpoints and the best model are saved automatically, and at the end, 
+the final trained model is stored in the outputs directory along with logs. 
+In short, this script fine-tunes a cross-encoder so it can better judge relevance between a query and a candidate document."""

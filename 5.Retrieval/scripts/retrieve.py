@@ -298,3 +298,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+"""This script runs the retrieval stage of your pipeline.
+It loads the saved paragraph embeddings, the master dataset, the query dataset, and the article title-to-ID mapping.
+It builds a FAISS index over the embeddings (normalized so cosine similarity works), 
+then uses the SentenceTransformer model to embed each query from the queries CSV. 
+For every query, it searches the FAISS index for the top-K most similar documents. 
+It compares the retrieved article IDs with the correct article ID, 
+calculates recall at different cutoffs (1, 3, 5, 10, 100), and records whether the correct article appeared in the results. 
+Finally, it writes three outputs: 
+(1) a CSV with the top-10 retrieved results per query, 
+(2) a query–document scores file labeling correct vs. incorrect matches, and 
+(3) a metrics summary with average recall scores. 
+
+In short, it tests how well the embeddings + FAISS index retrieve the right article for each query and saves both detailed results and evaluation metrics."""

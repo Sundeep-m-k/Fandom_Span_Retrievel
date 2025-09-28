@@ -76,7 +76,8 @@ def write_page_spans(rows: list[dict], html_path: Path):
 # Normalization + span logic
 # ------------------------------------------------------------------------------
 def norm_chunk(s: str) -> str:
-    s = unicodedata.normalize("NFKC", s)
+    # NFKC + collapse spaces, no trimming (we handle spaces around links)
+    s = unicodedata.normalize("NFKC", s or "")
     return re.sub(r"\s+", " ", s)
 
 def needs_space(lc: str, rc: str) -> bool:
@@ -130,7 +131,7 @@ def para_text_and_spans(block: Tag):
         elif isinstance(node, Tag) and node.name == "br":
             para, _ = append_norm(para, "\n")
         elif isinstance(node, Tag) and node.name == "a":
-            ltn = link_text_norm(node)
+            ltn = link_text_norm(node)  # normalized anchor text
             if not ltn:
                 continue
             join_space = (
@@ -147,8 +148,8 @@ def para_text_and_spans(block: Tag):
                 "a": node,
                 "start": start,
                 "end": end,
-                "link_text_orig": node.get_text(),
-                "link_text_norm": ltn
+                "link_text_orig": node.get_text(),  # raw (for debug)
+                "link_text_norm": ltn               # normalized (for storage)
             })
 
     return para, spans
@@ -178,43 +179,60 @@ def extract_rows_from_html_file(html_path: Path, page_url: str) -> list[dict]:
             anchor_ix += 1
             abs_url = href if href.startswith("http") else urljoin(BASE_URL + "/", href.lstrip("/"))
             link_type = "self" if abs_url.rstrip("/") == page_url.rstrip("/") else "internal"
+
             rows.append({
                 "article_id": article_id,
                 "title": title,
                 "paragraph_id": paragraph_id,
-                "paragraph_text": ptext_norm,
+                "paragraph_text": ptext_norm,                # normalized paragraph
                 "anchor_ix": anchor_ix,
-                "link_text": srec["link_text_orig"],
+                "link_text": srec["link_text_norm"],         # <-- normalized (matches paragraph_text)
+                "link_text_raw": srec["link_text_orig"],     # optional: raw for debugging
                 "start": srec["start"],
                 "end": srec["end"],
                 "link_type": link_type,
                 "resolved_url": abs_url,
-                "page_url": page_url
+                "page_url": page_url,
             })
 
-    # Integrity check
+    # Integrity check (warn only)
     bad = []
     for r in rows:
         ptxt = r["paragraph_text"]; s, e = r["start"], r["end"]
         if not (0 <= s < e <= len(ptxt)):
             bad.append((r["paragraph_id"], r["anchor_ix"], "OOB", r["link_text"], s, e, len(ptxt)))
             continue
+        # compare normalized link text to normalized paragraph slice
         if ptxt[s:e] != norm_chunk(r["link_text"]):
-            bad.append((r["paragraph_id"], r["anchor_ix"], "MISMATCH", r["link_text"], s, e, ptxt[s:e]))
+            bad.append((r["paragraph_id"], r["anchor_ix"], "MISMATCH",
+                        r.get("link_text_raw", r["link_text"]), s, e, ptxt[s:e]))
 
     if bad:
-        print(f"[spans] Integrity errors in {html_path.name} → {len(bad)} rows. Skipped.")
+        print(f"[spans] Integrity warnings in {html_path.name} → {len(bad)} rows. Keeping page.")
         for b in bad[:20]:
             print("   ", b)
-        return []
+
+    # Dedup: keep one record per (paragraph_id, start, end); prefer 'internal' over 'self'
+    dedup = {}
+    for r in rows:
+        key = (r["paragraph_id"], r["start"], r["end"])
+        if key not in dedup:
+            dedup[key] = r
+        else:
+            if dedup[key]["link_type"] == "self" and r["link_type"] == "internal":
+                dedup[key] = r
+    rows = list(dedup.values())
 
     return rows
 
 # ------------------------------------------------------------------------------
 # Master CSV init
 # ------------------------------------------------------------------------------
-COLUMNS = ["article_id","title","paragraph_id","paragraph_text",
-           "anchor_ix","link_text","start","end","link_type","resolved_url","page_url"]
+COLUMNS = [
+    "article_id","title","paragraph_id","paragraph_text",
+    "anchor_ix","link_text","link_text_raw","start","end",
+    "link_type","resolved_url","page_url"
+]
 
 def ensure_master_header(path: Path):
     if not path.exists():

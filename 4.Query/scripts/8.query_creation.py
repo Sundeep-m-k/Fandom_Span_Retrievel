@@ -126,3 +126,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+"""This script takes the master CSV of Fandom data and converts it into a set of query–answer pairs for retrieval tasks.
+For each paragraph, it reads the text, the linked words, and their corresponding article IDs. 
+If the counts don’t match, it notes the mismatch but still uses the valid pairs. Each query is built in natural language as: 
+“Retrieve documents for the term ‘linked_word’ given this context: paragraph_text”. Along with the query, it stores the paragraph text, 
+the linked word, a unique query ID, and the correct article ID. 
+All these records are then written into both a CSV and a JSON file. 
+In short, the script’s job is to turn raw Fandom paragraphs with links into structured queries (with answers) 
+that can be used to train or evaluate a retrieval system."""

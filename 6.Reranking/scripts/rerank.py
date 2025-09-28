@@ -169,3 +169,9 @@ if __name__ == "__main__":
     )
 
     rerank_top_k(args)
+    
+"""This script re-ranks your retrieval results with a cross-encoder and measures recall. 
+It loads the CSV produced by retrieval (must have query_text, retrieved_para_text, retrieved_article_id, correct_article_id), 
+groups rows by query, and for each query pairs the query with every retrieved paragraph, scores each pair using CrossEncoder.
+predict, sorts by the cross-encoder score, and keeps the top-k. After re-ranking, it computes Recall@1/3/5/10/100/1000 per query and averages them. 
+It then saves: the re-ranked results CSV, a metrics CSV, and a run log in the given output directory."""

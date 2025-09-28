@@ -186,3 +186,11 @@ if __name__ == "__main__":
                                   logging.StreamHandler()])
 
     rerank_top_k(args)
+    
+"""This script re-ranks retrieval results with a cross-encoder and reports quality metrics: 
+it loads the retrieval CSV, groups rows by query_text,
+keeps the top-K by original rank per query, scores each (query, retrieved_para_text) pair with the chosen CrossEncoder (GPU if available), 
+sorts by cross_encoder_score to assign a new cross_encoder_rank, and concatenates all queries. 
+It saves the re-ranked table to re_ranked_docs_{fandom}_{model}.csv, 
+then computes and saves averaged Recall@1/3/5/10, MRR@10, and NDCG@10 to rerank_metrics_{fandom}_{model}.csv. 
+Main knobs: --retrieved_results_csv, --output_dir, --cross_encoder_name, --top_k, and --batch_size."""
