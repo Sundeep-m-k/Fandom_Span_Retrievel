@@ -18,7 +18,14 @@ UNMATCHED_OUT = RAW_DATA_DIR / f"unmatched_{FANDOM}.csv"
 
 # ---------- LOGIC ----------
 def build_base_mapping():
-    df_master = pd.read_csv(MASTER_PATH)
+    df_master = pd.read_csv(
+    MASTER_PATH,
+    engine="python",        # more flexible parser
+    sep=",",
+    quotechar='"',
+    escapechar="\\",
+    on_bad_lines="warn"     # or "skip" to drop the bad rows
+)
     df_master["cleaned_url"] = df_master["page_url"]
     base_df = df_master[["article_id", "cleaned_url"]].drop_duplicates()
     base_df.to_csv(BASE_OUT, index=False)

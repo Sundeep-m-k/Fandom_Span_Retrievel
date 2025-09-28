@@ -3,11 +3,11 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 # --- Your fandom URLs ---
-#Marvel-START_URL = "https://marvel.fandom.com/wiki/Special:AllPages?namespace=0&hideredirects=1"
-#Marvel-BASE_URL = "https://marvel.fandom.com/wiki/Marvel_Database"
+START_URL = "https://marvel.fandom.com/wiki/Special:AllPages?namespace=0&hideredirects=1"
+BASE_URL = "https://marvel.fandom.com/wiki/Marvel_Database"
 
-START_URL="https://alldimensions.fandom.com/wiki/Special:AllPages?namespace=0&hideredirects=1"
-BASE_URL="https://alldimensions.fandom.com/wiki/All_dimensions_Wiki"
+# START_URL="https://alldimensions.fandom.com/wiki/Special:AllPages?namespace=0&hideredirects=1"
+# BASE_URL="https://alldimensions.fandom.com/wiki/All_dimensions_Wiki"
 # --- Project Directory (now relative) ---
 # This path is relative to where this config.py is located.
 PROJECT_ROOT = Path(__file__).parent
