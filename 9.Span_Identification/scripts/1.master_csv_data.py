@@ -59,6 +59,6 @@ def process_span_data_single(input_path, output_path):
     print(f"Saved: {output_path}")
 
 if __name__ == "__main__":
-    input_file  = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/alldimensions_fandom_data/master_spans_alldimensions.csv"
+    input_file  = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/1.Fandom_Dataset_Collection/raw_data/marvel_fandom_data/master_csv_marvel.csv"
     output_file = "/home/sundeep/Fandom-Span-Identification-and-Retrieval/9.Span_Identification/datasets/master.csv"
     process_span_data_single(input_file, output_file)

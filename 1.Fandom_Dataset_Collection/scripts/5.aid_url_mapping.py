@@ -18,34 +18,26 @@ UNMATCHED_OUT = RAW_DATA_DIR / f"unmatched_{FANDOM}.csv"
 
 # ---------- LOGIC ----------
 def build_base_mapping():
-    df_master = pd.read_csv(
-    MASTER_PATH,
-    engine="python",        # more flexible parser
-    sep=",",
-    quotechar='"',
-    escapechar="\\",
-    on_bad_lines="warn"     # or "skip" to drop the bad rows
-)
-    df_master["cleaned_url"] = df_master["page_url"]
-    base_df = df_master[["article_id", "cleaned_url"]].drop_duplicates()
+    df = pd.read_csv(MASTER_PATH, dtype={"article_id": "Int64"})
+    base_df = df[["article_id", "page_url"]].drop_duplicates()
     base_df.to_csv(BASE_OUT, index=False)
-    print(f"✅ Saved base mapping: {BASE_OUT} ({len(base_df)} rows)")
-    return df_master, base_df
+    return df, base_df
 
 def match_articles(df_master, base_df):
-    lookup = dict(zip(base_df["cleaned_url"], base_df["article_id"]))
+    base_df["article_id"] = base_df["article_id"].astype("Int64")   # before dict
+    lookup = dict(zip(base_df["page_url"], base_df["article_id"]))
+
     A = df_master.copy()
-    A["article_id_of_internal_link"] = A["page_url"].map(lookup)
+    A["article_id_of_internal_link"] = (
+        A["resolved_url"].map(lookup).astype("Int64")               # after map
+    )
 
-    matched = int(A["article_id_of_internal_link"].notna().sum())
-    unmatched = int(A["article_id_of_internal_link"].isna().sum())
-    print("Matched:", matched)
-    print("Unmatched:", unmatched)
+    print("Matched:", A["article_id_of_internal_link"].notna().sum())
+    print("Unmatched:", A["article_id_of_internal_link"].isna().sum())
 
-    A.to_csv(A_OUT, index=False)
+    A.to_csv(A_OUT, index=False)                                    # no float_format needed
     A[A["article_id_of_internal_link"].isna()].to_csv(UNMATCHED_OUT, index=False)
     print(f"✅ Outputs saved: {A_OUT}, {UNMATCHED_OUT}")
-
 # ---------- MAIN ----------
 if __name__ == "__main__":
     df_master, base_df = build_base_mapping()

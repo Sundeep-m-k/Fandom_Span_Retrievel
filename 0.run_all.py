@@ -227,7 +227,7 @@ def main():
             print(f"❌ Aborting: Expected retrieval scores file not found: {RETRIEVAL_OUTPUT_DIR / QUERY_DOC_SCORES_FILENAME}")
             sys.exit(1)
         run_step(13, total_steps, "Train Cross-Encoder",
-                 TRAINING_SCRIPTS_DIR / "scripts/train_cross_encoder.py",
+                 TRAINING_SCRIPTS_DIR / "training_cross_encoder.py",
                  "--input_csv", str(RETRIEVAL_OUTPUT_DIR / QUERY_DOC_SCORES_FILENAME),
                  "--output_dir", str(TRAINING_OUTPUT_DIR))
 
